@@ -1,0 +1,236 @@
+/* Dracula Theme for Fantasy Statblocks */
+/* Official Dracula Colors:
+   Background: #282a36
+   Current Line: #44475a
+   Foreground: #f8f8f2
+   Comment: #6272a4
+   Cyan: #8be9fd
+   Green: #50fa7b
+   Orange: #ffb86c
+   Pink: #ff79c6
+   Purple: #bd93f9
+   Red: #ff5555
+   Yellow: #f1fa8c
+*/
+
+/* CSS Variables Override */
+:root {
+    --statblock-primary-color: #bd93f9 !important;
+    --statblock-rule-color: #6272a4 !important;
+    --statblock-background-color: #282a36 !important;
+    --statblock-bar-color: #44475a !important;
+    --statblock-bar-border-color: #6272a4 !important;
+    --statblock-border-color: #44475a !important;
+    --statblock-box-shadow-color: rgba(0,0,0,0.3) !important;
+    --statblock-font-color: #f8f8f2 !important;
+    --statblock-heading-font-color: #ff79c6 !important;
+    --statblock-property-name-font-color: #8be9fd !important;
+    --statblock-section-heading-font-color: #50fa7b !important;
+    --statblock-section-heading-border-color: #6272a4 !important;
+    --statblock-content-font-color: #f8f8f2 !important;
+}
+
+/* Target the statblock container with multiple selectors */
+.statblock,
+.obsidian-statblock,
+.statblock-container,
+div[class*="statblock"] {
+    --statblock-primary-color: #bd93f9 !important;
+    --statblock-rule-color: #6272a4 !important;
+    --statblock-background-color: #282a36 !important;
+    --statblock-bar-color: #44475a !important;
+    --statblock-font-color: #f8f8f2 !important;
+    --statblock-heading-font-color: #ff79c6 !important;
+    --statblock-property-name-font-color: #8be9fd !important;
+    --statblock-section-heading-font-color: #50fa7b !important;
+    background-color: #282a36 !important;
+    color: #f8f8f2 !important;
+    border-color: #44475a !important;
+}
+
+/* Main statblock content area */
+.statblock-content,
+.statblock .statblock-content {
+    background-color: #282a36 !important;
+    color: #f8f8f2 !important;
+}
+
+/* Headings - character name */
+.statblock h1,
+.statblock h2,
+.statblock h3,
+.statblock h4,
+.statblock .statblock-name,
+.statblock-name {
+    color: #ff79c6 !important;
+}
+
+/* Section headings (Talente, Kampftechniken, etc.) */
+.statblock .statblock-section-heading,
+.statblock-section-heading,
+.statblock .heading,
+.statblock [class*="heading"] {
+    color: #50fa7b !important;
+    border-color: #6272a4 !important;
+}
+
+/* Property names (labels) */
+.statblock .property-name,
+.property-name,
+.statblock [class*="property-name"] {
+    color: #8be9fd !important;
+    font-weight: bold !important;
+}
+
+/* Property values */
+.statblock .property-value,
+.property-value {
+    color: #f8f8f2 !important;
+}
+
+/* Horizontal rules / dividers */
+.statblock hr,
+.statblock .statblock-rule,
+.statblock-rule {
+    border-color: #6272a4 !important;
+    background-color: #6272a4 !important;
+}
+
+/* Bar elements */
+.statblock .bar,
+.statblock-bar {
+    background-color: #44475a !important;
+    border-color: #6272a4 !important;
+}
+
+/* ALL tables in statblock - very broad selectors */
+.statblock table,
+.statblock-content table,
+div[class*="statblock"] table {
+    border-collapse: collapse !important;
+    width: 100% !important;
+    background-color: #282a36 !important;
+    color: #f8f8f2 !important;
+    border: 1px solid #6272a4 !important;
+}
+
+/* Table headers - multiple selectors for maximum coverage */
+.statblock table thead,
+.statblock table thead tr,
+.statblock table thead th,
+.statblock thead th,
+.statblock th,
+div[class*="statblock"] th,
+div[class*="statblock"] thead th,
+table.talent-table th,
+table.talent-table thead th,
+table.kampftechnik-table th,
+table.kampftechnik-table thead th,
+table.nahkampfwaffen-table th,
+table.nahkampfwaffen-table thead th,
+table.fernkampfwaffen-table th,
+table.fernkampfwaffen-table thead th,
+table.ruestungen-table th,
+table.ruestungen-table thead th,
+table[class*="-table"] th,
+table[class*="-table"] thead th {
+    background-color: #44475a !important;
+    color: #f8f8f2 !important;
+    border: 1px solid #6272a4 !important;
+    padding: 6px 10px !important;
+    font-weight: bold !important;
+}
+
+/* Table cells */
+.statblock table td,
+.statblock td,
+div[class*="statblock"] td,
+table.talent-table td,
+table.kampftechnik-table td,
+table.nahkampfwaffen-table td,
+table.fernkampfwaffen-table td,
+table.ruestungen-table td,
+table[class*="-table"] td {
+    border: 1px solid #6272a4 !important;
+    padding: 4px 8px !important;
+    color: #f8f8f2 !important;
+    background-color: transparent !important;
+}
+
+/* Alternating row colors */
+.statblock table tbody tr:nth-child(odd),
+div[class*="statblock"] table tbody tr:nth-child(odd),
+table[class*="-table"] tbody tr:nth-child(odd) {
+    background-color: #282a36 !important;
+}
+
+.statblock table tbody tr:nth-child(even),
+div[class*="statblock"] table tbody tr:nth-child(even),
+table[class*="-table"] tbody tr:nth-child(even) {
+    background-color: #21222c !important;
+}
+
+/* Image styling */
+.statblock .statblock-image img,
+.statblock-image img,
+.statblock img {
+    border-radius: 0 !important;
+    border: 2px solid #bd93f9 !important;
+}
+
+/* Collapse headers */
+.statblock .collapse-header,
+.collapse-header,
+.statblock [class*="collapse"] {
+    color: #50fa7b !important;
+    background-color: #44475a !important;
+	height: 555;
+	width: 350;
+}
+
+/* Links */
+.statblock a,
+div[class*="statblock"] a {
+    color: #8be9fd !important;
+}
+
+/* Inline groups */
+.statblock .statblock-item-inline,
+.statblock-item-inline {
+    color: #f8f8f2 !important;
+}
+
+/* Groups */
+.statblock .statblock-item-group,
+.statblock-item-group {
+    background-color: #282a36 !important;
+}
+
+/* Info grid tables (baseInfo section) */
+table.info-grid,
+table.info-grid td,
+table.grundwerte-grid,
+table.grundwerte-grid td {
+    background-color: transparent !important;
+    border: none !important;
+    color: #f8f8f2 !important;
+}
+
+/* Dice roller buttons */
+.statblock .dice-roller,
+.dice-roller {
+    color: #ffb86c !important;
+}
+
+/* Buttons */
+.statblock button,
+div[class*="statblock"] button {
+    background-color: #44475a !important;
+    color: #f8f8f2 !important;
+    border: 1px solid #6272a4 !important;
+}
+
+.statblock button:hover,
+div[class*="statblock"] button:hover {
+    background-color: #6272a4 !important;
+}

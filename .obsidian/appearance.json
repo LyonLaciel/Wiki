@@ -1,0 +1,8 @@
+{
+  "cssTheme": "Dracula Official",
+  "enabledCssSnippets": [
+    "statblock-dracula",
+    "statblock-image",
+    "supercharged-links-gen"
+  ]
+}

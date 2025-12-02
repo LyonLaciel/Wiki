@@ -1,0 +1,11 @@
+img {
+    border-radius: 0 !important;
+}
+
+[class*="statblock"] img {
+    border-radius: 0 !important;
+}
+
+.workspace img {
+    border-radius: 0 !important;
+}
