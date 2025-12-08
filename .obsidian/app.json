@@ -1,5 +1,23 @@
 {
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "1",
+    "downscalePercent": 100
+  },
+  "promptDelete": true,
+  "showUnsupportedFiles": true,
+  "livePreview": true,
+  "strictLineBreaks": true,
   "showLineNumber": true,
-  "alwaysUpdateLinks": true,
-  "showUnsupportedFiles": true
+  "alwaysUpdateLinks": false,
+  "focusNewTab": true,
+  "readableLineLength": false,
+  "propertiesInDocument": "source",
+  "uriCallbacks": true,
+  "userIgnoreFilters": [
+    "VsCode/",
+    "Hilfsmittel/"
+  ]
 }

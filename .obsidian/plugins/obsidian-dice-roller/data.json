@@ -5,8 +5,8 @@
   "copyContentButton": true,
   "customFormulas": [],
   "displayFormulaForMod": true,
-  "displayResultsInline": false,
-  "displayFormulaAfter": false,
+  "displayResultsInline": true,
+  "displayFormulaAfter": true,
   "escapeDiceMod": true,
   "signed": false,
   "displayLookupRoll": true,
@@ -27,7 +27,7 @@
   "displayAsSymbols": false,
   "displayAsEmbed": true,
   "round": "None",
-  "initialDisplay": "Roll",
+  "initialDisplay": "None",
   "icons": [
     {
       "id": "dice-roller-d4",
@@ -75,6 +75,7 @@
   "showRenderNotice": true,
   "diceModTemplateFolders": {},
   "replaceDiceModInLivePreview": true,
+  "version": "11.4.2",
   "viewResults": [],
-  "version": "11.4.2"
+  "showDice": true
 }

@@ -98,7 +98,28 @@
   "playerMarker": "default",
   "monsterMarker": "default",
   "state": {
-    "creatures": [],
+    "creatures": [
+      {
+        "name": "Frog",
+        "initiative": 17,
+        "static": false,
+        "modifier": 1,
+        "hp": 1,
+        "currentMaxHP": 1,
+        "cr": "0",
+        "ac": 11,
+        "currentAC": 11,
+        "id": "ID_c8aa8a09a818",
+        "currentHP": 1,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false,
+        "hit_dice": "1d4 + -2"
+      }
+    ],
     "state": false,
     "name": null,
     "round": 1,
@@ -133,7 +154,29 @@
   "builder": {
     "showParty": true,
     "showXP": true,
-    "sidebarIcon": true
+    "sidebarIcon": true,
+    "headers": [
+      {
+        "text": "CR",
+        "field": "cr",
+        "type": 1
+      },
+      {
+        "text": "Type",
+        "field": "type",
+        "type": 0
+      },
+      {
+        "text": "Size",
+        "field": "size",
+        "type": 0
+      },
+      {
+        "text": "Alignment",
+        "field": "alignment",
+        "type": 0
+      }
+    ]
   },
   "rollPlayerInitiatives": 0
 }

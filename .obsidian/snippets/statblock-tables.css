@@ -1,0 +1,24 @@
+/* Force all statblock tables to match container width */
+.statblock-content table {
+    width: 100% !important;
+    table-layout: fixed;
+    border-collapse: collapse;
+}
+
+/* Allow text to wrap in cells */
+.statblock-content table td,
+.statblock-content table th {
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+}
+
+/* Make the statblock container responsive */
+.statblock-content {
+    max-width: 100%;
+    overflow-x: auto;
+}
+
+/* Optional: Adjust column width variable if needed */
+.statblock {
+    --statblock-column-width: 100% !important;
+}

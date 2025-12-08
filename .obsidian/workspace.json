@@ -4,33 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b107458b0d8072e3",
+        "id": "bafb32b238e8d3e2",
         "type": "tabs",
         "children": [
           {
-            "id": "5c8f97ed5d1cd72b",
+            "id": "5224f2548350fb85",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
               "title": "New tab"
-            }
-          }
-        ]
-      },
-      {
-        "id": "f41a181754df6c48",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "814cf4390d7b1aa5",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
             }
           }
         ]
@@ -213,6 +197,14 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "quickadd:QuickAdd": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "system3-relay:Relay": false,
+      "meld-encrypt:New encrypted note": false,
+      "meld-encrypt:Lock and Close all open encrypted notes": false,
+      "meld-encrypt:Convert to or from an Encrypted note": false,
+      "meld-encrypt:Encrypt Selection": false,
+      "meld-encrypt:Decrypt at Cursor": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -223,8 +215,8 @@
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
-      "system3-relay:Relay": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "54d8c224cdde41ee",

@@ -1,0 +1,214 @@
+{
+  "debugEnabled": false,
+  "editorMenuToolbar": null,
+  "emptyViewToolbar": null,
+  "export": {
+    "includeIcons": true,
+    "replaceVars": true,
+    "useDataEls": true,
+    "useIds": true
+  },
+  "folderMappings": [
+    {
+      "folder": "Encounters",
+      "toolbar": "47c020e4-0961-424d-846f-69a7f831a5e3"
+    }
+  ],
+  "icon": "circle-ellipsis",
+  "keepPropsState": false,
+  "lockCallouts": false,
+  "onboarding": {},
+  "ribbonAction": "toolbar",
+  "rules": [],
+  "scriptingEnabled": false,
+  "showEditInFabMenu": false,
+  "showLaunchpad": false,
+  "showToolbarIn": {
+    "audio": false,
+    "bases": false,
+    "canvas": false,
+    "image": false,
+    "kanban": false,
+    "pdf": false,
+    "video": false
+  },
+  "showToolbarInFileMenu": false,
+  "showToolbarInOther": "",
+  "textToolbar": null,
+  "toolbarProp": "notetoolbar",
+  "toolbars": [
+    {
+      "uuid": "47c020e4-0961-424d-846f-69a7f831a5e3",
+      "customClasses": "",
+      "defaultItem": null,
+      "defaultStyles": [
+        "border",
+        "even",
+        "sticky"
+      ],
+      "hasCommand": false,
+      "items": [
+        {
+          "uuid": "combat-at-melee",
+          "icon": "swords",
+          "label": "AT Melee",
+          "link": "",
+          "linkAttr": {
+            "commandId": "quickadd:choice:a1b2c3d4-at-melee-0001",
+            "type": "command"
+          },
+          "tooltip": "Nahkampfangriff ausführen",
+          "visibility": {
+            "desktop": { "allViews": { "components": ["icon", "label"] } },
+            "mobile": { "allViews": { "components": ["icon"] } },
+            "tablet": { "allViews": { "components": ["icon", "label"] } }
+          }
+        },
+        {
+          "uuid": "combat-at-ranged",
+          "icon": "crosshair",
+          "label": "FK Ranged",
+          "link": "",
+          "linkAttr": {
+            "commandId": "quickadd:choice:a1b2c3d4-at-ranged-0001",
+            "type": "command"
+          },
+          "tooltip": "Fernkampfangriff ausführen",
+          "visibility": {
+            "desktop": { "allViews": { "components": ["icon", "label"] } },
+            "mobile": { "allViews": { "components": ["icon"] } },
+            "tablet": { "allViews": { "components": ["icon", "label"] } }
+          }
+        },
+        {
+          "uuid": "combat-defend",
+          "icon": "shield",
+          "label": "Defend",
+          "link": "",
+          "linkAttr": {
+            "commandId": "quickadd:choice:a1b2c3d4-defend-0001",
+            "type": "command"
+          },
+          "tooltip": "Verteidigung würfeln",
+          "visibility": {
+            "desktop": { "allViews": { "components": ["icon", "label"] } },
+            "mobile": { "allViews": { "components": ["icon"] } },
+            "tablet": { "allViews": { "components": ["icon", "label"] } }
+          }
+        },
+        {
+          "uuid": "combat-separator-1",
+          "label": "",
+          "link": "",
+          "linkAttr": {
+            "type": "separator"
+          },
+          "visibility": {
+            "desktop": { "allViews": { "components": [] } },
+            "mobile": { "allViews": { "components": [] } },
+            "tablet": { "allViews": { "components": [] } }
+          }
+        },
+        {
+          "uuid": "combat-update-value",
+          "icon": "heart",
+          "label": "LE/AE/KE",
+          "link": "",
+          "linkAttr": {
+            "commandId": "quickadd:choice:a1b2c3d4-value-enc-0001",
+            "type": "command"
+          },
+          "tooltip": "LE, AE, KE oder SchiP ändern",
+          "visibility": {
+            "desktop": { "allViews": { "components": ["icon", "label"] } },
+            "mobile": { "allViews": { "components": ["icon"] } },
+            "tablet": { "allViews": { "components": ["icon", "label"] } }
+          }
+        },
+        {
+          "uuid": "combat-update-condition",
+          "icon": "activity",
+          "label": "Zustand",
+          "link": "",
+          "linkAttr": {
+            "commandId": "quickadd:choice:a1b2c3d4-condition-enc-0001",
+            "type": "command"
+          },
+          "tooltip": "Zustand ändern",
+          "visibility": {
+            "desktop": { "allViews": { "components": ["icon", "label"] } },
+            "mobile": { "allViews": { "components": ["icon"] } },
+            "tablet": { "allViews": { "components": ["icon", "label"] } }
+          }
+        },
+        {
+          "uuid": "combat-add-effect",
+          "icon": "sparkles",
+          "label": "Effekt",
+          "link": "",
+          "linkAttr": {
+            "commandId": "quickadd:choice:a1b2c3d4-add-effect-0001",
+            "type": "command"
+          },
+          "tooltip": "Temporären Effekt hinzufügen",
+          "visibility": {
+            "desktop": { "allViews": { "components": ["icon", "label"] } },
+            "mobile": { "allViews": { "components": ["icon"] } },
+            "tablet": { "allViews": { "components": ["icon", "label"] } }
+          }
+        },
+        {
+          "uuid": "combat-separator-2",
+          "label": "",
+          "link": "",
+          "linkAttr": {
+            "type": "separator"
+          },
+          "visibility": {
+            "desktop": { "allViews": { "components": [] } },
+            "mobile": { "allViews": { "components": [] } },
+            "tablet": { "allViews": { "components": [] } }
+          }
+        },
+        {
+          "uuid": "combat-next-round",
+          "icon": "rotate-cw",
+          "label": "Nächste Runde",
+          "link": "",
+          "linkAttr": {
+            "commandId": "quickadd:choice:a1b2c3d4-next-round-0001",
+            "type": "command"
+          },
+          "tooltip": "Runde beenden, neue Initiative",
+          "visibility": {
+            "desktop": { "allViews": { "components": ["icon", "label"] } },
+            "mobile": { "allViews": { "components": ["icon"] } },
+            "tablet": { "allViews": { "components": ["icon", "label"] } }
+          }
+        }
+      ],
+      "mobileStyles": [],
+      "name": "Combat Encounter",
+      "position": {
+        "desktop": {
+          "allViews": {
+            "position": "top"
+          }
+        },
+        "mobile": {
+          "allViews": {
+            "position": "top"
+          }
+        },
+        "tablet": {
+          "allViews": {
+            "position": "top"
+          }
+        }
+      },
+      "updated": "2025-12-04T22:10:00.000Z"
+    }
+  ],
+  "version": 20250313.1,
+  "whatsnew_version": "1.26"
+}
