@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d9b9fd2ed48b7444",
+        "id": "2a1e39ad866857a8",
         "type": "tabs",
         "children": [
           {
-            "id": "1c6703f6f6a044f6",
+            "id": "695f5ad59671349b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Abenteuer Wiki/Charaktere/Tie'Ankh ibn Ta'Ankh/Artefakt.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Artefakt"
             }
           }
         ]
@@ -187,6 +191,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "e1c3c7b484e5455c",
+            "type": "leaf",
+            "state": {
+              "type": "peerdraft-share-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Your Peerdraft Shares"
+            }
           }
         ],
         "currentTab": 7
@@ -220,30 +234,45 @@
       "peerdraft:Show my Peerdraft Shares": false
     }
   },
-  "active": "1c6703f6f6a044f6",
+  "active": "e1c3c7b484e5455c",
   "lastOpenFiles": [
+    "Abenteuer Wiki/Charaktere/Tie'Ankh ibn Ta'Ankh/Artefakt.md",
+    "Abenteuer Wiki/Charaktere/Raymond/Artefakt.md",
+    "Abenteuer Wiki/Charaktere/Raymond/Raymond.md",
     "Abenteuer Wiki/Abenteuer Wiki.md",
-    "Abenteuer Wiki/_assets/images",
-    "Abenteuer Wiki/_assets/banners",
+    "Abenteuer Wiki/images/Tiank.png",
+    "Abenteuer Wiki/images/Raymond.png",
+    "Abenteuer Wiki/images/Legoron2.png",
+    "Abenteuer Wiki/images/Legoron.png",
+    "Abenteuer Wiki/images/Ficus.png",
+    "Abenteuer Wiki/images/Das_Wuestenreich_-Beileger_ganze_Karten-3.jpg",
+    "Abenteuer Wiki/images/Das_Wuestenreich_-Beileger_ganze_Karten-2.jpg",
+    "Abenteuer Wiki/images/Das_Wuestenreich_-Beileger_ganze_Karten-1.jpg",
+    "Abenteuer Wiki/images/Aria.png",
+    "Abenteuer Wiki/images",
+    "Abenteuer Wiki/banners/01_Systemseite_DSA_Banner_1920x594v3.jpg",
+    "Abenteuer Wiki/banners",
+    "Abenteuer Wiki/Charaktere/Tie'Ankh ibn Ta'Ankh/Tie'Ankh ibn Ta'Ankh.md",
+    "Abenteuer Wiki/Charaktere/Tie'Ankh ibn Ta'Ankh",
+    "Abenteuer Wiki/Charaktere/Ficus/Ficus.md",
+    "Abenteuer Wiki/Charaktere/Ficus",
+    "Abenteuer Wiki/Charaktere/Legoron Arrow/Legoron Arrow.md",
+    "Abenteuer Wiki/Charaktere/Legoron Arrow",
+    "Abenteuer Wiki/Charaktere/Raymond",
+    "Abenteuer Wiki/Charaktere/Aria Laubmelodie/Aria Laubmelodie.md",
+    "Abenteuer Wiki/Charaktere/Aria Laubmelodie",
+    "Abenteuer Wiki/Charaktere",
     "Abenteuer Wiki/Charaktere/Raymond.md",
     "Abenteuer Wiki/Charaktere/Tie'Ankh ibn Ta'Ankh.md",
     "Abenteuer Wiki/Charaktere/Legoron Arrow.md",
     "Abenteuer Wiki/Charaktere/Ficus.md",
     "Abenteuer Wiki/Charaktere/Aria Laubmelodie.md",
-    "Abenteuer Wiki/_assets",
-    "Abenteuer Wiki/Regionen",
-    "Abenteuer Wiki/Faktionen",
-    "Abenteuer Wiki/Charaktere",
-    "Abenteuer Wiki",
     "AbenteuerWiki/Charaktere/Aria Laubmelodie.md",
     "AbenteuerWiki/Abenteuer Wiki.md",
     "AbenteuerWiki/Charaktere/Tie'Ankh ibn Ta'Ankh.md",
     "AbenteuerWiki/Charaktere/Raymond.md",
     "AbenteuerWiki/Charaktere/Ficus.md",
     "AbenteuerWiki/Charaktere/Legoron Arrow.md",
-    "AbenteuerWiki/_assets/images",
-    "AbenteuerWiki/_assets/banners",
-    "AbenteuerWiki/Regionen",
     "Welcome.md",
     "README.md"
   ]

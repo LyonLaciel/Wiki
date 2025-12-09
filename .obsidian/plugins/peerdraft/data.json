@@ -9,15 +9,80 @@
   "name": "GM",
   "root": "",
   "plan": {
-    "type": "hobby",
-    "email": ""
+    "type": "team",
+    "email": "lyon.laciel@gmail.com"
   },
   "duration": 0,
   "debug": false,
   "version": "2.13.1",
   "serverShares": {
-    "files": [],
-    "folders": []
+    "files": [
+      [
+        "Abenteuer Wiki/Charaktere/Aria Laubmelodie/Aria Laubmelodie.md",
+        {
+          "shareId": "4eb1cbd3-0b5c-4067-97bf-d2ba41e75db2",
+          "persistenceId": "5f72c50c-9f07-4948-a15e-9cf003ba27a4"
+        }
+      ],
+      [
+        "Abenteuer Wiki/Charaktere/Raymond/Raymond.md",
+        {
+          "shareId": "1e34b072-400e-4e2d-b5ec-3dd57909af84",
+          "persistenceId": "874dbe47-31fe-41f0-8068-4b9a3a97106e"
+        }
+      ],
+      [
+        "Abenteuer Wiki/Charaktere/Legoron Arrow/Legoron Arrow.md",
+        {
+          "shareId": "fb70776c-e49c-4ad3-91c4-4511b3123776",
+          "persistenceId": "7835a88f-ac00-40b4-81e8-74bb3984ba99"
+        }
+      ],
+      [
+        "Abenteuer Wiki/Charaktere/Ficus/Ficus.md",
+        {
+          "shareId": "35e2db85-c318-424e-974c-f70d75bf02a1",
+          "persistenceId": "a047a3c6-6c50-4674-b0ac-ad2bc9912159"
+        }
+      ],
+      [
+        "Abenteuer Wiki/Charaktere/Tie'Ankh ibn Ta'Ankh/Tie'Ankh ibn Ta'Ankh.md",
+        {
+          "shareId": "7d3de9cb-f798-4b77-820d-b2af5f70f7c7",
+          "persistenceId": "e3f25efd-cb09-4e7c-81df-fe48937206f3"
+        }
+      ],
+      [
+        "Abenteuer Wiki/Abenteuer Wiki.md",
+        {
+          "shareId": "b9d09ea5-5f74-4993-8262-b2fd347ff900",
+          "persistenceId": "d3c7fc1e-983d-4a60-99c6-8791fde94a7e"
+        }
+      ],
+      [
+        "Abenteuer Wiki/Charaktere/Raymond/Artefakt.md",
+        {
+          "shareId": "e8505501-4afa-4a60-8ebb-185c1247e7ed",
+          "persistenceId": "92a334ed-16ca-48dd-a56d-491c7d742800"
+        }
+      ],
+      [
+        "Abenteuer Wiki/Charaktere/Tie'Ankh ibn Ta'Ankh/Artefakt.md",
+        {
+          "shareId": "05653dcf-0697-47f7-94f8-84168e918731",
+          "persistenceId": "7043fedd-fbef-4b7f-a2ef-62dd379b3b91"
+        }
+      ]
+    ],
+    "folders": [
+      [
+        "Abenteuer Wiki",
+        {
+          "shareId": "0ffba9b7-a58f-4ba4-aa96-0e2ecfdbe0f7",
+          "persistenceId": "b8b09ed9-26f8-41d7-b59e-636f4a1d1029"
+        }
+      ]
+    ]
   },
   "oid": "ffcbe6f34ce115fe"
 }
