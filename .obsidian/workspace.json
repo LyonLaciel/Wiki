@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bafb32b238e8d3e2",
+        "id": "d9b9fd2ed48b7444",
         "type": "tabs",
         "children": [
           {
-            "id": "5224f2548350fb85",
+            "id": "1c6703f6f6a044f6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -193,7 +193,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 376.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,14 +216,35 @@
       "omnisearch:Omnisearch": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "peerdraft:Show my Peerdraft Shares": false
     }
   },
-  "active": "54d8c224cdde41ee",
+  "active": "1c6703f6f6a044f6",
   "lastOpenFiles": [
+    "Abenteuer Wiki/Abenteuer Wiki.md",
+    "Abenteuer Wiki/_assets/images",
+    "Abenteuer Wiki/_assets/banners",
+    "Abenteuer Wiki/Charaktere/Raymond.md",
+    "Abenteuer Wiki/Charaktere/Tie'Ankh ibn Ta'Ankh.md",
+    "Abenteuer Wiki/Charaktere/Legoron Arrow.md",
+    "Abenteuer Wiki/Charaktere/Ficus.md",
+    "Abenteuer Wiki/Charaktere/Aria Laubmelodie.md",
+    "Abenteuer Wiki/_assets",
+    "Abenteuer Wiki/Regionen",
+    "Abenteuer Wiki/Faktionen",
+    "Abenteuer Wiki/Charaktere",
+    "Abenteuer Wiki",
+    "AbenteuerWiki/Charaktere/Aria Laubmelodie.md",
+    "AbenteuerWiki/Abenteuer Wiki.md",
+    "AbenteuerWiki/Charaktere/Tie'Ankh ibn Ta'Ankh.md",
+    "AbenteuerWiki/Charaktere/Raymond.md",
+    "AbenteuerWiki/Charaktere/Ficus.md",
+    "AbenteuerWiki/Charaktere/Legoron Arrow.md",
+    "AbenteuerWiki/_assets/images",
+    "AbenteuerWiki/_assets/banners",
+    "AbenteuerWiki/Regionen",
     "Welcome.md",
-    "README.md",
-    "obsidianGitWiki.pub",
-    "obsidianGitWiki"
+    "README.md"
   ]
 }

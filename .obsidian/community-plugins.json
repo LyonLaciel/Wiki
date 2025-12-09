@@ -28,5 +28,6 @@
   "meld-encrypt",
   "json-table",
   "autofit-tabs",
-  "query-json"
+  "query-json",
+  "peerdraft"
 ]
