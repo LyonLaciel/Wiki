@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Abenteuer Wiki/Charaktere/Tie'Ankh ibn Ta'Ankh/Artefakt.md",
-                "mode": "source",
-                "source": false
+                "file": "Abenteuer Wiki/Abenteuer Wiki.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Artefakt"
+              "title": "Abenteuer Wiki"
             }
           }
         ]
@@ -234,8 +234,9 @@
       "peerdraft:Show my Peerdraft Shares": false
     }
   },
-  "active": "e1c3c7b484e5455c",
+  "active": "54d8c224cdde41ee",
   "lastOpenFiles": [
+    "Abenteuer Wiki/Charaktere/Aria Laubmelodie/Aria Laubmelodie.md",
     "Abenteuer Wiki/Charaktere/Tie'Ankh ibn Ta'Ankh/Artefakt.md",
     "Abenteuer Wiki/Charaktere/Raymond/Artefakt.md",
     "Abenteuer Wiki/Charaktere/Raymond/Raymond.md",
@@ -259,7 +260,6 @@
     "Abenteuer Wiki/Charaktere/Legoron Arrow/Legoron Arrow.md",
     "Abenteuer Wiki/Charaktere/Legoron Arrow",
     "Abenteuer Wiki/Charaktere/Raymond",
-    "Abenteuer Wiki/Charaktere/Aria Laubmelodie/Aria Laubmelodie.md",
     "Abenteuer Wiki/Charaktere/Aria Laubmelodie",
     "Abenteuer Wiki/Charaktere",
     "Abenteuer Wiki/Charaktere/Raymond.md",
