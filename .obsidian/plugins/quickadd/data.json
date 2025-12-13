@@ -519,6 +519,46 @@
           }
         ]
       }
+    },
+    {
+      "id": "a1b2c3d4-optimize-spells-0001",
+      "name": "Optimize Spells",
+      "type": "Macro",
+      "command": true,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Optimize Spells",
+        "id": "a1b2c3d4-optimize-spells-macro-0001",
+        "commands": [
+          {
+            "name": "optimizeSpells",
+            "type": "UserScript",
+            "id": "a1b2c3d4-optimize-spells-script-0001",
+            "path": "scripts/optimizeSpells.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "a1b2c3d4-create-item-0001",
+      "name": "Create Item",
+      "type": "Macro",
+      "command": true,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Create Item",
+        "id": "a1b2c3d4-create-item-macro-0001",
+        "commands": [
+          {
+            "name": "createItem",
+            "type": "UserScript",
+            "id": "a1b2c3d4-create-item-script-0001",
+            "path": "scripts/createItem.js",
+            "settings": {}
+          }
+        ]
+      }
     }
   ],
   "inputPrompt": "multi-line",

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2a1e39ad866857a8",
+        "id": "01df7b4fedd5a3f5",
         "type": "tabs",
         "children": [
           {
-            "id": "695f5ad59671349b",
+            "id": "027c2917e85c2e01",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Abenteuer Wiki/Abenteuer Wiki.md",
-                "bFile": "Abenteuer Wiki/Abenteuer Wiki.md",
-                "aRef": ""
+                "file": "Abenteuer Wiki/Charaktere/Ficus/Ficus.md",
+                "mode": "preview",
+                "source": true
               },
-              "icon": "diff",
-              "title": "Diff: Abenteuer Wiki"
+              "icon": "lucide-file",
+              "title": "Ficus"
             }
           }
         ]
@@ -228,27 +228,35 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "695f5ad59671349b",
+  "active": "54d8c224cdde41ee",
   "lastOpenFiles": [
-    "Abenteuer Wiki/Abenteuerverlauf/Abenteuerverlauf.md",
     "Abenteuer Wiki/Fraktionen/Aram und Meister/Arams Meister.md",
-    "Abenteuer Wiki/Fraktionen/Der Draconiter Orden/Der Draconiter Orden.md",
-    "Abenteuer Wiki/Fraktionen/Ereshkigal/Ereshkigal.md",
-    "Abenteuer Wiki/Fraktionen/Maraskanische Diaspora in Khunchom/Maraskanische Diaspora in Khunchom.md",
-    "Abenteuer Wiki/Fraktionen/Aram und Meister/Aram.md",
-    "Abenteuer Wiki/Fraktionen/Maraskanische Diaspora in Khunchom",
-    "Abenteuer Wiki/Fraktionen/Ereshkigal",
-    "Abenteuer Wiki/Fraktionen/Der Draconiter Orden",
-    "Abenteuer Wiki/Fraktionen/Aram und Meister",
+    "Abenteuer Wiki/Charaktere/Aria Laubmelodie/Aria Laubmelodie.md",
+    "Abenteuer Wiki/Abenteuer Wiki.md",
     "Abenteuer Wiki/Fraktionen/Kalifat/Kalifat.md",
-    "Abenteuer Wiki/Orte/Mherwed",
-    "Abenteuer Wiki/Orte/Khunchom",
-    "Abenteuer Wiki/Orte/Anchopal",
     "Abenteuer Wiki/Fraktionen/Kalifat",
-    "Abenteuer Wiki/Fraktionen/New folder",
+    "Abenteuer Wiki/Charaktere/Tie'Ankh ibn Ta'Ankh/Artefakt.md",
+    "scripts/updateWiki.js",
+    "scripts/updateValueEncounter.js",
+    "scripts/updateValue.js",
+    "scripts/updateConditionEncounter.js",
+    "scripts/updateCondition.js",
+    "scripts/optimizeSpells.js",
+    "scripts/nextRound.js",
+    "scripts/newEncounter.js",
+    "scripts/defend.js",
+    "Abenteuer Wiki/Charaktere/Legoron Arrow/Artefakt.md",
+    "Abenteuer Wiki/Charaktere/Ficus/Artefakt.md",
+    "Abenteuer Wiki/Charaktere/Ficus/Ficus.md",
     "Abenteuer Wiki/Kulturen/Novadis/Novadis.md",
+    "Abenteuer Wiki/Fraktionen/Maraskanische Diaspora in Khunchom/Maraskanische Diaspora in Khunchom.md",
+    "Abenteuer Wiki/Fraktionen/Ereshkigal/Ereshkigal.md",
+    "Abenteuer Wiki/Fraktionen/Der Draconiter Orden/Der Draconiter Orden.md",
+    "Abenteuer Wiki/Fraktionen/Aram und Meister/Aram.md",
+    "Abenteuer Wiki/Charaktere/Raymond/Artefakt.md",
+    "Abenteuer Wiki/Abenteuerverlauf/Abenteuerverlauf.md",
+    "README.md",
     "Abenteuer Wiki/Kulturen/Tulamiden/Tulamiden.md",
-    "Abenteuer Wiki/Kulturen/Tulamiden",
     "Abenteuer Wiki/Fraktionen/Kalifat.md",
     "Abenteuer Wiki/Orte/Yalaiad.md",
     "Abenteuer Wiki/Orte/Tulamidenlande.md",
@@ -257,15 +265,6 @@
     "Abenteuer Wiki/Orte/Mhanadistan.md",
     "Abenteuer Wiki/Orte/Mhanadi.md",
     "Abenteuer Wiki/Orte/Khunchom/Khunchom.md",
-    "Abenteuer Wiki/Orte/Khoramgebirge.md",
-    "Abenteuer Wiki/Orte/Khôm.md",
-    "Abenteuer Wiki/Orte/Gorien.md",
-    "Abenteuer Wiki/Orte/Gadang.md",
-    "Abenteuer Wiki/Orte/Balash.md",
-    "Abenteuer Wiki/Orte/Aventurien.md",
-    "Abenteuer Wiki/Orte/Aranien.md",
-    "Abenteuer Wiki/Orte/Anchopal/Anchopal.md",
-    "Abenteuer Wiki/Orte/Zhandukistan.md",
     "Abenteuer Wiki/images/Tiank.png",
     "Abenteuer Wiki/images/Raymond.png",
     "Abenteuer Wiki/images/Legoron2.png",

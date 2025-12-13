@@ -19,7 +19,13 @@
   "lockCallouts": false,
   "onboarding": {},
   "ribbonAction": "toolbar",
-  "rules": [],
+  "rules": [
+    {
+      "property": "charType",
+      "value": "",
+      "toolbar": "b2c3d4e5-char-builder-0001"
+    }
+  ],
   "scriptingEnabled": false,
   "showEditInFabMenu": false,
   "showLaunchpad": false,
@@ -59,9 +65,29 @@
           },
           "tooltip": "Nahkampfangriff ausführen",
           "visibility": {
-            "desktop": { "allViews": { "components": ["icon", "label"] } },
-            "mobile": { "allViews": { "components": ["icon"] } },
-            "tablet": { "allViews": { "components": ["icon", "label"] } }
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
           }
         },
         {
@@ -75,9 +101,29 @@
           },
           "tooltip": "Fernkampfangriff ausführen",
           "visibility": {
-            "desktop": { "allViews": { "components": ["icon", "label"] } },
-            "mobile": { "allViews": { "components": ["icon"] } },
-            "tablet": { "allViews": { "components": ["icon", "label"] } }
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
           }
         },
         {
@@ -91,9 +137,29 @@
           },
           "tooltip": "Verteidigung würfeln",
           "visibility": {
-            "desktop": { "allViews": { "components": ["icon", "label"] } },
-            "mobile": { "allViews": { "components": ["icon"] } },
-            "tablet": { "allViews": { "components": ["icon", "label"] } }
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
           }
         },
         {
@@ -104,9 +170,21 @@
             "type": "separator"
           },
           "visibility": {
-            "desktop": { "allViews": { "components": [] } },
-            "mobile": { "allViews": { "components": [] } },
-            "tablet": { "allViews": { "components": [] } }
+            "desktop": {
+              "allViews": {
+                "components": []
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": []
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": []
+              }
+            }
           }
         },
         {
@@ -120,9 +198,29 @@
           },
           "tooltip": "LE, AE, KE oder SchiP ändern",
           "visibility": {
-            "desktop": { "allViews": { "components": ["icon", "label"] } },
-            "mobile": { "allViews": { "components": ["icon"] } },
-            "tablet": { "allViews": { "components": ["icon", "label"] } }
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
           }
         },
         {
@@ -136,9 +234,29 @@
           },
           "tooltip": "Zustand ändern",
           "visibility": {
-            "desktop": { "allViews": { "components": ["icon", "label"] } },
-            "mobile": { "allViews": { "components": ["icon"] } },
-            "tablet": { "allViews": { "components": ["icon", "label"] } }
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
           }
         },
         {
@@ -152,9 +270,29 @@
           },
           "tooltip": "Temporären Effekt hinzufügen",
           "visibility": {
-            "desktop": { "allViews": { "components": ["icon", "label"] } },
-            "mobile": { "allViews": { "components": ["icon"] } },
-            "tablet": { "allViews": { "components": ["icon", "label"] } }
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
           }
         },
         {
@@ -165,9 +303,21 @@
             "type": "separator"
           },
           "visibility": {
-            "desktop": { "allViews": { "components": [] } },
-            "mobile": { "allViews": { "components": [] } },
-            "tablet": { "allViews": { "components": [] } }
+            "desktop": {
+              "allViews": {
+                "components": []
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": []
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": []
+              }
+            }
           }
         },
         {
@@ -181,9 +331,29 @@
           },
           "tooltip": "Runde beenden, neue Initiative",
           "visibility": {
-            "desktop": { "allViews": { "components": ["icon", "label"] } },
-            "mobile": { "allViews": { "components": ["icon"] } },
-            "tablet": { "allViews": { "components": ["icon", "label"] } }
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
           }
         }
       ],
@@ -207,6 +377,720 @@
         }
       },
       "updated": "2025-12-04T22:10:00.000Z"
+    },
+    {
+      "uuid": "b2c3d4e5-char-builder-0001",
+      "customClasses": "",
+      "defaultItem": null,
+      "defaultStyles": [
+        "border",
+        "even",
+        "sticky"
+      ],
+      "hasCommand": false,
+      "items": [
+        {
+          "uuid": "char-vorteil",
+          "icon": "star",
+          "label": "Vorteil",
+          "link": "",
+          "linkAttr": {
+            "commandId": "quickadd:choice:a1b2c3d4-vorteil-add-0001",
+            "type": "command"
+          },
+          "tooltip": "Vorteil hinzufügen",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "char-nachteil",
+          "icon": "star-off",
+          "label": "Nachteil",
+          "link": "",
+          "linkAttr": {
+            "commandId": "quickadd:choice:a1b2c3d4-nachteil-add-0001",
+            "type": "command"
+          },
+          "tooltip": "Nachteil hinzufügen",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "char-sf",
+          "icon": "zap",
+          "label": "SF",
+          "link": "",
+          "linkAttr": {
+            "commandId": "quickadd:choice:a1b2c3d4-sf-add-0001",
+            "type": "command"
+          },
+          "tooltip": "Sonderfertigkeit hinzufügen",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "char-separator-1",
+          "label": "",
+          "link": "",
+          "linkAttr": {
+            "type": "separator"
+          },
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": []
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": []
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": []
+              }
+            }
+          }
+        },
+        {
+          "uuid": "char-waffen",
+          "icon": "sword",
+          "label": "Waffen",
+          "link": "",
+          "linkAttr": {
+            "commandId": "quickadd:choice:a1b2c3d4-waffen-add-0001",
+            "type": "command"
+          },
+          "tooltip": "Waffe hinzufügen",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "char-ruestung",
+          "icon": "shield",
+          "label": "Rüstung",
+          "link": "",
+          "linkAttr": {
+            "commandId": "quickadd:choice:a1b2c3d4-ruestung-add-0001",
+            "type": "command"
+          },
+          "tooltip": "Rüstung hinzufügen",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "char-separator-2",
+          "label": "",
+          "link": "",
+          "linkAttr": {
+            "type": "separator"
+          },
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": []
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": []
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": []
+              }
+            }
+          }
+        },
+        {
+          "uuid": "char-trick",
+          "icon": "wand",
+          "label": "Trick",
+          "link": "",
+          "linkAttr": {
+            "commandId": "quickadd:choice:a1b2c3d4-trick-add-0001",
+            "type": "command"
+          },
+          "tooltip": "Zaubertrick hinzufügen",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "char-zauber",
+          "icon": "sparkles",
+          "label": "Zauber",
+          "link": "",
+          "linkAttr": {
+            "commandId": "quickadd:choice:a1b2c3d4-zauber-add-0001",
+            "type": "command"
+          },
+          "tooltip": "Zauber hinzufügen",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "char-ritual",
+          "icon": "moon",
+          "label": "Ritual",
+          "link": "",
+          "linkAttr": {
+            "commandId": "quickadd:choice:a1b2c3d4-ritual-add-0001",
+            "type": "command"
+          },
+          "tooltip": "Ritual hinzufügen",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "char-mh",
+          "icon": "flame",
+          "label": "Mag.H.",
+          "link": "",
+          "linkAttr": {
+            "commandId": "quickadd:choice:a1b2c3d4-mh-add-0001",
+            "type": "command"
+          },
+          "tooltip": "Magische Handlung hinzufügen",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "char-separator-3",
+          "label": "",
+          "link": "",
+          "linkAttr": {
+            "type": "separator"
+          },
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": []
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": []
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": []
+              }
+            }
+          }
+        },
+        {
+          "uuid": "char-segen",
+          "icon": "sun",
+          "label": "Segen",
+          "link": "",
+          "linkAttr": {
+            "commandId": "quickadd:choice:a1b2c3d4-segen-add-0001",
+            "type": "command"
+          },
+          "tooltip": "Segen hinzufügen",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "char-liturgie",
+          "icon": "book",
+          "label": "Liturgie",
+          "link": "",
+          "linkAttr": {
+            "commandId": "quickadd:choice:a1b2c3d4-liturgie-add-0001",
+            "type": "command"
+          },
+          "tooltip": "Liturgie hinzufügen",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "char-zeremonie",
+          "icon": "scroll",
+          "label": "Zeremonie",
+          "link": "",
+          "linkAttr": {
+            "commandId": "quickadd:choice:a1b2c3d4-zeremonie-add-0001",
+            "type": "command"
+          },
+          "tooltip": "Zeremonie hinzufügen",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "char-separator-4",
+          "label": "",
+          "link": "",
+          "linkAttr": {
+            "type": "separator"
+          },
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": []
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": []
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": []
+              }
+            }
+          }
+        },
+        {
+          "uuid": "char-calc-ap",
+          "icon": "calculator",
+          "label": "AP",
+          "link": "",
+          "linkAttr": {
+            "commandId": "quickadd:choice:a1b2c3d4-ap-calc-0001",
+            "type": "command"
+          },
+          "tooltip": "AP berechnen",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "char-update-value",
+          "icon": "heart",
+          "label": "LE/AE/KE",
+          "link": "",
+          "linkAttr": {
+            "commandId": "quickadd:choice:a1b2c3d4-update-value-0001",
+            "type": "command"
+          },
+          "tooltip": "LE, AE, KE oder SchiP ändern",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "char-update-condition",
+          "icon": "activity",
+          "label": "Zustand",
+          "link": "",
+          "linkAttr": {
+            "commandId": "quickadd:choice:a1b2c3d4-update-condition-0001",
+            "type": "command"
+          },
+          "tooltip": "Zustand ändern",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "c7f63f44-714d-4e35-8db7-5d44f932ff06",
+          "hasCommand": false,
+          "icon": "lucide-dices",
+          "inGallery": false,
+          "label": "3W20",
+          "link": "QuickAdd: 3d20",
+          "linkAttr": {
+            "commandCheck": false,
+            "commandId": "quickadd:choice:a1b2c3d4-3d20-0001",
+            "hasVars": false,
+            "type": "command"
+          },
+          "tooltip": "Probe auf Talent",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        }
+      ],
+      "mobileStyles": [],
+      "name": "Character Builder",
+      "position": {
+        "desktop": {
+          "allViews": {
+            "position": "top"
+          }
+        },
+        "mobile": {
+          "allViews": {
+            "position": "top"
+          }
+        },
+        "tablet": {
+          "allViews": {
+            "position": "top"
+          }
+        }
+      },
+      "updated": "2025-12-10T20:40:20.420Z"
     }
   ],
   "version": 20250313.1,
