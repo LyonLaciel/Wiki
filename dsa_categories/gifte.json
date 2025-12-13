@@ -1,0 +1,1434 @@
+[
+  {
+    "name": "Angstgift",
+    "stufe": null,
+    "art": "Waffengift, alchimistisch",
+    "widerstand": "Seelenkraft",
+    "wirkung": "2 Stufen Furcht / 1 Stufe Furcht",
+    "beginn": "sofort",
+    "dauer": "5 Minuten",
+    "kosten": null,
+    "ap_wert": 4,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Herbarium",
+        "seite": 89
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 384
+      }
+    ],
+    "_source_file": "gift_angstgift.txt",
+    "_category": "Gift",
+    "_subcategory": "gift_alchimie"
+  },
+  {
+    "name": "Betäubungsgift",
+    "stufe": null,
+    "art": "Waffengift, alchimistisch",
+    "widerstand": "Seelenkraft",
+    "wirkung": "2 Stufen Betäubung, 2 Stufen Paralyse / 1 Stufe Betäubung, 1 Stufe Paralyse",
+    "beginn": "sofort",
+    "dauer": "5 Minuten",
+    "kosten": null,
+    "ap_wert": 4,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Herbarium",
+        "seite": 89
+      }
+    ],
+    "_source_file": "gift_betaeubungsgift.txt",
+    "_category": "Gift",
+    "_subcategory": "gift_alchimie"
+  },
+  {
+    "name": "Drachenspeichel",
+    "stufe": null,
+    "art": "Waffen- und Einnahmegift, alchimistisch",
+    "widerstand": "Zähigkeit",
+    "wirkung": "1W6 SP pro angefangenen 5 Minuten, Schwindel, Schmerzen, Schwellungen (1 Stufe Betäubung, 1 Stufe Schmerz) / 1W3 SP pro angefangenen 5 Minuten, Schwindel und Schwellungen (1 Stufe Betäubung)",
+    "beginn": "sofort",
+    "dauer": "20 Minuten / 10 Minuten",
+    "kosten": "80 Silbertaler pro Stufe / 120 Silbertaler pro Stufe",
+    "ap_wert": 4,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Kompendium 2",
+        "seite": 13
+      }
+    ],
+    "_source_file": "Gift_Drachenspeichel.txt",
+    "_category": "Gift",
+    "_subcategory": "gift_alchimie"
+  },
+  {
+    "name": "Freundfeind",
+    "stufe": 5,
+    "art": "Einnahmegift, Waffengift, alchimistisch",
+    "widerstand": "Seelenkraft",
+    "wirkung": "sofort 1W6+1 SP, Status Blutrausch, nach Ende der Wirkung 1 Stufe Verwirrung für 1 Stunde, während derer sich der Anwender nicht an Freunde oder andere geliebte Bezugspersonen erinnern kann",
+    "beginn": "5 KR",
+    "dauer": "20 KR / 25 KR",
+    "kosten": "120 Silbertaler pro Stufe / 160 Silbertaler pro Stufe",
+    "ap_wert": 4,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Herbarium",
+        "seite": 90
+      }
+    ],
+    "_source_file": "gift_freundfeind.txt",
+    "_category": "Gift",
+    "_subcategory": "gift_alchimie"
+  },
+  {
+    "name": "Halbgift",
+    "stufe": null,
+    "art": "Waffengift, alchimistisch",
+    "widerstand": "Seelenkraft",
+    "wirkung": "AT und VW sinken um jeweils 50 %, Proben auf Körpertalente (außer Selbstbeherrschung und Sinnesschärfe) –2, das Opfer schrumpft auf etwa die Hälfte seiner Größe, dies bedeutet, dass sich seine Größenkategorie um eine Stufe reduziert (z. B. von mittel zu klein) / AT und VW sinken um jeweils 25 %, Proben auf Körpertalente (außer Selbstbeherrschung und Sinnesschärfe) –1, das Opfer schrumpft auf etwa drei Viertel seiner Größe, dies hat jedoch keine Auswirkung auf die Größenkategorie",
+    "beginn": "2 KR",
+    "dauer": "5 KR",
+    "kosten": null,
+    "ap_wert": 4,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Herbarium",
+        "seite": 90
+      }
+    ],
+    "_source_file": "gift_halbgift.txt",
+    "_category": "Gift",
+    "_note": "Could not parse level range",
+    "_subcategory": "gift_alchimie"
+  },
+  {
+    "name": "Lotosöl",
+    "stufe": null,
+    "art": "Waffengift, alchimistisch",
+    "widerstand": "Seelenkraft",
+    "wirkung": "4W6 SP / 2W6 SP",
+    "beginn": "sofort",
+    "dauer": "einmalig",
+    "kosten": "360 Silbertaler pro Stufe / 500 Silbertaler pro Stufe *) nur bei Personen mit dem Vorteil Geweihter und einer Tradition, die nicht Namenloser Kult ist",
+    "ap_wert": 3,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Herbarium",
+        "seite": 90
+      }
+    ],
+    "_source_file": "gift_lotosoel.txt",
+    "_category": "Gift",
+    "_subcategory": "gift_alchimie"
+  },
+  {
+    "name": "Merach-Extrakt",
+    "stufe": null,
+    "art": "Einnahmegift, alchimistisch",
+    "widerstand": "Zähigkeit",
+    "wirkung": "1 SP pro KR",
+    "beginn": "5 Minuten",
+    "dauer": "6W6 KR / 3W6 KR",
+    "kosten": null,
+    "ap_wert": 3,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Herbarium",
+        "seite": 91
+      }
+    ],
+    "_source_file": "gift_merach_extrakt.txt",
+    "_category": "Gift",
+    "_subcategory": "gift_alchimie"
+  },
+  {
+    "name": "Purpurblitz",
+    "stufe": null,
+    "art": "Einnahmegift, alchimistisch",
+    "widerstand": "Seelenkraft oder Zähigkeit, je nachdem, welcher Wert niedriger ist",
+    "wirkung": "1W6 SP pro KR, purpurner Nebel vor den Augen (1 Stufe Verwirrung) / 1W3 SP pro KR, purpurner Nebel vor den Augen (1 Stufe Verwirrung)",
+    "beginn": "sofort",
+    "dauer": "100 KR / 50 KR",
+    "kosten": "2.500 Silbertaler / vielfaches des Wertes (Untergrundmärkte)",
+    "ap_wert": 5,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Herbarium",
+        "seite": 91
+      }
+    ],
+    "_source_file": "gift_purpurblitz.txt",
+    "_category": "Gift",
+    "_subcategory": "gift_alchimie"
+  },
+  {
+    "name": "Schlafgift",
+    "stufe": null,
+    "art": "Einnahmegift, alchimistisch",
+    "widerstand": "Seelenkraft",
+    "wirkung": "Status Bewusstlos / 1 Stufe Betäubung",
+    "beginn": "10 KR",
+    "dauer": "5 Minuten",
+    "kosten": null,
+    "ap_wert": 3,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Herbarium",
+        "seite": 91
+      }
+    ],
+    "_source_file": "gift_schlafgift.txt",
+    "_category": "Gift",
+    "_subcategory": "gift_alchimie"
+  },
+  {
+    "name": "Marbos Ruhe",
+    "stufe": 6,
+    "art": "Einnahmegift, mineralisch",
+    "widerstand": "Zähigkeit",
+    "wirkung": "Status Bewusstlos / 1 Stufe Betäubung",
+    "beginn": "10 KR",
+    "dauer": "10 Minuten",
+    "kosten": "600 Silbertaler",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Drachenwerk & Rauberpack",
+        "seite": 55
+      },
+      {
+        "buch": "Niobaras Vermächtnis",
+        "seite": 21
+      },
+      {
+        "buch": "Seelanders Eleven",
+        "seite": 11
+      },
+      {
+        "buch": "Aventurisches Kompendium 2",
+        "seite": 15
+      }
+    ],
+    "_source_file": "MarbosRuhe.txt",
+    "_category": "Gift",
+    "_subcategory": "gift_mineral"
+  },
+  {
+    "name": "Tulmadron",
+    "stufe": 4,
+    "art": "Einnahme- und Waffengift, mineralisch",
+    "widerstand": "Zähigkeit",
+    "wirkung": "1W6 SP/KR, Halluzinationen (1 Stufe Verwirrung), Schmerzen (2 Stufen Schmerz) / bcm: 1W3 SP/KR; leichte Schmerzen (1 Stufe Schmerz)",
+    "beginn": "20 KR",
+    "dauer": "50 KR / 25 KR",
+    "kosten": "1.250 Silbertaler",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 342
+      }
+    ],
+    "_source_file": "Gift_Tulamdron.txt",
+    "_category": "Gift",
+    "_subcategory": "gift_mineral"
+  },
+  {
+    "name": "Urkaritgift",
+    "stufe": 4,
+    "art": "Waffengift, mineralisch",
+    "widerstand": "Zähigkeit",
+    "wirkung": "1W6+2 SP pro KR / 1W3+1 SP pro KR",
+    "beginn": "2 KR",
+    "dauer": "3 KR",
+    "kosten": "300 Silbertaler",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Kompendium 2",
+        "seite": 15
+      }
+    ],
+    "_source_file": "Gift_Urkaritgift.txt",
+    "_category": "Gift",
+    "_subcategory": "gift_mineral"
+  },
+  {
+    "name": "Visarnetgift",
+    "stufe": 4,
+    "art": "Kontakt- und Waffengift, mineralisch",
+    "widerstand": "Zähigkeit",
+    "wirkung": "1W6 SP pro KR, Benommenheit (1 Stufe Betäubung) / 1W3 SP pro KR",
+    "beginn": "sofort",
+    "dauer": "5 KR",
+    "kosten": "500 Silbertaler",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Kompendium 2",
+        "seite": 15
+      }
+    ],
+    "_source_file": "Gift_Visarnetgift.txt",
+    "_category": "Gift",
+    "_subcategory": "gift_mineral"
+  },
+  {
+    "name": "Alkohol",
+    "stufe": 4,
+    "art": "Einnahmegift, pflanzlich",
+    "widerstand": "Zähigkeit",
+    "wirkung": "je nach Alkohol / je nach Alkohol",
+    "beginn": "nach dem Genuss einer Grundeinheit Alkohol",
+    "dauer": "bis Betäubung und/oder Berauscht abgebaut ist",
+    "kosten": "unterschiedlich",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Kneipen und Tavernen",
+        "seite": 12
+      }
+    ],
+    "_source_file": "Gift_Alkohol.txt",
+    "_category": "Gift",
+    "_subcategory": "gift_pflanzen"
+  },
+  {
+    "name": "Axorda-Katzensäckchen",
+    "stufe": 2,
+    "art": "Atemgift, pflanzlich",
+    "widerstand": "Zähigkeit",
+    "wirkung": "2 Stufen Betäubung, 1W3 SP / 1 Stufe Betäubung",
+    "beginn": "sofort",
+    "dauer": "5 Minuten / 1 Minute",
+    "kosten": "20 Silbertaler / 85 Silbertaler",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Kompendium II",
+        "seite": 84
+      }
+    ],
+    "_source_file": "Herb_II_Katzens.txt",
+    "_category": "Gift",
+    "_subcategory": "gift_pflanzen"
+  },
+  {
+    "name": "Boabungaha",
+    "stufe": 5,
+    "art": "Atemgift, pflanzlich",
+    "widerstand": "Zähigkeit",
+    "wirkung": "1 Stufe Betäubung, 1 Stufe Schmerz / 1 Stufe Betäubung Alle volle 5 KR muss dem Helden eine Probe auf Selbstbeherrschung (Handlungsfähigkeit bewahren) gelingen, ansonsten erleidet er erneut die Giftwirkung. Wird der Held während der Wirkungsdauer durch den Zustand Betäubung handlungsunfähig, erleidet er für 2W6+6 Minuten den Status Bewusstlos und beginnt zu ersticken (siehe Regelwerk Seite 341). Der Status kann, mit Ausnahme von übernatürlichen Effekten (Zauber, Götterwirken), nicht aufgehoben werden.",
+    "beginn": "sofort",
+    "dauer": "50 KR",
+    "kosten": "1.200 Silbertaler",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Kompendium 2",
+        "seite": 13
+      }
+    ],
+    "_source_file": "Gift_Boabungaha.txt",
+    "_category": "Gift",
+    "_subcategory": "gift_pflanzen"
+  },
+  {
+    "name": "Gardistenkeuche",
+    "stufe": 4,
+    "art": "Atemgift, pflanzlich",
+    "widerstand": "Zähigkeit",
+    "wirkung": "Hustenreiz (1 Stufe Betäubung), starkes Schnappen nach Luft (Erschwernis von –2 auf Körpertalente) / –",
+    "beginn": "sofort",
+    "dauer": "5 KR",
+    "kosten": "65 Silbertaler",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Herbarium",
+        "seite": 80
+      }
+    ],
+    "_source_file": "Gift_Gardistenkeuche.txt",
+    "_category": "Gift",
+    "_subcategory": "gift_pflanzen"
+  },
+  {
+    "name": "Goldleim",
+    "stufe": 3,
+    "art": "Kontaktgift, Waffengift, pflanzlich",
+    "widerstand": "Zähigkeit",
+    "wirkung": "Status Brennend auf kleiner Fläche",
+    "beginn": "sofort",
+    "dauer": "8 KR / 4 KR",
+    "kosten": "300 Silbertaler / 360 Silbertaler",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Herbarium",
+        "seite": 80
+      }
+    ],
+    "_source_file": "Gift_Goldleim.txt",
+    "_category": "Gift",
+    "_subcategory": "gift_pflanzen"
+  },
+  {
+    "name": "Höhlenbovistgift",
+    "stufe": 2,
+    "art": "Einnahmegift, pflanzlich",
+    "widerstand": "Zähigkeit",
+    "wirkung": "Sinnestäuschung (1 Stufe Verwirrung) und Antriebslosigkeit (Erschwernis von 1 auf alle Körpertalente)/ Sinnestäuschung (1 Stufe Verwirrung)",
+    "beginn": "5 Minuten",
+    "dauer": [
+      "2 Stunden",
+      "15 Minuten"
+    ],
+    "kosten": null,
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Katakomben & Ruinen",
+        "seite": 30
+      }
+    ],
+    "_source_file": "Höhlenbovistgift.txt",
+    "_category": "Gift",
+    "_subcategory": "gift_pflanzen"
+  },
+  {
+    "name": "Hollbeerenbrechmittel",
+    "stufe": 4,
+    "art": "Einnahmegift, pflanzlich",
+    "widerstand": "Zähigkeit",
+    "wirkung": "Opfer übergibt sich, keine nächtliche Regeneration / Opfer übergibt sich",
+    "beginn": "1 Minute",
+    "dauer": "5 Minuten (Brechen), bis zum Ende der nächsten Regenerationsphase",
+    "kosten": "100 Silbertaler",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Die Streitenden Königreiche",
+        "seite": 102
+      }
+    ],
+    "_source_file": "Gift_Hollbeere.txt",
+    "_category": "Gift",
+    "_subcategory": "gift_pflanzen"
+  },
+  {
+    "name": "Kelmon",
+    "stufe": 2,
+    "art": "Kontakt- und Waffengift, pflanzlich",
+    "widerstand": "Zähigkeit",
+    "wirkung": [
+      {
+        "sp": "4W6 SP",
+        "stufen": "4 Stufen",
+        "effect": "Paralyse"
+      },
+      {
+        "sp": "2W6 SP",
+        "stufen": "1 Stufe",
+        "effect": "Paralyse"
+      }
+    ],
+    "beginn": "5 KR",
+    "dauer": [
+      "30 Minuten",
+      "15 Minuten"
+    ],
+    "kosten": "300 Silbertaler",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 342
+      }
+    ],
+    "_source_file": "Gift_Kelmon.txt",
+    "_category": "Gift",
+    "_subcategory": "gift_pflanzen"
+  },
+  {
+    "name": "Krötenschemelgift",
+    "stufe": 4,
+    "art": "Einnahmegift, Waffengift, pflanzlich",
+    "widerstand": "Zähigkeit",
+    "wirkung": "heftige Magenkrämpfe und Erbrechen (1W6+2 SP pro angefangener Stunde), Blaufärbung der Hände und des Gesichts / Magenkrämpfe und Erbrechen (1W3+1 SP pro angefangener Stunde), Blaufärbung der Hände und des Gesichts",
+    "beginn": "1 Stunde",
+    "dauer": "4 Stunden / 2 Stunden",
+    "kosten": "400 Silbertaler / 480 Silbertaler",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Herbarium",
+        "seite": 80
+      }
+    ],
+    "_source_file": "Gift_Krötenschemelgift.txt",
+    "_category": "Gift",
+    "_subcategory": "gift_pflanzen"
+  },
+  {
+    "name": "Kukris",
+    "stufe": 4,
+    "art": "Einnahme- und Waffengift, pflanzlich",
+    "widerstand": "Zähigkeit",
+    "wirkung": "1W6–1 SP pro KR, Juckreiz (1 Stufe Verwirrung), Krämpfe (1 Stufe Schmerz) / gst 1W3–1 SP; Krämpfe (1 Stufe Schmerz)",
+    "beginn": "10 KR (Schaden und Juckreiz), 15 (Krämpfe)",
+    "dauer": "bis zum Tod / 50 KR",
+    "kosten": "350 Silbertaler",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurischer Almanach",
+        "seite": 131
+      }
+    ],
+    "_source_file": "Gift_Kukris.txt",
+    "_category": "Gift",
+    "_subcategory": "gift_pflanzen"
+  },
+  {
+    "name": "Mandragora",
+    "stufe": 2,
+    "art": "Waffengift, pflanzlich",
+    "widerstand": "Zähigkeit",
+    "wirkung": "1W6 SP, Brechreiz (1 Stufe Betäubung) / iếc 1W3 SP, flauer Magen",
+    "beginn": "5 KR",
+    "dauer": "30 KR",
+    "kosten": "125 Silbertaler",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurischer Almanach",
+        "seite": 131
+      }
+    ],
+    "_source_file": "Gift_Mandragora.txt",
+    "_category": "Gift",
+    "_subcategory": "gift_pflanzen"
+  },
+  {
+    "name": "Margolaschabführmittel",
+    "stufe": 6,
+    "art": "Einnahmegift, pflanzlich",
+    "widerstand": "Zähigkeit",
+    "wirkung": "wirkt abführend / –",
+    "beginn": "1 Stunde",
+    "dauer": "30 Minuten",
+    "kosten": "siehe Margolasch",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Die Siebenwindküste",
+        "seite": 95
+      }
+    ],
+    "_source_file": "Gift_Margolaschabführmittel.txt",
+    "_category": "Gift",
+    "_subcategory": "gift_pflanzen"
+  },
+  {
+    "name": "Purpurner Lotosstaub",
+    "stufe": 4,
+    "art": "Atemgift, pflanzlich",
+    "widerstand": "Zähigkeit",
+    "wirkung": "zu Beginn einmalig 1W6+2 SP, danach bis zum Ende der Wirkung 1 Stufe Betäubung / zu Beginn einmalig 1W3+1 SP, die Wirkungsdauer erhöht sich kumulativ",
+    "beginn": "5 KR",
+    "dauer": "5 Minuten",
+    "kosten": "50 Silbertaler / 60 Silbertaler",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Herbarium",
+        "seite": 80
+      }
+    ],
+    "_source_file": "Gift_Purpurner_Lotosstaub.txt",
+    "_category": "Gift",
+    "_subcategory": "gift_pflanzen"
+  },
+  {
+    "name": "Rattenpilzgift",
+    "stufe": 3,
+    "art": "Pilz (pflanzlich) / Atem (Sporen) oder Einnahme",
+    "widerstand": "Seelenkraft",
+    "wirkung": "Das Opfer erhält den Status Hörigkeit, wenn es nicht bereits Geweihter des Namenlosen ist. Die Hörigkeit kann für die Wirkungsdauer des Giftes nicht beendet werden. Für die Wirkungsdauer ist das Opfer von Zweifeln an seiner Weltsicht geplagt, so es nicht bereits dem Rattenkind huldigt, und wird von verheißungsvollen Visionen heimgesucht. Will es angesichts der Einflüsterungen nicht in Versuchung geraten, kann der Meister Proben auf Willenskraft (Bekehren & Überzeugen widerstehen) verlangen./ Zweifel überkommen das Opfer, aber es erhält nicht den Status Hörigkeit.",
+    "beginn": "5 Minuten",
+    "dauer": "7 Tage / 13 Stunden",
+    "kosten": null,
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Offenbarung des Himmels",
+        "seite": 45
+      },
+      {
+        "buch": "Aventurischer Almanach",
+        "seite": 174
+      }
+    ],
+    "_source_file": "Gift_Rattenpilzgift.txt",
+    "_category": "Gift",
+    "_subcategory": "gift_pflanzen"
+  },
+  {
+    "name": "Schattenneblergift",
+    "stufe": 3,
+    "art": "Atemgift, pflanzlich",
+    "widerstand": "Zähigkeit",
+    "wirkung": "1 Stufe Verwirrung / –",
+    "beginn": "sofort",
+    "dauer": "5 Minuten",
+    "kosten": "- (kann nicht als Gift gewonnen werden; Wirkung verflüchtig sich nach 5 Minuten)",
+    "ap_wert": "–",
+    "publikationen": [],
+    "_source_file": "Gift_Schattenneblergift.txt",
+    "_category": "Gift",
+    "_subcategory": "gift_pflanzen"
+  },
+  {
+    "name": "Schwarzer Lotos",
+    "stufe": 4,
+    "art": "Atemgift, pflanzlich",
+    "widerstand": "Zähigkeit",
+    "wirkung": "Halluzinationen (2 Stufen Verwirrung) und nach jeweils 5 Minuten 1W6+2 SP / leichte Halluzinationen (1 Stufe Verwirrung) und nach jeweils 5 Minuten 1W3+1 SP",
+    "beginn": "sofort",
+    "dauer": "1 Stunde",
+    "kosten": "2.000 Silbertaler",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Kompendium 2",
+        "seite": 15
+      }
+    ],
+    "_source_file": "Gift_Schwarzer_Lotos.txt",
+    "_category": "Gift",
+    "_subcategory": "gift_pflanzen"
+  },
+  {
+    "name": "Schwarzkorn",
+    "stufe": 2,
+    "art": "Einnahmegift, pflanzlich",
+    "widerstand": "Zähigkeit",
+    "wirkung": "Nach zwei Wochen dauerhaften Verzehrs führt es zu 1 Stufe Betäubung, nach vier Wochen zu einer weiteren. Mehr als 2 Stufen Betäubung kann man durch Schwarzkorn nicht erleiden. Wer sich dauerhaft davon ernährt, baut die Stufen nicht ab.",
+    "beginn": "2 Wochen",
+    "dauer": "bis Schwarzkorn abgesetzt wird, danach 2 Wochen für 1 Stufe Betäubung / bis Schwarzkorn abgesetzt wird, danach 1 Woche für 1 Stufe Betäubung",
+    "kosten": "in Yol-Ghurmak und den Schattenlanden ca. 3 Heller, anderorts ein etwa 3 Silbertaler",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Eiserne Flammen",
+        "seite": 29
+      }
+    ],
+    "_source_file": "Gift_Schwarzkorn.txt",
+    "_category": "Gift",
+    "_subcategory": "gift_pflanzen"
+  },
+  {
+    "name": "Wurara",
+    "stufe": 2,
+    "art": "Einnahme- und Waffengift, pflanzlich",
+    "widerstand": "Zähigkeit",
+    "wirkung": "1W6 SP/Stunde, Sinnestäuschungen (2 Stufen Verwirrung) / 1W3 SP/Stunde, leichte Sinnestäuschungen (1 Stufe Verwirrung)",
+    "beginn": "3 Kampfrunden",
+    "dauer": "4 Stunden / 2 Stunden",
+    "kosten": "100 Silbertaler",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 342
+      }
+    ],
+    "_source_file": "Gift_Wurara.txt",
+    "_category": "Gift",
+    "_subcategory": "gift_pflanzen"
+  },
+  {
+    "name": "Arachnae",
+    "stufe": 2,
+    "art": "Waffengift, tierisch",
+    "widerstand": "Zähigkeit",
+    "wirkung": "-2 AT, -2 FK, -2 VW / -1 AT, -1 FK, -1 VW",
+    "beginn": "2 KR",
+    "dauer": "1 Stunde / 30 Minuten",
+    "kosten": "50 Silbertaler",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Kompendium 2",
+        "seite": 13
+      }
+    ],
+    "_source_file": "Gift_Arachnae.txt",
+    "_category": "Gift",
+    "_subcategory": "gift_tier"
+  },
+  {
+    "name": "Arax",
+    "stufe": 3,
+    "art": "Waffengift, tierisch",
+    "widerstand": "Zähigkeit",
+    "wirkung": "2 Stufen Paralyse / 1 Stufe Paralyse",
+    "beginn": "10 Minuten",
+    "dauer": "1 Tag / 12 Stunden",
+    "kosten": "100 Silbertaler",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 342
+      }
+    ],
+    "_source_file": "Gift_Arax.txt",
+    "_category": "Gift",
+    "_subcategory": "gift_tier"
+  },
+  {
+    "name": "Brabacudagift",
+    "stufe": 2,
+    "art": "Einnahmegift, tierisch",
+    "widerstand": "Zähigkeit",
+    "wirkung": "1W6 SP / 1W3 SP",
+    "beginn": "sofort",
+    "dauer": "einmalig",
+    "kosten": "wertlos",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Bestiarium",
+        "seite": 93
+      }
+    ],
+    "_source_file": "brba.txt",
+    "_category": "Gift",
+    "_subcategory": "gift_tier"
+  },
+  {
+    "name": "Charyb’Yzz’ Traum",
+    "stufe": 4,
+    "art": "Einnahmegift, tierisch",
+    "widerstand": "Zähigkeit",
+    "wirkung": "+2 KO, +2 KK, Proben auf Selbstbeherrschung um 2 erleichtert, +2 Verwirrung, 1W6 SP / +1 KO, +1 KK, Proben auf Selbstbeherrschung um 1 erleichtert, +1 Verwirrung, 1W3 SP",
+    "beginn": "5 Minuten",
+    "dauer": "1 Stunde / 30 Minuten",
+    "kosten": "50 Silbertaler",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Havena - Versunkene Geheimnisse",
+        "seite": 91
+      }
+    ],
+    "_source_file": "Charyb_Yzz_Traum.txt",
+    "_category": "Gift",
+    "_subcategory": "gift_tier"
+  },
+  {
+    "name": "Feuerzunge",
+    "stufe": 4,
+    "art": "Einnahmegift, tierisch",
+    "widerstand": "Zähigkeit",
+    "wirkung": "1W6–1 SP pro angefangener Stunde, geschwollene Zunge (Sprechen ist unmöglich) / 1W3–1 SP pro angefangener Stunde, leicht geschwollene Zunge (alle Proben, die Sprache erfordern –2)",
+    "beginn": "30 Minuten",
+    "dauer": "6 Stunden / 3 Stunden",
+    "kosten": "150 Silbertaler",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Kompendium 2",
+        "seite": 13
+      }
+    ],
+    "_source_file": "Gift_Feuerzunge.txt",
+    "_category": "Gift",
+    "_subcategory": "gift_tier"
+  },
+  {
+    "name": "Gelbschwanzskorpiongift",
+    "stufe": 3,
+    "art": "Einnahme- und Waffengift, tierisch",
+    "widerstand": "Zähigkeit",
+    "wirkung": "3 x 1W6 SP / 3 x 1W3 SP",
+    "beginn": "sofort",
+    "dauer": "Der Schaden entsteht in der 1., 4. und 10. KR nach dem Stich.",
+    "kosten": "600 Silbertaler",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Bestiarium",
+        "seite": 95
+      },
+      {
+        "buch": "Aventurisches Kompendium 2",
+        "seite": 14
+      }
+    ],
+    "_source_file": "gelbsch.txt",
+    "_category": "Gift",
+    "_subcategory": "gift_tier"
+  },
+  {
+    "name": "Ghulgift",
+    "stufe": 6,
+    "art": "Waffengift, tierisch",
+    "widerstand": "Zähigkeit",
+    "wirkung": "Der Erkrankte verwandelt sich binnen 1W3 Tagen in einen Ghul / 1 Stufe Paralyse.",
+    "beginn": "sofort",
+    "dauer": "permanent / 12 Stunden",
+    "kosten": null,
+    "ap_wert": "nicht extrahierbar, deshalb auch kein Preis",
+    "publikationen": [
+      {
+        "buch": "Aventurisches Bestiarium",
+        "seite": 25
+      }
+    ],
+    "_source_file": "Ghulgift.txt",
+    "_category": "Gift",
+    "_subcategory": "gift_tier"
+  },
+  {
+    "name": "Gonede",
+    "stufe": 4,
+    "art": "Waffengift, tierisch",
+    "widerstand": "Zähigkeit",
+    "wirkung": "1W6 SP nach jeweils 5 Minuten, Krämpfe, Zuckungen und Atemnot (2 Stufen Betäubung) / 1W3 SP nach jeweils 5 Minuten, leichte Krämpfe und Zuckungen (1 Stufe Betäubung)",
+    "beginn": "sofort",
+    "dauer": "30 Minuten / 15 Minuten",
+    "kosten": "750 Silbertaler",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Kompendium 2",
+        "seite": 14
+      }
+    ],
+    "_source_file": "Gift_Gonede.txt",
+    "_category": "Gift",
+    "_subcategory": "gift_tier"
+  },
+  {
+    "name": "Halluzinationsgift",
+    "stufe": 4,
+    "art": "Waffengift, tierisch",
+    "widerstand": "Zähigkeit",
+    "wirkung": "2 Stufen Verwirrung / 1 Stufe Verwirrung",
+    "beginn": "sofort",
+    "dauer": "10 KR",
+    "kosten": null,
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 21
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 369
+      }
+    ],
+    "_source_file": "GIFT_Tier_Halluzinationsgift.txt",
+    "_category": "Gift",
+    "_subcategory": "gift_tier"
+  },
+  {
+    "name": "Hautgift",
+    "stufe": 4,
+    "art": "Kontaktgift, tierisch",
+    "widerstand": "Zähigkeit",
+    "wirkung": "1W3–1 SP, 1 Stufe Betäubung / 1W2–1 SP",
+    "beginn": "sofort",
+    "dauer": "Die entstandene Betäubung baut sich pro Stunde um 1 Stufe ab.",
+    "kosten": null,
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 107
+      }
+    ],
+    "_source_file": "best_hautgift.txt",
+    "_category": "Gift",
+    "_subcategory": "gift_tier"
+  },
+  {
+    "name": "Hexenhornissengift",
+    "stufe": 3,
+    "art": "Waffengift, tierisch",
+    "widerstand": "Zähigkeit",
+    "wirkung": "1W6 SP / 1W3 SP",
+    "beginn": "sofort",
+    "dauer": "sofort",
+    "kosten": null,
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 111
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 499
+      }
+    ],
+    "_source_file": "gift_hexenhornissengift.txt",
+    "_category": "Gift",
+    "_subcategory": "gift_tier"
+  },
+  {
+    "name": "Hexenkrötengift",
+    "stufe": 4,
+    "art": "Kontakt- und Waffengift, tierisch",
+    "widerstand": null,
+    "wirkung": "1 Stufe Verwirrung / –",
+    "beginn": "5 KR",
+    "dauer": "30 Minuten / –",
+    "kosten": null,
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 500
+      }
+    ],
+    "_source_file": "Gift_Hexenkroetengift.txt",
+    "_category": "Gift",
+    "_subcategory": "gift_tier"
+  },
+  {
+    "name": "Hexenschlangengift",
+    "stufe": 3,
+    "art": "Waffengift, tierisch",
+    "widerstand": "Zähigkeit",
+    "wirkung": "1W3 SP / 1 SP",
+    "beginn": "sofort",
+    "dauer": "sofort",
+    "kosten": null,
+    "anmerkung": "Das Gift kann nicht extrahiert werden.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie III",
+        "seite": 117
+      },
+      {
+        "buch": "Die Streitenden Königreiche",
+        "seite": 166
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 501
+      }
+    ],
+    "_source_file": "gift_hexenschlangengift.txt",
+    "_category": "Gift",
+    "_subcategory": "gift_tier"
+  },
+  {
+    "name": "Hexenspinnengift",
+    "stufe": 3,
+    "art": "Waffengift, tierisch",
+    "widerstand": "Zähigkeit",
+    "wirkung": "1W6 SP / 1W3 SP (bei 4+ SP 1 Stufe Verwirrung)",
+    "beginn": "sofort",
+    "dauer": "sofort",
+    "kosten": null,
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 120
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 501
+      }
+    ],
+    "_source_file": "gift_hexenspinnengift.txt",
+    "_category": "Gift",
+    "_subcategory": "gift_tier"
+  },
+  {
+    "name": "Höhlenspinnengift",
+    "stufe": 4,
+    "art": "Waffengift, tierisch (komplex)",
+    "widerstand": "Zähigkeit",
+    "wirkung": "eine Stufe Paralyse / keine Auswirkungen",
+    "beginn": "3 KR",
+    "dauer": "24 Stunden / –",
+    "kosten": {
+      "kauf": "300 Silbertaler",
+      "verkauf": "75 Silbertaler"
+    },
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurischer Almanach",
+        "seite": 159
+      }
+    ],
+    "_source_file": "Hoehlenspin.txt",
+    "_category": "Gift",
+    "_subcategory": "gift_tier"
+  },
+  {
+    "name": "Königsskorpiongift",
+    "stufe": 3,
+    "art": "Waffengift, tierisch (komplex)",
+    "widerstand": "Zähigkeit",
+    "wirkung": "eine Stufe Paralyse / keine Auswirkungen",
+    "beginn": "sofort",
+    "dauer": "2 Stunden / –",
+    "kosten": {
+      "kauf": "300 Silbertaler",
+      "verkauf": "75 Silbertaler"
+    },
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Das Dornenreich",
+        "seite": 85
+      }
+    ],
+    "_source_file": "Gift_Koenigsskorpiongift.txt",
+    "_category": "Gift",
+    "_subcategory": "gift_tier"
+  },
+  {
+    "name": "Krötengift",
+    "stufe": 4,
+    "art": "Kontakt- und Waffengift, tierisch",
+    "widerstand": null,
+    "wirkung": "1 Stufe Verwirrung /–",
+    "beginn": "5 KR",
+    "dauer": "30 Minuten/–",
+    "kosten": null,
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 361
+      },
+      {
+        "buch": "Aventurische Tiergefährten",
+        "seite": 112
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 376
+      }
+    ],
+    "_source_file": "kroeten.txt",
+    "_category": "Gift",
+    "_subcategory": "gift_tier"
+  },
+  {
+    "name": "Kvillottergift",
+    "stufe": 3,
+    "art": "Einnahme- und Waffengift, tierisch",
+    "widerstand": "Zähigkeit",
+    "wirkung": "2 SP, 1 Stufe Paralyse / 1 SP, 1 Stufe Paralyse",
+    "beginn": "sofort",
+    "dauer": "Die entstandenen Stufen der Paralyse bauen sich pro Stunde um 1 Stufe wieder ab.",
+    "kosten": "600 Silbertaler",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Bestiarium",
+        "seite": 104
+      }
+    ],
+    "_source_file": "Kvillo.txt",
+    "_category": "Gift",
+    "_subcategory": "gift_tier"
+  },
+  {
+    "name": "Mantikorgift",
+    "stufe": 6,
+    "art": "Einnahme- und Waffengift, tierisch",
+    "widerstand": "Zähigkeit",
+    "wirkung": "1W6 SP, 1 Stufe Paralyse / 1W3 SP",
+    "beginn": "sofort",
+    "dauer": "4W6 KR / 2W6 KR",
+    "kosten": "1.000 Silbertaler",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Bestiarium",
+        "seite": 49
+      }
+    ],
+    "_source_file": "Mantigift.txt",
+    "_category": "Gift",
+    "_subcategory": "gift_tier"
+  },
+  {
+    "name": "Morfugift",
+    "stufe": 1,
+    "art": "Waffengift, tierisch",
+    "widerstand": "Zähigkeit",
+    "wirkung": "Anzahl der getroffenen Nadeln in SP / Anzahl der getroffenen Nadeln / 2 in SP",
+    "beginn": "sofort",
+    "dauer": "einmalig",
+    "kosten": "300 Silbertaler",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Bestiarium",
+        "seite": 55
+      }
+    ],
+    "_source_file": "Morfuguft.txt",
+    "_category": "Gift",
+    "_subcategory": "gift_tier"
+  },
+  {
+    "name": "Muränenbiss",
+    "stufe": 3,
+    "art": "Einnahme- und Waffengift, tierisch",
+    "widerstand": "Zähigkeit",
+    "wirkung": "1 SP/KR, schwere und düstere Halluzinationen (3 Stufen Verwirrung) / keine SP, düstere Halluzinationen (1 Stufe Verwirrung)",
+    "beginn": "2 KR",
+    "dauer": "3W6 KR / 2W6 KR",
+    "kosten": "200 Silbertaler",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Havena - Versunkene Geheimnisse",
+        "seite": 91
+      }
+    ],
+    "_source_file": "Muraenenbiss.txt",
+    "_category": "Gift",
+    "_subcategory": "gift_tier"
+  },
+  {
+    "name": "Omrais",
+    "stufe": 4,
+    "art": "Einnahme- und Waffengift, tierisch",
+    "widerstand": "Zähigkeit",
+    "wirkung": "1W6–1 SP pro KR, Brennen am ganzen Körper (1 Stufe Schmerz) / 1W3–1 SP pro KR, leichtes Brennen",
+    "beginn": "5 Minuten",
+    "dauer": "30 KR / 15 KR",
+    "kosten": "250 Silbertaler",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurischer Almanach",
+        "seite": 131
+      }
+    ],
+    "_source_file": "Gift_Omrais.txt",
+    "_category": "Gift",
+    "_subcategory": "gift_tier"
+  },
+  {
+    "name": "Quallengift",
+    "stufe": 3,
+    "art": "Kontaktgift, tierisch",
+    "widerstand": "Zähigkeit",
+    "wirkung": "1 Stufe Paralyse / –",
+    "beginn": "sofort",
+    "dauer": "bis zum Ende der lähmenden Wirkung (eine halbe Stunde pro Stufe des Zustands Paralyse)",
+    "kosten": "100 Silbertaler",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Divinarium Liturgia",
+        "seite": 448
+      },
+      {
+        "buch": "Unendlichkeit und Tiefenrausch",
+        "seite": 19
+      }
+    ],
+    "_source_file": "Gift_Quallengift.txt",
+    "_category": "Gift",
+    "_subcategory": "gift_tier"
+  },
+  {
+    "name": "Schattenrochengift",
+    "stufe": 4,
+    "art": "Einnahme- und Waffengift, tierisch",
+    "widerstand": "Zähigkeit",
+    "wirkung": "1W6 SP, +1 Betäubung / 1W3 SP",
+    "beginn": "sofort",
+    "dauer": "bis zum Ende der lähmenden Wirkung (3 Stunden pro Stufe des Zustands Betäubung)",
+    "kosten": "200 Silbertaler",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Divinarium Liturgia",
+        "seite": 450
+      },
+      {
+        "buch": "Divinarium Liturgia",
+        "seite": 457
+      },
+      {
+        "buch": "Unendlichkeit und Tiefenrausch",
+        "seite": 9
+      }
+    ],
+    "_source_file": "Gift_Schattenrochengift.txt",
+    "_category": "Gift",
+    "_subcategory": "gift_tier"
+  },
+  {
+    "name": "Schwarze-Witwen-Gift",
+    "stufe": 3,
+    "art": "Waffengift, tierisch",
+    "widerstand": "Zähigkeit",
+    "wirkung": "1W6 SP / 1W3 SP (bei 4+ SP 1 Stufe Verwirrung)",
+    "beginn": "sofort",
+    "dauer": "sofort",
+    "kosten": null,
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 224
+      },
+      {
+        "buch": "Aventurische Tiergefährten",
+        "seite": 113
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 378
+      }
+    ],
+    "_source_file": "GIFT_SchwarzeWitwenGift.txt",
+    "_category": "Gift",
+    "_subcategory": "gift_tier"
+  },
+  {
+    "name": "Seilschlangengift",
+    "stufe": 3,
+    "art": "Waffengift, tierisch",
+    "widerstand": "Zähigkeit",
+    "wirkung": "einmalig 1W6 SP / 1W3 SP",
+    "beginn": "2 KR",
+    "dauer": "sofort",
+    "kosten": "keine, Gift kann nicht extrahiert werden",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie",
+        "seite": 23
+      },
+      {
+        "buch": "Bannschwert, Stab & Magierkugel",
+        "seite": 14
+      }
+    ],
+    "_source_file": "Gift_Seilschlangengift.txt",
+    "_category": "Gift",
+    "_subcategory": "gift_tier"
+  },
+  {
+    "name": "Serpentialisgift",
+    "stufe": null,
+    "art": "Waffengift, tierisch; das Gift kommt nur zum Tragen, wenn durch eine Raufen AT mindestens 1 SP verursacht wird.",
+    "widerstand": "Zähigkeit",
+    "wirkung": "1W6–1 SP, 1 Stufe Paralyse / 1W3–1 SP, 1 Stufe Paralyse",
+    "beginn": "sofort",
+    "dauer": "Die entstandenen Stufen der Paralyse bauen sich pro Stunde um 1 Stufe ab.",
+    "kosten": null,
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 119
+      }
+    ],
+    "_source_file": "gift_serpentialisgift.txt",
+    "_category": "Gift",
+    "_subcategory": "gift_tier"
+  },
+  {
+    "name": "Speikobragift",
+    "stufe": 4,
+    "art": "Einnahme- und Waffengift, tierisch",
+    "widerstand": "Zähigkeit",
+    "wirkung": "1 SP pro KR",
+    "beginn": "sofort",
+    "dauer": "2W6 KR / 1W6 KR",
+    "kosten": "400 Silbertaler",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Bestiarium II",
+        "seite": 115
+      },
+      {
+        "buch": "Das Dornenreich",
+        "seite": 89
+      }
+    ],
+    "_source_file": "Gift_Speikobragift.txt",
+    "_category": "Gift",
+    "_subcategory": "gift_tier"
+  },
+  {
+    "name": "Stabschlangengift",
+    "stufe": 5,
+    "art": "Waffengift, tierisch",
+    "widerstand": "Zähigkeit",
+    "wirkung": "einmalig 1W6 SP, 2 Stufen / Schmerz / 1W3 SP, 1 Stufe",
+    "beginn": "2 KR",
+    "dauer": "30 Minuten / 15 Minuten",
+    "kosten": "keine, Gift kann nicht extrahiert werden",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Divinarium Liturgia",
+        "seite": 451
+      }
+    ],
+    "_source_file": "Stabschlangengift.txt",
+    "_category": "Gift",
+    "_subcategory": "gift_tier"
+  },
+  {
+    "name": "Sunsura",
+    "stufe": 3,
+    "art": "Einnahme- und Waffengift, tierisch",
+    "widerstand": "Zähigkeit",
+    "wirkung": "1W6+4 SP, Vergifteter erhält den Status Blutrausch für 5 KR, danach insgesamt 4 Stufen Betäubung / 1W3+2 SP, Vergifteter würfelt mit 1W20, bei 1-10 erhält er den Status Blutrausch.",
+    "beginn": "5 Minuten",
+    "dauer": "30 KR / 15 KR",
+    "kosten": "300 Silbertaler",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurischer Almanach",
+        "seite": 131
+      }
+    ],
+    "_source_file": "Gift_Sunsura.txt",
+    "_category": "Gift",
+    "_subcategory": "gift_tier"
+  },
+  {
+    "name": "Tinzal",
+    "stufe": 4,
+    "art": "Waffengift, tierisch",
+    "widerstand": "Zähigkeit",
+    "wirkung": "Atemnot, 1W6 SP pro angefangenen 5 Minuten (alle Proben, die körperliche Anstrengung erfordern –2) / 1W3 SP pro angefangenen 5 Minuten (alle Proben, die körperliche Anstrengung erfordern –1)",
+    "beginn": "5 Minuten",
+    "dauer": "30 Minuten / 15 Minuten",
+    "kosten": "450 Silbertaler",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Kompendium 2",
+        "seite": 15
+      }
+    ],
+    "_source_file": "Gift_Tinzal.txt",
+    "_category": "Gift",
+    "_subcategory": "gift_tier"
+  },
+  {
+    "name": "Totenbleiche",
+    "stufe": 4,
+    "art": "Einnahmegift, tierisch",
+    "widerstand": "Zähigkeit",
+    "wirkung": "1 Stufe Verwirrung pro zwei Tage, W6 SP pro Tag / 1 Stufe Verwirrung pro vier Tage, 1 SP pro Tag",
+    "beginn": "ein Tag",
+    "dauer": "bis zum Tod bzw. bis keine weitere Einnahme erfolgt",
+    "kosten": "10 Silbertaler",
+    "ap_wert": 10,
+    "publikationen": [
+      {
+        "buch": "Havena - Versunkene Geheimnisse",
+        "seite": 91
+      }
+    ],
+    "_source_file": "Totenbleiche.txt",
+    "_category": "Gift",
+    "_subcategory": "gift_tier"
+  },
+  {
+    "name": "Vogelspinnengift",
+    "stufe": 2,
+    "art": "Einnahme- und Waffengift, tierisch",
+    "widerstand": "Zähigkeit",
+    "wirkung": "1W6 SP / 1W3 SP",
+    "beginn": "sofort",
+    "dauer": "sofort",
+    "kosten": "100 Silbertaler",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Bestiarium",
+        "seite": 117
+      },
+      {
+        "buch": "Aventurisches Kompendium 2",
+        "seite": 15
+      }
+    ],
+    "_source_file": "Vogelspin.txt",
+    "_category": "Gift",
+    "_subcategory": "gift_tier"
+  },
+  {
+    "name": "Wolfsspinnengift",
+    "stufe": 4,
+    "art": "Einnahme- und Waffengift, tierisch",
+    "widerstand": "Zähigkeit",
+    "wirkung": "1W6 SP / 1W3 SP (bei 4+ SP 1 Stufe Paralyse)",
+    "beginn": "sofort",
+    "dauer": "sofort",
+    "kosten": "100 Silbertaler",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Götterwirken",
+        "seite": 127
+      },
+      {
+        "buch": "Divinarium Liturgia",
+        "seite": 452
+      }
+    ],
+    "_source_file": "Wolfsspinnengift.txt",
+    "_category": "Gift",
+    "_subcategory": "gift_tier"
+  },
+  {
+    "name": "Zibiljabienengift",
+    "stufe": 3,
+    "art": "Waffengift, tierisch",
+    "widerstand": "Zähigkeit",
+    "wirkung": "1W6–1 SP / 1W3–1 SP",
+    "beginn": "sofort",
+    "dauer": "sofort",
+    "kosten": null,
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie 3",
+        "seite": 49
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 206
+      }
+    ],
+    "_source_file": "Gift_Zibiljabienengift.txt",
+    "_category": "Gift",
+    "_subcategory": "gift_tier"
+  }
+]

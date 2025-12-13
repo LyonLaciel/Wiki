@@ -1,0 +1,268 @@
+[
+  {
+    "name": "Eidsegen",
+    "wirkung": "Der Geweihte lässt jemanden einen Eid ablegen. Der Gesegnete empfindet den Eid als bindend und kann sich diesem nur durch eine Probe entziehen. Der Eidsprechende muss den Eid freiwillig leisten. Der Eid kann nur durch eine Probe auf Willenskraft erschwert um -1 gebrochen werden.",
+    "reichweite": "4 Schritt",
+    "wirkungsdauer": "1 Jahr",
+    "zielkategorie": "Kulturschaffende",
+    "aspekt": "Allgemein",
+    "anmerkung": "Verbreitung: allgemein, Praios, Chr’Ssir’Ssr, Ifirn, Kor, Marbo, Nandus, Numinoru, Shinxir, Swafnir",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 322
+      },
+      {
+        "buch": "Divinarium Liturgia",
+        "seite": 10
+      }
+    ],
+    "_source_file": "Eidsegen.txt",
+    "_category": "Segen"
+  },
+  {
+    "name": "Feuersegen",
+    "wirkung": "Auf der Handfläche oder dem Zeigefinger des Geweihten entsteht eine kleine Flamme, die einen Raum erhellt oder ausreicht, um eine Kerze zu entzünden. Der Geweihte kann durch die Flamme nicht verletzt werden (wohl aber durch Flammen, die durch den Feuersegen entzündet werden). Die Helligkeit der Flamme entspricht einer gewöhnlichen Kerze normaler Machart.",
+    "reichweite": "selbst",
+    "wirkungsdauer": "5 Minuten",
+    "zielkategorie": "Kulturschaffende",
+    "aspekt": "Allgemein",
+    "anmerkung": "Verbreitung: allgemein, Ingerimm, Aves, Ifirn, Kor, Levthan, Marbo, Shinxir",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 322
+      },
+      {
+        "buch": "Divinarium Liturgia",
+        "seite": 10
+      }
+    ],
+    "_source_file": "Feuersegen.txt",
+    "_category": "Segen"
+  },
+  {
+    "name": "Geburtssegen",
+    "wirkung": "Ein Neugeborenes wird gesegnet und in die Gemeinschaft der Gläubigen aufgenommen. Es ist bis zum Ende der Wirkungsdauer vor dem Raub durch Kobolde, Feen und niedere Dämonen geschützt.",
+    "reichweite": "Berührung",
+    "wirkungsdauer": "in Zwölfgötterkirchen und bei anderen menschlichen Kulten bis zum 12. Lebensjahr, bei Achaz bis zur zweiten Häutung, bei Zwergen bis zur Feuertaufe",
+    "zielkategorie": "Kulturschaffende",
+    "aspekt": "Allgemein",
+    "anmerkung": "Verbreitung: allgemein, Tsa, Aves, Ifirn, Levthan, Nandus",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 322
+      },
+      {
+        "buch": "Divinarium Liturgia",
+        "seite": 10
+      }
+    ],
+    "_source_file": "Geburtssegen.txt",
+    "_category": "Segen"
+  },
+  {
+    "name": "Glückssegen",
+    "wirkung": "Der Gesegnete hat einmal während der Wirkungsdauer der Segnung ein Fünkchen Glück. Er kann nach dem Ablegen einer Fertigkeitsprobe 1 FP hinzuaddieren, um z. B. eine höhere Qualitätsstufe zu erreichen. Diese Segnung kann bspw. dabei helfen, eine Probe doch noch zu bestehen oder eine höhere QS zu erreichen.",
+    "reichweite": "Berührung",
+    "wirkungsdauer": "12 Stunden",
+    "zielkategorie": "Kulturschaffende",
+    "aspekt": "Allgemein",
+    "anmerkung": "Verbreitung: allgemein, Phex, Aves, Chr’Ssir’Ssr, Kor, Levthan, Nandus, Numinoru, Swafnir",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 323
+      },
+      {
+        "buch": "Divinarium Liturgia",
+        "seite": 11
+      }
+    ],
+    "_source_file": "Glückssegen.txt",
+    "_category": "Segen"
+  },
+  {
+    "name": "Grabsegen",
+    "wirkung": "Das Grab eines Verstorbenen wird gesegnet. Um die Leiche auszugraben und das Grab zu entweihen, muss dem Grabräuber eine Probe auf Willenskraft (Bedrohungen standhalten) erschwert um –1 gelingen. Bei Misslingen verspürt er ein Unwohlsein, das ihn von der Grabschändung abhält. Nekromantische Zauber auf die Leiche sind um –1 erschwert, solange der Körper sich im gesegneten Grab befindet.",
+    "reichweite": "Berührung",
+    "wirkungsdauer": "12 Monate",
+    "zielkategorie": "Zone",
+    "aspekt": "Allgemein",
+    "anmerkung": "Verbreitung: allgemein, Boron, Ifirn, Kor, Levthan, Marbo, Nandus, Shinxir, Swafnir",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 323
+      },
+      {
+        "buch": "Divinarium Liturgia",
+        "seite": 11
+      }
+    ],
+    "_source_file": "Grabsegen.txt",
+    "_category": "Segen"
+  },
+  {
+    "name": "Harmoniesegen",
+    "wirkung": "Wer durch einen Harmoniesegen gesegnet wurde, der erfreut sich einen ganzen Tag lang positiver Gefühle. Alle Effekte, die Furcht auslösen, erhalten eine Erschwernis von –1.",
+    "reichweite": "Berührung",
+    "wirkungsdauer": "12 Stunden",
+    "zielkategorie": "Kulturschaffende",
+    "aspekt": "Allgemein",
+    "anmerkung": {
+      "verbreitung": "allgemein, Rahja, Aves, Ifirn, Levthan, Marbo, Nandus, Swafnir"
+    },
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 323
+      },
+      {
+        "buch": "Divinarium Liturgia",
+        "seite": 12
+      }
+    ],
+    "_source_file": "Harmoniesegen.txt",
+    "_category": "Segen"
+  },
+  {
+    "name": "Kleiner Heilsegen",
+    "wirkung": "Der Gesegnete erhält 1 Lebenspunkt zurück. Die Person kann nur einmal am Tag von dieser Segnung profitieren.",
+    "reichweite": "Berührung",
+    "wirkungsdauer": "sofort",
+    "zielkategorie": "Kulturschaffende",
+    "aspekt": "Allgemein",
+    "anmerkung": "Verbreitung: allgemein, Peraine, Aves, Chr’Ssir’Ssr, Ifirn, Levthan, Marbo, Nandus, Numinoru, Swafnir",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 323
+      },
+      {
+        "buch": "Divinarium Liturgia",
+        "seite": 12
+      }
+    ],
+    "_source_file": "Kleiner+Heilsegen.txt",
+    "_category": "Segen"
+  },
+  {
+    "name": "Kleiner Schutzsegen",
+    "wirkung": "Der Schutzsegen kann einige als unheilig geltende Wesen fernhalten. Folgende Typen von Wesen können aufgehalten werden: Untote (Hirnlose) und Dämonen (niedere Dämonen). Beim Wirken des kleinen Schutzsegens muss entschieden werden, welcher von beiden Typen aufgehalten wird. Das Wesen kann während der Wirkungsdauer das gesegnete Gebiet nicht betreten. Ist das Wesen gezwungen, das Gebiet zu betreten, dann versucht es sofort, sich wieder aus der Zone zurückzuziehen.",
+    "reichweite": "4 Schritt",
+    "wirkungsdauer": "4 Kampfrunden",
+    "zielkategorie": "Zone",
+    "aspekt": "Allgemein",
+    "anmerkung": "Verbreitung: allgemein, Rondra, Aves, Ifirn, Kor, Marbo, Shinxir, Swafnir",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 323
+      },
+      {
+        "buch": "Divinarium Liturgia",
+        "seite": 12
+      }
+    ],
+    "_source_file": "Kleiner+Schutzsegen.txt",
+    "_category": "Segen"
+  },
+  {
+    "name": "Speisesegen",
+    "wirkung": "Das gesegnete Essen ist wohlschmeckend und nahrhaft. Gifte bis Stufe 2 und Verunreinigungen in der Speise werden neutralisiert. Die Segnung reicht für eine Portion.",
+    "reichweite": "Berührung",
+    "wirkungsdauer": "sofort",
+    "zielkategorie": "Objekte",
+    "aspekt": "Allgemein",
+    "anmerkung": "Verbreitung: allgemein, Travia, Aves, Ifirn, Kor, Levthan, Nandus",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 323
+      },
+      {
+        "buch": "Divinarium Liturgia",
+        "seite": 13
+      }
+    ],
+    "_source_file": "Speisesegen.txt",
+    "_category": "Segen"
+  },
+  {
+    "name": "Stärkungssegen",
+    "wirkung": "Das Ziel verspürt keine Mattigkeit und Erschöpfung mehr. Es kann bei genau einer Probe auf Selbstbeherrschung während der Wirkungsdauer einen Würfel neu würfeln (wie unter dem Einsatz des Vorteils Begabung). Pro Tag kann nur ein Stärkungssegen auf eine Person angewandt werden. Nachdem die Segnung genutzt wurde, ist sie verbraucht.",
+    "reichweite": "selbst",
+    "wirkungsdauer": "12 Kampfrunden",
+    "zielkategorie": "Kulturschaffende",
+    "aspekt": "Allgemein",
+    "anmerkung": "Verbreitung: allgemein, Firun, Aves, Chr’Ssir’Ssr, Ifirn, Kor, Levthan, Marbo, Numinoru, Shinxir, Swafnir",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 323
+      },
+      {
+        "buch": "Divinarium Liturgia",
+        "seite": 13
+      }
+    ],
+    "_source_file": "Stärkungssegen.txt",
+    "_category": "Segen"
+  },
+  {
+    "name": "Tranksegen",
+    "wirkung": "Wer von dem gesegneten Getränk trinkt, fühlt sich erfrischt. Gifte bis Stufe 2 und Verunreinigungen im Getränk werden neutralisiert. Die Segnung reicht für einen Liter.",
+    "reichweite": "Berührung",
+    "wirkungsdauer": "sofort",
+    "zielkategorie": "Objekte",
+    "aspekt": "Allgemein",
+    "anmerkung": "Verbreitung: allgemein, Efferd, Aves, Chr’Ssir’Ssr, Kor, Levthan, Marbo, Nandus, Numinoru, Shinxir, Swafnir",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 323
+      },
+      {
+        "buch": "Divinarium Liturgia",
+        "seite": 13
+      }
+    ],
+    "_source_file": "Tranksegen.txt",
+    "_category": "Segen"
+  },
+  {
+    "name": "Weisheitssegen",
+    "wirkung": "Der Gesegnete wird von Weisheit erfüllt. Er kann die Lösung eines Problems besser erfassen und bei genau einer Probe auf ein Wissenstalent während der Wirkungsdauer einen Würfel neu würfeln (wie unter dem Einsatz des Vorteils Begabung). Pro Tag kann nur ein Weisheitssegen auf eine Person angewandt werden. Nachdem die Segnung genutzt wurde, ist sie verbraucht.",
+    "reichweite": "Berührung",
+    "wirkungsdauer": "12 Stunden",
+    "zielkategorie": "Kulturschaffende",
+    "aspekt": "Allgemein",
+    "anmerkung": "Verbreitung: allgemein, Hesinde, Chr’Ssir’Ssr, Kor, Marbo, Nandus, Numinoru, Swafnir",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 323
+      },
+      {
+        "buch": "Divinarium Liturgia",
+        "seite": 14
+      }
+    ],
+    "_source_file": "Weisheitssegen.txt",
+    "_category": "Segen"
+  }
+]

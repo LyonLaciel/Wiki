@@ -1,0 +1,1099 @@
+[
+  {
+    "name": "Albenhuser Plattenharnisch",
+    "rs": 6,
+    "be": 3,
+    "zusaetzliche_abzuege": "-",
+    "gewicht": "12 Stein",
+    "preis": "275 S",
+    "komplexitaet": "komp (3 AP)",
+    "anmerkung": "Der Albenhuser Plattenharnisch ist eine Variante der Plattenrüstung.",
+    "ruestungsvorteil": "Gegen Waffen der Kampftechniken Dolche, Fechtwaffen und Lanzen schützt der Albenhuser Plattenharnisch mit einem RS von 7.",
+    "ruestungsnachteil": "Gegen Waffen der Kampftechniken Kettenwaffen und Zweihandhiebwaffen schützt der Albenhuser Plattenharnisch nur mit einem RS von 3. Gegenüber Angriffen von hinten schützt der Albenhuser Plattenharnisch nur mit einem RS von 1.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "https://dsa.ulisses-regelwiki.de/albenhuser-plattenharnisch.html",
+        "seite": null
+      }
+    ],
+    "_source_file": "albenhuser-plattenharnisch.txt",
+    "_category": "Ruestung"
+  },
+  {
+    "name": "Amazonenrüstung",
+    "rs": 6,
+    "be": 3,
+    "zusaetzliche_abzuege": "-",
+    "gewicht": "8 Stein",
+    "preis": "600 S",
+    "komplexitaet": "komp (2 AP)",
+    "anmerkung": "Die Amazonenrüstung ist eine Variante der Plattenrüstung. Die GE-Teilprobe bei Reiten ist beim Tragen einer Amazonenrüstung nicht um die BE erschwert.",
+    "ruestungsvorteil": "Die BE beträgt nur 2.",
+    "ruestungsnachteil": "Bei einem Treffer muss zusätzlich mit 1W6 gewürfelt werden. Bei einer 1 besteht nur ein RS von 0, bei einer 2 ein RS von 2 und bei einer 3 ein RS von 4. Bei einem Ergebnis von 4-6 schützte die Amazonenrüstung wie gewohnt mit RS 6",
+    "cumulative_ap": null,
+    "ap_wert": 2,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer II",
+        "seite": 72
+      },
+      {
+        "buch": "Aventurisches Götterwirken",
+        "seite": 234
+      },
+      {
+        "buch": "Straßenstaub & Halsabschneider",
+        "seite": 35
+      }
+    ],
+    "_source_file": "amazonenruestung-6443.txt",
+    "_category": "Ruestung"
+  },
+  {
+    "name": "Baburischer Spiegelpanzer (Alkadoresh)",
+    "rs": 4,
+    "be": 2,
+    "zusaetzliche_abzuege": "-",
+    "gewicht": "10 Stein",
+    "preis": "380 S",
+    "komplexitaet": "komp (3 AP)",
+    "anmerkung": "Der Baburischer Spiegelpanzer ist eine Variante der Kettenrüstung.",
+    "ruestungsvorteil": "Gegen Waffen der Kampftechniken\nSchwerter\nund\nStangenwaffen\nschützt der Spiegelpanzer mit RS 5.",
+    "ruestungsnachteil": "Gegen Waffen der Kampftechniken\nHiebwaffen,\nKettenwaffen\nund\nZweihandhiebwaffen\nschützt der Baburische Spiegelpanzer mit RS 3.",
+    "cumulative_ap": null,
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Das Dornenreich",
+        "seite": 148
+      },
+      {
+        "buch": "Rüstkammer des Dornenreiches",
+        "seite": 15
+      }
+    ],
+    "_source_file": "Ruestung_BaburischerSpiegelpanzer.txt",
+    "_category": "Ruestung"
+  },
+  {
+    "name": "Brigantina",
+    "rs": 2,
+    "be": 1,
+    "zusaetzliche_abzuege": "-",
+    "gewicht": "3,5 Stein",
+    "preis": "70 S",
+    "komplexitaet": "einf",
+    "anmerkung": "Die Brigantina ist eine Variante der Stoffrüstung. Um eine Brigantina als Rüstung zu erkennen, ist für einen Unwissenden eine Probe auf Sinnesschärfe (Suchen oder Wahrnehmen) erschwert um –2 notwendig.",
+    "ruestungsvorteil": "Gegen Waffen der Kampftechniken Dolche und Fechtwaffen schützt die Brigantina mit RS 3.",
+    "ruestungsnachteil": "Die Brigantina verursacht einen Abzug von 1 auf INI.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Rüstkammer der Sonnenküste",
+        "seite": 14
+      }
+    ],
+    "_source_file": "RS_Ruestung_brigantina.txt",
+    "_category": "Ruestung"
+  },
+  {
+    "name": "Bronzeharnisch",
+    "rs": 6,
+    "be": 3,
+    "zusaetzliche_abzuege": "-",
+    "gewicht": "12 Stein",
+    "preis": "250 S",
+    "komplexitaet": "einf",
+    "anmerkung": "Der Bronzeharnisch ist eine Variante der Plattenrüstung.",
+    "ruestungsvorteil": "Gegen Waffen der Kampftechniken Dolche und Fechtwaffen schützt der Bronzeharnisch mit RS 7.",
+    "ruestungsnachteil": "Gegen Waffen der Kampftechniken Hiebwaffen, Kettenwaffen und Zweihandhiebwaffen schützt der Bronzeharnisch nur mit RS 3. Proben auf Körperbeherrschung (Kampfmanöver) sind um 1 erschwert.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer II",
+        "seite": 73
+      },
+      {
+        "buch": "Rüstkammer der Sonnenküste",
+        "seite": 14
+      }
+    ],
+    "_source_file": "bronzeharnisch.txt",
+    "_category": "Ruestung"
+  },
+  {
+    "name": "Eisenmantel",
+    "rs": 3,
+    "be": 1,
+    "zusaetzliche_abzuege": "-1 GS, -1 INI",
+    "gewicht": "7 Stein",
+    "preis": "200 S",
+    "komplexitaet": "einf",
+    "anmerkung": "Der Eisenmantel ist eine Variante der Lederrüstung. Um einen Eisenmantel als Rüstung zu erkennen, ist für einen Unwissenden eine Probe auf Sinnesschärfe (Suchen oder Wahrnehmen) erschwert um 1 notwendig.",
+    "ruestungsvorteil": "Gegen Waffen der Kampftechniken Dolche und Fechtwaffen schützt der Eisenmantel mit RS 4.",
+    "ruestungsnachteil": "Bei den zusätzlichen Abzügen wird der Abzug für INI verdoppelt.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "https://dsa.ulisses-regelwiki.de/eisenmantel.html",
+        "seite": null
+      }
+    ],
+    "_source_file": "eisenmantel.txt",
+    "_category": "Ruestung"
+  },
+  {
+    "name": "Elburische Tuchrüstung (Elburesh)",
+    "rs": 2,
+    "be": 1,
+    "zusaetzliche_abzuege": "-",
+    "gewicht": "3 Stein",
+    "preis": "50 S",
+    "komplexitaet": "einf",
+    "anmerkung": "Die Elburische Tuchrüstung ist eine Variante der Stoffrüstung.",
+    "ruestungsvorteil": "Bei Fertigkeitsproben auf Klettern, Körperbeherrschung und Verbergen kommt die BE der Elburischen Tuchrüstung nicht zum Tragen.",
+    "ruestungsnachteil": "Gegen Waffen der Kampftechniken Dolche, Schwerter und Zweihandschwerter schützt die Elburische Tuchrüstung mit RS 1.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Das Dornenreich",
+        "seite": 148
+      },
+      {
+        "buch": "Rüstkammer des Dornenreiches",
+        "seite": 14
+      }
+    ],
+    "_source_file": "Ruestung_ElburischeTuchruestung.txt",
+    "_category": "Ruestung"
+  },
+  {
+    "name": "Fellrüstung",
+    "rs": 0,
+    "be": 0,
+    "zusaetzliche_abzuege": "-",
+    "gewicht": "1,5 Stein",
+    "preis": "20 S",
+    "komplexitaet": "prim",
+    "anmerkung": "Die Fellrüstung ist eine Variante der normalen Kleidung.",
+    "ruestungsvorteil": "Die Fellrüstung bietet eine Kälteschutzstufe.",
+    "ruestungsnachteil": "Der Träger der Fellrüstung erhält einen Abzug von 1 auf INI.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "https://dsa.ulisses-regelwiki.de/fellruestung.html",
+        "seite": null
+      }
+    ],
+    "_source_file": "fellruestung.txt",
+    "_category": "Ruestung"
+  },
+  {
+    "name": "Fellrüstung (schwere Kleidung)",
+    "rs": 1,
+    "be": 0,
+    "zusaetzliche_abzuege": "-1 GS, -1 INI",
+    "gewicht": "1,5 Stn",
+    "preis": "20 S",
+    "komplexitaet": "prim",
+    "anmerkung": "Die Fellrüstung ist eine Variante der schweren Kleidung.",
+    "ruestungsvorteil": "Die Fellrüstung bietet 1 Kälteschutzstufe.",
+    "ruestungsnachteil": "Der Träger der Fellrüstung erhält einen Abzug von –1 auf INI.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Orks - Hauer & Schwarzer Pelz",
+        "seite": 54
+      }
+    ],
+    "_source_file": "Ausr_Ruestung_FellruestungSchwer.txt",
+    "_category": "Ruestung"
+  },
+  {
+    "name": "Fünflagenharnisch",
+    "rs": 3,
+    "be": 1,
+    "zusaetzliche_abzuege": "-1 GS, -1 INI",
+    "gewicht": "7 Stein",
+    "preis": "200 S",
+    "komplexitaet": "einf",
+    "anmerkung": "Der Fünflagenharnisch ist eine Variante der Lederrüstung. Um einen Fünflagenharnisch als Rüstung zu erkennen, ist für einen Unwissenden eine Probe auf Sinnesschärfe (Suchen oder Wahrnehmen) erschwert um 1 notwendig.",
+    "ruestungsvorteil": "Gegen Waffen der Kampftechniken Dolche und Fechtwaffen schützt der Fünflagenharnisch mit RS 4",
+    "ruestungsnachteil": "Bei den zusätzlichen Abzügen wird der Abzug für GS verdoppelt.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer II",
+        "seite": 76
+      },
+      {
+        "buch": "Rüstkammer der Sonnenküste",
+        "seite": 15
+      }
+    ],
+    "_source_file": "fuenflagenharnisch.txt",
+    "_category": "Ruestung"
+  },
+  {
+    "name": "Gambeson",
+    "rs": 2,
+    "be": 1,
+    "zusaetzliche_abzuege": "-",
+    "gewicht": "3 Stein",
+    "preis": "105 S",
+    "komplexitaet": "einf",
+    "anmerkung": "Der Gambeson ist eine Variante der Stoffrüstung. Er bietet eine Kälteschutzstufe.",
+    "ruestungsvorteil": "Gegen Waffen der Kampftechniken Hiebwaffen und Zweihandhiebwaffen schützt der Gambeson mit RS 3.",
+    "ruestungsnachteil": "Gegen Waffen der Kampftechniken Dolche, Fechtwaffen und Schwerter schützt der Gambeson nur mit RS 1.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "https://dsa.ulisses-regelwiki.de/gambeson.html",
+        "seite": null
+      }
+    ],
+    "_source_file": "gambeson.txt",
+    "_category": "Ruestung"
+  },
+  {
+    "name": "Garether Platte",
+    "rs": 6,
+    "be": 3,
+    "zusaetzliche_abzuege": "-",
+    "gewicht": "34 Stein",
+    "preis": "1800 S",
+    "komplexitaet": "komp (4 AP)",
+    "anmerkung": "Die Garether Platte ist eine Variante der Gestechrüstung.",
+    "ruestungsvorteil": "Gegen Waffen der Kampftechniken Dolche, Fechtwaffen und Schwerter schützt die Garether Platte mit RS 7. Die Abzüge auf GS und INI durch die Garether Platte sind halbiert.",
+    "ruestungsnachteil": "Gegen Waffen der Kampftechniken Hiebwaffen, Kettenwaffen und Zweihandhiebwaffen schützt die Garether Platte mit RS 4.",
+    "cumulative_ap": null,
+    "ap_wert": 4,
+    "publikationen": [
+      {
+        "buch": "https://dsa.ulisses-regelwiki.de/garether-platte.html",
+        "seite": null
+      }
+    ],
+    "_source_file": "garether-platte.txt",
+    "_category": "Ruestung"
+  },
+  {
+    "name": "Gladiatorenrüstung",
+    "rs": 3,
+    "be": 1,
+    "zusaetzliche_abzuege": "-1 GS, -1 INI",
+    "gewicht": "4 Stein",
+    "preis": "100 S",
+    "komplexitaet": "einf",
+    "anmerkung": "Die Gladiatorenrüstung ist eine Variante der Lederrüstung.",
+    "ruestungsvorteil": "Der Träger der Gladiatorenrüstung kann beide zusätzlichen Abzüge durch die Rüstung ignorieren.",
+    "ruestungsnachteil": "Bei einem Treffer muss zusätzlich mit 1W6 gewürfelt werden. Bei einer 1 besteht nur ein RS von 0, bei einer 2 ein RS von 1. Bei einem Ergebnis von 3-6 schützt die Gladiatorenrüstung wie gewohnt mit RS 3.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Gladiator",
+        "seite": 47
+      }
+    ],
+    "_source_file": "gladiatorenruestung.txt",
+    "_category": "Ruestung"
+  },
+  {
+    "name": "Hartholzharnisch",
+    "rs": 4,
+    "be": 2,
+    "zusaetzliche_abzuege": "-",
+    "gewicht": "10 Stein",
+    "preis": "300 S",
+    "komplexitaet": "einf",
+    "anmerkung": "Der Hartholzharnisch ist eine Variante der Holzrüstung.",
+    "ruestungsvorteil": "Der Träger bleibt aufgrund der Lackierung des Hartholzharnisches von kleinen Plagegeistern wie Parasiten und Moskitos verschont.",
+    "ruestungsnachteil": "Gegen Waffen der Kampftechniken Hiebwaffen und Zweihandhiebwaffen schützt der Hartholzharnisch mit RS 2.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer II",
+        "seite": 81
+      }
+    ],
+    "_source_file": "hartholzharnisch.txt",
+    "_category": "Ruestung"
+  },
+  {
+    "name": "Havener Lederharnisch",
+    "rs": 3,
+    "be": 1,
+    "zusaetzliche_abzuege": "-1 GS, -1 INI",
+    "gewicht": "5 Stein",
+    "preis": "180 S",
+    "komplexitaet": "einf",
+    "anmerkung": "Der Havener Lederharnisch ist eine Variante der Lederrüstung.",
+    "ruestungsvorteil": "Der Träger eines Havener Lederharnischs erleidet keine Erschwernis durch die BE der Rüstung bei Proben auf Körperbeherrschung (Balance und Kampfmanöver).",
+    "ruestungsnachteil": "Gegen Fernkampfwaffen schützt der Havener Lederharnisch nur mit RS 2.",
+    "cumulative_ap": null,
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Die Rüstkammer der Siebenwindküste",
+        "seite": 19
+      },
+      {
+        "buch": "Havena - Versunkene Geheimnisse",
+        "seite": 88
+      }
+    ],
+    "_source_file": "havener-lederharnisch.txt",
+    "_category": "Ruestung"
+  },
+  {
+    "name": "Hornrüstung",
+    "rs": 3,
+    "be": 1,
+    "zusaetzliche_abzuege": "-1 GS, -1 INI",
+    "gewicht": "10 Stein",
+    "preis": "140 S",
+    "komplexitaet": "prim",
+    "anmerkung": "Die Hornrüstung ist eine Variante der Lederrüstung.",
+    "ruestungsvorteil": "keine",
+    "ruestungsnachteil": "keine",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer II",
+        "seite": 82
+      },
+      {
+        "buch": "Orks - Hauer & Schwarzer Pelz",
+        "seite": 54
+      }
+    ],
+    "_source_file": "hornruestung.txt",
+    "_category": "Ruestung"
+  },
+  {
+    "name": "Ifirnsmantel",
+    "rs": 1,
+    "be": 0,
+    "zusaetzliche_abzuege": "-1 GS, -1 INI",
+    "gewicht": "2 Stein",
+    "preis": "150 S",
+    "komplexitaet": "einf",
+    "anmerkung": "Der Ifirnsmantel ist eine Variante der schweren Kleidung. Die Rüstung ist nur von Ifirngeweihten erwerbbar.",
+    "ruestungsvorteil": "Gegen Waffen der Kampftechniken Hiebwaffen und Zweihandhiebwaffen schützt der Ifirnsmantel mit RS 2. Außerdem bietet er zwei Kälteschutzstufen.",
+    "ruestungsnachteil": "Gegen Waffen der Kampftechniken Dolche, Fechtwaffen und Schwerter schützt der Ifirnsmantel mit RS 0.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer II",
+        "seite": 83
+      },
+      {
+        "buch": "Aventurisches Götterwirken",
+        "seite": 235
+      },
+      {
+        "buch": "Straßenstaub & Halsabschneider",
+        "seite": 35
+      }
+    ],
+    "_source_file": "ifirnmantel-6462.txt",
+    "_category": "Ruestung"
+  },
+  {
+    "name": "Isnatoscher Kettengeflecht",
+    "rs": 4,
+    "be": 2,
+    "zusaetzliche_abzuege": "-",
+    "gewicht": "8 Stein",
+    "preis": "320 S",
+    "komplexitaet": "komp (2 AP)",
+    "anmerkung": "Das Isnatoscher Kettengeflecht ist eine Variante der Kettenrüstung. Um die Rüstung bei der Heldenerschaffung zu erwerben, muss der Held der Kultur Erzzwerge angehören.",
+    "ruestungsvorteil": "Gegen Ungeheuer verfügt das Isnatoscher Kettengeflecht über einen RS von 5. Einbußen auf GS und INI durch BE oder zusätzliche Abzüge von Rüstungen werden halbiert (abgerundet).",
+    "ruestungsnachteil": "Gegen Waffen der Kampftechniken Dolche und Fechtwaffen schützt das Isnatoscher Kettengeflecht nur mit RS 3. Sinnesschärfe-Probe, um den Träger eines Isnatoscher Kettengeflechts zu bemerken, sind um 1 erleichtert.",
+    "ap_wert": 2,
+    "publikationen": [
+      {
+        "buch": "https://dsa.ulisses-regelwiki.de/isnatoscher-kettengeflecht.html",
+        "seite": null
+      }
+    ],
+    "_source_file": "isnatoscher-kettengeflecht.txt",
+    "_category": "Ruestung"
+  },
+  {
+    "name": "Kettenhemd",
+    "rs": 4,
+    "be": 2,
+    "zusaetzliche_abzuege": "-",
+    "gewicht": "10 Stein",
+    "preis": "250 S",
+    "komplexitaet": "einf",
+    "anmerkung": "Das Kettenhemd ist eine Variante der Kettenrüstung.",
+    "ruestungsvorteil": "Gegen Waffen der Kampftechniken Armbrüste, Bögen, Dolche und Schwerter schützt das Kettenhemd mit RS 5.",
+    "ruestungsnachteil": "Sinnesschärfe-Proben, um einen Kettenhemdträger zu bemerken, sind um 1 erleichtert.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "https://dsa.ulisses-regelwiki.de/kettenhemd.html",
+        "seite": null
+      }
+    ],
+    "_source_file": "kettenhemd.txt",
+    "_category": "Ruestung"
+  },
+  {
+    "name": "Kettenweste",
+    "rs": 4,
+    "be": 2,
+    "zusaetzliche_abzuege": "-",
+    "gewicht": "8 Stein",
+    "preis": "200 S",
+    "komplexitaet": "einf",
+    "anmerkung": "Die Kettenweste ist eine Variante der Kettenrüstung.",
+    "ruestungsvorteil": "Gegen Waffen der Kampftechniken Armbrüste, Bögen, Dolche und Schwerter schützt die Kettenweste mit RS 5.",
+    "ruestungsnachteil": "Sinnesschärfe-Proben, um einen Kettenwestenträger zu bemerken, sind um 1 erleichtert. Bei einem Treffer muss zusätzlich mit 1W6 gewürfelt werden. Bei einer 1 besteht nur ein RS von 1, bei einer 2 ein RS von 2. Bei einem Ergebnis von 3-6 schützt die Kettenweste wie gewohnt mit RS 4.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Das große Abenteuerbuch",
+        "seite": 107
+      }
+    ],
+    "_source_file": "kettenweste.txt",
+    "_category": "Ruestung"
+  },
+  {
+    "name": "Knochenrüstung",
+    "rs": 2,
+    "be": 1,
+    "zusaetzliche_abzuege": "-",
+    "gewicht": "6 Stein",
+    "preis": "80 S",
+    "komplexitaet": "prim",
+    "anmerkung": null,
+    "ruestungsvorteil": null,
+    "ruestungsnachteil": null,
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "https://dsa.ulisses-regelwiki.de/knochenruestung.html",
+        "seite": null
+      }
+    ],
+    "_source_file": "knochenruestung.txt",
+    "_category": "Ruestung"
+  },
+  {
+    "name": "Koscher Gambeson",
+    "rs": 2,
+    "be": 1,
+    "zusaetzliche_abzuege": "-",
+    "gewicht": "3,25 Stein",
+    "preis": "80 S",
+    "komplexitaet": "einf",
+    "anmerkung": "Der Koscher Gambeson ist eine Variante der Stoffrüstung.",
+    "ruestungsvorteil": "Ein Koscher Gambeson verfügt über einen Kälteschutz von gst 1. Gegen Waffen der Kampftechniken Kettenwaffen und Zweihandhiebwaffen schützt der Koscher Gambeson mit RS 3.",
+    "ruestungsnachteil": "Gegen Waffen der Kampftechniken Dolche und Fechtwaffen sowie Bolzen und Pfeile schützt der Koscher Gambeson nur mit RS 1.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Koscher Gambeson",
+        "seite": null
+      }
+    ],
+    "_source_file": "koscher-gambeson.txt",
+    "_category": "Ruestung"
+  },
+  {
+    "name": "Krötenhaut",
+    "rs": 3,
+    "be": 1,
+    "zusaetzliche_abzuege": "-1 GS, -1 INI",
+    "gewicht": "5 Stein",
+    "preis": "200 S",
+    "komplexitaet": "einf",
+    "anmerkung": "Die Krötenhaut ist eine Variante der Lederrüstung.",
+    "ruestungsvorteil": "Die Krötenhaut erschwert beim Schwimmen und Körperbeherrschung (Balance) die Probe nicht durch ihre Belastung.",
+    "ruestungsnachteil": "Gegen Fernkampfwaffen schützt die Krötenhaut nur mit RS 2.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "https://dsa.ulisses-regelwiki.de/kroetenhaut.html",
+        "seite": null
+      }
+    ],
+    "_source_file": "kroetenhaut.txt",
+    "_category": "Ruestung"
+  },
+  {
+    "name": "Kürass",
+    "rs": 6,
+    "be": 3,
+    "zusaetzliche_abzuege": "-",
+    "gewicht": "12 Stein",
+    "preis": "250 S",
+    "komplexitaet": "komp (3 AP)",
+    "anmerkung": "Der Kürass ist eine Variante der Plattenrüstung.",
+    "ruestungsvorteil": "Gegen Waffen der Kampftechniken Dolche und Fechtwaffen schützt der Kürass mit RS 7.",
+    "ruestungsnachteil": "Gegen Waffen der Kampftechniken Hiebwaffen, Kettenwaffen und Zweihandhiebwaffen schützt der Kürass nur mit RS 3. Gegenüber Angriffen von hinten schützt der Kürass nur mit einem RS von 1.",
+    "ap_wert": 3,
+    "publikationen": [
+      {
+        "buch": "https://dsa.ulisses-regelwiki.de/kuerass.html",
+        "seite": null
+      }
+    ],
+    "_source_file": "kuerass.txt",
+    "_category": "Ruestung"
+  },
+  {
+    "name": "Kurbul",
+    "rs": 3,
+    "be": 1,
+    "zusaetzliche_abzuege": "-1 GS, -1 INI",
+    "gewicht": "7 Stein",
+    "preis": "180 S",
+    "komplexitaet": "einf",
+    "anmerkung": "Der Kurbul ist eine Variante der Lederrüstung.",
+    "ruestungsvorteil": "Gegen Waffen der Kampftechniken Hiebwaffen, Kettenwaffen, Raufen, Schilde, Stangenwaffen und Zweihandhiebwaffen schützt der Kurbul mit einem RS von 4.",
+    "ruestungsnachteil": "Proben auf GE sind um 1 erschwert.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "https://dsa.ulisses-regelwiki.de/kurbul.html",
+        "seite": null
+      }
+    ],
+    "_source_file": "kurbul.txt",
+    "_category": "Ruestung"
+  },
+  {
+    "name": "Lamellar",
+    "rs": 5,
+    "be": 2,
+    "zusaetzliche_abzuege": "-1 GS, -1 INI",
+    "gewicht": "17 Stein",
+    "preis": "380 S",
+    "komplexitaet": "komp (3 AP)",
+    "anmerkung": "Der Lamellar ist eine Variante der Schuppenrüstung.",
+    "ruestungsvorteil": "Die GE-Teilprobe bei Reiten ist beim Tragen eines Lamellars nicht um die BE erschwert.",
+    "ruestungsnachteil": "Gegen Waffen der Kampftechniken Dolche schützt der Lamellar mit RS 2.",
+    "cumulative_ap": null,
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer II",
+        "seite": 87
+      },
+      {
+        "buch": "Aventurisches Götterwirken II",
+        "seite": 181
+      },
+      {
+        "buch": "Banner der Treue",
+        "seite": 97
+      },
+      {
+        "buch": "Straßenstaub & Halsabschneider",
+        "seite": 35
+      }
+    ],
+    "_source_file": "lamellar.txt",
+    "_category": "Ruestung"
+  },
+  {
+    "name": "Langes Kettenhemd",
+    "rs": 4,
+    "be": 2,
+    "zusaetzliche_abzuege": "-",
+    "gewicht": "12 Stein",
+    "preis": "300 S",
+    "komplexitaet": "einf",
+    "anmerkung": "Das Lange Kettenhemd ist eine Variante der Kettenrüstung.",
+    "ruestungsvorteil": "Gegen Waffen der Kampftechniken Armbrüste, Bögen, Dolche und Schwerter schützt das Lange Kettenhemd mit RS 5. Bei einem Treffer mit einer Waffe einer anderen Kampftechnik muss zusätzlich mit 1W6 gewürfelt werden. Bei einer 5 und 6 besteht ein RS von 5 (nicht nur gegen die beschriebenen Kampftechniken).",
+    "ruestungsnachteil": "Sinnesschärfe-Proben, um einen Träger des Langen Kettenhemds zu bemerken, sind um 1 erleichtert. Proben auf GE sind um 1 erschwert.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "https://dsa.ulisses-regelwiki.de/langes-kettenhemd.html",
+        "seite": null
+      }
+    ],
+    "_source_file": "langes-kettenhemd.txt",
+    "_category": "Ruestung"
+  },
+  {
+    "name": "Lederharnisch",
+    "rs": 3,
+    "be": 1,
+    "zusaetzliche_abzuege": "-1 GS, -1 INI",
+    "gewicht": "6 Stein",
+    "preis": "150 S",
+    "komplexitaet": "komp (3 AP)",
+    "anmerkung": "Der Lederharnisch ist eine Variante der Lederrüstung.",
+    "ruestungsvorteil": "Der Lederharnisch bietet eine Kälteschutzstufe.",
+    "ruestungsnachteil": "Bei Hitzestufe II und mehr verursacht der Lederharnisch eine weitere Hitzestufe (bis zu einem Maximum von 4).",
+    "ap_wert": 3,
+    "publikationen": [
+      {
+        "buch": "https://dsa.ulisses-regelwiki.de/lederharnisch.html",
+        "seite": null
+      }
+    ],
+    "_source_file": "lederharnisch.txt",
+    "_category": "Ruestung"
+  },
+  {
+    "name": "Leichte Platte",
+    "rs": 6,
+    "be": 3,
+    "zusaetzliche_abzuege": "-",
+    "gewicht": "15 Stein",
+    "preis": "400 S",
+    "komplexitaet": "komp (3 AP)",
+    "anmerkung": "Die Leichte Platte ist eine Variante der Plattenrüstung.",
+    "ruestungsvorteil": "Gegen Waffen der Kampftechniken Dolche und Fechtwaffen schützt die Leichte Platte mit RS 7.",
+    "ruestungsnachteil": "Gegenüber Angriffen von hinten schützt die Leichte Platte nur mit einem RS von 1.",
+    "ap_wert": 3,
+    "publikationen": [
+      {
+        "buch": "https://dsa.ulisses-regelwiki.de/leichte-platte.html",
+        "seite": null
+      }
+    ],
+    "_source_file": "leichte-platte.txt",
+    "_category": "Ruestung"
+  },
+  {
+    "name": "Lindwurmhaut",
+    "rs": 3,
+    "be": 1,
+    "zusaetzliche_abzuege": "-1 GS, -1 INI",
+    "gewicht": "6 Stein",
+    "preis": "120 S",
+    "komplexitaet": "einf",
+    "anmerkung": "Die Lindwurmhaut ist eine Variante der Lederrüstung.",
+    "ruestungsvorteil": "Der Träger der Lindwurmhaut kann einen der beiden zusätzlichen Abzüge von GS oder INI ignorieren.",
+    "ruestungsnachteil": "Der Träger erleidet den Status Übler Geruch, der auch zwei Tage nach dem Ablegen der Rüstung noch anhält.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Lindwurmhaut",
+        "seite": null
+      }
+    ],
+    "_source_file": "lindwurmhaut.txt",
+    "_category": "Ruestung"
+  },
+  {
+    "name": "Mammutonpanzer",
+    "rs": 4,
+    "be": 2,
+    "zusaetzliche_abzuege": "-",
+    "gewicht": "10 Stein",
+    "preis": "500 S",
+    "komplexitaet": "einf",
+    "anmerkung": "Der Mammutonpanzer ist eine Variante der Holzrüstung.",
+    "ruestungsvorteil": "Gegen Fernkampfwaffen hat der Mammutonpanzer einen RS von 6.",
+    "ruestungsnachteil": "Bei einem bestätigten Patzer des Trägers im Kampf, hat der Mammutonpanzer Schaden genommen und verliert 1 RS. Dies kann mit einer Probe auf Holzbearbeitung, 1 Stunde, beliebige Versuche, wieder repariert werden.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer II",
+        "seite": 90
+      }
+    ],
+    "_source_file": "mammutonpanzer.txt",
+    "_category": "Ruestung"
+  },
+  {
+    "name": "Matrosenkleidung",
+    "rs": 1,
+    "be": 0,
+    "zusaetzliche_abzuege": "-1 GS, -1 INI",
+    "gewicht": "2 Stein",
+    "preis": "25 S",
+    "komplexitaet": "prim",
+    "anmerkung": "Die Matrosenkleidung ist eine Variante der schweren Kleidung.",
+    "ruestungsvorteil": "Wind erhöht die Kältestufe gegenüber einem Träger der Matrosenkleidung nicht (siehe Regelwerk Seite 346).",
+    "ruestungsnachteil": "Gegen einen Treffer mit 10+ TP bietet die Matrosenkleidung keinen RS.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "https://dsa.ulisses-regelwiki.de/matrosenkleidung.html",
+        "seite": null
+      }
+    ],
+    "_source_file": "matrosenkleidung.txt",
+    "_category": "Ruestung"
+  },
+  {
+    "name": "Neethaner Reiterharnisch",
+    "rs": 6,
+    "be": 3,
+    "zusaetzliche_abzuege": "-",
+    "gewicht": "19 Stein",
+    "preis": "1900 S",
+    "komplexitaet": "komp (4 AP)",
+    "anmerkung": "Der Reiterharnisch ist eine Variante der Plattenrüstung. Auf einem Pferd können von einem Reiterharnisch 2 BE statt nur 1 BE abgezogen werden",
+    "ruestungsvorteil": "Gegen Waffen der Kampftechnik Fechtwaffen schützt der Reiterharnisch mit RS 8.",
+    "ruestungsnachteil": "Gegen Waffen der Kampftechniken Hiebwaffen, Kettenwaffen und Zweihandhiebwaffen schützt der Reiterharnisch mit RS 4.",
+    "ap_wert": 4,
+    "publikationen": [
+      {
+        "buch": "Rüstkammer der Sonnenküste",
+        "seite": 15
+      }
+    ],
+    "_source_file": "plattenruestung_neethaner-reiterharnisch.txt",
+    "_category": "Ruestung"
+  },
+  {
+    "name": "Nordmärker Ritterrüstung",
+    "rs": 7,
+    "be": 4,
+    "zusaetzliche_abzuege": "-",
+    "gewicht": "38 Stein",
+    "preis": "2200 S",
+    "komplexitaet": "komp (3 AP)",
+    "anmerkung": "Die Nordmärker Ritterrüstung ist eine Variante der Gestechrüstung.",
+    "ruestungsvorteil": "Gegen Waffen der Kampftechniken Dolche, Fechtwaffen, Hiebwaffen, Raufen und Schwerter schützt die Nordmärker Ritterrüstung mit einem RS von 8.",
+    "ruestungsnachteil": "Als Fußkämpfer erleidet der Träger einer Nordmärker Ritterrüstung zusätzliche Abzüge von jeweils –1 auf GS und INI.",
+    "cumulative_ap": null,
+    "ap_wert": "komp (3 AP)",
+    "publikationen": [
+      {
+        "buch": "Nordmaerker-ritterruestung",
+        "seite": null
+      }
+    ],
+    "_source_file": "nordmaerker-ritterruestung.txt",
+    "_category": "Ruestung"
+  },
+  {
+    "name": "Pantherrüstung",
+    "rs": 6,
+    "be": 3,
+    "zusaetzliche_abzuege": "-",
+    "gewicht": "23 Stein",
+    "preis": "800 S",
+    "komplexitaet": "komp (5 AP)",
+    "anmerkung": "Die Pantherrüstung ist eine Variante der Plattenrüstung. Die KO-Teilprobe bei Kraftakt ist beim Tragen einer Pantherrüstung nicht durch BE erschwert. Rüstung ist nur von Korgeweihten erwerbbar.",
+    "ruestungsvorteil": null,
+    "ruestungsnachteil": null,
+    "ap_wert": "komp (5 AP)",
+    "publikationen": [
+      {
+        "buch": "Aventurisches Götterwirken",
+        "seite": 235
+      }
+    ],
+    "_source_file": "pantherruestung-6475.txt",
+    "_category": "Ruestung"
+  },
+  {
+    "name": "Reiterharnisch",
+    "rs": 6,
+    "be": 3,
+    "zusaetzliche_abzuege": "-",
+    "gewicht": "20 Stein",
+    "preis": "2000 S",
+    "komplexitaet": "komp (4 AP)",
+    "anmerkung": "Der Reiterharnisch ist eine Variante der Plattenrüstung. Auf einem Pferd können von einem Reiterharnisch 2 BE statt nur 1 BE abgezogen werden",
+    "ruestungsvorteil": "Gegen Waffen der Kampftechniken Dolche und Fechtwaffen schützt der Reiterharnisch mit RS 8.",
+    "ruestungsnachteil": "Gegen Waffen der Kampftechniken Hiebwaffen, Kettenwaffen und Zweihandhiebwaffen schützt der Reiterharnisch mit RS 4.",
+    "ap_wert": 4,
+    "publikationen": [
+      {
+        "buch": "https://dsa.ulisses-regelwiki.de/reiterharnisch.html",
+        "seite": null
+      }
+    ],
+    "_source_file": "reiterharnisch.txt",
+    "_category": "Ruestung"
+  },
+  {
+    "name": "Ringelpanzer",
+    "rs": 4,
+    "be": 2,
+    "zusaetzliche_abzuege": "-",
+    "gewicht": "14 Stein",
+    "preis": "350 S",
+    "komplexitaet": "komp (2 AP)",
+    "anmerkung": "Der Ringelpanzer ist eine Variante der Kettenrüstung. Die erste GE-Teilprobe bei Körperbeherrschung ist beim Tragen eines Ringelpanzers nicht durch BE erschwert.",
+    "ruestungsvorteil": null,
+    "ruestungsnachteil": null,
+    "ap_wert": 2,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Götterwirken II",
+        "seite": 181
+      }
+    ],
+    "_source_file": "Ruestung_Ringelpanzer.txt",
+    "_category": "Ruestung"
+  },
+  {
+    "name": "Schuppengewand",
+    "rs": 1,
+    "be": 0,
+    "zusaetzliche_abzuege": "-1 GS, -1 INI",
+    "gewicht": "1 Stein",
+    "preis": "50 S",
+    "komplexitaet": "komp (2 AP)",
+    "anmerkung": "Das Schuppengewand ist eine Variante der schweren Kleidung. Die GE-Teilprobe bei Schwimmen ist beim Tragen eines Schuppengewands um 1 erleichtert. Die Rüstung ist nur von Efferdgeweihten erwerbbar.",
+    "ruestungsvorteil": "Das Schuppengewand bietet eine Kälteschutzstufe.",
+    "ruestungsnachteil": "Gegen Waffen der Kampftechniken Dolche, Fechtwaffen und Schwerter schützt das Schuppengewand mit RS 0.",
+    "cumulative_ap": null,
+    "ap_wert": 2,
+    "publikationen": [
+      {
+        "buch": "Auf ins Abenteuer - Havena",
+        "seite": 16
+      },
+      {
+        "buch": "Aventurische Rüstkammer II",
+        "seite": 92
+      },
+      {
+        "buch": "Aventurisches Götterwirken",
+        "seite": 235
+      },
+      {
+        "buch": "Havena – Versunkene Geheimnisse",
+        "seite": 88
+      },
+      {
+        "buch": "Straßenstaub & Halsabschneider",
+        "seite": 36
+      }
+    ],
+    "_source_file": "schuppengewand.txt",
+    "_category": "Ruestung"
+  },
+  {
+    "name": "Schuppenpanzer",
+    "rs": 5,
+    "be": 2,
+    "zusaetzliche_abzuege": "-1 GS, -1 INI",
+    "gewicht": "18 Stein",
+    "preis": "400 S",
+    "komplexitaet": "komp (3 AP)",
+    "anmerkung": "Der Schuppenpanzer ist eine Variante der Schuppenrüstung.",
+    "ruestungsvorteil": "Gegen Waffen der Kampftechniken Hiebwaffen und Zweihandhiebwaffen schützt der Schuppenpanzer mit RS 6.",
+    "ruestungsnachteil": "Gegen Waffen der Kampftechniken Dolche schützt der Schuppenpanzer mit RS 2.",
+    "ap_wert": 3,
+    "publikationen": [
+      {
+        "buch": "https://dsa.ulisses-regelwiki.de/schuppenpanzer.html",
+        "seite": null
+      }
+    ],
+    "_source_file": "schuppenpanzer.txt",
+    "_category": "Ruestung"
+  },
+  {
+    "name": "Schwere Platte",
+    "rs": 7,
+    "be": 4,
+    "zusaetzliche_abzuege": "-",
+    "gewicht": "32 Stein",
+    "preis": "2200 S",
+    "komplexitaet": "komp (4 AP)",
+    "anmerkung": "Die Schwere Platte ist eine Variante der Gestechrüstung.",
+    "ruestungsvorteil": "Gegen Waffen der Kampftechniken Dolche und Fechtwaffen schützt die Schwere Platte mit RS 9.",
+    "ruestungsnachteil": "Gegen Waffen der Kampftechniken Hiebwaffen, Kettenwaffen und Zweihandhiebwaffen schützt die Schwere Platte mit RS 5.",
+    "ap_wert": 4,
+    "publikationen": [
+      {
+        "buch": "https://dsa.ulisses-regelwiki.de/schwere-platte.html",
+        "seite": null
+      }
+    ],
+    "_source_file": "schwere-platte.txt",
+    "_category": "Ruestung"
+  },
+  {
+    "name": "Seekriegerrüstung",
+    "rs": 3,
+    "be": 1,
+    "zusaetzliche_abzuege": "-1 GS, -1 INI",
+    "gewicht": "5,5 Stein",
+    "preis": "180 S",
+    "komplexitaet": "komp (3 AP)",
+    "anmerkung": "Die Seekriegerrüstung ist eine Variante der Lederrüstung.",
+    "ruestungsvorteil": "Beim Talent Schwimmen kann die BE der Rüstung ignoriert werden.",
+    "ruestungsnachteil": "Gegen Waffen der Kampftechniken Hiebwaffen, Kettenwaffen und Zweihandhiebwaffen schützt die Rüstung nur mit RS 2.",
+    "ap_wert": 3,
+    "publikationen": [
+      {
+        "buch": "Rüstkammer der Sonnenküste",
+        "seite": 16
+      }
+    ],
+    "_source_file": "lederruestung_seekriegerruestung.txt",
+    "_category": "Ruestung"
+  },
+  {
+    "name": "Skorpionhemd",
+    "rs": 4,
+    "be": 2,
+    "zusaetzliche_abzuege": "-",
+    "gewicht": "12 Stein",
+    "preis": "300 S",
+    "komplexitaet": "einf",
+    "anmerkung": "Das Skorpionhemd ist eine Variante der Kettenrüstung. Die Rüstung ist nur von Korgeweihten erwerbbar.",
+    "ruestungsvorteil": "Gegen Waffen der Kampftechniken Armbrüste, Bögen, Dolche und Schwerter schützt das Skorpionhemd mit RS 5. Bei einem Treffer mit einer Waffe einer anderen Kampftechnik muss zusätzlich mit 1W6 gewürfelt werden. Bei einer 5 und 6 besteht ein RS von 5 (nicht nur gegen die beschriebenen Kampftechniken).",
+    "ruestungsnachteil": "Sinnesschärfe-Proben, um einen Träger des Skorpionhemds zu bemerken, sind um 1 erleichtert. Die INI des Trägers sinkt um 1.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "https://dsa.ulisses-regelwiki.de/skorpionhemd.html",
+        "seite": null
+      }
+    ],
+    "_source_file": "skorpionhemd.txt",
+    "_category": "Ruestung"
+  },
+  {
+    "name": "Skorpionrüstung (Pamaresh)",
+    "rs": 3,
+    "be": 1,
+    "zusaetzliche_abzuege": "-1 GS, -1 INI",
+    "gewicht": "5,25 Stein",
+    "preis": "220 S",
+    "komplexitaet": "komp (3 AP)",
+    "anmerkung": "Die Skorpionrüstung ist eine Variante der Lederrüstung.",
+    "ruestungsvorteil": "Gegen Waffen der Kampftechniken Hiebwaffen, Kettenwaffen und Raufen schützt die Skorpionrüstung mit RS 4.",
+    "ruestungsnachteil": "Gegen Waffen der Kampftechniken Dolche und Fechtwaffen sowie alle Fernkampftechniken, verfügt die Skorpionrüstung nur über RS 2.",
+    "cumulative_ap": null,
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Das Dornenreich",
+        "seite": 148
+      },
+      {
+        "buch": "Rüstkammer des Dornenreiches",
+        "seite": 19
+      }
+    ],
+    "_source_file": "Ruestung_Skorpionruestung.txt",
+    "_category": "Ruestung"
+  },
+  {
+    "name": "Spiegelpanzer",
+    "rs": 4,
+    "be": 2,
+    "zusaetzliche_abzuege": "-",
+    "gewicht": "13 Stein",
+    "preis": "350 S",
+    "komplexitaet": "komp (3 AP)",
+    "anmerkung": "Der Spiegelpanzer ist eine Variante der Kettenrüstung.",
+    "ruestungsvorteil": "Gegen Waffen der Kampftechniken Schwerter und Zweihandschwerter schützt der Spiegelpanzer mit RS 5.",
+    "ruestungsnachteil": "Gegen Waffen der Kampftechniken Hiebwaffen und Zweihandhiebwaffen schützt der Spiegelpanzer mit RS 2.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "https://dsa.ulisses-regelwiki.de/spiegelpanzer.html",
+        "seite": null
+      }
+    ],
+    "_source_file": "spiegelpanzer.txt",
+    "_category": "Ruestung"
+  },
+  {
+    "name": "Tuchrüstung",
+    "rs": 2,
+    "be": 1,
+    "zusaetzliche_abzuege": "-",
+    "gewicht": "3 Stein",
+    "preis": "75 S",
+    "komplexitaet": "einf",
+    "anmerkung": "Die Tuchrüstung ist eine Variante der Stoffrüstung.",
+    "ruestungsvorteil": "Gegen Waffen der Kampftechniken Hiebwaffen und Zweihandhiebwaffen schützt die Tuchrüstung mit RS 3.",
+    "ruestungsnachteil": "Gerät eine Tuchrüstung in Flammen, so ist die Probe auf Körperbeherrschung zum Löschen des Feuers zusätzlich 2 erschwert (siehe Regelwerk Seite 341).",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer II",
+        "seite": 112
+      },
+      {
+        "buch": "Rüstkammer der Sonnenküste",
+        "seite": 16
+      }
+    ],
+    "_source_file": "tuchruestung.txt",
+    "_category": "Ruestung"
+  },
+  {
+    "name": "Turnierrüstung",
+    "rs": 8,
+    "be": 5,
+    "zusaetzliche_abzuege": "-",
+    "gewicht": "40 Stein",
+    "preis": "3.000+ S",
+    "komplexitaet": "komp (5 AP)",
+    "anmerkung": "Die Turnierrüstung ist ein eigener Rüstungstyp. Auf einem Pferd können von einer Turnierrüstung 2 BE statt nur 1 BE abgezogen werden.",
+    "ruestungsvorteil": "keine",
+    "ruestungsnachteil": "keine",
+    "ap_wert": "komp (5 AP)",
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer II",
+        "seite": 95
+      }
+    ],
+    "_source_file": "turnierruestung.txt",
+    "_category": "Ruestung"
+  },
+  {
+    "name": "Wattierter Waffenrock",
+    "rs": 2,
+    "be": 1,
+    "zusaetzliche_abzuege": "-",
+    "gewicht": "3 Stein",
+    "preis": "90 S",
+    "komplexitaet": "einf",
+    "anmerkung": "Der Wattierte Waffenrock ist eine Variante der Stoffrüstung. Er bietet eine Kälteschutzstufe.",
+    "ruestungsvorteil": "Gegen Waffen der Kampftechniken Hiebwaffen und Zweihandhiebwaffen schützt der Wattierte Waffenrock mit RS 3.",
+    "ruestungsnachteil": "Erleidet der Held den Status Brennend, bekommt er pro KR 1W3 SP zusätzlich Schaden.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "https://dsa.ulisses-regelwiki.de/wattierter-waffenrock.html",
+        "seite": null
+      }
+    ],
+    "_source_file": "wattierter-waffenrock.txt",
+    "_category": "Ruestung"
+  },
+  {
+    "name": "Zorganer Ringelpanzer (Shidaresh)",
+    "rs": 4,
+    "be": 2,
+    "zusaetzliche_abzuege": "-",
+    "gewicht": "10 Stein",
+    "preis": "400 S",
+    "komplexitaet": "komp (3 AP)",
+    "anmerkung": "Der Zorganer Ringelpanzer ist eine Variante der Kettenrüstung.",
+    "ruestungsvorteil": "Gegen Waffen der Kampftechniken Armbrüste, Bögen und Schwerter schützt der Zorganer Ringelpanzer mit RS 5. Bei Fertigkeitsproben auf Klettern, Körperbeherrschung, Tanzen und Verbergen kommt die BE des Zorganer Ringelpanzers nur mit 1 Punkt zum Tragen.",
+    "ruestungsnachteil": "Sinnesschärfe-Proben, um einen Kettenhemdträger zu bemerken, sind um 1 erleichtert und aufgrund ihres offensichtlichen Reichtums sind Träger der Rüstung bevorzugte Ziele von Dieben.",
+    "cumulative_ap": null,
+    "ap_wert": 3,
+    "publikationen": [
+      {
+        "buch": "Das Dornenreich",
+        "seite": 148
+      },
+      {
+        "buch": "Rüstkammer des Dornenreiches",
+        "seite": 15
+      }
+    ],
+    "_source_file": "Ruestung_ZorganerRingelpanzer.txt",
+    "_category": "Ruestung"
+  }
+]

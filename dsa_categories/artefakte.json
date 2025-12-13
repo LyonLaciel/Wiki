@@ -1,0 +1,400 @@
+[
+  {
+    "name": "Amethystlöwin",
+    "wirkung": null,
+    "kosten": null,
+    "preis": "unbezahlbar",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Rüstkammer des Dornenreiches",
+        "seite": 20
+      }
+    ],
+    "_source_file": "amethystloewin.txt",
+    "_category": "Artefakt"
+  },
+  {
+    "name": "Armreif der Willensstärke",
+    "wirkung": "Zauberspeicher mit 3 PSYCHOSTABILIS (FP 9, 20 Minuten Wirkungsdauer), Auslöser ist das Drehen des Reifes",
+    "kosten": "40 AsP, 4 zusätzlich permanent",
+    "preis": "1.050 Silbertaler",
+    "ap_wert": 40,
+    "publikationen": [
+      {
+        "buch": "Regelwerk (3. überarb. Aufl.)",
+        "seite": 270
+      }
+    ],
+    "_source_file": "ArmreifderWillensst.txt",
+    "_category": "Artefakt"
+  },
+  {
+    "name": "Das Auge des Morgens",
+    "wirkung": "Das Auge des Morgens erlaubt bei der richtigen Sternenkonstellation, etwa einmal monatlich, einen Blick auf ferne Ereignisse. Hierzu muss ein Begriff genannt werden, das Auge zeigt dann eine Person, ein Ereignis oder einen Ort. Meist zeigt es Bilder aus der Gegenwart, gelegentlich auch solche aus der Vergangenheit und ganz selten einmal auch Eindrücke aus der Zukunft. In seltenen Fällen ist es auch schon mal vorgekommen, dass nur graues Ätherrauschen und umherzuckende Blitze zu sehen waren. Aktiviert werden kann das Auge des Morgens mittels des geheimen Reichssiegels oder über Schlüsselworte. Diese sollen jedoch allein den höchsten Mitgliedern des Ordens und der Kaiserfamilie bekannt sein.",
+    "kosten": "unbekannt",
+    "preis": "unbezahlbar",
+    "ap_wert": "unbekannt",
+    "publikationen": [
+      {
+        "buch": "Aventurischer Almanach",
+        "seite": 198
+      }
+    ],
+    "_source_file": "DasAugedesMorgens.txt",
+    "_category": "Artefakt"
+  },
+  {
+    "name": "Das Joborner Liebeslicht",
+    "wirkung": "Die Wirkung des Liebeslichtes betrifft ausschließlich Kulturschaffende. Das Liebeslicht sorgt für eine friedliche und fröhliche Gemütslage. Wird das Liebeslicht angezündet, verströmt es einen angenehmen Rosenduft, der allen, die ihn riechen können, 1 Stufe Furcht nimmt. Wer sich jedoch explizit nicht auf die Harmonie einlassen will, weil er z.B. gerade einen Mord plant, wird von der Wirkung nicht erfasst. Hält der Geweihte das angezündeten Licht über den Kopf und in beiden Händen, so wirkt das Liebeslicht auf alle, die entweder den Geruch wahrnehmen oder das Licht sehen können (maximal bis zu einem Radius von 100 Schritt). Sie verlieren alle Stufen Furcht und alle Nachteile, die Hass und Ängste schüren, fallen bis zum Ende der Wirkung von ihnen ab (z.B. Angst vor ..., Persönlichkeitsschwächen wie Neid, Streitsucht und Vorurteile, Schlechte Eigenschaften wie Jähzorn). Gleiches gilt für alle Status. Der Geweihte muss das Licht für eine halbe Minute hochhalten, danach hält die Wirkung QS x 4 Stunden an. Je nach Gefühlslage geben sich Feinde die Hand und trinken miteinander, Freunde umarmen sich, Liebende feiern ausgelassen. An Streit und Kampf denkt keiner mehr. Selbst gegen Ende der Wirkungsdauer werden sich Feinde respektvoll voneinander trennen. Sollte der Talisman eine QS von 6 erzielt haben, dann nimmt die Feier sogar orgiastische Züge an.",
+    "kosten": null,
+    "preis": "unbezahlbar",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Neue Bande und Uralter Zwist",
+        "seite": 17
+      }
+    ],
+    "_source_file": "joborner-liebeslicht.txt",
+    "_category": "Artefakt"
+  },
+  {
+    "name": "Der Dragenhelm",
+    "wirkung": "Beim Dragenhelm handelt es sich um ein dauerhaft wirkendes Artefakt. Der Helm erhöht die SK des Trägers gegenüber Zaubern um 3. Der Grund dafür ist ein dauerhafter PSYCHOSTABILIS mit 14 FP. Zudem wirkt ein permanenter DISRUPTIVO mit 14 FP auf dem Helm, der eine Zone von 10 Schritt Radius um den Helm herum mit einer Erschwernis von 5 für Zauber belegt.",
+    "kosten": null,
+    "preis": "unbezahlbar",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Rüstkammer der Streitenden Königreiche",
+        "seite": 23
+      }
+    ],
+    "_source_file": "dragenhelm.txt",
+    "_category": "Artefakt"
+  },
+  {
+    "name": "Dschadra al’Zul (2H)",
+    "wirkung": null,
+    "kosten": null,
+    "preis": "unbezahlbar",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Götterwirken II",
+        "seite": 55
+      },
+      {
+        "buch": "Rüstkammer des Dornenreiches",
+        "seite": 23
+      }
+    ],
+    "_source_file": "Waffe_Talisman_Dschadra_alZul.txt",
+    "_category": "Artefakt"
+  },
+  {
+    "name": "Dschinnenlampe",
+    "wirkung": "Einmal pro Monat kann das Artefakt für eine Stunde aktiviert werden, sodass der darin wohnende Feuerdschinn erscheint. Auslöser ist das Polieren der Lampe.",
+    "kosten": "unbekannt",
+    "preis": "4.444 Silbertaler",
+    "ap_wert": "unbekannt",
+    "publikationen": [
+      {
+        "buch": "Aventurischer Almanach",
+        "seite": 198
+      }
+    ],
+    "_source_file": "Dschinnenlampe.txt",
+    "_category": "Artefakt"
+  },
+  {
+    "name": "Efferdperle",
+    "wirkung": "Die Efferdperle ist ein Talisman des Efferd, der seinen Träger vor unheiligen Kreaturen aus der Domäne Charyptoroths beschützt. Sie erleichtert Zeremonien der Efferdkirche um 3. Wer die Kräfte der Efferdperle einsetzt, kann einen Schutzkreis von 6 Schritt Radius um sich errichten, der alle Dämonen und mit Charyptoroth assoziierten Wesen (Krakonier, Hummerier, Charyptoroth-Paktierer, Seeschlangen) davon abhält, sich zu nähern. Der Schutzkreis bewegt sich mit dem Träger und gilt als geweihter Boden. Damit ist es dem Talisman möglich, solche Wesen zu verletzen, wenn man sie in den Radius der Wirkung zwingt. Grundsätzlich versuchen die betroffenen Wesen, sich vom Wirkungsradius fernzuhalten. Gelingt ihnen das nicht und zwingt der Träger der Efferdperle sie in den Radius, können sie dort allerdings normal handeln. Die Wirkung hält QS Minuten an.",
+    "kosten": "unbekannt",
+    "preis": "unbezahlbar",
+    "ap_wert": "unbekannt",
+    "publikationen": [
+      {
+        "buch": "Havena - Versunkene Geheimnisse",
+        "seite": 93
+      }
+    ],
+    "_source_file": "Efferdperle.txt",
+    "_category": "Artefakt"
+  },
+  {
+    "name": "Firnklinge",
+    "wirkung": "Der Säbel wurde mit ZAUBERKLINGE verzaubert und gilt für die nächsten 80 Jahre als magische Waffe.",
+    "kosten": "100 AsP, 5 zusätzlich permanent",
+    "preis": "1.680 Silbertaler",
+    "ap_wert": 100,
+    "publikationen": [
+      {
+        "buch": "Regelwerk (3. überarb. Aufl.)",
+        "seite": 270
+      }
+    ],
+    "_source_file": "Firnklinge.txt",
+    "_category": "Artefakt"
+  },
+  {
+    "name": "Guldebrandt",
+    "wirkung": "unzerbrechlich und setzt keinen Rost an. Orks erleiden 1 Stufe Schmerz für 1 Stunde, wenn sie mindestens 1 SP durch Guldebrandt erleiden. Diese Zustandsstufen sind kumulativ.",
+    "kosten": null,
+    "preis": "unbezahlbar",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Rüstkammer der Flusslande",
+        "seite": 22
+      }
+    ],
+    "_source_file": "guldebrandt.txt",
+    "_category": "Artefakt"
+  },
+  {
+    "name": "Koschbasalt-Kästchen",
+    "wirkung": "Das Koschbasalt-Kästchen gilt als mit Koschbasalt verkleidetes Behältnis und ist speziell so bearbeitet worden, dass es quasi unmöglich ist, mit Hellsichtmagie zu erkennen, was in dem Kästchen liegt. Außerdem können weder körperlose Wesen in das Kästchen eindringen, noch ist es Objekten im Inneren möglich, magische Effekte außerhalb des Kästchens zu entfalten.",
+    "kosten": null,
+    "preis": "100 Silber",
+    "ap_wert": "komp (2 AP)",
+    "publikationen": [
+      {
+        "buch": "Rüstkammer der Flusslande",
+        "seite": 23
+      }
+    ],
+    "_source_file": "koschbasaltkaestchen.txt",
+    "_category": "Artefakt"
+  },
+  {
+    "name": "Kraftgürtel",
+    "wirkung": "Drückt man auf die Augen des Ogers, wird der Träger von enormen Kräften durchdrungen. Der Gürtel wirkt als Zauberspeicher mit 3 ATTRIBUTO KÖRPERKRAFT (FW 12). Je nach QS erhält der Träger des Kraftgürtels verschiedene Boni. Die Boni sind kumulativ, das heißt bei QS 3 hat der Träger insgesamt KK +2 und ZK +1.",
+    "kosten": "48 AsP, 5 zusätzlich permanent",
+    "preis": "1.200 Silbertaler",
+    "ap_wert": 48,
+    "publikationen": [
+      {
+        "buch": "Aventurischer Almanach",
+        "seite": 198
+      }
+    ],
+    "_source_file": "Kraftguertel.txt",
+    "_category": "Artefakt"
+  },
+  {
+    "name": "Krakenauge",
+    "wirkung": "Das Krakenauge ist ein erzdämonischer Talisman aus der Domäne Charyptoroths, der Macht über Wesen aus der Tiefsee verleiht. Das Auge erleichtert Beschwörungen von Dämonen aus Charyptoroths Gefolge um 3. Darüber hinaus ähnelt es einem dauerhaft wirkenden Artefakt mit einem HERR ÜBER DAS TIERREICH (20 FP), der sich jedoch auf Meereslebewesen innerhalb von 16 Schritt Reichweite beschränkt. Mit dem Krakenauge lassen sich Meereslebewesen aller Größenkategorien beherrschen, abgesehen von Kulturschaffenden, Delphinen, Walen und Rochen. Selbst Seeschlangen und andere ähnlich große Meeresungeheuer können der Wirkung des dunklen Talismans nicht widerstehen.",
+    "kosten": "unbekannt",
+    "preis": "unbezahlbar",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Havena - Versunkene Geheimnisse",
+        "seite": 92
+      }
+    ],
+    "_source_file": "Krakenauge.txt",
+    "_category": "Artefakt"
+  },
+  {
+    "name": "Laterne der Ilpetta Ingrasim",
+    "wirkung": "Die Laterne schützt in einem Radius von QS Schritt jeden vor einstürzenden Stollen und Höhlen. Sie kann zudem anzeigen, wo eine solche Gefahr besteht.",
+    "kosten": "unbekannt",
+    "preis": "unbezahlbar",
+    "ap_wert": "unbekannt",
+    "publikationen": [
+      {
+        "buch": "Rüstkammer der Flusslande",
+        "seite": 24
+      }
+    ],
+    "_source_file": "laterne-der-ilpetta-ingrasim.txt",
+    "_category": "Artefakt"
+  },
+  {
+    "name": "Maske der Tausend Gesichter",
+    "wirkung": "selbstaufladendes Artefakt mit DUPLICATUS (FW 18), einmal wöchentlich aktivierbar, Auslöser durch Aufsetzen der Maske",
+    "kosten": "320 AsP, 32 davon permanent",
+    "preis": "9.900 Silbertaler",
+    "ap_wert": 320,
+    "publikationen": [
+      {
+        "buch": "Heldenwerk-Archiv 3",
+        "seite": 122
+      }
+    ],
+    "_source_file": "Maske_der_Tausend_Gesichter.txt",
+    "_category": "Artefakt"
+  },
+  {
+    "name": "Opallöwin",
+    "wirkung": null,
+    "kosten": null,
+    "preis": "unbezahlbar",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Rüstkammer der Siebenwindküste",
+        "seite": 24
+      }
+    ],
+    "_source_file": "opalloewin.txt",
+    "_category": "Artefakt"
+  },
+  {
+    "name": "Paralysis-Brosche",
+    "wirkung": "Zauberspeicher mit 1 PARALYSIS (FW 12), Auslöser ist das Handauflegen auf die Brosche und das Rufen des Worts „Yeti“.",
+    "kosten": "24 AsP, 2 zusätzlich permanent",
+    "preis": "850 Silbertaler",
+    "ap_wert": 24,
+    "publikationen": [
+      {
+        "buch": "Aventurischer Almanach",
+        "seite": 198
+      }
+    ],
+    "_source_file": "Paralysis-Brosche.txt",
+    "_category": "Artefakt"
+  },
+  {
+    "name": "Schwarzer Speer (2H)",
+    "wirkung": null,
+    "kosten": null,
+    "preis": "unbezahlbar",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Götterwirken II",
+        "seite": 54
+      }
+    ],
+    "_source_file": "Waffe_Talisman_SchwarzerSpeer.txt",
+    "_category": "Artefakt"
+  },
+  {
+    "name": null,
+    "wirkung": null,
+    "kosten": null,
+    "preis": "bis zu 5.000 S",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Der Dunkle Mhanadi",
+        "seite": 13
+      }
+    ],
+    "_source_file": "skorpionspiess.txt",
+    "_category": "Artefakt"
+  },
+  {
+    "name": "Spurtstiefel",
+    "wirkung": "Selbst aufladendes Artefakt mit AXXELERATUS (FW 9, 15 Kampfrunden), einmal wöchentlich aktivierbar, Auslöser durch Zusammenschlagen der Hacken.",
+    "kosten": "96 AsP, 10 zusätzlich permanent",
+    "preis": "2.200 Silbertaler",
+    "ap_wert": 96,
+    "publikationen": [
+      {
+        "buch": "Aventurischer Almanach",
+        "seite": 199
+      }
+    ],
+    "_source_file": "Spurtstiefel.txt",
+    "_category": "Artefakt"
+  },
+  {
+    "name": "Stein des Ingerimm",
+    "wirkung": "In einem Radius von QS x 100 Schritt schützt der Stein Wesen und Objekte vor Erdbeben, Vulkanausbrüchen und Feuerbrünsten.",
+    "kosten": "unbekannt",
+    "preis": "unbezahlbar",
+    "ap_wert": "unbekannt",
+    "publikationen": [
+      {
+        "buch": "Rüstkammer der Flusslande",
+        "seite": 24
+      }
+    ],
+    "_source_file": "stein-des-ingerimm.txt",
+    "_category": "Artefakt"
+  },
+  {
+    "name": "Syronius’ schützende Klinge",
+    "wirkung": "Das Schwert wurde mit ZAUBERKLINGE verzaubert und gilt für die nächsten 60 Jahre als magische Waffe. Zusätzlich ist es ein selbst aufladendes Artefakt mit ARMATRUTZ (FW 12, RS 2 für 12 Minuten), das einmal wöchentlich aktivierbar ist. Auslöser ist das Schlüsselwort: “Syronius’ Panzer”.",
+    "kosten": "196 AsP, 20 zusätzlich permanent",
+    "preis": "4.360 Silbertaler",
+    "ap_wert": 196,
+    "publikationen": [
+      {
+        "buch": "Aventurischer Almanach",
+        "seite": 199
+      }
+    ],
+    "_source_file": "Syronius_schuetzende_Klinge.txt",
+    "_category": "Artefakt"
+  },
+  {
+    "name": "Teleport-Ring",
+    "wirkung": "Zauberspeicher mit 2 TRANSVERSALIS (je FW 15), Auslöser ist das Drehen des Rings.",
+    "kosten": "62 AsP, 6 zusätzlich permanent",
+    "preis": "2.150 Silbertaler",
+    "ap_wert": 62,
+    "publikationen": [
+      {
+        "buch": "Aventurischer Almanach",
+        "seite": 199
+      }
+    ],
+    "_source_file": "Teleport-Ring.txt",
+    "_category": "Artefakt"
+  },
+  {
+    "name": null,
+    "wirkung": null,
+    "kosten": null,
+    "preis": "unbezahlbar",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Götterwirken II",
+        "seite": 44
+      }
+    ],
+    "_source_file": "Waffe_Talisman_Armalion.txt",
+    "_category": "Artefakt"
+  },
+  {
+    "name": null,
+    "wirkung": null,
+    "kosten": null,
+    "preis": "unbezahlbar",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Götterwirken II",
+        "seite": 47
+      }
+    ],
+    "_source_file": "Waffe_Talisman_Rabenfeder.txt",
+    "_category": "Artefakt"
+  },
+  {
+    "name": null,
+    "wirkung": null,
+    "kosten": null,
+    "preis": "unbezahlbar",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Götterwirken II",
+        "seite": 50
+      },
+      {
+        "buch": "Rüstkammer des Dornenreiches",
+        "seite": 22
+      }
+    ],
+    "_source_file": "Waffe_Talisman_WurfsternPhex.txt",
+    "_category": "Artefakt"
+  }
+]

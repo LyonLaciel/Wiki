@@ -1,0 +1,822 @@
+[
+  {
+    "name": "Alveransfeder",
+    "beschreibung": "eine bunte, eineinhalb Schritt lange Schwungfeder eines unbekannten Vogels",
+    "wirkung": "Dem Träger der Alveransfeder wachsen auf dem Rücken zwei Flügel mit einer Spannweite von insgesamt 4 Schritt. Er kann nun fliegen und Lasten mitnehmen, die ein Gesamtgewicht von 10 Stein nicht übersteigen dürfen. Der FW in Fliegen erhöht sich für die Wirkungsdauer um QS x 2 (bis zu einem Maximum von 18 FP).",
+    "aktivierung": "16 KaP, 1 Stunde",
+    "art": "Talisman",
+    "tradition_kirche": "Tradition (Aveskirche)",
+    "aufbewahrungsort": "Avestempel von Teremon",
+    "berufsgeheimnis": "20 Abenteuerpunkte",
+    "ap_wert": 20,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Götterwirken II",
+        "seite": 54
+      }
+    ],
+    "_source_file": "Alveransfeder.txt",
+    "_category": "Talisman"
+  },
+  {
+    "name": "Auges des Praios",
+    "beschreibung": "eine goldene Kugel, etwa so groß wie ein Apfel",
+    "wirkung": "Innerhalb einer Zone von 24 Schritt um den Talisman herum wird Magie stark geschwächt. Die Zone bewegt sich mit dem Geweihten mit. Die QS wirkender Magie sinken um QS x 2. Sollten die QS der Magie auf 0 sinken, so endet die Wirkung. Innerhalb der Zone können keine Zauber gewirkt werden. Magische Artefakte sind ebenfalls betroffen, hier wird die Wirkung bei permanenten Artefakten aber nur unterdrückt bzw. unterbrochen. Die Zone gilt als heiliger Boden des Praios.",
+    "aktivierung": "8 KaP, 1 Stunde",
+    "art": "Haupttalisman",
+    "tradition_kirche": "Tradition (Praioskirche)",
+    "aufbewahrungsort": "Bote des Lichts (meist also in Gareth und der Stadt des Lichts)",
+    "berufsgeheimnis": "20 Abenteuerpunkte",
+    "ap_wert": 20,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Götterwirken II",
+        "seite": 44
+      }
+    ],
+    "_source_file": "Auge+des+Praios.txt",
+    "_category": "Talisman"
+  },
+  {
+    "name": "Delphinstab",
+    "beschreibung": "ein Stab aus Walbein, an der Spitze mit einem Delphin verziert",
+    "wirkung": "Liturgien der Efferdkirche erzielen für den Träger des Delphinstabs eine um 1 höhere QS (bis zu einem Maximum von 6 QS). Zudem wirkt ein permanenter Delphinruf auf den Stab, es erscheinen 6+QS Delphine und jeder davon kann eine Person retten. Zudem kann der Träger auch ganze Delphinschulen herbeirufen, diese lassen sich aber ansonsten nicht weiter befehligen.",
+    "aktivierung": "8 KaP, 1 Stunde",
+    "art": "Talisman",
+    "tradition_kirche": "Tradition (Efferdkirche)",
+    "aufbewahrungsort": "Hüter des Zirkels (meist also im Efferdtempel von Bethana)",
+    "berufsgeheimnis": "5 Abenteuerpunkte",
+    "ap_wert": 5,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Götterwirken II",
+        "seite": 45
+      }
+    ],
+    "_source_file": "Delphinstab.txt",
+    "_category": "Talisman"
+  },
+  {
+    "name": "Dschadra al’Zul",
+    "beschreibung": "neun Spann großer Korspieß, mit einem von urtulamidischen Schriftzeichen bedeckten Schaft und einer neunblättrigen Stoßklinge",
+    "wirkung": "siehe Kampfwerte; Die Dschadra kann nur im Kampf eingesetzt werden, wenn sie aktiviert wurde.",
+    "aktivierung": "8 KaP, 1 Stunde",
+    "art": "Talisman",
+    "tradition_kirche": "Tradition (Korkirche)",
+    "aufbewahrungsort": "Korschrein im Rondratempel von Baburin",
+    "berufsgeheimnis": {
+      "ap_wert": "20 Abenteuerpunkte"
+    },
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Götterwirken II",
+        "seite": 55
+      },
+      {
+        "buch": "Rüstkammer des Dornenreiches",
+        "seite": 23
+      }
+    ],
+    "_source_file": "Dschadra+al’Zul.txt",
+    "_category": "Talisman"
+  },
+  {
+    "name": "Efferdhorn von Rethis",
+    "beschreibung": "ein verziertes Muschelhorn",
+    "wirkung": "Alle in Hörreichweite befindlichen Dämonen und mit Charyptoroth assoziierten Wesen (Krakonier, Hummerier, Charyptoroth-Paktierer, Seeschlangen) erleiden QS/2+1 Stufen Paralyse während das Horn geblasen wird. Die Hörreichweite beträgt 20 Schritt. Der Nutzer des Horns muss stehen bleiben, während er das Horn bläst, und pro KR 1 Aktion aufwenden. Die Wesen können nicht mehrfach von der Wirkung des Horns betroffen sein. Während der Wirkungsdauer kann das Horn beliebig oft geblasen werden.",
+    "aktivierung": "8 KaP, 5 Minuten",
+    "art": "Talisman",
+    "tradition_kirche": "Tradition (Efferdkirche)",
+    "aufbewahrungsort": "Efferdtempel von Vallusa",
+    "berufsgeheimnis": {
+      "ap_wert": "10 Abenteuerpunkte"
+    },
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Götterwirken II",
+        "seite": 46
+      }
+    ],
+    "_source_file": "Efferdhorn+von+Rethis.txt",
+    "_category": "Talisman"
+  },
+  {
+    "name": "Efferdperle",
+    "beschreibung": "eine wunderschöne, etwa hühnerei große Perle von makelloser Reinheit",
+    "wirkung": "Die Efferdperle ist ein Talisman des Efferd, der seinen Träger vor unheiligen Kreaturen aus der Domäne Charyptoroths beschützt. Sie erleichtert Zeremonien der Efferdkirche um +3. Wer die Kräfte der Efferdperle einsetzt, kann einen Schutzkreis von 6 Schritt Radius um sich errichten, der alle Dämonen und mit Charyptoroth assoziierten Wesen (Krakonier, Hummerier, Charyptoroth-Paktierer, Seeschlangen) davon abhält, sich zu nähern. Der Schutzkreis bewegt sich mit dem Träger und gilt als geweihter Boden. Damit ist es dem Talisman möglich, solche Wesen zu verletzen, wenn man sie in den Radius der Wirkung zwingt. Grundsätzlich versuchen die betroffenen Wesen, sich vom Wirkungsradius fernzuhalten. Gelingt ihnen das nicht und zwingt der Träger der Efferdperle sie in den Radius, können sie dort allerdings normal handeln. Die Wirkung hält QS Minuten an.",
+    "aktivierung": "8 KaP, QS Minuten",
+    "art": "Talisman",
+    "tradition_kirche": "Tradition (Efferdkirche)",
+    "aufbewahrungsort": "Efferdtempel von Havena (Alter Efferdtempel)",
+    "berufsgeheimnis": {
+      "ap_wert": "10 Abenteuerpunkte"
+    },
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Götterwirken II",
+        "seite": 46
+      }
+    ],
+    "_source_file": "Efferdperle.txt",
+    "_category": "Talisman"
+  },
+  {
+    "name": "Eidechsenauge",
+    "beschreibung": "ein faustgroßer Smaragd, der ein sanftes grünes Licht ausstrahlt",
+    "wirkung": "Alle, die eine Regenerationsphase innerhalb eines Radius von 6 Schritt um das Eidechsenauge beginnen, können QS LeP hinzuaddieren. Alle Zustandsstufen von Verwirrung fallen augenblicklich in der Zone ab. Außerdem endet in der Zone für jeden die Status Blutrausch und Raserei.",
+    "aktivierung": "8 KaP, 1 Stunde",
+    "art": "Talisman",
+    "tradition_kirche": "Tradition (Tsakirche)",
+    "aufbewahrungsort": "Tsatempel von Khunchom",
+    "berufsgeheimnis": "20 Abenteuerpunkte",
+    "ap_wert": 20,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Götterwirken II",
+        "seite": 49
+      }
+    ],
+    "_source_file": "Eidechsenauge.txt",
+    "_category": "Talisman"
+  },
+  {
+    "name": "Erster Schleier",
+    "beschreibung": "ein dünner Schleier aus blutroter Seide, bestickt mit rahjagefälligen Motiven",
+    "wirkung": "Der Schleier ermöglicht es dem Träger, in die Träume einer beliebigen Person einzudringen und dort mit ihr zu kommunizieren. Der Träger kann dort bis zu QS Stunden in dem Traum verweilen.",
+    "aktivierung": "8 KaP, QS Stunden",
+    "art": "Talisman",
+    "tradition_kirche": "Tradition (Rahjakirche)",
+    "aufbewahrungsort": "Rahjatempel von Fasar",
+    "berufsgeheimnis": {
+      "ap_wert": "10 Abenteuerpunkte"
+    },
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Götterwirken II",
+        "seite": 52
+      }
+    ],
+    "_source_file": "Erster+Schleier.txt",
+    "_category": "Talisman"
+  },
+  {
+    "name": null,
+    "beschreibung": "Talismane sind unzerbrechlich. Sie können entweder in der Hand eines Geweihten der richtigen Tradition durch Karma oder auch von anderen durch den Einsatz eines Schicksalspunkts aktiviert werden.",
+    "wirkung": "Um die genaue Wirkung zu bestimmen, würfeln Talismane mit einem FW von 18 gegen 14/14/14. Talismane können durch (namenlose, dämonische) Rituale entweiht werden.",
+    "aktivierung": null,
+    "art": null,
+    "tradition_kirche": null,
+    "aufbewahrungsort": "Talismane besitzen üblicherweise einen Aufbewahrungsort in dieser Welt. Meistens handelt es sich dabei um einen Tempel der jeweiligen Gottheit, allerdings kann es auch andere Aufbewahrungsorte geben.",
+    "berufsgeheimnis": null,
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Götterwirken II",
+        "seite": 42
+      }
+    ],
+    "_source_file": "FR_Talismane.txt",
+    "_category": "Talisman"
+  },
+  {
+    "name": "Goldene Ei",
+    "beschreibung": "ein goldenes Ei",
+    "wirkung": "Auf dem Ei liegt eine permanente Version der Zeremonie Segnung des Heims. Allerdings ist eine Probe auf Willenskraft erschwert um QS erforderlich, um das Gastrecht zu brechen.",
+    "aktivierung": "8 KaP, 24 Stunden",
+    "art": "Talisman",
+    "tradition_kirche": "Tradition (Traviakirche)",
+    "aufbewahrungsort": "Traviatempel von Travingen",
+    "berufsgeheimnis": "5 Abenteuerpunkte",
+    "ap_wert": 5,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Götterwirken II",
+        "seite": 47
+      }
+    ],
+    "_source_file": "Goldene+Ei.txt",
+    "_category": "Talisman"
+  },
+  {
+    "name": "Handschuh der Peraine",
+    "beschreibung": "hellgrüner Handschuh aus Atlasseide",
+    "wirkung": "Durch den Handschuh kann ein Geweihter genau bestimmen, ob eine Pflanze giftig oder heilsam ist, welche Auswirkungen sie genau aufweist und die Giftwirkung von ihr nehmen oder die heilsamen Auswirkungen verdreifachen. Zudem kann der Handschuh ein ganzes Feld voller Blumen erblühen lassen (die keine regeltechnischen Wirkungen aufweisen dürfen). Zudem sind Proben auf Heilkunde Krankheiten, Heilkunde Gift und Heilkunde Wunden um QS/2 erleichtert.",
+    "aktivierung": "8 KaP, 1 Stunde",
+    "art": "Haupttalisman",
+    "tradition_kirche": "Tradition (Perainekirche)",
+    "aufbewahrungsort": "Perainetempel von Zorgan",
+    "berufsgeheimnis": "15 Abenteuerpunkte",
+    "ap_wert": 15,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Götterwirken II",
+        "seite": 50
+      },
+      {
+        "buch": "Rüstkammer des Dornenreiches",
+        "seite": 22
+      }
+    ],
+    "_source_file": "Handschuh+der+Peraine.txt",
+    "_category": "Talisman"
+  },
+  {
+    "name": "Heiliger Eiskristall",
+    "beschreibung": "ein großer Eiskristall, der nicht schmilzt und ein freundliches, warmes blaues Licht ausstrahlt",
+    "wirkung": "Der Eiskristall strahlt Wärme aus und hebt QS/2 Kältestufen in einem Radius von 20 Schritt auf. Zudem beendet er für jedes Wesen in seinem Radius bei seiner Aktivierung augenblicklich alle Stufen Betäubung und Furcht.",
+    "aktivierung": "8 KaP, 24 Stunden",
+    "art": "Haupttalisman",
+    "tradition_kirche": "Tradition (Ifirnkirche)",
+    "aufbewahrungsort": "Ifirntempel von Olport",
+    "berufsgeheimnis": {
+      "ap_wert": "10 Abenteuerpunkte"
+    },
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Götterwirken II",
+        "seite": 54
+      }
+    ],
+    "_source_file": "Heiliger+Eiskristall.txt",
+    "_category": "Talisman"
+  },
+  {
+    "name": "Heiliger Kessel",
+    "beschreibung": "ein grauer Kessel, verziert mit Wildgänsen",
+    "wirkung": "Aus dem Kessel lassen sich pro Tag QS x 1.000 Tagesrationen an Nahrung gewinnen.",
+    "aktivierung": "8 KaP, 24 Stunden",
+    "art": "Haupttalisman",
+    "tradition_kirche": "Tradition (Traviakirche)",
+    "aufbewahrungsort": "Traviatempel von Rommilys",
+    "berufsgeheimnis": {
+      "ap_wert": "15 Abenteuerpunkte"
+    },
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Götterwirken II",
+        "seite": 46
+      }
+    ],
+    "_source_file": "Heiliger+Kessel.txt",
+    "_category": "Talisman"
+  },
+  {
+    "name": "Heiliges Schwert Rabenfeder",
+    "beschreibung": "leicht gebogene, matte Klinge, deren Knauf mit einem schwarzen Diamanten, einem sogenannten Nachtstein, verziert ist",
+    "wirkung": "siehe Kampfwerte; Das Schwert kann nur im Kampf geführt werden, wenn es aktiviert wurde. Rabenfeder verursacht je nach QS noch eine zusätzliche Wirkung ein: Bei QS 1-5 erkrankt ein mit mindestens 1 SP verletztes Lebewesen automatisch an Wundfieber und pro QS verlängert sich die Dauer um 3 Tage. Bei QS 6 führt ein Treffer zum sofortigen Tod des Lebewesens. Die Waffe gilt als heilige Waffe des Boron.",
+    "aktivierung": "8 KaP, 1 Stunde",
+    "art": "Talisman",
+    "tradition_kirche": "Tradition (Boronkirche)",
+    "aufbewahrungsort": "Patriarch von Al’Anfa",
+    "berufsgeheimnis": {
+      "ap_wert": "20 Abenteuerpunkte"
+    },
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Götterwirken II",
+        "seite": 47
+      }
+    ],
+    "_source_file": "Heiliges+Schwert+Rabenfeder.txt",
+    "_category": "Talisman"
+  },
+  {
+    "name": "Heilige Laterne zu Angbar",
+    "beschreibung": "eine kunstvoll geschmückte und mit Flammenornamenten verzierte Laterne aus Zwergenstahl",
+    "wirkung": "Die Laterne schützt in einem Radius von QS Schritt jeden vor einstürzenden Stollen und Höhlen. Sie kann zudem anzeigen, wo eine solche Gefahr besteht.",
+    "aktivierung": "8 KaP, 6 Stunden",
+    "art": "Talisman",
+    "tradition_kirche": "Tradition (Ingerimmkirche)",
+    "aufbewahrungsort": "Ingerimmtempel von Angbar",
+    "berufsgeheimnis": {
+      "ap_wert": "10 Abenteuerpunkte"
+    },
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Götterwirken II",
+        "seite": 51
+      }
+    ],
+    "_source_file": "Heilige+Laterne+zu+Angbar.txt",
+    "_category": "Talisman"
+  },
+  {
+    "name": "Honinger Tiegel",
+    "beschreibung": "ein Töpfchen mit Waldhonig (der Honig kann immer wieder nachgefüllt werden)",
+    "wirkung": "In eine Speise oder ein Getränk gemischt, kann der Honig des Tiegels jede Krankheit, jedes Gift und jede Verletzung heilen (aber keine Verstümmelungen). Die endgültige Heilung tritt QS Tage nach Verabreichung ein, in der Zwischenzeit erleidet der Patient aber keinen weiteren Schaden durch Krankheiten oder Gifte. Die Wirkung tritt auch ein, wenn der Talisman bereits nicht mehr in der Nähe ist.",
+    "aktivierung": "8 KaP, 1 Stunde",
+    "art": "Talisman",
+    "tradition_kirche": "Tradition (Perainekirche)",
+    "aufbewahrungsort": "Perainetempel von Honingen",
+    "berufsgeheimnis": {
+      "ap_wert": "15 Abenteuerpunkte"
+    },
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Götterwirken II",
+        "seite": 51
+      }
+    ],
+    "_source_file": "Honinger+Tiegel.txt",
+    "_category": "Talisman"
+  },
+  {
+    "name": "Infundibulum der Allwissenden",
+    "beschreibung": "ein Trichter in Form eines geöffneten Schlangenmauls mit goldenen Fangzähnen, der über fünf Öffnungen zum Auslass von Flüssigkeiten verfügt",
+    "wirkung": "Der Trichter kann flüssige und feste Materialien in ihre Ursprungssubstanzen zerlegen. Proben auf Alchimie, um ein Material zu analysieren, werden dadurch um QS erleichtert.",
+    "aktivierung": "4 KaP, 1 Stunde",
+    "art": "Haupttalisman",
+    "tradition_kirche": "Tradition (Hesindekirche)",
+    "aufbewahrungsort": "Hesindetempel von Kuslik",
+    "berufsgeheimnis": "10 Abenteuerpunkte",
+    "ap_wert": 10,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Götterwirken II",
+        "seite": 48
+      }
+    ],
+    "_source_file": "Infundibulum+der+Allwissenden.txt",
+    "_category": "Talisman"
+  },
+  {
+    "name": "Joborner Liebeslicht",
+    "beschreibung": "eine recht schmucklose Öllampe aus Ton, die einen sanften, aber berauschenden Rosenduft verbreitet, wenn sie entzündet wird",
+    "wirkung": "Die Wirkung des Liebeslichts betrifft ausschließlich Kulturschaffende. Das Liebeslicht sorgt für eine friedliche und fröhliche Gemütslage. Wird das Liebeslicht angezündet, verströmt es einen angenehmen Rosenduft, der allen, die ihn riechen können, 1 Stufe Furcht nimmt. Wer sich jedoch explizit nicht auf die Harmonie einlassen will, weil er z.B. gerade einen Mord plant, wird von der Wirkung nicht erfasst. Hält der Geweihte das angezündete Licht über den Kopf und in beiden Händen, so wirkt das Liebeslicht auf alle, die entweder den Geruch wahrnehmen oder das Licht sehen können (maximal bis zu einem Radius von 100 Schritt). Sie verlieren alle Stufen Furcht und alle Nachteile, die Hass und Ängste schüren, fallen bis zum Ende der Wirkung von ihnen ab (z.B. Angst vor ..., Persönlichkeitsschwächen wie Neid, Streitsucht und Vorurteile oder Schlechte Eigenschaften wie Jähzorn). Gleiches gilt für alle Status. Der Geweihte muss das Licht für eine halbe Minute hochhalten, danach hält die Wirkung QS x 4 Stunden an. Je nach Gefühlslage zueinander geben sich Feinde die Hand und trinken miteinander, Freunde umarmen sich, Liebende feiern ausgelassen. An Streit und Kampf denkt keiner mehr. Selbst gegen Ende der Wirkungsdauer werden sich Feinde respektvoll voneinander trennen. Sollte der Talisman eine QS von 6 erzielt haben, nimmt die Feier sogar orgiastische Züge an.",
+    "aktivierung": "8 KaP, QS x 4 Stunden",
+    "art": "Talisman",
+    "tradition_kirche": "Tradition (Rahjakirche)",
+    "aufbewahrungsort": "Rahjatempel von Joborn",
+    "berufsgeheimnis": {
+      "ap_wert": "20 Abenteuerpunkte"
+    },
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Götterwirken II",
+        "seite": 53
+      }
+    ],
+    "_source_file": "Joborner+Liebeslicht.txt",
+    "_category": "Talisman"
+  },
+  {
+    "name": "Kelch der Rahja",
+    "beschreibung": "ein goldener Pokal, geschmückt mit Amethysten und Verzierungen in Form von Weinblättern, stilistisch einem Rebstock nachempfunden",
+    "wirkung": "Auf dem Kelch liegt ein permanenter Objektsegen, der aber nur zur Herstellung von Tharf gedacht ist. Jegliche Flüssigkeit, die in den Kelch gegossen wird, wird zu wohlschmeckendem Tharf. Am Tag können so bis zu QS Liter Flüssigkeit verwandelt werden.",
+    "aktivierung": "8 KaP, 24 Stunden",
+    "art": "Haupttalisman",
+    "tradition_kirche": "Tradition (Rahjakirche)",
+    "aufbewahrungsort": "Rahjatempel von Belhanka",
+    "berufsgeheimnis": {
+      "ap_wert": "10 Abenteuerpunkte"
+    },
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Götterwirken II",
+        "seite": 52
+      }
+    ],
+    "_source_file": "Kelch+der+Rahja.txt",
+    "_category": "Talisman"
+  },
+  {
+    "name": "Kreide der Tsa",
+    "beschreibung": "ein Stück niemals versiegender regenbogenfarbener Kreide",
+    "wirkung": "Mit der Kreide werden heilige Symbole der Tsa auf den Bauch des Wesens gemalt. Bei männlichen Wesen bewirkt dies eine verstärkte Zeugungskraft, bei weiblichen Wesen eine erhöhte Fruchtbarkeit (etwa um QS x 10 % höher als üblich). Mit der Kreide können auch das Geschlecht und die Anzahl der Kinder bestimmt werden: heilige Kreise, die rechts herum gemalt werden stehen für Mädchen, linksherum für Jungen. Die Anzahl der Kreise entspricht der Anzahl der Kinder (maximal jedoch 6). Die gezeugten Kinder wachsen gesund heran und zeichnen sich in der Regel durch ein tsagefälliges Leben aus. Die Wirkung hält auch weiterhin bis zum Ende der Wirkungsdauer an, wenn der Talisman bereits nicht mehr in der Nähe ist.",
+    "aktivierung": "8 KaP, 24 Stunden",
+    "art": "Haupttalisman",
+    "tradition_kirche": "Tradition (Tsakirche)",
+    "aufbewahrungsort": "Tsatempel von Punin",
+    "berufsgeheimnis": "5 Abenteuerpunkte",
+    "ap_wert": 5,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Götterwirken II",
+        "seite": 49
+      }
+    ],
+    "_source_file": "Kreide+der+Tsa.txt",
+    "_category": "Talisman"
+  },
+  {
+    "name": "Krug der Heiligen Lindegard",
+    "beschreibung": "ein einfacher Krug",
+    "wirkung": "Binnen eines Tages wächst eine einzelne Pflanze zu ihrer vollen Größe heran, wenn sie mit dem Wasser aus dem Krug begossen wird. Die Wirkung tritt auch ein, wenn der Talisman bereits nicht mehr in der Nähe ist. Außerdem stellt der Krug QS Personen heilsames Wasser zur Verfügung, das sofort 1W6 LeP wiederherstellt. Das Wasser aus dem Krug gilt als von Peraine gesegnet.",
+    "aktivierung": "8 KaP, 24 Stunden",
+    "art": "Talisman",
+    "tradition_kirche": "Tradition (Perainekirche)",
+    "aufbewahrungsort": "Perainetempel von Ilsur",
+    "berufsgeheimnis": "10 Abenteuerpunkte",
+    "ap_wert": 10,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Götterwirken II",
+        "seite": 51
+      }
+    ],
+    "_source_file": "Krug+der+Heiligen+Lindegard.txt",
+    "_category": "Talisman"
+  },
+  {
+    "name": "Lapislazuliflöte",
+    "beschreibung": "eine anderthalb Spann lange Lapislazuliflöte mit eingravierten Wellenlinien und Federsymbolen",
+    "wirkung": "Alle in Hörreichweite befindlichen Wesen sehen davon ab, den Nutzer der Flöte anzugreifen. Die Hörreichweite beträgt 20 Schritt. Innerhalb der Hörreichweite gilt der Boden als dem Aves heilig. Der Nutzer der Flöte muss stehen bleiben, während er die Flöte spielt, und pro KR 1 Aktion aufwenden. Während der Wirkungsdauer kann die Flöte beliebig oft gepielt werden.",
+    "aktivierung": "8 KaP, QS x 10 KR",
+    "art": "Haupttalisman",
+    "tradition_kirche": "Tradition (Aveskirche)",
+    "aufbewahrungsort": "Avestempel von Fasar",
+    "berufsgeheimnis": {
+      "ap_wert": "10 Abenteuerpunkte"
+    },
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Götterwirken II",
+        "seite": 54
+      }
+    ],
+    "_source_file": "Lapislazuliflöte.txt",
+    "_category": "Talisman"
+  },
+  {
+    "name": "Levthansband",
+    "beschreibung": "ein rot-seidener Gewandgürtel, verziert mit goldenen Stickereien",
+    "wirkung": "Das Levthansband kann einem Wesen als Fessel angelegt werden. Sämtliche körperlichen und geistigen Empfindungen des Gefesselten werden extrem verstärkt. Proben auf Willenskraft (Bekehren & Überzeugen widerstehen, Betören widerstehen, Einschüchtern widerstehen oder Überreden widerstehen) sind für den Gefesselten um QS erschwert. Der Gefesselte kann sich nicht selbst von dem Levthansband befreien. Mit dem Band können angeblich auch göttliche Wesen gefesselt werden.",
+    "aktivierung": "8 KaP, 1 Stunde",
+    "art": "Talisman",
+    "tradition_kirche": "Tradition (Rahjakirche)",
+    "aufbewahrungsort": "Rahjatempel von Lowangen",
+    "berufsgeheimnis": {
+      "ap_wert": "10 Abenteuerpunkte"
+    },
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Götterwirken II",
+        "seite": 53
+      }
+    ],
+    "_source_file": "Levthansband.txt",
+    "_category": "Talisman"
+  },
+  {
+    "name": "Licht der Pallinai",
+    "beschreibung": "eine alte Lampe",
+    "wirkung": "Wer die Kräfte des Lichts einsetzt, kann einen Schutzkreis von 6 Schritt Radius um sich errichten, der alle niederen Dämonen aus Thargunitoths Gefolge und Untote (Hirnlose) davon abhält, sich zu nähern. Der Schutzkreis bewegt sich mit dem Träger und gilt als geweihter Boden. Damit ist es dem Talisman möglich, solche Wesen zu verletzen, wenn man sie in den Radius der Wirkung zwingt. Grundsätzlich versuchen die betroffenen Wesen, sich vom Wirkungsradius fernzuhalten. Gelingt ihnen das nicht und zwingt der Träger des Lichts sie in den Radius, können sie dort allerdings normal handeln. Die Wirkung hält QS Minuten an.",
+    "aktivierung": "8 KaP, QS Minuten",
+    "art": "Talisman",
+    "tradition_kirche": "Tradition (Boronkirche)",
+    "aufbewahrungsort": "Borontempel von Punin",
+    "berufsgeheimnis": {
+      "ap_wert": "10 Abenteuerpunkte"
+    },
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Götterwirken II",
+        "seite": 47
+      }
+    ],
+    "_source_file": "Licht+der+Pallinai.txt",
+    "_category": "Talisman"
+  },
+  {
+    "name": "Mantel der Heiligen Mascha",
+    "beschreibung": "ein einfacher Mantel",
+    "wirkung": "Der Mantel lässt sich in QS Teile aufteilen, die jedem, der ein Teil anzieht, einen unendlichen Kälteschutz verleihen.",
+    "aktivierung": "8 KaP, 6 Stunden",
+    "art": "Talisman",
+    "tradition_kirche": "Tradition (Traviakirche)",
+    "aufbewahrungsort": "Traviatempel von Festum",
+    "berufsgeheimnis": {
+      "ap_wert": "10 Abenteuerpunkte"
+    },
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Götterwirken II",
+        "seite": 47
+      }
+    ],
+    "_source_file": "Mantel+der+Heiligen+Mascha.txt",
+    "_category": "Talisman"
+  },
+  {
+    "name": "Mondsilberschlüssel",
+    "beschreibung": "ein mondsilberner Schlüssel",
+    "wirkung": "Mit dem Mondsilberschlüssel kann man QS x 2 Schlösser einfach öffnen, ohne dafür eine Probe ablegen zu müssen. Danach verschwindet der Schlüssel automatisch wieder an seinen Verankerungsort. Auch magische Schutzvorkehrungen sind für den Mondsilberschlüssel kein Problem. Bei karmalen Sicherungsmaßnahmen muss der Träger des Schlüssels mindestens so viele QS wie die Schutzvorkehrung erzielen, damit das Schloss geöffnet wird.",
+    "aktivierung": "8 KaP, 6 Stunden",
+    "art": "Talisman",
+    "tradition_kirche": "Tradition (Phexkirche)",
+    "aufbewahrungsort": "Phextempel von Rashdul",
+    "berufsgeheimnis": {
+      "ap_wert": "10 Abenteuerpunkte"
+    },
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Götterwirken II",
+        "seite": 50
+      }
+    ],
+    "_source_file": "Mondsilberschlüssel.txt",
+    "_category": "Talisman"
+  },
+  {
+    "name": "Phexens Schattenraum",
+    "beschreibung": "eine taubeneigroße Kugel aus zwei Hälften, deren Farbe sich immer an die Schatten anpasst und die von einem mondsilbernen Zapfen zusammengehalten wird",
+    "wirkung": "Wird die Kugel geöffnet, verströmt sie Nebel. Der Träger kann durch den Nebel ohne Schwierigkeiten hindurchsehen, für alle anderen ist er eine Sichtbehinderung der Stufe IV. Der Nebel bewegt sich mit dem Träger. Der Radius des Nebels beträgt QS x 50 Schritt.",
+    "aktivierung": "8 KaP, 10 Minuten",
+    "art": "Haupttalisman",
+    "tradition_kirche": "Tradition (Phexkirche)",
+    "aufbewahrungsort": "Phextempel von Gareth",
+    "berufsgeheimnis": "15 Abenteuerpunkte",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Götterwirken II",
+        "seite": 50
+      }
+    ],
+    "_source_file": "Phexens+Schattenraum.txt",
+    "_category": "Talisman"
+  },
+  {
+    "name": "Ring des Firun",
+    "beschreibung": "ein in Gold gefasster Bergkristall als Ring",
+    "wirkung": "Der Träger des Rings kann sich auf ein Lebewesen einstimmen (z. B. einen Wolf oder eine bestimmte Person) und deren Aufenthaltsort erspüren. Durch das eisblaue Leuchten des Rings kann die Richtung und die Entfernung genau bestimmt werden. Proben auf Fährtensuchen und Orientierung, um das Lebewesen zu finden, sind um QS erleichtert.",
+    "aktivierung": "8 KaP, 6 Stunden",
+    "art": "Haupttalisman",
+    "tradition_kirche": "Tradition (Firunkirche)",
+    "aufbewahrungsort": "Firuntempel von Bjaldorn",
+    "berufsgeheimnis": "10 Abenteuerpunkte",
+    "ap_wert": 10,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Götterwirken II",
+        "seite": 49
+      }
+    ],
+    "_source_file": "Ring+des+Firun.txt",
+    "_category": "Talisman"
+  },
+  {
+    "name": "Ruderblatt der Jurga",
+    "beschreibung": "ein altertümliches Ruderblatt mit Einkerbungen von Walmotiven und unkenntlichen Runen",
+    "wirkung": "Das Ruderblatt erleichtert Proben auf Bootes & Schiffe um QS und verleiht der gesamten Mannschaft eines Bootes einen Bonus von +1 auf alle MU-Teilproben. Die Wirkung erlischt für ein Mitglied der Boots- oder Schiffsmannschaft, sobald es von Bord geht. Dies kann auch unfreiwillig geschehen, z. B. durch einen Sturz ins Wasser.",
+    "aktivierung": "8 KaP, 24 Stunden",
+    "art": "Haupttalisman",
+    "tradition_kirche": "Tradition (Swafnirkirche)",
+    "aufbewahrungsort": "Swafnirtempel von Prem",
+    "berufsgeheimnis": "10 Abenteuerpunkte",
+    "ap_wert": 10,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Götterwirken II",
+        "seite": 55
+      }
+    ],
+    "_source_file": "Ruderblatt+der+Jurga.txt",
+    "_category": "Talisman"
+  },
+  {
+    "name": "Saat des Lebens",
+    "beschreibung": "Samen ungeklärter Herkunft, die aus einem anscheinend unerschöpflichen Saatbeutel kommen",
+    "wirkung": "Die Saat geht unabhängig vom Boden und dem Wetter in 7–QS Wochen auf. Die Wirkung tritt auch ein, wenn der Talisman bereits nicht mehr in der Nähe ist. Die Art der Pflanzen kann der Säer vorher bestimmen.",
+    "aktivierung": "8 KaP, 1 Stunde",
+    "art": "Talisman",
+    "tradition_kirche": "Tradition (Perainekirche)",
+    "aufbewahrungsort": "Diener des Lebens (also meist Ilsur)",
+    "berufsgeheimnis": "5 Abenteuerpunkte",
+    "ap_wert": 5,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Götterwirken II",
+        "seite": 51
+      }
+    ],
+    "_source_file": "Saat+des+Lebens.txt",
+    "_category": "Talisman"
+  },
+  {
+    "name": "Schlangenstab des Erzheiligen Argelion",
+    "beschreibung": "ein zwei Schritt langer Stab aus Blutulmenholz mit dem Kopf einer Schlange, umwickelt mit Iryanleder, an dessen Ende das Schlangenbanner befestigt werden kann",
+    "wirkung": "Innerhalb einer Zone von 18 Schritt um den Talisman herum werden schädliche magische Effekte stark geschwächt. Die Zone bewegt sich mit der Geweihten mit, und sie kann selbst entscheiden, welche Zauber und magischen Effekte betroffen sind und welche nicht. Die QS dieser Zauber und magischen Effekten sinken um QS x 2, wenn ihre QS dadurch auf 0 fällt, endet ihre Wirkung komplett. Zudem werden Dämonen und magisch erschaffene Kreaturen mit einer Anrufungs- oder Erschaffungsschwierigkeit von –QS oder höher ausgetrieben oder zerstört. Neu gewirkte Zauber innerhalb der Zone unterliegen dem gleichen Effekt. Magische Artefakte sind ebenfalls betroffen, hier wird die Wirkung bei permanenten Artefakten aber nur unterdrückt bzw. unterbrochen. Die Zone gilt als geweihter Boden der Hesinde.",
+    "aktivierung": "8 KaP, 5 Minuten",
+    "art": "Talisman",
+    "tradition_kirche": "Tradition (Hesindekirche)",
+    "aufbewahrungsort": "Hesindetempel von Kuslik",
+    "berufsgeheimnis": "20 Abenteuerpunkte",
+    "ap_wert": 20,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Götterwirken II",
+        "seite": 48
+      }
+    ],
+    "_source_file": "Schlangenstab+des+Erzheiligen+Argelion.txt",
+    "_category": "Talisman"
+  },
+  {
+    "name": "Schleier der Gleichmut",
+    "beschreibung": "ein Schleier aus roter Seide, bestickt mit goldenen Verzierungen in Form von Pferden und Katzen",
+    "wirkung": "Der Träger des Schleiers kann nicht mehr von Zaubern und anderen magischen Effekten des Merkmals Einfluss und Paktgeschenken Belkelels beeinflusst werden, sofern er dies nicht will. Zudem kann der Träger QS Stufen der Zustände Betäubung, Furcht und Verwirrung, unter denen er oder ein anderer Kulturschaffender leidet, aufheben. Die QS können auf die einzelnen Zustandsstufen aufgeteilt werden (bei QS 3 z.B. 2 Stufen Betäubung und 1 Stufe Furcht). Beim Aufheben der Zustandsstufen muss der Träger die andere Person 1 Aktion lang berühren. Der Einsatz dieser Wirkung verursacht 1 Stufe Trance für je 2 Zustandsstufen, die aufgehoben werden.",
+    "aktivierung": "8 KaP, 1 Stunde",
+    "art": "Talisman",
+    "tradition_kirche": "Tradition (Rahjakirche)",
+    "aufbewahrungsort": "Rahja-tempel von Elburum",
+    "berufsgeheimnis": "10 Abenteuerpunkte",
+    "ap_wert": 10,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Götterwirken II",
+        "seite": 53
+      },
+      {
+        "buch": "Rüstkammer des Dornenreiches",
+        "seite": 22
+      }
+    ],
+    "_source_file": "Schleier+der+Gleichmut.txt",
+    "_category": "Talisman"
+  },
+  {
+    "name": "Schwarzer Speer",
+    "beschreibung": "ein gewaltiger, altertümlicher schwarzer Speer, neungezackt und vier Schritt lang",
+    "wirkung": "siehe Kampfwerte; Der Schwarze Speer kann nur im Kampf eingesetzt werden, wenn er aktiviert wurde. Bei einem Treffer mit mindestens 10 TP verursacht der Speer eine Stufe Furcht.",
+    "aktivierung": "8 KaP, 1 Stunde",
+    "art": "Haupttalisman",
+    "tradition_kirche": "Tradition (Korkirche)",
+    "aufbewahrungsort": "Richter der Neun Streiche (also meist im Kortempel von Fasar)",
+    "berufsgeheimnis": {
+      "ap_wert": "20 Abenteuerpunkte"
+    },
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Götterwirken II",
+        "seite": 54
+      }
+    ],
+    "_source_file": "Schwarzer+Speer.txt",
+    "_category": "Talisman"
+  },
+  {
+    "name": "Stein des Ingerimm",
+    "beschreibung": "ein großer Brocken aus Mindoriumerz",
+    "wirkung": "In einem Radius von QS x 100 Schritt schützt der Stein Wesen und Objekte vor Erdbeben, Vulkanausbrüchen und Feuersbrünsten.",
+    "aktivierung": "8 KaP, 24 Stunden",
+    "art": "Haupttalisman",
+    "tradition_kirche": "Tradition (Ingerimmkirche)",
+    "aufbewahrungsort": "Ingerimmtempel von Angbar",
+    "berufsgeheimnis": {
+      "ap_wert": "15 Abenteuerpunkte"
+    },
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Götterwirken II",
+        "seite": 52
+      }
+    ],
+    "_source_file": "Stein+des+Ingerimm.txt",
+    "_category": "Talisman"
+  },
+  {
+    "name": "Tafel der Heiligen Canyzeth",
+    "beschreibung": "eine eineinhalb auf zwei Schritt große Onyxtafel mit eingesprenkeltem Marmor sowie Ornamenten und Reliefbildern in Bosparano",
+    "wirkung": "Wer die Tafel nutzt, erhält +QS/2 FW auf alle Wissenstalente (bis zu einem maximum von 18 FP), aber sein FW auf Überreden fällt auf 0 und der Held bekommt darin den Nachteil Unfähig. Die Wirkung hält auch weiterhin bis zum Ende der Wirkungsdauer an, wenn der Talisman bereits nicht mehr in der Nähe ist.",
+    "aktivierung": "8 KaP, 24 Stunden",
+    "art": "Talisman",
+    "tradition_kirche": "Tradition (Hesindekirche)",
+    "aufbewahrungsort": "Oktagon der Draconiter in Thegûn",
+    "berufsgeheimnis": {
+      "ap_wert": "15 Abenteuerpunkte"
+    },
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Götterwirken II",
+        "seite": 49
+      }
+    ],
+    "_source_file": "Tafel+der+Heiligen+Canyzeth.txt",
+    "_category": "Talisman"
+  },
+  {
+    "name": "Wasserkrug des Efferd",
+    "beschreibung": "ein blauglasierter, irdener Wasserkrug, der Efferd in verschiedenen Szenen mit dem Element Wasser darstellt",
+    "wirkung": "Aus dem Wasserkrug können pro Aktivierung QS x 1.000 Liter gewonnen werden. Das Wasser ist trinkbar und stillt den Durst, aber es kann auf Wunsch des Geweihten auch eigenständig einen Hausbrand löschen oder ein Feld wässern. Die Reichweite dieser Wirkung ist auf einen Radius von 12 Schritt um den Wasserkrug beschränkt. Der Nutzer des Kruges muss stehen bleiben, während er das Wasser spendet oder befehligt, und pro KR 1 Aktion aufwenden.",
+    "aktivierung": "4 KaP, 5 Minuten",
+    "art": "Haupttalisman",
+    "tradition_kirche": "Tradition (Efferdkirche)",
+    "aufbewahrungsort": "Efferdtempel von Bethana",
+    "berufsgeheimnis": "5 Abenteuerpunkte",
+    "ap_wert": 5,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Götterwirken II",
+        "seite": 45
+      }
+    ],
+    "_source_file": "Wasserkrug+des+Efferd.txt",
+    "_category": "Talisman"
+  },
+  {
+    "name": "Wundersame Rüstung",
+    "beschreibung": "ein bosparanischer Kürass mit Helm, Arm- und Beinschienen, der aus Leder, Silber und Bronze besteht",
+    "wirkung": "Die Werte der Wundersamen Rüstung entsprechen zunächst einer Plattenrüstung und verändern sich bei Aktivierung wie folgt: RS 6+QS, BE 0. Auf der Wundersamen Rüstung liegt dann zudem eine permanente Version der Liturgie Opfergang (siehe Aventurisches Götterwirken Seite 133), jedoch kann der Träger weiterkämpfen, bis seine LeP unter den fünffachen negativen KO-Wert gefallen ist, bevor er stirbt.",
+    "aktivierung": "8 KaP, 1 Stunde",
+    "art": "Talisman",
+    "tradition_kirche": "Tradition (Rondrakirche)",
+    "aufbewahrungsort": "aktuell noch der Rondratempel in Perricum",
+    "berufsgeheimnis": {
+      "ap_wert": "20 Abenteuerpunkte"
+    },
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Götterwirken II",
+        "seite": 45
+      }
+    ],
+    "_source_file": "Wundersame+Rüstung.txt",
+    "_category": "Talisman"
+  },
+  {
+    "name": "Wurfstern des Phex",
+    "beschreibung": "ein neungezackter Wurfstern",
+    "wirkung": "siehe Kampfwerte; Der Wurfstern kann nur im Kampf eingesetzt werden, wenn er aktiviert wurde. FK-Proben mit dem Wurfstern sind um QS x 3 erleichtert.",
+    "aktivierung": "8 KaP, 1 Stunde",
+    "art": "Talisman",
+    "tradition_kirche": "Tradition (Phexkirche)",
+    "aufbewahrungsort": "Phextempel von Zorgan",
+    "berufsgeheimnis": {
+      "ap_wert": "20 Abenteuerpunkte"
+    },
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Götterwirken II",
+        "seite": 50
+      },
+      {
+        "buch": "Rüstkammer des Dornenreiches",
+        "seite": 22
+      }
+    ],
+    "_source_file": "Wurfstern+des+Phex.txt",
+    "_category": "Talisman"
+  },
+  {
+    "name": "Zweihänder Armalion",
+    "beschreibung": "ein beeindruckender Zweihänder aus Zwergensilber und Titanium",
+    "wirkung": "siehe unter Kampfwerte; Das Schwert kann nur im Kampf geführt werden, wenn es aktiviert wurde.",
+    "aktivierung": "8 KaP, 1 Stunde",
+    "art": "Haupttalisman",
+    "tradition_kirche": "Tradition (Rondrakirche)",
+    "aufbewahrungsort": "Rondratempel von Donnerbach",
+    "berufsgeheimnis": "20 Abenteuerpunkte",
+    "ap_wert": 20,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Götterwirken II",
+        "seite": 44
+      }
+    ],
+    "_source_file": "Zweihänder+Armalion.txt",
+    "_category": "Talisman"
+  },
+  {
+    "name": "Zwölf Tränen der Efferdane",
+    "beschreibung": "zwölf blaugrüne Steinchen, die eine große Ähnlichkeit mit Tränen aufweisen und durchscheinend sind",
+    "wirkung": "Die Zwölf Tränen erleichtern Liturgien und Zeremonien der Efferdkirche um +3, wenn sich der Geweihte auf dem Meer aufhält. Zudem wirkt ein permanenter Schutzsegen gegen niedere Dämonen und Charyptoroth-Dämonen mit bis zu 5 Hörnern. Die Wirkung hält QS x 10 KR an, danach kehren die Tränen sofort wieder zu ihrem Aufbewahrungsort zurück.",
+    "aktivierung": "4 KaP, QS x 10 KR",
+    "art": "Talisman",
+    "tradition_kirche": "Tradition (Efferdkirche)",
+    "aufbewahrungsort": "Efferdtempel von Grangor",
+    "berufsgeheimnis": {
+      "ap_wert": "10 Abenteuerpunkte"
+    },
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Götterwirken II",
+        "seite": 46
+      }
+    ],
+    "_source_file": "Zwölf+Tränen+der+Efferdane.txt",
+    "_category": "Talisman"
+  }
+]

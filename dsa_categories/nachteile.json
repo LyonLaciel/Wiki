@@ -1,0 +1,3401 @@
+[
+  {
+    "name": "Angst vor … I",
+    "regel": "Pro Stufe der Angst erleidet der Held eine Stufe Furcht, so lange er dem Auslöser ausgesetzt ist.",
+    "voraussetzung": "Keine",
+    "level": 1,
+    "ap_wert": -8,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 170
+      }
+    ],
+    "_source_file": "Angst+vor+…+I-III.txt",
+    "_category": "Nachteil",
+    "_level_info": {
+      "base_name": "Angst vor …",
+      "ap_per_level": -8,
+      "ap_values": null,
+      "total_levels": 3
+    }
+  },
+  {
+    "name": "Angst vor … II",
+    "regel": "Pro Stufe der Angst erleidet der Held eine Stufe Furcht, so lange er dem Auslöser ausgesetzt ist.",
+    "voraussetzung": "Keine",
+    "level": 2,
+    "ap_wert": -16,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 170
+      }
+    ],
+    "_source_file": "Angst+vor+…+I-III.txt",
+    "_category": "Nachteil",
+    "_level_info": {
+      "base_name": "Angst vor …",
+      "ap_per_level": -8,
+      "ap_values": null,
+      "total_levels": 3
+    }
+  },
+  {
+    "name": "Angst vor … III",
+    "regel": "Pro Stufe der Angst erleidet der Held eine Stufe Furcht, so lange er dem Auslöser ausgesetzt ist.",
+    "voraussetzung": "Keine",
+    "level": 3,
+    "ap_wert": -24,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 170
+      }
+    ],
+    "_source_file": "Angst+vor+…+I-III.txt",
+    "_category": "Nachteil",
+    "_level_info": {
+      "base_name": "Angst vor …",
+      "ap_per_level": -8,
+      "ap_values": null,
+      "total_levels": 3
+    }
+  },
+  {
+    "name": "Arm I",
+    "regel": "Durch den Nachteil Arm erhält ein Held bei der Generierung 250 Silbertaler weniger pro Stufe. Wählt er also 3 Stufen Arm, beginnt er ohne Startkapital und besitzt nur ein Kleiderpaket der Kategorie arm.",
+    "voraussetzung": "Kein Vorteil Reich",
+    "level": 1,
+    "ap_wert": -1,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 170
+      }
+    ],
+    "_source_file": "Arm+I-III.txt",
+    "_category": "Nachteil",
+    "_level_info": {
+      "base_name": "Arm",
+      "ap_per_level": -1,
+      "ap_values": null,
+      "total_levels": 3
+    }
+  },
+  {
+    "name": "Arm II",
+    "regel": "Durch den Nachteil Arm erhält ein Held bei der Generierung 250 Silbertaler weniger pro Stufe. Wählt er also 3 Stufen Arm, beginnt er ohne Startkapital und besitzt nur ein Kleiderpaket der Kategorie arm.",
+    "voraussetzung": "Kein Vorteil Reich",
+    "level": 2,
+    "ap_wert": -2,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 170
+      }
+    ],
+    "_source_file": "Arm+I-III.txt",
+    "_category": "Nachteil",
+    "_level_info": {
+      "base_name": "Arm",
+      "ap_per_level": -1,
+      "ap_values": null,
+      "total_levels": 3
+    }
+  },
+  {
+    "name": "Arm III",
+    "regel": "Durch den Nachteil Arm erhält ein Held bei der Generierung 250 Silbertaler weniger pro Stufe. Wählt er also 3 Stufen Arm, beginnt er ohne Startkapital und besitzt nur ein Kleiderpaket der Kategorie arm.",
+    "voraussetzung": "Kein Vorteil Reich",
+    "level": 3,
+    "ap_wert": -3,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 170
+      }
+    ],
+    "_source_file": "Arm+I-III.txt",
+    "_category": "Nachteil",
+    "_level_info": {
+      "base_name": "Arm",
+      "ap_per_level": -1,
+      "ap_values": null,
+      "total_levels": 3
+    }
+  },
+  {
+    "name": "Artefaktgebunden",
+    "regel": "Ist der Held nicht in direktem Kontakt mit dem Artefakt (dies bedeutet: Kontakt mit der Haut), kann er nur erschwert Zaubern. Dieser Nachteil erschwert Zauber um 1, wenn die Bedingung des Körperkontaktes nicht erfüllt ist. Wird das Artefakt vernichtet, kann er so lange nur mit der Erschwernis Zauber wirken, bis er selbst ein neues Artefakt gleicher Machart hergestellt hat, in das die Artefaktgebundenheit automatisch einfließt.",
+    "voraussetzung": "Vorteil Zauberer",
+    "ap_wert": -10,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 170
+      }
+    ],
+    "_source_file": "Artefaktgebunden.txt",
+    "_category": "Nachteil"
+  },
+  {
+    "name": "Behäbig",
+    "regel": "Durch Behäbig verliert ein Held 1 Punkt von seinem Geschwindigkeit-Grundwert.",
+    "voraussetzung": "Kein Vorteil Flink",
+    "ap_wert": -4,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 171
+      }
+    ],
+    "_source_file": "Behäbig.txt",
+    "_category": "Nachteil"
+  },
+  {
+    "name": "Blind",
+    "regel": "Durch den Nachteil ist ihm der Einsatz vieler Fertigkeiten erschwert oder erst gar nicht möglich. Dies gilt ebenfalls für Sonderfertigkeiten. Welche Handlungen um wie viel erschwert oder gar unmöglich sind, entscheidet der Meister. Die Blindheit ist nicht heilbar, außer durch ein Großes Wunder. Der Held erhält den Status\nBlind",
+    "voraussetzung": "Kein Vorteil Herausragender Sinn (Sicht), Keine Nachteil Einäugig, Keine Nachteil Farbenblind, Keine Nachteil Nachtblind, Keine Nachteil Eingeschränkter Sinn (Sicht)",
+    "ap_wert": -50,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 171
+      }
+    ],
+    "_source_file": "Blind.txt",
+    "_category": "Nachteil"
+  },
+  {
+    "name": "Blutrausch",
+    "regel": "Der Held erhält unter speziellen Umständen den Status Blutrausch. Der Blutrausch wird aktiviert, wenn der Held durch einen Angriff eine Stufe des Zustands Schmerz erleidet oder ihm seine Probe auf Willenskraft zur Aktivierung der Schlechten Eigenschaft Jähzorn misslingt.",
+    "voraussetzung": "Schlechte Eigenschaft Jähzorn, Kein Nachteil Angst vor Blut",
+    "ap_wert": -10,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 171
+      }
+    ],
+    "_source_file": "Blutrausch.txt",
+    "_category": "Nachteil"
+  },
+  {
+    "name": "Böser Namensvetter",
+    "regel": "Der Held gerät ständig in Schwierigkeiten, weil sich jemand für ihn ausgibt oder schlimmer: tatsächlich so heißt wie er. Dies kann nach Meisterentscheid Erschwernisse von 1 bis 3 auf Gesellschaftstalente nach sich ziehen (mit Ausnahme von Menschenkenntnis und Willenskraft). Die Häufigkeit und die Auswirkungen sollten von Spielerin und Spielleiterin zusammen festgelegt werden.",
+    "voraussetzung": "Ein Name mit Wiedererkennungswert, der aber nicht zu exotisch ist, Kein Vorteil Allerweltsname, Elfen können diesen Vorteil nicht wählen, da ihre Namen einzigartig sind.",
+    "ap_wert": -10,
+    "publikationen": [
+      {
+        "buch": "Aventurische Namen",
+        "seite": 89
+      }
+    ],
+    "_source_file": "Böser+Namensvetter.txt",
+    "_category": "Nachteil"
+  },
+  {
+    "name": "Eingeschränkter Sinn (Gehör)",
+    "regel": "Wer über einen Eingeschränkten Sinn verfügt, dessen Proben auf Sinnesschärfe sind um 2 erschwert, wenn die Probe den entsprechenden Sinn betrifft. Eingeschränkte Sicht erschwert zudem Proben auf Fernkampf um 2.\n\nGehör: Proben auf Sinnesschärfe sind um 2 erschwert.",
+    "voraussetzung": "Kein Vorteil Herausragender Sinn für den gleichen Sinn, Kein Nachteil Blind (bei Sicht), Kein Nachteil Taub (bei Gehör)",
+    "variant": "Gehör",
+    "ap_wert": -10,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 171
+      }
+    ],
+    "_source_file": "Eingeschränkter+Sinn.txt",
+    "_category": "Nachteil",
+    "_variant_info": {
+      "base_name": "Eingeschränkter Sinn",
+      "total_variants": 4
+    }
+  },
+  {
+    "name": "Eingeschränkter Sinn (Geruch & Geschmack)",
+    "regel": "Wer über einen Eingeschränkten Sinn verfügt, dessen Proben auf Sinnesschärfe sind um 2 erschwert, wenn die Probe den entsprechenden Sinn betrifft. Eingeschränkte Sicht erschwert zudem Proben auf Fernkampf um 2.\n\nGeruch & Geschmack: Proben auf Sinnesschärfe sind um 2 erschwert.",
+    "voraussetzung": "Kein Vorteil Herausragender Sinn für den gleichen Sinn, Kein Nachteil Blind (bei Sicht), Kein Nachteil Taub (bei Gehör)",
+    "variant": "Geruch & Geschmack",
+    "ap_wert": -6,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 171
+      }
+    ],
+    "_source_file": "Eingeschränkter+Sinn.txt",
+    "_category": "Nachteil",
+    "_variant_info": {
+      "base_name": "Eingeschränkter Sinn",
+      "total_variants": 4
+    }
+  },
+  {
+    "name": "Eingeschränkter Sinn (Sicht)",
+    "regel": "Wer über einen Eingeschränkten Sinn verfügt, dessen Proben auf Sinnesschärfe sind um 2 erschwert, wenn die Probe den entsprechenden Sinn betrifft. Eingeschränkte Sicht erschwert zudem Proben auf Fernkampf um 2.\n\nSicht: Proben auf Sinnesschärfe sind um 2 erschwert, Proben auf Fernkampf sind um 2 erschwert.",
+    "voraussetzung": "Kein Vorteil Herausragender Sinn für den gleichen Sinn, Kein Nachteil Blind (bei Sicht), Kein Nachteil Taub (bei Gehör)",
+    "variant": "Sicht",
+    "ap_wert": -15,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 171
+      }
+    ],
+    "_source_file": "Eingeschränkter+Sinn.txt",
+    "_category": "Nachteil",
+    "_variant_info": {
+      "base_name": "Eingeschränkter Sinn",
+      "total_variants": 4
+    }
+  },
+  {
+    "name": "Eingeschränkter Sinn (Tastsinn)",
+    "regel": "Wer über einen Eingeschränkten Sinn verfügt, dessen Proben auf Sinnesschärfe sind um 2 erschwert, wenn die Probe den entsprechenden Sinn betrifft. Eingeschränkte Sicht erschwert zudem Proben auf Fernkampf um 2.\n\nTastsinn: Proben auf Sinnesschärfe sind um 2 erschwert.",
+    "voraussetzung": "Kein Vorteil Herausragender Sinn für den gleichen Sinn, Kein Nachteil Blind (bei Sicht), Kein Nachteil Taub (bei Gehör)",
+    "variant": "Tastsinn",
+    "ap_wert": -2,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 171
+      }
+    ],
+    "_source_file": "Eingeschränkter+Sinn.txt",
+    "_category": "Nachteil",
+    "_variant_info": {
+      "base_name": "Eingeschränkter Sinn",
+      "total_variants": 4
+    }
+  },
+  {
+    "name": "Empfindlichkeit (unedle Metalle) (_)",
+    "regel": "Verliert der Held Lebenspunkte durch Metallwaffen, steigen die Schadenspunkte um 4. Eine einfache Berührung mit entsprechenden Metallen richtet 1 Schadenspunkt pro 5 vollen Minuten an. Bei Unterbrechungen addieren sich die Teilzeiten auf, solange die Unterbrechungen die Dauer von 1 Stunde nicht überschreiten. Diese Empfindlichkeit gilt gegen unedle Metalle (z. B: Eisen, Stahl, Blei, Kupfer) nicht aber gegen magische Metalle oder Edelmetalle.",
+    "voraussetzung": "Keine",
+    "ap_wert": -30,
+    "publikationen": [
+      {
+        "buch": "Klingen der Nacht",
+        "seite": 106
+      }
+    ],
+    "_source_file": "Empfindlichkeit+(unedle+Metalle)+(_).txt",
+    "_category": "Nachteil"
+  },
+  {
+    "name": "Farbenblind",
+    "regel": "Für den Abenteurer sind Farben nicht zu unterscheiden. Dies kann sich bei einigen Proben, etwa auf Alchimie („Rote Flüssigkeit in grüne Flüssigkeit schütten.“), beim Zuordnen von Wappen (Etikette) oder bei der Orientierung im Dschungel negativ auswirken. Ob eine Probe abgelegt werden kann und wie hoch die Erschwernis ist, entscheidet der Meister.",
+    "voraussetzung": "Keine",
+    "ap_wert": -2,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 171
+      }
+    ],
+    "_source_file": "Farbenblind.txt",
+    "_category": "Nachteil"
+  },
+  {
+    "name": "Fettleibig",
+    "regel": "Der Nachteil hat zur Folge, dass Proben auf Klettern, Körperbeherrschung, Tanzen und Verbergen um 1 erschwert sind.",
+    "voraussetzung": "Nachteil Behäbig",
+    "ap_wert": -25,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 171
+      }
+    ],
+    "_source_file": "Fettleibig.txt",
+    "_category": "Nachteil"
+  },
+  {
+    "name": "Friedlos",
+    "regel": "Friedlose gelten bei den Thorwalern als Ausgestoßene. Alle Proben auf Bekehren & Überzeugen, Etikette, Handel und Überreden erhalten gegenüber Thorwalern eine Erschwernis von –1. Diese Erschwernis gilt nicht gegenüber Nicht- Thorwalern. Der soziale Stand eines Friedlosen ist zudem immer Stufe I (siehe Regelwerk Seite 338).",
+    "voraussetzung": "Der Held muss der Kultur Thorwaler angehören.",
+    "ap_wert": -20,
+    "publikationen": [
+      {
+        "buch": "Die Gestade des Gottwals - Thorwal und das Gjalskerland",
+        "seite": 141
+      }
+    ],
+    "_source_file": "Friedlos.txt",
+    "_category": "Nachteil"
+  },
+  {
+    "name": "Giftanfällig I",
+    "regel": "Eine Giftanfälligkeit verschlechtert Zähigkeit und Seelenkraft um 1 pro Stufe, wenn es darum geht, Giften zu widerstehen.",
+    "voraussetzung": "Kein Vorteil Giftresistenz",
+    "level": 1,
+    "ap_wert": -5,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 171
+      }
+    ],
+    "_source_file": "Giftanfällig+I-II.txt",
+    "_category": "Nachteil",
+    "_level_info": {
+      "base_name": "Giftanfällig",
+      "ap_per_level": -5,
+      "ap_values": null,
+      "total_levels": 2
+    }
+  },
+  {
+    "name": "Giftanfällig II",
+    "regel": "Eine Giftanfälligkeit verschlechtert Zähigkeit und Seelenkraft um 1 pro Stufe, wenn es darum geht, Giften zu widerstehen.",
+    "voraussetzung": "Kein Vorteil Giftresistenz",
+    "level": 2,
+    "ap_wert": -10,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 171
+      }
+    ],
+    "_source_file": "Giftanfällig+I-II.txt",
+    "_category": "Nachteil",
+    "_level_info": {
+      "base_name": "Giftanfällig",
+      "ap_per_level": -5,
+      "ap_values": null,
+      "total_levels": 2
+    }
+  },
+  {
+    "name": "Gläsern",
+    "regel": "Die Wundschwelle des Helden sinkt durch den Nachteil um 1.",
+    "voraussetzung": "Keine",
+    "ap_wert": -3,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Kompendium",
+        "seite": 133
+      }
+    ],
+    "_source_file": "Gläsern.txt",
+    "_category": "Nachteil"
+  },
+  {
+    "name": "Hässlich I",
+    "regel": "Durch jede Stufe dieses Nachteils erleidet der Held eine Erschwernis von 1 auf Betören (Anbändeln, Liebeskünste), Überreden (Manipulieren, Schmeicheln) und Handel (Feilschen).",
+    "voraussetzung": "Kein Vorteil Gutaussehend",
+    "level": 1,
+    "ap_wert": -10,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 172
+      }
+    ],
+    "_source_file": "Hässlich+I-II.txt",
+    "_category": "Nachteil",
+    "_level_info": {
+      "base_name": "Hässlich",
+      "ap_per_level": -10,
+      "ap_values": null,
+      "total_levels": 2
+    }
+  },
+  {
+    "name": "Hässlich II",
+    "regel": "Durch jede Stufe dieses Nachteils erleidet der Held eine Erschwernis von 1 auf Betören (Anbändeln, Liebeskünste), Überreden (Manipulieren, Schmeicheln) und Handel (Feilschen).",
+    "voraussetzung": "Kein Vorteil Gutaussehend",
+    "level": 2,
+    "ap_wert": -20,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 172
+      }
+    ],
+    "_source_file": "Hässlich+I-II.txt",
+    "_category": "Nachteil",
+    "_level_info": {
+      "base_name": "Hässlich",
+      "ap_per_level": -10,
+      "ap_values": null,
+      "total_levels": 2
+    }
+  },
+  {
+    "name": "Hitzeempfindlich",
+    "regel": "Hitzestufen werden für den Helden um 1 Stufe erhöht, sobald er mindestens unter Hitzestufe 2 leidet.",
+    "voraussetzung": "Kein Vorteil Hitzeresistenz",
+    "ap_wert": -3,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 172
+      }
+    ],
+    "_source_file": "Hitzeempfindlich.txt",
+    "_category": "Nachteil"
+  },
+  {
+    "name": "Hitzeempfindlich II (_)",
+    "regel": "Hitzestufen werden für den Helden um 2 Stufen erhöht, sobald er mindestens unter Hitzestufe 2 leidet.",
+    "voraussetzung": "Kein Vorteil Hitzeresistenz, Kein Nachteil Hitzeempfindlich I",
+    "ap_wert": -6,
+    "publikationen": [
+      {
+        "buch": "Klingen der Nacht",
+        "seite": 106
+      }
+    ],
+    "_source_file": "Hitzeempfindlich+II+(_).txt",
+    "_category": "Nachteil"
+  },
+  {
+    "name": "Instabiler Zauberer",
+    "regel": "Würfelt der Held einen Patzer bei einem Zauber oder einer magischen Handlung, durchdringt ihn magische Energie und er erleidet 2W6 SP.",
+    "voraussetzung": "Vorteil Zauberer",
+    "ap_wert": -5,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie",
+        "seite": 226
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 380
+      }
+    ],
+    "_source_file": "Instabiler+Zauberer.txt",
+    "_category": "Nachteil"
+  },
+  {
+    "name": "Jagdwildgeruch",
+    "regel": "Der Meister kann immer, wenn der Held nahegenug an hungrigen Raubtieren ist (50 Schritt Radius) und diese ihn wittern, mit dem W6 würfeln. Bei einer 1-2 halten sie den Abenteurer für Beute und greifen ihn an. Sollte es zu einem Kampf mit einer ganzen Heldengruppe kommen, so greifen die Raubtiere bevorzugt einen Helden mit dem Nachteil Jagdwildgeruch an. Als Raubtiere gelten beispielsweise Jaguare und Würgeschlangen, auf keinen Fall aber reine Pflanzenfresser. Welche Tiere von dem Geruch genau angelockt werden, entscheidet der Meister.",
+    "voraussetzung": "Keine",
+    "ap_wert": -10,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Bestiarium",
+        "seite": 121
+      }
+    ],
+    "_source_file": "Jagdwildgeruch.txt",
+    "_category": "Nachteil"
+  },
+  {
+    "name": "Kälteempfindlich",
+    "regel": "Kältestufen werden für den Helden um 1 Stufe erhöht, sobald er mindestens unter Kältestufe 1 leidet.",
+    "voraussetzung": "Kein Vorteil Kälteresistenz",
+    "ap_wert": -3,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 172
+      }
+    ],
+    "_source_file": "Kälteempfindlich.txt",
+    "_category": "Nachteil"
+  },
+  {
+    "name": "Kältestarre (_)",
+    "regel": "Statt Kälteschaden zu erleiden, versetzt sich der Körper eines Achaz automatisch in eine Kältestarre. Er bekommt jede Minute bei Temperaturen, in denen er Kälteschaden erleiden würde, 1 Stufe Paralyse und bei der IV Stufe zusätzlich den Status Bewusstlos. In der Kältestarre kann er 1W20 Jahre überleben. Gelangt er wieder in eine wärmere Gegend, so bauen sich die Stufen Paralyse alle volle 30 Minuten um 1 Stufe ab. Ab Stufe III verliert er den Status Bewusstlos.",
+    "voraussetzung": "Spezies, Kultur oder Profession muss Vorteil als automatischen oder empfohlenen Vorteil aufweisen.",
+    "ap_wert": -15,
+    "publikationen": [
+      {
+        "buch": "Achaz - Schuppenkleid & Lange Zungen",
+        "seite": 29
+      }
+    ],
+    "_source_file": "Kältestarre+(_).txt",
+    "_category": "Nachteil"
+  },
+  {
+    "name": "Keine Flugsalbe (_)",
+    "regel": "Der Held kann die Sonderfertigkeit Flugsalbe nicht erwerben. Dadurch wird die Sonderfertigkeit Tradition (Hexen) um 10 AP billiger.",
+    "voraussetzung": "Vorteil Zauberer, Zauberertradition kann Sonderfertigkeit Flugsalbe wählen",
+    "ap_wert": -25,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 172
+      }
+    ],
+    "_source_file": "Keine+Flugsalbe+(_).txt",
+    "_category": "Nachteil"
+  },
+  {
+    "name": "Kein Vertrauter (_)",
+    "regel": "Der Held kann die Sonderfertigkeit Vertrautenbindung nicht erwerben. Dadurch wird die Sonderfertigkeit Tradition (Hexen) um 10 AP billiger.",
+    "voraussetzung": "Vorteil Zauberer, Zauberertradition kann Sonderfertigkeit Vertrautenbindung wählen",
+    "ap_wert": -25,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 172
+      }
+    ],
+    "_source_file": "Kein+Vertrauter+(_).txt",
+    "_category": "Nachteil"
+  },
+  {
+    "name": "Kleine Zauberauswahl I",
+    "regel": "Der intuitive Zauberer muss pro Stufe einen der drei Zauber streichen, über die er maximal verfügen kann.",
+    "voraussetzung": "Sonderfertigkeit Tradition (Aninisten oder Intuitive Zauberer* oder Runenschöpfer oder Darna), Kein Vorteil Große Zauberauswahl",
+    "level": 1,
+    "ap_wert": -10,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie",
+        "seite": 144
+      },
+      {
+        "buch": "Aventurische Magie III",
+        "seite": 208
+      },
+      {
+        "buch": "Geisterwald & Knochenklippen (Die Gestade des Gottwals)",
+        "seite": 5
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 380
+      }
+    ],
+    "_source_file": "Kleine+Zauberauswahl+I-III.txt",
+    "_category": "Nachteil",
+    "_level_info": {
+      "base_name": "Kleine Zauberauswahl",
+      "ap_per_level": -10,
+      "ap_values": null,
+      "total_levels": 3
+    }
+  },
+  {
+    "name": "Kleine Zauberauswahl II",
+    "regel": "Der intuitive Zauberer muss pro Stufe einen der drei Zauber streichen, über die er maximal verfügen kann.",
+    "voraussetzung": "Sonderfertigkeit Tradition (Aninisten oder Intuitive Zauberer* oder Runenschöpfer oder Darna), Kein Vorteil Große Zauberauswahl",
+    "level": 2,
+    "ap_wert": -20,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie",
+        "seite": 144
+      },
+      {
+        "buch": "Aventurische Magie III",
+        "seite": 208
+      },
+      {
+        "buch": "Geisterwald & Knochenklippen (Die Gestade des Gottwals)",
+        "seite": 5
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 380
+      }
+    ],
+    "_source_file": "Kleine+Zauberauswahl+I-III.txt",
+    "_category": "Nachteil",
+    "_level_info": {
+      "base_name": "Kleine Zauberauswahl",
+      "ap_per_level": -10,
+      "ap_values": null,
+      "total_levels": 3
+    }
+  },
+  {
+    "name": "Kleine Zauberauswahl III",
+    "regel": "Der intuitive Zauberer muss pro Stufe einen der drei Zauber streichen, über die er maximal verfügen kann.",
+    "voraussetzung": "Sonderfertigkeit Tradition (Aninisten oder Intuitive Zauberer* oder Runenschöpfer oder Darna), Kein Vorteil Große Zauberauswahl",
+    "level": 3,
+    "ap_wert": -30,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie",
+        "seite": 144
+      },
+      {
+        "buch": "Aventurische Magie III",
+        "seite": 208
+      },
+      {
+        "buch": "Geisterwald & Knochenklippen (Die Gestade des Gottwals)",
+        "seite": 5
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 380
+      }
+    ],
+    "_source_file": "Kleine+Zauberauswahl+I-III.txt",
+    "_category": "Nachteil",
+    "_level_info": {
+      "base_name": "Kleine Zauberauswahl",
+      "ap_per_level": -10,
+      "ap_values": null,
+      "total_levels": 3
+    }
+  },
+  {
+    "name": "Körpergebundene Kraft",
+    "regel": "Sobald der Held, aus welchem Grunde auch immer, einen Teil seiner Haarpracht einbüßt (z. B. durch Abschneiden, Feuer etc.; unabhängig von der Länge), verliert er sofort 10 Astralpunkte (bis zu einem Minimum von 0). Diese können normal regeneriert werden. Der normale menschliche Haarverlust zählt nicht als Verlust der Haarpracht.",
+    "voraussetzung": "Vorteil Zauberer, Spezies des Zauberers muss über Haare verfügen",
+    "ap_wert": -5,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 172
+      }
+    ],
+    "_source_file": "Körpergebundene+Kraft.txt",
+    "_category": "Nachteil"
+  },
+  {
+    "name": "Körperliche Auffälligkeit",
+    "regel": "Ein Held kann maximal zwei Körperliche Auffälligkeiten wählen. Die Körperliche Auffälligkeit zieht gelegentlich Erschwernisse auf Gesellschaftstalente aufgrund von Aberglaube oder Misstrauen nach sich.",
+    "voraussetzung": "Keine",
+    "ap_wert": -2,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 172
+      }
+    ],
+    "_source_file": "Körperliche+Auffälligkeit.txt",
+    "_category": "Nachteil"
+  },
+  {
+    "name": "Krankheitsanfällig I",
+    "regel": "Eine Krankheitsanfälligkeit verschlechtert Zähigkeit und Seelenkraft um 1 pro Stufe, wenn es darum geht, Krankheiten zu widerstehen.",
+    "voraussetzung": "Kein Vorteil Krankheitsresistenz",
+    "level": 1,
+    "ap_wert": -5,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 172
+      }
+    ],
+    "_source_file": "Krankheitsanfällig+I-II.txt",
+    "_category": "Nachteil",
+    "_level_info": {
+      "base_name": "Krankheitsanfällig",
+      "ap_per_level": -5,
+      "ap_values": null,
+      "total_levels": 2
+    }
+  },
+  {
+    "name": "Krankheitsanfällig II",
+    "regel": "Eine Krankheitsanfälligkeit verschlechtert Zähigkeit und Seelenkraft um 1 pro Stufe, wenn es darum geht, Krankheiten zu widerstehen.",
+    "voraussetzung": "Kein Vorteil Krankheitsresistenz",
+    "level": 2,
+    "ap_wert": -10,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 172
+      }
+    ],
+    "_source_file": "Krankheitsanfällig+I-II.txt",
+    "_category": "Nachteil",
+    "_level_info": {
+      "base_name": "Krankheitsanfällig",
+      "ap_per_level": -5,
+      "ap_values": null,
+      "total_levels": 2
+    }
+  },
+  {
+    "name": "Lächerlicher Name",
+    "regel": "Die Heldin hatte schon immer einen lächerlichen Namen, oder aber sie hat sich irgendwann einen ehrenrührigen Beinamen verdient. Wenn die Heldin ihren Namen nennt, muss ihr Gegenüber eine Probe auf Willenskraft bestehen, um nicht unangemessen zu reagieren. Hat sich jemand an den Namen gewöhnt, entfällt diese Probe.",
+    "voraussetzung": "Ein möglichst lächerlicher Name, Kein Vorteil Allerweltsname, Kein Vorteil Heldenhafter Name, Kein Nachteil Schurkenname",
+    "ap_wert": -3,
+    "publikationen": [
+      {
+        "buch": "Aventurische Namen",
+        "seite": 90
+      }
+    ],
+    "_source_file": "Lächerlicher+Name.txt",
+    "_category": "Nachteil"
+  },
+  {
+    "name": "Lästige Blütenfeen",
+    "regel": "Jedes Mal, wenn der Zauberer Astralenergie ausgibt und es eine Gegend ist, in der Blütenfeen leben, würfelt er mit dem W20. Ist das Ergebnis gleich oder kleiner der ausgegebenen Astralenergiemenge, dann tauchen eine oder mehrere Blütenfeen auf und belästigen den Zauberer. Alle folgenden Fertigkeitsproben sind in diesem Fall wegen der Ablenkung um 1 erschwert. Die Feenbleiben für 10 Minuten, ehe sie von selbst wieder verschwinden. Man kann nicht von mehr als einer Blütenfee gleichzeitig abgelenkt werden, die Erschwernis steigt also nicht durch weitere Feen, die durch den Nachteil erscheinen.",
+    "voraussetzung": "Vorteil Zauberer",
+    "ap_wert": -10,
+    "publikationen": [
+      {
+        "buch": "Die Siebenwindküste - Albernia und der Windhag",
+        "seite": 154
+      }
+    ],
+    "_source_file": "Lästige+Blütenfeen.txt",
+    "_category": "Nachteil"
+  },
+  {
+    "name": "Lästige Mindergeister",
+    "regel": "Jedes Mal wenn der Zauberer Astralenergie ausgibt, würfelt er mit dem W20. Ist das Ergebnis gleich oder kleiner der ausgegebenen Astralenergiemenge, tauchen Mindergeister auf und belästigen den Zauberer. Welche Art von Mindergeistern erscheinen, entscheidet der Meister je nach Situation. Beispiele sind Windbeutel, die das Haar des Zauberers selbst bei Windstille wallen lassen, Tränenlinge, die sich unter die Augen setzen, oder Feuerwusel, die Gegenstände des Zauberers erhitzen oder gar verkohlen. Außerdem sind alle Fertigkeitsproben wegen der Ablenkung um 1 erschwert. Die Mindergeister bleiben für 10 Minuten, ehe sie von selbst wieder verschwinden. Sind durch zu häufiges Zaubern mehrere Mindergeister erschienen, summieren sich die Erschwernis dennoch nicht auf.",
+    "voraussetzung": "Vorteil Zauberer",
+    "ap_wert": -20,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 173
+      }
+    ],
+    "_source_file": "Lästige+Mindergeister.txt",
+    "_category": "Nachteil"
+  },
+  {
+    "name": "Lernfaul",
+    "regel": "Der Schelm kann keine Zauber in Schelmenstreiche umwandeln.",
+    "voraussetzung": "Sonderfertigkeit Tradition (Schelme)",
+    "ap_wert": -15,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 219
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 380
+      }
+    ],
+    "_source_file": "Lernfaul.txt",
+    "_category": "Nachteil"
+  },
+  {
+    "name": "Lichtempfindlich",
+    "regel": "Der Held erleidet eine Stufe Schmerz, sobald er Sonnenlicht ausgesetzt ist, das heller ist als Dämmerlicht. Diese Auswirkung lässt sich vermeiden, wenn der Betroffene seinen kompletten Körper inklusive der Augen verhüllt.",
+    "voraussetzung": "Keine",
+    "ap_wert": -20,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 173
+      }
+    ],
+    "_source_file": "Lichtempfindlich.txt",
+    "_category": "Nachteil"
+  },
+  {
+    "name": "Lichtempfindlich II (_)",
+    "regel": "Der Held erleidet zwei Stufen Schmerz, sobald er Sonnenlicht ausgesetzt ist, das heller ist als Dämmerlicht. Diese Auswirkung lässt sich vermeiden, wenn der Betroffene seinen kompletten Körper inklusive der Augen verhüllt.",
+    "voraussetzung": "Kein Nachteil Lichtempfindlich I",
+    "ap_wert": -30,
+    "publikationen": [
+      {
+        "buch": "Klingen der Nacht",
+        "seite": 106
+      }
+    ],
+    "_source_file": "Lichtempfindlich+II+(_).txt",
+    "_category": "Nachteil"
+  },
+  {
+    "name": "Magische Einschränkung (Fluch der Auen)",
+    "regel": "In der Umgebung, für die der Nachteil gilt, hat der Zauberer bei magischen Fertigkeitsproben keine Erschwernisse, ansonsten eine von 1.\n\nFluch der Auen: In der Umgebung, für die der Nachteil gilt, hat der Zauberer bei magischen Fertigkeitsproben keine Erschwernisse, ansonsten eine von 1.",
+    "voraussetzung": "Vorteil Zauberer",
+    "variant": "Fluch der Auen",
+    "ap_wert": -30,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 173
+      }
+    ],
+    "_source_file": "Magische+Einschränkung.txt",
+    "_category": "Nachteil",
+    "_variant_info": {
+      "base_name": "Magische Einschränkung",
+      "total_variants": 6
+    }
+  },
+  {
+    "name": "Magische Einschränkung (Fluch der Berge)",
+    "regel": "In der Umgebung, für die der Nachteil gilt, hat der Zauberer bei magischen Fertigkeitsproben keine Erschwernisse, ansonsten eine von 1.\n\nFluch der Berge: In der Umgebung, für die der Nachteil gilt, hat der Zauberer bei magischen Fertigkeitsproben keine Erschwernisse, ansonsten eine von 1.",
+    "voraussetzung": "Vorteil Zauberer",
+    "variant": "Fluch der Berge",
+    "ap_wert": -30,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 173
+      }
+    ],
+    "_source_file": "Magische+Einschränkung.txt",
+    "_category": "Nachteil",
+    "_variant_info": {
+      "base_name": "Magische Einschränkung",
+      "total_variants": 6
+    }
+  },
+  {
+    "name": "Magische Einschränkung (Fluch der Meere)",
+    "regel": "In der Umgebung, für die der Nachteil gilt, hat der Zauberer bei magischen Fertigkeitsproben keine Erschwernisse, ansonsten eine von 1.\n\nFluch der Meere: In der Umgebung, für die der Nachteil gilt, hat der Zauberer bei magischen Fertigkeitsproben keine Erschwernisse, ansonsten eine von 1.",
+    "voraussetzung": "Vorteil Zauberer",
+    "variant": "Fluch der Meere",
+    "ap_wert": -30,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 173
+      }
+    ],
+    "_source_file": "Magische+Einschränkung.txt",
+    "_category": "Nachteil",
+    "_variant_info": {
+      "base_name": "Magische Einschränkung",
+      "total_variants": 6
+    }
+  },
+  {
+    "name": "Magische Einschränkung (Fluch der Nacht)",
+    "regel": "In der Umgebung, für die der Nachteil gilt, hat der Zauberer bei magischen Fertigkeitsproben keine Erschwernisse, ansonsten eine von 1.\n\nFluch der Nacht: In der Umgebung, für die der Nachteil gilt, hat der Zauberer bei magischen Fertigkeitsproben keine Erschwernisse, ansonsten eine von 1.",
+    "voraussetzung": "Vorteil Zauberer",
+    "variant": "Fluch der Nacht",
+    "ap_wert": -30,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 173
+      }
+    ],
+    "_source_file": "Magische+Einschränkung.txt",
+    "_category": "Nachteil",
+    "_variant_info": {
+      "base_name": "Magische Einschränkung",
+      "total_variants": 6
+    }
+  },
+  {
+    "name": "Magische Einschränkung (Fluch des Eises)",
+    "regel": "In der Umgebung, für die der Nachteil gilt, hat der Zauberer bei magischen Fertigkeitsproben keine Erschwernisse, ansonsten eine von 1.\n\nFluch des Eises: In der Umgebung, für die der Nachteil gilt, hat der Zauberer bei magischen Fertigkeitsproben keine Erschwernisse, ansonsten eine von 1.",
+    "voraussetzung": "Vorteil Zauberer",
+    "variant": "Fluch des Eises",
+    "ap_wert": -30,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 173
+      }
+    ],
+    "_source_file": "Magische+Einschränkung.txt",
+    "_category": "Nachteil",
+    "_variant_info": {
+      "base_name": "Magische Einschränkung",
+      "total_variants": 6
+    }
+  },
+  {
+    "name": "Magische Einschränkung (Fluch des Waldes)",
+    "regel": "In der Umgebung, für die der Nachteil gilt, hat der Zauberer bei magischen Fertigkeitsproben keine Erschwernisse, ansonsten eine von 1.\n\nFluch des Waldes: In der Umgebung, für die der Nachteil gilt, hat der Zauberer bei magischen Fertigkeitsproben keine Erschwernisse, ansonsten eine von 1.",
+    "voraussetzung": "Vorteil Zauberer",
+    "variant": "Fluch des Waldes",
+    "ap_wert": -30,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 173
+      }
+    ],
+    "_source_file": "Magische+Einschränkung.txt",
+    "_category": "Nachteil",
+    "_variant_info": {
+      "base_name": "Magische Einschränkung",
+      "total_variants": 6
+    }
+  },
+  {
+    "name": "Misslungene Reifeprüfung",
+    "regel": "Unter Angehörigen ihrer Kultur hat der Held eine Erschwernis von –1 auf Gesellschaftstalente außer Menschenkenntnis und Willenskraft, sofern das Gegenüber von der misslungenen Reifeprüfung weiß. Sollten Angehörige die misslungene Reifeprüfung als nicht besonders schlimm empfinden, gilt die Erschwernis nicht.*",
+    "voraussetzung": "Keine",
+    "ap_wert": -10,
+    "publikationen": [
+      {
+        "buch": "Die Gestade des Gottwals - Thorwal und das Gjalskerland",
+        "seite": 141
+      }
+    ],
+    "_source_file": "Misslungene+Reifeprüfung.txt",
+    "_category": "Nachteil"
+  },
+  {
+    "name": "Nachtblind",
+    "regel": "Sobald der Held mindestens eine Stufe Sichterschwernis durch Dunkelheit erleidet, wird diese Erschwernis für ihn um eine Stufe erhöht.",
+    "voraussetzung": "Kein Vorteil Dunkelsicht, Kein Nachteil Blind",
+    "ap_wert": -10,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 173
+      }
+    ],
+    "_source_file": "Nachtblind.txt",
+    "_category": "Nachteil"
+  },
+  {
+    "name": "Niedrige Astralkraft I",
+    "regel": "Der AE-Grundwert sinkt durch diesen Nachteil um 1 Punkt pro Stufe des Nachteils.",
+    "voraussetzung": "Vorteil Zauberer, Kein Vorteil Hohe Astralkraft",
+    "level": 1,
+    "ap_wert": -2,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 174
+      }
+    ],
+    "_source_file": "Niedrige+Astralkraft+I-VII.txt",
+    "_category": "Nachteil",
+    "_level_info": {
+      "base_name": "Niedrige Astralkraft",
+      "ap_per_level": -2,
+      "ap_values": null,
+      "total_levels": 7
+    }
+  },
+  {
+    "name": "Niedrige Astralkraft II",
+    "regel": "Der AE-Grundwert sinkt durch diesen Nachteil um 1 Punkt pro Stufe des Nachteils.",
+    "voraussetzung": "Vorteil Zauberer, Kein Vorteil Hohe Astralkraft",
+    "level": 2,
+    "ap_wert": -4,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 174
+      }
+    ],
+    "_source_file": "Niedrige+Astralkraft+I-VII.txt",
+    "_category": "Nachteil",
+    "_level_info": {
+      "base_name": "Niedrige Astralkraft",
+      "ap_per_level": -2,
+      "ap_values": null,
+      "total_levels": 7
+    }
+  },
+  {
+    "name": "Niedrige Astralkraft III",
+    "regel": "Der AE-Grundwert sinkt durch diesen Nachteil um 1 Punkt pro Stufe des Nachteils.",
+    "voraussetzung": "Vorteil Zauberer, Kein Vorteil Hohe Astralkraft",
+    "level": 3,
+    "ap_wert": -6,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 174
+      }
+    ],
+    "_source_file": "Niedrige+Astralkraft+I-VII.txt",
+    "_category": "Nachteil",
+    "_level_info": {
+      "base_name": "Niedrige Astralkraft",
+      "ap_per_level": -2,
+      "ap_values": null,
+      "total_levels": 7
+    }
+  },
+  {
+    "name": "Niedrige Astralkraft IV",
+    "regel": "Der AE-Grundwert sinkt durch diesen Nachteil um 1 Punkt pro Stufe des Nachteils.",
+    "voraussetzung": "Vorteil Zauberer, Kein Vorteil Hohe Astralkraft",
+    "level": 4,
+    "ap_wert": -8,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 174
+      }
+    ],
+    "_source_file": "Niedrige+Astralkraft+I-VII.txt",
+    "_category": "Nachteil",
+    "_level_info": {
+      "base_name": "Niedrige Astralkraft",
+      "ap_per_level": -2,
+      "ap_values": null,
+      "total_levels": 7
+    }
+  },
+  {
+    "name": "Niedrige Astralkraft V",
+    "regel": "Der AE-Grundwert sinkt durch diesen Nachteil um 1 Punkt pro Stufe des Nachteils.",
+    "voraussetzung": "Vorteil Zauberer, Kein Vorteil Hohe Astralkraft",
+    "level": 5,
+    "ap_wert": -10,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 174
+      }
+    ],
+    "_source_file": "Niedrige+Astralkraft+I-VII.txt",
+    "_category": "Nachteil",
+    "_level_info": {
+      "base_name": "Niedrige Astralkraft",
+      "ap_per_level": -2,
+      "ap_values": null,
+      "total_levels": 7
+    }
+  },
+  {
+    "name": "Niedrige Astralkraft VI",
+    "regel": "Der AE-Grundwert sinkt durch diesen Nachteil um 1 Punkt pro Stufe des Nachteils.",
+    "voraussetzung": "Vorteil Zauberer, Kein Vorteil Hohe Astralkraft",
+    "level": 6,
+    "ap_wert": -12,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 174
+      }
+    ],
+    "_source_file": "Niedrige+Astralkraft+I-VII.txt",
+    "_category": "Nachteil",
+    "_level_info": {
+      "base_name": "Niedrige Astralkraft",
+      "ap_per_level": -2,
+      "ap_values": null,
+      "total_levels": 7
+    }
+  },
+  {
+    "name": "Niedrige Astralkraft VII",
+    "regel": "Der AE-Grundwert sinkt durch diesen Nachteil um 1 Punkt pro Stufe des Nachteils.",
+    "voraussetzung": "Vorteil Zauberer, Kein Vorteil Hohe Astralkraft",
+    "level": 7,
+    "ap_wert": -14,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 174
+      }
+    ],
+    "_source_file": "Niedrige+Astralkraft+I-VII.txt",
+    "_category": "Nachteil",
+    "_level_info": {
+      "base_name": "Niedrige Astralkraft",
+      "ap_per_level": -2,
+      "ap_values": null,
+      "total_levels": 7
+    }
+  },
+  {
+    "name": "Niedrige Karmalkraft I",
+    "regel": "Der KE-Grundwert sinkt durch diesen Nachteil um 1 Punkt pro Stufe des Nachteils.",
+    "voraussetzung": "Vorteil Geweihter, Kein Vorteil Hohe Karmalkraft",
+    "level": 1,
+    "ap_wert": -2,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 174
+      }
+    ],
+    "_source_file": "Niedrige+Karmalkraft+I-VII.txt",
+    "_category": "Nachteil",
+    "_level_info": {
+      "base_name": "Niedrige Karmalkraft",
+      "ap_per_level": -2,
+      "ap_values": null,
+      "total_levels": 7
+    }
+  },
+  {
+    "name": "Niedrige Karmalkraft II",
+    "regel": "Der KE-Grundwert sinkt durch diesen Nachteil um 1 Punkt pro Stufe des Nachteils.",
+    "voraussetzung": "Vorteil Geweihter, Kein Vorteil Hohe Karmalkraft",
+    "level": 2,
+    "ap_wert": -4,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 174
+      }
+    ],
+    "_source_file": "Niedrige+Karmalkraft+I-VII.txt",
+    "_category": "Nachteil",
+    "_level_info": {
+      "base_name": "Niedrige Karmalkraft",
+      "ap_per_level": -2,
+      "ap_values": null,
+      "total_levels": 7
+    }
+  },
+  {
+    "name": "Niedrige Karmalkraft III",
+    "regel": "Der KE-Grundwert sinkt durch diesen Nachteil um 1 Punkt pro Stufe des Nachteils.",
+    "voraussetzung": "Vorteil Geweihter, Kein Vorteil Hohe Karmalkraft",
+    "level": 3,
+    "ap_wert": -6,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 174
+      }
+    ],
+    "_source_file": "Niedrige+Karmalkraft+I-VII.txt",
+    "_category": "Nachteil",
+    "_level_info": {
+      "base_name": "Niedrige Karmalkraft",
+      "ap_per_level": -2,
+      "ap_values": null,
+      "total_levels": 7
+    }
+  },
+  {
+    "name": "Niedrige Karmalkraft IV",
+    "regel": "Der KE-Grundwert sinkt durch diesen Nachteil um 1 Punkt pro Stufe des Nachteils.",
+    "voraussetzung": "Vorteil Geweihter, Kein Vorteil Hohe Karmalkraft",
+    "level": 4,
+    "ap_wert": -8,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 174
+      }
+    ],
+    "_source_file": "Niedrige+Karmalkraft+I-VII.txt",
+    "_category": "Nachteil",
+    "_level_info": {
+      "base_name": "Niedrige Karmalkraft",
+      "ap_per_level": -2,
+      "ap_values": null,
+      "total_levels": 7
+    }
+  },
+  {
+    "name": "Niedrige Karmalkraft V",
+    "regel": "Der KE-Grundwert sinkt durch diesen Nachteil um 1 Punkt pro Stufe des Nachteils.",
+    "voraussetzung": "Vorteil Geweihter, Kein Vorteil Hohe Karmalkraft",
+    "level": 5,
+    "ap_wert": -10,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 174
+      }
+    ],
+    "_source_file": "Niedrige+Karmalkraft+I-VII.txt",
+    "_category": "Nachteil",
+    "_level_info": {
+      "base_name": "Niedrige Karmalkraft",
+      "ap_per_level": -2,
+      "ap_values": null,
+      "total_levels": 7
+    }
+  },
+  {
+    "name": "Niedrige Karmalkraft VI",
+    "regel": "Der KE-Grundwert sinkt durch diesen Nachteil um 1 Punkt pro Stufe des Nachteils.",
+    "voraussetzung": "Vorteil Geweihter, Kein Vorteil Hohe Karmalkraft",
+    "level": 6,
+    "ap_wert": -12,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 174
+      }
+    ],
+    "_source_file": "Niedrige+Karmalkraft+I-VII.txt",
+    "_category": "Nachteil",
+    "_level_info": {
+      "base_name": "Niedrige Karmalkraft",
+      "ap_per_level": -2,
+      "ap_values": null,
+      "total_levels": 7
+    }
+  },
+  {
+    "name": "Niedrige Karmalkraft VII",
+    "regel": "Der KE-Grundwert sinkt durch diesen Nachteil um 1 Punkt pro Stufe des Nachteils.",
+    "voraussetzung": "Vorteil Geweihter, Kein Vorteil Hohe Karmalkraft",
+    "level": 7,
+    "ap_wert": -14,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 174
+      }
+    ],
+    "_source_file": "Niedrige+Karmalkraft+I-VII.txt",
+    "_category": "Nachteil",
+    "_level_info": {
+      "base_name": "Niedrige Karmalkraft",
+      "ap_per_level": -2,
+      "ap_values": null,
+      "total_levels": 7
+    }
+  },
+  {
+    "name": "Niedrige Lebenskraft I",
+    "regel": "Der LE-Grundwert sinkt durch diesen Nachteil um 1 Punkt pro Stufe des Nachteils.",
+    "voraussetzung": "Kein Vorteil Hohe Lebenskraft",
+    "level": 1,
+    "ap_wert": -4,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 174
+      }
+    ],
+    "_source_file": "Niedrige+Lebenskraft+I-VII.txt",
+    "_category": "Nachteil",
+    "_level_info": {
+      "base_name": "Niedrige Lebenskraft",
+      "ap_per_level": -4,
+      "ap_values": null,
+      "total_levels": 7
+    }
+  },
+  {
+    "name": "Niedrige Lebenskraft II",
+    "regel": "Der LE-Grundwert sinkt durch diesen Nachteil um 1 Punkt pro Stufe des Nachteils.",
+    "voraussetzung": "Kein Vorteil Hohe Lebenskraft",
+    "level": 2,
+    "ap_wert": -8,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 174
+      }
+    ],
+    "_source_file": "Niedrige+Lebenskraft+I-VII.txt",
+    "_category": "Nachteil",
+    "_level_info": {
+      "base_name": "Niedrige Lebenskraft",
+      "ap_per_level": -4,
+      "ap_values": null,
+      "total_levels": 7
+    }
+  },
+  {
+    "name": "Niedrige Lebenskraft III",
+    "regel": "Der LE-Grundwert sinkt durch diesen Nachteil um 1 Punkt pro Stufe des Nachteils.",
+    "voraussetzung": "Kein Vorteil Hohe Lebenskraft",
+    "level": 3,
+    "ap_wert": -12,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 174
+      }
+    ],
+    "_source_file": "Niedrige+Lebenskraft+I-VII.txt",
+    "_category": "Nachteil",
+    "_level_info": {
+      "base_name": "Niedrige Lebenskraft",
+      "ap_per_level": -4,
+      "ap_values": null,
+      "total_levels": 7
+    }
+  },
+  {
+    "name": "Niedrige Lebenskraft IV",
+    "regel": "Der LE-Grundwert sinkt durch diesen Nachteil um 1 Punkt pro Stufe des Nachteils.",
+    "voraussetzung": "Kein Vorteil Hohe Lebenskraft",
+    "level": 4,
+    "ap_wert": -16,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 174
+      }
+    ],
+    "_source_file": "Niedrige+Lebenskraft+I-VII.txt",
+    "_category": "Nachteil",
+    "_level_info": {
+      "base_name": "Niedrige Lebenskraft",
+      "ap_per_level": -4,
+      "ap_values": null,
+      "total_levels": 7
+    }
+  },
+  {
+    "name": "Niedrige Lebenskraft V",
+    "regel": "Der LE-Grundwert sinkt durch diesen Nachteil um 1 Punkt pro Stufe des Nachteils.",
+    "voraussetzung": "Kein Vorteil Hohe Lebenskraft",
+    "level": 5,
+    "ap_wert": -20,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 174
+      }
+    ],
+    "_source_file": "Niedrige+Lebenskraft+I-VII.txt",
+    "_category": "Nachteil",
+    "_level_info": {
+      "base_name": "Niedrige Lebenskraft",
+      "ap_per_level": -4,
+      "ap_values": null,
+      "total_levels": 7
+    }
+  },
+  {
+    "name": "Niedrige Lebenskraft VI",
+    "regel": "Der LE-Grundwert sinkt durch diesen Nachteil um 1 Punkt pro Stufe des Nachteils.",
+    "voraussetzung": "Kein Vorteil Hohe Lebenskraft",
+    "level": 6,
+    "ap_wert": -24,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 174
+      }
+    ],
+    "_source_file": "Niedrige+Lebenskraft+I-VII.txt",
+    "_category": "Nachteil",
+    "_level_info": {
+      "base_name": "Niedrige Lebenskraft",
+      "ap_per_level": -4,
+      "ap_values": null,
+      "total_levels": 7
+    }
+  },
+  {
+    "name": "Niedrige Lebenskraft VII",
+    "regel": "Der LE-Grundwert sinkt durch diesen Nachteil um 1 Punkt pro Stufe des Nachteils.",
+    "voraussetzung": "Kein Vorteil Hohe Lebenskraft",
+    "level": 7,
+    "ap_wert": -28,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 174
+      }
+    ],
+    "_source_file": "Niedrige+Lebenskraft+I-VII.txt",
+    "_category": "Nachteil",
+    "_level_info": {
+      "base_name": "Niedrige Lebenskraft",
+      "ap_per_level": -4,
+      "ap_values": null,
+      "total_levels": 7
+    }
+  },
+  {
+    "name": "Niedrige Seelenkraft",
+    "regel": "Der SK-Grundwert des Helden ist um 1 schlechter.",
+    "voraussetzung": "Kein Vorteil Hohe Seelenkraft",
+    "ap_wert": -25,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 174
+      }
+    ],
+    "_source_file": "Niedrige+Seelenkraft.txt",
+    "_category": "Nachteil"
+  },
+  {
+    "name": "Niedrige Zähigkeit",
+    "regel": "Der ZK-Grundwert des Helden ist um 1 schlechter.",
+    "voraussetzung": "Kein Vorteil Hohe Zähigkeit",
+    "ap_wert": -25,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 174
+      }
+    ],
+    "_source_file": "Niedrige+Zähigkeit.txt",
+    "_category": "Nachteil"
+  },
+  {
+    "name": "Pechmagnet",
+    "regel": "Bei jeder zufälligen Bestimmung des Meisters (Welcher Held wird von dem Pfeil getroffen? Wer stand von der Gruppe in der Nähe der Falle, als sie ausgelöst wurde?) sind die Chancen bei einem Abenteurer mit diesem Nachteil mindestens doppelt so hoch wie die eines Helden ohne Pechmagnet. Der Nachteil sollte in der Heldengruppe nicht bei allen Helden auftreten, da sich der Nachteil ansonsten aufhebt. Dementsprechend erfordert die Wahl von Pechmagnet Rücksprache mit dem Meister.",
+    "voraussetzung": "Keine",
+    "ap_wert": -5,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 174
+      }
+    ],
+    "_source_file": "Pechmagnet.txt",
+    "_category": "Nachteil"
+  },
+  {
+    "name": "Pech I",
+    "regel": "Der Held startet pro Stufe des Nachteils mit 1 Schicksalspunkt weniger als üblich. Sein Maximum an Schicksalspunkten sinkt hierdurch um einen Punkt pro Stufe. Die Anzahl der Schicksalspunkte darf hierbei nicht unter 0 fallen.",
+    "voraussetzung": "Keine",
+    "level": 1,
+    "ap_wert": -20,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 174
+      }
+    ],
+    "_source_file": "Pech+I-III.txt",
+    "_category": "Nachteil",
+    "_level_info": {
+      "base_name": "Pech",
+      "ap_per_level": -20,
+      "ap_values": null,
+      "total_levels": 3
+    }
+  },
+  {
+    "name": "Pech II",
+    "regel": "Der Held startet pro Stufe des Nachteils mit 1 Schicksalspunkt weniger als üblich. Sein Maximum an Schicksalspunkten sinkt hierdurch um einen Punkt pro Stufe. Die Anzahl der Schicksalspunkte darf hierbei nicht unter 0 fallen.",
+    "voraussetzung": "Keine",
+    "level": 2,
+    "ap_wert": -40,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 174
+      }
+    ],
+    "_source_file": "Pech+I-III.txt",
+    "_category": "Nachteil",
+    "_level_info": {
+      "base_name": "Pech",
+      "ap_per_level": -20,
+      "ap_values": null,
+      "total_levels": 3
+    }
+  },
+  {
+    "name": "Pech III",
+    "regel": "Der Held startet pro Stufe des Nachteils mit 1 Schicksalspunkt weniger als üblich. Sein Maximum an Schicksalspunkten sinkt hierdurch um einen Punkt pro Stufe. Die Anzahl der Schicksalspunkte darf hierbei nicht unter 0 fallen.",
+    "voraussetzung": "Keine",
+    "level": 3,
+    "ap_wert": -60,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 174
+      }
+    ],
+    "_source_file": "Pech+I-III.txt",
+    "_category": "Nachteil",
+    "_level_info": {
+      "base_name": "Pech",
+      "ap_per_level": -20,
+      "ap_values": null,
+      "total_levels": 3
+    }
+  },
+  {
+    "name": "Persönlichkeitsschwäche (Arroganz)",
+    "regel": "In passenden Situationen kann der Meister durchaus für die angegebenen Fertigkeiten eine Erschwernis von 1 aussprechen, wenn er dies für angemessen hält. Es dürfen bis zu zwei Persönlichkeitsschwächen pro Held gewählt werden.\n\nArroganz: Der Held hält sich für etwas Besseres und lässt dies jeden spüren. Mögliche Erschwernisse: auf Handeln (Feilschen) und Gesellschaftstalente außer Einschüchtern und Willenskraft",
+    "voraussetzung": "Keine",
+    "variant": "Arroganz",
+    "ap_wert": -10,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 174
+      }
+    ],
+    "_source_file": "Persönlichkeitsschwäche.txt",
+    "_category": "Nachteil",
+    "_variant_info": {
+      "base_name": "Persönlichkeitsschwäche",
+      "total_variants": 8
+    }
+  },
+  {
+    "name": "Persönlichkeitsschwäche (Eitelkeit)",
+    "regel": "In passenden Situationen kann der Meister durchaus für die angegebenen Fertigkeiten eine Erschwernis von 1 aussprechen, wenn er dies für angemessen hält. Es dürfen bis zu zwei Persönlichkeitsschwächen pro Held gewählt werden.\n\nEitelkeit: Der Held hasst es, nicht standesgemäß gekleidet und frisiert oder sonst wie in seinem Auftreten beeinträchtigt zu sein. Mögliche Erschwernisse: auf alle Gesellschaftstalente",
+    "voraussetzung": "Keine",
+    "variant": "Eitelkeit",
+    "ap_wert": -10,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 174
+      }
+    ],
+    "_source_file": "Persönlichkeitsschwäche.txt",
+    "_category": "Nachteil",
+    "_variant_info": {
+      "base_name": "Persönlichkeitsschwäche",
+      "total_variants": 8
+    }
+  },
+  {
+    "name": "Persönlichkeitsschwäche (Neid)",
+    "regel": "In passenden Situationen kann der Meister durchaus für die angegebenen Fertigkeiten eine Erschwernis von 1 aussprechen, wenn er dies für angemessen hält. Es dürfen bis zu zwei Persönlichkeitsschwächen pro Held gewählt werden.\n\nNeid: Ein Held mit dieser Persönlichkeitsschwäche begehrt den Reichtum, die Frau oder die Waffe anderer. Mögliche Erschwernisse: auf Handeln (Feilschen) und Gesellschaftstalente außer Einschüchtern und Willenskraft",
+    "voraussetzung": "Keine",
+    "variant": "Neid",
+    "ap_wert": -5,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 174
+      }
+    ],
+    "_source_file": "Persönlichkeitsschwäche.txt",
+    "_category": "Nachteil",
+    "_variant_info": {
+      "base_name": "Persönlichkeitsschwäche",
+      "total_variants": 8
+    }
+  },
+  {
+    "name": "Persönlichkeitsschwäche (Streitsucht)",
+    "regel": "In passenden Situationen kann der Meister durchaus für die angegebenen Fertigkeiten eine Erschwernis von 1 aussprechen, wenn er dies für angemessen hält. Es dürfen bis zu zwei Persönlichkeitsschwächen pro Held gewählt werden.\n\nStreitsucht: Jeder streitet sich mal, doch dieser Held macht sich unbeliebt, da er ständig und über den nichtigsten Grund mit anderen in Auseinandersetzungen gerät. Mögliche Erschwernisse: auf Handeln (Feilschen) und Gesellschaftstalente außer Einschüchtern und Willenskraft",
+    "voraussetzung": "Keine",
+    "variant": "Streitsucht",
+    "ap_wert": -10,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 174
+      }
+    ],
+    "_source_file": "Persönlichkeitsschwäche.txt",
+    "_category": "Nachteil",
+    "_variant_info": {
+      "base_name": "Persönlichkeitsschwäche",
+      "total_variants": 8
+    }
+  },
+  {
+    "name": "Persönlichkeitsschwäche (Unheimlich)",
+    "regel": "In passenden Situationen kann der Meister durchaus für die angegebenen Fertigkeiten eine Erschwernis von 1 aussprechen, wenn er dies für angemessen hält. Es dürfen bis zu zwei Persönlichkeitsschwächen pro Held gewählt werden.\n\nUnheimlich: Von dem Helden geht eine unangenehme Aura aus. Dies kann ein stechender Blick, seine mürrische Art oder ein unerklärbares Gefühl für seine Gefährlichkeit sein. Mögliche Erschwernisse: alle Gesellschaftstalente außer Einschüchtern und Willenskraft",
+    "voraussetzung": "Keine",
+    "variant": "Unheimlich",
+    "ap_wert": -8,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 174
+      }
+    ],
+    "_source_file": "Persönlichkeitsschwäche.txt",
+    "_category": "Nachteil",
+    "_variant_info": {
+      "base_name": "Persönlichkeitsschwäche",
+      "total_variants": 8
+    }
+  },
+  {
+    "name": "Persönlichkeitsschwäche (Verwöhnt)",
+    "regel": "In passenden Situationen kann der Meister durchaus für die angegebenen Fertigkeiten eine Erschwernis von 1 aussprechen, wenn er dies für angemessen hält. Es dürfen bis zu zwei Persönlichkeitsschwächen pro Held gewählt werden.\n\nVerwöhnt: Verwöhnte Helden lassen sich gerne bedienen, sind faul und vermeiden jegliche Anstrengung. Ohne die nötigen Annehmlichkeiten wird der Held schnell unausstehlich, weinerlich oder aggressiv. Mögliche Erschwernisse: auf alle Gesellschaftstalente",
+    "voraussetzung": "Keine",
+    "variant": "Verwöhnt",
+    "ap_wert": -10,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 174
+      }
+    ],
+    "_source_file": "Persönlichkeitsschwäche.txt",
+    "_category": "Nachteil",
+    "_variant_info": {
+      "base_name": "Persönlichkeitsschwäche",
+      "total_variants": 8
+    }
+  },
+  {
+    "name": "Persönlichkeitsschwäche (Vorurteile)",
+    "regel": "In passenden Situationen kann der Meister durchaus für die angegebenen Fertigkeiten eine Erschwernis von 1 aussprechen, wenn er dies für angemessen hält. Es dürfen bis zu zwei Persönlichkeitsschwächen pro Held gewählt werden.\n\nVorurteile: Manche Helden haben starke Vorlieben gegen Nichtmenschen, Frauen, Männer, Zauberer, bestimmte Kulte oder andere Gruppen. Interaktion mit diesen Personen ist für diesen Helden eine echte Herausforderung. Mögliche Erschwernisse: auf Handeln (Feilschen) und Gesellschaftstalente außer Einschüchtern und Willenskraft",
+    "voraussetzung": "Keine",
+    "variant": "Vorurteile",
+    "ap_wert": -5,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 174
+      }
+    ],
+    "_source_file": "Persönlichkeitsschwäche.txt",
+    "_category": "Nachteil",
+    "_variant_info": {
+      "base_name": "Persönlichkeitsschwäche",
+      "total_variants": 8
+    }
+  },
+  {
+    "name": "Persönlichkeitsschwäche (Weltfremd)",
+    "regel": "In passenden Situationen kann der Meister durchaus für die angegebenen Fertigkeiten eine Erschwernis von 1 aussprechen, wenn er dies für angemessen hält. Es dürfen bis zu zwei Persönlichkeitsschwächen pro Held gewählt werden.\n\nWeltfremd: Der Held kennt sich mit vielen Aspekten des täglichen Lebens auf Dere kaum aus: Er hat keine Ahnung von Geld oder gesellschaftlichen Verhaltensweisen, die Regeln der Etikette sind ihm völlig unbekannt oder er hat kein Gefühl für die Errungenschaften der Zivilisation. Mögliche Erschwernisse: auf Handeln (Feilschen) und alle Gesellschaftstalente",
+    "voraussetzung": "Keine",
+    "variant": "Weltfremd",
+    "ap_wert": -10,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 174
+      }
+    ],
+    "_source_file": "Persönlichkeitsschwäche.txt",
+    "_category": "Nachteil",
+    "_variant_info": {
+      "base_name": "Persönlichkeitsschwäche",
+      "total_variants": 8
+    }
+  },
+  {
+    "name": "Prinzipientreue I",
+    "regel": "Prinzipientreue gibt es in drei Stufen. Während die erste Stufe den Helden nur leicht einschränkt, ist die zweite Stufe schon fordernd, die letzte Stufe benachteiligt den Helden schwer. Ein Held kann mehreren Prinzipien folgen, er bekommt jedoch nur einmal Abenteuerpunkte für den Nachteil (und zwar für die höchste Prinzipientreuestufe). Wer gegen seine Prinzipien verstößt, erleidet eine Erschwernis von 1 auf alle Fertigkeitsproben. Dieser Zustand dauert mindestens eine Stunde an, über die genaue Länge entscheidet der Meister unter Berücksichtigung der Schwere des Verstoßes.",
+    "voraussetzung": "Keine",
+    "level": 1,
+    "ap_wert": -10,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 175
+      }
+    ],
+    "_source_file": "Prinzipientreue+I-III.txt",
+    "_category": "Nachteil",
+    "_level_info": {
+      "base_name": "Prinzipientreue",
+      "ap_per_level": -10,
+      "ap_values": null,
+      "total_levels": 3
+    }
+  },
+  {
+    "name": "Prinzipientreue II",
+    "regel": "Prinzipientreue gibt es in drei Stufen. Während die erste Stufe den Helden nur leicht einschränkt, ist die zweite Stufe schon fordernd, die letzte Stufe benachteiligt den Helden schwer. Ein Held kann mehreren Prinzipien folgen, er bekommt jedoch nur einmal Abenteuerpunkte für den Nachteil (und zwar für die höchste Prinzipientreuestufe). Wer gegen seine Prinzipien verstößt, erleidet eine Erschwernis von 1 auf alle Fertigkeitsproben. Dieser Zustand dauert mindestens eine Stunde an, über die genaue Länge entscheidet der Meister unter Berücksichtigung der Schwere des Verstoßes.",
+    "voraussetzung": "Keine",
+    "level": 2,
+    "ap_wert": -20,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 175
+      }
+    ],
+    "_source_file": "Prinzipientreue+I-III.txt",
+    "_category": "Nachteil",
+    "_level_info": {
+      "base_name": "Prinzipientreue",
+      "ap_per_level": -10,
+      "ap_values": null,
+      "total_levels": 3
+    }
+  },
+  {
+    "name": "Prinzipientreue III",
+    "regel": "Prinzipientreue gibt es in drei Stufen. Während die erste Stufe den Helden nur leicht einschränkt, ist die zweite Stufe schon fordernd, die letzte Stufe benachteiligt den Helden schwer. Ein Held kann mehreren Prinzipien folgen, er bekommt jedoch nur einmal Abenteuerpunkte für den Nachteil (und zwar für die höchste Prinzipientreuestufe). Wer gegen seine Prinzipien verstößt, erleidet eine Erschwernis von 1 auf alle Fertigkeitsproben. Dieser Zustand dauert mindestens eine Stunde an, über die genaue Länge entscheidet der Meister unter Berücksichtigung der Schwere des Verstoßes.",
+    "voraussetzung": "Keine",
+    "level": 3,
+    "ap_wert": -30,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 175
+      }
+    ],
+    "_source_file": "Prinzipientreue+I-III.txt",
+    "_category": "Nachteil",
+    "_level_info": {
+      "base_name": "Prinzipientreue",
+      "ap_per_level": -10,
+      "ap_values": null,
+      "total_levels": 3
+    }
+  },
+  {
+    "name": "Raubtiergeruch",
+    "regel": "Der Meister kann immer, wenn der Held nahe genug an domestizierten Tieren ist und diese ihn wittern, mit dem W6 würfeln. Bei einer 1 versuchen sie, vor der vermeintlichen Bedrohung zu fliehen. Hunde und Katzen meiden die Nähe eines Helden mit diesem Nachteil, Pferde scheuen und selbst Schafe und Ziegen fliehen blökend, sobald er sich ihnen nähert. Bei Proben auf Tierkunde und Reiten im Umgang mit domestizierten Tieren kann ein Held mit Raubtiergeruch maximal 1 QS übrig behalten.",
+    "voraussetzung": "Nachteil Unfähig (Reiten), Nachteil Unfähig (Tierkunde)",
+    "ap_wert": -3,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Bestiarium",
+        "seite": 121
+      }
+    ],
+    "_source_file": "Raubtiergeruch.txt",
+    "_category": "Nachteil"
+  },
+  {
+    "name": "Schlafwandler",
+    "regel": "Kein Held sollte mehr als einmal pro Woche schlafwandeln. Am Tag nach dem Schlafwandeln erhält der Held 24 Stunden lang eine Stufe des Zustands Betäubung durch die geringe Erholung in der Nacht. Die Regeneration ist für den Held in der Nacht, in der er schlafwandelt um 1 gesenkt.",
+    "voraussetzung": "Keine",
+    "ap_wert": -10,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 175
+      }
+    ],
+    "_source_file": "Schlafwandler.txt",
+    "_category": "Nachteil"
+  },
+  {
+    "name": "Schlechtes Namensgedächtnis",
+    "regel": "Der Held kann sich kaum einen Namen richtig merken, auch nicht die seiner Reisegefährten, seines Lehnsherrn, des Kontaktmanns in den Schwarzen Landen, der eigenen Kinder oder seiner Angebeteten. Entweder bringt er alles durcheinander, nennt Leute beim falschen Namen, oder aber er ändert sie aus Versehen ständig ab. Alle Teilproben auf Klugheit bei Proben auf Etikette (Heraldik & Stammbäume oder Klatsch & Tratsch) sind um 2 erschwert.",
+    "voraussetzung": "Keine",
+    "ap_wert": -2,
+    "publikationen": [
+      {
+        "buch": "Aventurische Namen",
+        "seite": 90
+      }
+    ],
+    "_source_file": "Schlechtes+Namensgedächtnis.txt",
+    "_category": "Nachteil"
+  },
+  {
+    "name": "Schlechte Angewohnheit (Barfüßer)",
+    "regel": "Ein Held kann so viele Schlechte Angewohnheiten wählen, wie er möchte, erhält hierdurch allerdings insgesamt maximal 6 AP. In seltenen Fällen kann der Meister auch Erschwernisse auf Gesellschaftstalente vergeben.\n\nBarfüßer: Obwohl es in der Kultur des Charakters üblich ist, Schuhwerk zu tragen, läuft er andauernd barfuß herum – selbst vor Adligen oder bei schlechtem Wetter.",
+    "voraussetzung": "Keine",
+    "variant": "Barfüßer",
+    "ap_wert": -2,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 175
+      },
+      {
+        "buch": "Aventurische Namen",
+        "seite": 91
+      }
+    ],
+    "_source_file": "Schlechte+Angewohnheit.txt",
+    "_category": "Nachteil",
+    "_variant_info": {
+      "base_name": "Schlechte Angewohnheit",
+      "total_variants": 21
+    }
+  },
+  {
+    "name": "Schlechte Angewohnheit (Belästigung)",
+    "regel": "Ein Held kann so viele Schlechte Angewohnheiten wählen, wie er möchte, erhält hierdurch allerdings insgesamt maximal 6 AP. In seltenen Fällen kann der Meister auch Erschwernisse auf Gesellschaftstalente vergeben.\n\nBelästigung: Der Abenteurer starrt hübschen Frauen/Männern auf den Ausschnitt/den Hintern oder macht ständig anzügliche Kommentare.",
+    "voraussetzung": "Keine",
+    "variant": "Belästigung",
+    "ap_wert": -2,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 175
+      },
+      {
+        "buch": "Aventurische Namen",
+        "seite": 91
+      }
+    ],
+    "_source_file": "Schlechte+Angewohnheit.txt",
+    "_category": "Nachteil",
+    "_variant_info": {
+      "base_name": "Schlechte Angewohnheit",
+      "total_variants": 21
+    }
+  },
+  {
+    "name": "Schlechte Angewohnheit (Dritte Person)",
+    "regel": "Ein Held kann so viele Schlechte Angewohnheiten wählen, wie er möchte, erhält hierdurch allerdings insgesamt maximal 6 AP. In seltenen Fällen kann der Meister auch Erschwernisse auf Gesellschaftstalente vergeben.\n\nDritte Person: Der Held spricht immer in der dritten Person von sich („Alrik mag das. Alrik hätte gerne noch ein Ferdoker Bier.“).",
+    "voraussetzung": "Keine",
+    "variant": "Dritte Person",
+    "ap_wert": -2,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 175
+      },
+      {
+        "buch": "Aventurische Namen",
+        "seite": 91
+      }
+    ],
+    "_source_file": "Schlechte+Angewohnheit.txt",
+    "_category": "Nachteil",
+    "_variant_info": {
+      "base_name": "Schlechte Angewohnheit",
+      "total_variants": 21
+    }
+  },
+  {
+    "name": "Schlechte Angewohnheit (Duzer)",
+    "regel": "Ein Held kann so viele Schlechte Angewohnheiten wählen, wie er möchte, erhält hierdurch allerdings insgesamt maximal 6 AP. In seltenen Fällen kann der Meister auch Erschwernisse auf Gesellschaftstalente vergeben.\n\nDuzer: Obwohl es angebracht wäre, kann ein Held mit einer solchen Schlechten Angewohnheit niemanden mit „Ihr“ ansprechen, auch höchste Würdenträger nicht. Er spricht jeden mit „Du“ an.",
+    "voraussetzung": "Keine",
+    "variant": "Duzer",
+    "ap_wert": -2,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 175
+      },
+      {
+        "buch": "Aventurische Namen",
+        "seite": 91
+      }
+    ],
+    "_source_file": "Schlechte+Angewohnheit.txt",
+    "_category": "Nachteil",
+    "_variant_info": {
+      "base_name": "Schlechte Angewohnheit",
+      "total_variants": 21
+    }
+  },
+  {
+    "name": "Schlechte Angewohnheit (Erster)",
+    "regel": "Ein Held kann so viele Schlechte Angewohnheiten wählen, wie er möchte, erhält hierdurch allerdings insgesamt maximal 6 AP. In seltenen Fällen kann der Meister auch Erschwernisse auf Gesellschaftstalente vergeben.\n\nErster: Ob bei der Wahl des besten Zimmers in einem Gasthaus oder beim Einkauf – der Held muss immer der Erste sein.",
+    "voraussetzung": "Keine",
+    "variant": "Erster",
+    "ap_wert": -2,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 175
+      },
+      {
+        "buch": "Aventurische Namen",
+        "seite": 91
+      }
+    ],
+    "_source_file": "Schlechte+Angewohnheit.txt",
+    "_category": "Nachteil",
+    "_variant_info": {
+      "base_name": "Schlechte Angewohnheit",
+      "total_variants": 21
+    }
+  },
+  {
+    "name": "Schlechte Angewohnheit (Heulsuse)",
+    "regel": "Ein Held kann so viele Schlechte Angewohnheiten wählen, wie er möchte, erhält hierdurch allerdings insgesamt maximal 6 AP. In seltenen Fällen kann der Meister auch Erschwernisse auf Gesellschaftstalente vergeben.\n\nHeulsuse: Ob aus Angst, Freude, Trauer oder Ärger, der Held kann leicht zum Weinen gebracht werden.",
+    "voraussetzung": "Keine",
+    "variant": "Heulsuse",
+    "ap_wert": -2,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 175
+      },
+      {
+        "buch": "Aventurische Namen",
+        "seite": 91
+      }
+    ],
+    "_source_file": "Schlechte+Angewohnheit.txt",
+    "_category": "Nachteil",
+    "_variant_info": {
+      "base_name": "Schlechte Angewohnheit",
+      "total_variants": 21
+    }
+  },
+  {
+    "name": "Schlechte Angewohnheit (Hypochonder)",
+    "regel": "Ein Held kann so viele Schlechte Angewohnheiten wählen, wie er möchte, erhält hierdurch allerdings insgesamt maximal 6 AP. In seltenen Fällen kann der Meister auch Erschwernisse auf Gesellschaftstalente vergeben.\n\nHypochonder: Ständig glaubt der Held, dass er an einer schrecklichen Krankheit erkranken könnte, selbst wenn er sich bester Gesundheit erfreut oder eine Ansteckung absolut unwahrscheinlich ist. Sollte er tatsächlich einmal krank sein, nimmt er stets das Schlimmste an.",
+    "voraussetzung": "Keine",
+    "variant": "Hypochonder",
+    "ap_wert": -2,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 175
+      },
+      {
+        "buch": "Aventurische Namen",
+        "seite": 91
+      }
+    ],
+    "_source_file": "Schlechte+Angewohnheit.txt",
+    "_category": "Nachteil",
+    "_variant_info": {
+      "base_name": "Schlechte Angewohnheit",
+      "total_variants": 21
+    }
+  },
+  {
+    "name": "Schlechte Angewohnheit (Junge)",
+    "regel": "Ein Held kann so viele Schlechte Angewohnheiten wählen, wie er möchte, erhält hierdurch allerdings insgesamt maximal 6 AP. In seltenen Fällen kann der Meister auch Erschwernisse auf Gesellschaftstalente vergeben.\n\nJunge: Wenn der Abenteurer mit jemanden ein Gespräch führt, endet der Satz oft auf „Junge“, selbst bei Frauen („Nicht schlecht, Junge. Hast du gut gemacht, Junge.“).",
+    "voraussetzung": "Keine",
+    "variant": "Junge",
+    "ap_wert": -2,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 175
+      },
+      {
+        "buch": "Aventurische Namen",
+        "seite": 91
+      }
+    ],
+    "_source_file": "Schlechte+Angewohnheit.txt",
+    "_category": "Nachteil",
+    "_variant_info": {
+      "base_name": "Schlechte Angewohnheit",
+      "total_variants": 21
+    }
+  },
+  {
+    "name": "Schlechte Angewohnheit (Langschläfer)",
+    "regel": "Ein Held kann so viele Schlechte Angewohnheiten wählen, wie er möchte, erhält hierdurch allerdings insgesamt maximal 6 AP. In seltenen Fällen kann der Meister auch Erschwernisse auf Gesellschaftstalente vergeben.\n\nLangschläfer: Der Abenteurer schläft gerne lange – wird er geweckt, hat er extrem schlechte Laune.",
+    "voraussetzung": "Keine",
+    "variant": "Langschläfer",
+    "ap_wert": -2,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 175
+      },
+      {
+        "buch": "Aventurische Namen",
+        "seite": 91
+      }
+    ],
+    "_source_file": "Schlechte+Angewohnheit.txt",
+    "_category": "Nachteil",
+    "_variant_info": {
+      "base_name": "Schlechte Angewohnheit",
+      "total_variants": 21
+    }
+  },
+  {
+    "name": "Schlechte Angewohnheit (Links-Rechts-Schwäche)",
+    "regel": "Ein Held kann so viele Schlechte Angewohnheiten wählen, wie er möchte, erhält hierdurch allerdings insgesamt maximal 6 AP. In seltenen Fällen kann der Meister auch Erschwernisse auf Gesellschaftstalente vergeben.\n\nLinks-Rechts-Schwäche: Der Charakter vertauscht ständig links und rechts.",
+    "voraussetzung": "Keine",
+    "variant": "Links-Rechts-Schwäche",
+    "ap_wert": -2,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 175
+      },
+      {
+        "buch": "Aventurische Namen",
+        "seite": 91
+      }
+    ],
+    "_source_file": "Schlechte+Angewohnheit.txt",
+    "_category": "Nachteil",
+    "_variant_info": {
+      "base_name": "Schlechte Angewohnheit",
+      "total_variants": 21
+    }
+  },
+  {
+    "name": "Schlechte Angewohnheit (Mein Kind)",
+    "regel": "Ein Held kann so viele Schlechte Angewohnheiten wählen, wie er möchte, erhält hierdurch allerdings insgesamt maximal 6 AP. In seltenen Fällen kann der Meister auch Erschwernisse auf Gesellschaftstalente vergeben.\n\nMein Kind: Der Held beginnt oder beendet fast jedes Gespräch mit den Worten „Mein Kind“.",
+    "voraussetzung": "Keine",
+    "variant": "Mein Kind",
+    "ap_wert": -2,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 175
+      },
+      {
+        "buch": "Aventurische Namen",
+        "seite": 91
+      }
+    ],
+    "_source_file": "Schlechte+Angewohnheit.txt",
+    "_category": "Nachteil",
+    "_variant_info": {
+      "base_name": "Schlechte Angewohnheit",
+      "total_variants": 21
+    }
+  },
+  {
+    "name": "Schlechte Angewohnheit (Nägelkauer)",
+    "regel": "Ein Held kann so viele Schlechte Angewohnheiten wählen, wie er möchte, erhält hierdurch allerdings insgesamt maximal 6 AP. In seltenen Fällen kann der Meister auch Erschwernisse auf Gesellschaftstalente vergeben.\n\nNägelkauer: Immer wenn er nichts zu tun hat, kaut der Charakter auf seinen Fingernägeln.",
+    "voraussetzung": "Keine",
+    "variant": "Nägelkauer",
+    "ap_wert": -2,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 175
+      },
+      {
+        "buch": "Aventurische Namen",
+        "seite": 91
+      }
+    ],
+    "_source_file": "Schlechte+Angewohnheit.txt",
+    "_category": "Nachteil",
+    "_variant_info": {
+      "base_name": "Schlechte Angewohnheit",
+      "total_variants": 21
+    }
+  },
+  {
+    "name": "Schlechte Angewohnheit (Nase-/Ohrenbohrer)",
+    "regel": "Ein Held kann so viele Schlechte Angewohnheiten wählen, wie er möchte, erhält hierdurch allerdings insgesamt maximal 6 AP. In seltenen Fällen kann der Meister auch Erschwernisse auf Gesellschaftstalente vergeben.\n\nNase-/Ohrenbohrer: Bei dem Helden ist die Zwangshandlung, seinen Finger in Nase oder Ohr zu stecken, sehr stark ausgeprägt.",
+    "voraussetzung": "Keine",
+    "variant": "Nase-/Ohrenbohrer",
+    "ap_wert": -2,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 175
+      },
+      {
+        "buch": "Aventurische Namen",
+        "seite": 91
+      }
+    ],
+    "_source_file": "Schlechte+Angewohnheit.txt",
+    "_category": "Nachteil",
+    "_variant_info": {
+      "base_name": "Schlechte Angewohnheit",
+      "total_variants": 21
+    }
+  },
+  {
+    "name": "Schlechte Angewohnheit (Nervös)",
+    "regel": "Ein Held kann so viele Schlechte Angewohnheiten wählen, wie er möchte, erhält hierdurch allerdings insgesamt maximal 6 AP. In seltenen Fällen kann der Meister auch Erschwernisse auf Gesellschaftstalente vergeben.\n\nNervös: Ruhig abzuwarten ist für den Abenteurer ausgesprochen schwierig. Er läuft im Zimmer herum, nimmt Platz und steht wieder auf – und wiederholt diese Handlungen so oft, bis endlich etwas passiert.",
+    "voraussetzung": "Keine",
+    "variant": "Nervös",
+    "ap_wert": -2,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 175
+      },
+      {
+        "buch": "Aventurische Namen",
+        "seite": 91
+      }
+    ],
+    "_source_file": "Schlechte+Angewohnheit.txt",
+    "_category": "Nachteil",
+    "_variant_info": {
+      "base_name": "Schlechte Angewohnheit",
+      "total_variants": 21
+    }
+  },
+  {
+    "name": "Schlechte Angewohnheit (Putzfimmel)",
+    "regel": "Ein Held kann so viele Schlechte Angewohnheiten wählen, wie er möchte, erhält hierdurch allerdings insgesamt maximal 6 AP. In seltenen Fällen kann der Meister auch Erschwernisse auf Gesellschaftstalente vergeben.\n\nPutzfimmel: Der Held leidet unter einem Putzzwang – er muss Gegenstände oder Räume stets sauber halten.",
+    "voraussetzung": "Keine",
+    "variant": "Putzfimmel",
+    "ap_wert": -2,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 175
+      },
+      {
+        "buch": "Aventurische Namen",
+        "seite": 91
+      }
+    ],
+    "_source_file": "Schlechte+Angewohnheit.txt",
+    "_category": "Nachteil",
+    "_variant_info": {
+      "base_name": "Schlechte Angewohnheit",
+      "total_variants": 21
+    }
+  },
+  {
+    "name": "Schlechte Angewohnheit (Raucher)",
+    "regel": "Ein Held kann so viele Schlechte Angewohnheiten wählen, wie er möchte, erhält hierdurch allerdings insgesamt maximal 6 AP. In seltenen Fällen kann der Meister auch Erschwernisse auf Gesellschaftstalente vergeben.\n\nRaucher: Der Held ist leidenschaftlicher Genussraucher, aber nicht süchtig. Hat er einmal keinen Tabak zur Verfügung, wird er dies lautstark und anhaltend bedauern, erleidet aber ansonsten keine Nachteile.",
+    "voraussetzung": "Keine",
+    "variant": "Raucher",
+    "ap_wert": -2,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 175
+      },
+      {
+        "buch": "Aventurische Namen",
+        "seite": 91
+      }
+    ],
+    "_source_file": "Schlechte+Angewohnheit.txt",
+    "_category": "Nachteil",
+    "_variant_info": {
+      "base_name": "Schlechte Angewohnheit",
+      "total_variants": 21
+    }
+  },
+  {
+    "name": "Schlechte Angewohnheit (Redet wie ein Wasserfall)",
+    "regel": "Ein Held kann so viele Schlechte Angewohnheiten wählen, wie er möchte, erhält hierdurch allerdings insgesamt maximal 6 AP. In seltenen Fällen kann der Meister auch Erschwernisse auf Gesellschaftstalente vergeben.\n\nRedet wie ein Wasserfall: Wenn der Held mit anderen spricht, redet er so schnell, dass man sich konzentrieren muss, ihm zu folgen.",
+    "voraussetzung": "Keine",
+    "variant": "Redet wie ein Wasserfall",
+    "ap_wert": -2,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 175
+      },
+      {
+        "buch": "Aventurische Namen",
+        "seite": 91
+      }
+    ],
+    "_source_file": "Schlechte+Angewohnheit.txt",
+    "_category": "Nachteil",
+    "_variant_info": {
+      "base_name": "Schlechte Angewohnheit",
+      "total_variants": 21
+    }
+  },
+  {
+    "name": "Schlechte Angewohnheit (Schlechte Tischmanieren)",
+    "regel": "Ein Held kann so viele Schlechte Angewohnheiten wählen, wie er möchte, erhält hierdurch allerdings insgesamt maximal 6 AP. In seltenen Fällen kann der Meister auch Erschwernisse auf Gesellschaftstalente vergeben.\n\nSchlechte Tischmanieren: Der Abenteurer schlürft und rülpst, benutzt kein Besteck oder isst seinen Kameraden immer alles weg.",
+    "voraussetzung": "Keine",
+    "variant": "Schlechte Tischmanieren",
+    "ap_wert": -2,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 175
+      },
+      {
+        "buch": "Aventurische Namen",
+        "seite": 91
+      }
+    ],
+    "_source_file": "Schlechte+Angewohnheit.txt",
+    "_category": "Nachteil",
+    "_variant_info": {
+      "base_name": "Schlechte Angewohnheit",
+      "total_variants": 21
+    }
+  },
+  {
+    "name": "Schlechte Angewohnheit (Selbstgespräche)",
+    "regel": "Ein Held kann so viele Schlechte Angewohnheiten wählen, wie er möchte, erhält hierdurch allerdings insgesamt maximal 6 AP. In seltenen Fällen kann der Meister auch Erschwernisse auf Gesellschaftstalente vergeben.\n\nSelbstgespräche: Beim Nachdenken oder in unpassenden Situationen redet der Held gerne mit sich selbst.",
+    "voraussetzung": "Keine",
+    "variant": "Selbstgespräche",
+    "ap_wert": -2,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 175
+      },
+      {
+        "buch": "Aventurische Namen",
+        "seite": 91
+      }
+    ],
+    "_source_file": "Schlechte+Angewohnheit.txt",
+    "_category": "Nachteil",
+    "_variant_info": {
+      "base_name": "Schlechte Angewohnheit",
+      "total_variants": 21
+    }
+  },
+  {
+    "name": "Schlechte Angewohnheit (Unordentlich)",
+    "regel": "Ein Held kann so viele Schlechte Angewohnheiten wählen, wie er möchte, erhält hierdurch allerdings insgesamt maximal 6 AP. In seltenen Fällen kann der Meister auch Erschwernisse auf Gesellschaftstalente vergeben.\n\nUnordentlich: Überall, wo der Held nächtigt oder lebt, lässt er Kleidung und Sachen herumliegen.",
+    "voraussetzung": "Keine",
+    "variant": "Unordentlich",
+    "ap_wert": -2,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 175
+      },
+      {
+        "buch": "Aventurische Namen",
+        "seite": 91
+      }
+    ],
+    "_source_file": "Schlechte+Angewohnheit.txt",
+    "_category": "Nachteil",
+    "_variant_info": {
+      "base_name": "Schlechte Angewohnheit",
+      "total_variants": 21
+    }
+  },
+  {
+    "name": "Schlechte Angewohnheit (Wir)",
+    "regel": "Ein Held kann so viele Schlechte Angewohnheiten wählen, wie er möchte, erhält hierdurch allerdings insgesamt maximal 6 AP. In seltenen Fällen kann der Meister auch Erschwernisse auf Gesellschaftstalente vergeben.\n\nWir: Der Held redet, wenn er sich selbst meint, immer von wir („Wir verstehen, was du sagst.“).",
+    "voraussetzung": "Keine",
+    "variant": "Wir",
+    "ap_wert": -2,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 175
+      },
+      {
+        "buch": "Aventurische Namen",
+        "seite": 91
+      }
+    ],
+    "_source_file": "Schlechte+Angewohnheit.txt",
+    "_category": "Nachteil",
+    "_variant_info": {
+      "base_name": "Schlechte Angewohnheit",
+      "total_variants": 21
+    }
+  },
+  {
+    "name": "Schlechte Eigenschaft (Aberglaube)",
+    "regel": "In jeder Situation, in der der Held mit einem potenziellen Auslöser seiner Schlechten Eigenschaft konfrontiert wird, muss er eine Probe auf Willenskraft bestehen, um sich zu beherrschen. Gelingt ihm diese Probe, ist alles in Ordnung, ansonsten muss er entsprechend der Schlechten Eigenschaft agieren. Seine Schlechte Eigenschaft hat ihn so lange im Griff, wie er dem Auslöser ausgesetzt ist. Der Meister kann für die Probe auf Willenskraft entsprechend der Stärke des Auslösers Erschwernisse oder Erleichterungen aussprechen.\n\nAberglaube: Der Held weicht vor schwarzen Katzen, Unglückszahlen und anderen schlechten Omen zurück.",
+    "voraussetzung": "Keine",
+    "variant": "Aberglaube",
+    "ap_wert": -5,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 176
+      },
+      {
+        "buch": "Aventurisches Bestiarium II",
+        "seite": 118
+      }
+    ],
+    "_source_file": "Schlechte+Eigenschaft.txt",
+    "_category": "Nachteil",
+    "_variant_info": {
+      "base_name": "Schlechte Eigenschaft",
+      "total_variants": 12
+    }
+  },
+  {
+    "name": "Schlechte Eigenschaft (Autoritätsglaube)",
+    "regel": "In jeder Situation, in der der Held mit einem potenziellen Auslöser seiner Schlechten Eigenschaft konfrontiert wird, muss er eine Probe auf Willenskraft bestehen, um sich zu beherrschen. Gelingt ihm diese Probe, ist alles in Ordnung, ansonsten muss er entsprechend der Schlechten Eigenschaft agieren. Seine Schlechte Eigenschaft hat ihn so lange im Griff, wie er dem Auslöser ausgesetzt ist. Der Meister kann für die Probe auf Willenskraft entsprechend der Stärke des Auslösers Erschwernisse oder Erleichterungen aussprechen.\n\nAutoritätsglaube: Der Held zweifelt nicht an den Worten höhergestellter Personen, selbst wenn sie unlogische Befehle erteilen oder unglaubwürdig sind.",
+    "voraussetzung": "Keine",
+    "variant": "Autoritätsglaube",
+    "ap_wert": -5,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 176
+      },
+      {
+        "buch": "Aventurisches Bestiarium II",
+        "seite": 118
+      }
+    ],
+    "_source_file": "Schlechte+Eigenschaft.txt",
+    "_category": "Nachteil",
+    "_variant_info": {
+      "base_name": "Schlechte Eigenschaft",
+      "total_variants": 12
+    }
+  },
+  {
+    "name": "Schlechte Eigenschaft (Geiz)",
+    "regel": "In jeder Situation, in der der Held mit einem potenziellen Auslöser seiner Schlechten Eigenschaft konfrontiert wird, muss er eine Probe auf Willenskraft bestehen, um sich zu beherrschen. Gelingt ihm diese Probe, ist alles in Ordnung, ansonsten muss er entsprechend der Schlechten Eigenschaft agieren. Seine Schlechte Eigenschaft hat ihn so lange im Griff, wie er dem Auslöser ausgesetzt ist. Der Meister kann für die Probe auf Willenskraft entsprechend der Stärke des Auslösers Erschwernisse oder Erleichterungen aussprechen.\n\nGeiz: Wenn der Held erst einmal Gold oder andere Wertgegenstände besitzt, gibt er sie nur ungerne wieder her. Lieber schränkt er sich selbst und andere finanziell ein, und er geht sogar unnötige Risiken ein, um Geld zu sparen.",
+    "voraussetzung": "Keine",
+    "variant": "Geiz",
+    "ap_wert": -5,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 176
+      },
+      {
+        "buch": "Aventurisches Bestiarium II",
+        "seite": 118
+      }
+    ],
+    "_source_file": "Schlechte+Eigenschaft.txt",
+    "_category": "Nachteil",
+    "_variant_info": {
+      "base_name": "Schlechte Eigenschaft",
+      "total_variants": 12
+    }
+  },
+  {
+    "name": "Schlechte Eigenschaft (Goldgier)",
+    "regel": "In jeder Situation, in der der Held mit einem potenziellen Auslöser seiner Schlechten Eigenschaft konfrontiert wird, muss er eine Probe auf Willenskraft bestehen, um sich zu beherrschen. Gelingt ihm diese Probe, ist alles in Ordnung, ansonsten muss er entsprechend der Schlechten Eigenschaft agieren. Seine Schlechte Eigenschaft hat ihn so lange im Griff, wie er dem Auslöser ausgesetzt ist. Der Meister kann für die Probe auf Willenskraft entsprechend der Stärke des Auslösers Erschwernisse oder Erleichterungen aussprechen.\n\nGoldgier: Goldgierige Helden lassen alle Vorsicht fallen, wenn es darum geht, eine Schatztruhe oder andere wertvolle Gegenstände zu untersuchen und an sich zu nehmen.",
+    "voraussetzung": "Keine",
+    "variant": "Goldgier",
+    "ap_wert": -5,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 176
+      },
+      {
+        "buch": "Aventurisches Bestiarium II",
+        "seite": 118
+      }
+    ],
+    "_source_file": "Schlechte+Eigenschaft.txt",
+    "_category": "Nachteil",
+    "_variant_info": {
+      "base_name": "Schlechte Eigenschaft",
+      "total_variants": 12
+    }
+  },
+  {
+    "name": "Schlechte Eigenschaft (Jähzorn)",
+    "regel": "In jeder Situation, in der der Held mit einem potenziellen Auslöser seiner Schlechten Eigenschaft konfrontiert wird, muss er eine Probe auf Willenskraft bestehen, um sich zu beherrschen. Gelingt ihm diese Probe, ist alles in Ordnung, ansonsten muss er entsprechend der Schlechten Eigenschaft agieren. Seine Schlechte Eigenschaft hat ihn so lange im Griff, wie er dem Auslöser ausgesetzt ist. Der Meister kann für die Probe auf Willenskraft entsprechend der Stärke des Auslösers Erschwernisse oder Erleichterungen aussprechen.\n\nJähzorn: Der Held ist sehr reizbar und neigt zu Wutausbrüchen, die meist nur kurz anhalten, aber zu gewalttätigem Verhalten führen können.",
+    "voraussetzung": "Keine",
+    "variant": "Jähzorn",
+    "ap_wert": -10,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 176
+      },
+      {
+        "buch": "Aventurisches Bestiarium II",
+        "seite": 118
+      }
+    ],
+    "_source_file": "Schlechte+Eigenschaft.txt",
+    "_category": "Nachteil",
+    "_variant_info": {
+      "base_name": "Schlechte Eigenschaft",
+      "total_variants": 12
+    }
+  },
+  {
+    "name": "Schlechte Eigenschaft (Kleptomanie)",
+    "regel": "In jeder Situation, in der der Held mit einem potenziellen Auslöser seiner Schlechten Eigenschaft konfrontiert wird, muss er eine Probe auf Willenskraft bestehen, um sich zu beherrschen. Gelingt ihm diese Probe, ist alles in Ordnung, ansonsten muss er entsprechend der Schlechten Eigenschaft agieren. Seine Schlechte Eigenschaft hat ihn so lange im Griff, wie er dem Auslöser ausgesetzt ist. Der Meister kann für die Probe auf Willenskraft entsprechend der Stärke des Auslösers Erschwernisse oder Erleichterungen aussprechen.\n\nKleptomanie: Manche Abenteurer stehlen um des Stehlens willen, egal ob das Diebesgut einen nennenswerten Wert hat oder nicht, ohne über die Konsequenzen nachzudenken.",
+    "voraussetzung": "Keine",
+    "variant": "Kleptomanie",
+    "ap_wert": -10,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 176
+      },
+      {
+        "buch": "Aventurisches Bestiarium II",
+        "seite": 118
+      }
+    ],
+    "_source_file": "Schlechte+Eigenschaft.txt",
+    "_category": "Nachteil",
+    "_variant_info": {
+      "base_name": "Schlechte Eigenschaft",
+      "total_variants": 12
+    }
+  },
+  {
+    "name": "Schlechte Eigenschaft (Naiv)",
+    "regel": "In jeder Situation, in der der Held mit einem potenziellen Auslöser seiner Schlechten Eigenschaft konfrontiert wird, muss er eine Probe auf Willenskraft bestehen, um sich zu beherrschen. Gelingt ihm diese Probe, ist alles in Ordnung, ansonsten muss er entsprechend der Schlechten Eigenschaft agieren. Seine Schlechte Eigenschaft hat ihn so lange im Griff, wie er dem Auslöser ausgesetzt ist. Der Meister kann für die Probe auf Willenskraft entsprechend der Stärke des Auslösers Erschwernisse oder Erleichterungen aussprechen.\n\nNaiv: Der Held ist gutherzig und naiv, vertraut den falschen Leuten und kann sich kaum vorstellen, dass man manche Leute es nicht gut mit ihm meinen. Er wird auch durch Enttäuschungen nicht vorsichtiger.",
+    "voraussetzung": "Keine",
+    "variant": "Naiv",
+    "ap_wert": -10,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 176
+      },
+      {
+        "buch": "Aventurisches Bestiarium II",
+        "seite": 118
+      }
+    ],
+    "_source_file": "Schlechte+Eigenschaft.txt",
+    "_category": "Nachteil",
+    "_variant_info": {
+      "base_name": "Schlechte Eigenschaft",
+      "total_variants": 12
+    }
+  },
+  {
+    "name": "Schlechte Eigenschaft (Neugier)",
+    "regel": "In jeder Situation, in der der Held mit einem potenziellen Auslöser seiner Schlechten Eigenschaft konfrontiert wird, muss er eine Probe auf Willenskraft bestehen, um sich zu beherrschen. Gelingt ihm diese Probe, ist alles in Ordnung, ansonsten muss er entsprechend der Schlechten Eigenschaft agieren. Seine Schlechte Eigenschaft hat ihn so lange im Griff, wie er dem Auslöser ausgesetzt ist. Der Meister kann für die Probe auf Willenskraft entsprechend der Stärke des Auslösers Erschwernisse oder Erleichterungen aussprechen.\n\nNeugier: Jeder Abenteurer ist neugierig, aber einige Abenteurer werden so von ihrer Neugierde getrieben, dass sie unnötige Risiken eingehen, um sie zu befriedigen.",
+    "voraussetzung": "Keine",
+    "variant": "Neugier",
+    "ap_wert": -5,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 176
+      },
+      {
+        "buch": "Aventurisches Bestiarium II",
+        "seite": 118
+      }
+    ],
+    "_source_file": "Schlechte+Eigenschaft.txt",
+    "_category": "Nachteil",
+    "_variant_info": {
+      "base_name": "Schlechte Eigenschaft",
+      "total_variants": 12
+    }
+  },
+  {
+    "name": "Schlechte Eigenschaft (Rachsucht)",
+    "regel": "In jeder Situation, in der der Held mit einem potenziellen Auslöser seiner Schlechten Eigenschaft konfrontiert wird, muss er eine Probe auf Willenskraft bestehen, um sich zu beherrschen. Gelingt ihm diese Probe, ist alles in Ordnung, ansonsten muss er entsprechend der Schlechten Eigenschaft agieren. Seine Schlechte Eigenschaft hat ihn so lange im Griff, wie er dem Auslöser ausgesetzt ist. Der Meister kann für die Probe auf Willenskraft entsprechend der Stärke des Auslösers Erschwernisse oder Erleichterungen aussprechen.\n\nRachsucht: Während jähzornige Helden sofort ihrer Wut freien Lauf lassen, sind rachsüchtige besonnener und planen langfristig, wie sie sich für Kränkungen, egal wie gering, rächen können.",
+    "voraussetzung": "Keine",
+    "variant": "Rachsucht",
+    "ap_wert": -5,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 176
+      },
+      {
+        "buch": "Aventurisches Bestiarium II",
+        "seite": 118
+      }
+    ],
+    "_source_file": "Schlechte+Eigenschaft.txt",
+    "_category": "Nachteil",
+    "_variant_info": {
+      "base_name": "Schlechte Eigenschaft",
+      "total_variants": 12
+    }
+  },
+  {
+    "name": "Schlechte Eigenschaft (Sikaryan-Durst)",
+    "regel": "In jeder Situation, in der der Held mit einem potenziellen Auslöser seiner Schlechten Eigenschaft konfrontiert wird, muss er eine Probe auf Willenskraft bestehen, um sich zu beherrschen. Gelingt ihm diese Probe, ist alles in Ordnung, ansonsten muss er entsprechend der Schlechten Eigenschaft agieren. Seine Schlechte Eigenschaft hat ihn so lange im Griff, wie er dem Auslöser ausgesetzt ist. Der Meister kann für die Probe auf Willenskraft entsprechend der Stärke des Auslösers Erschwernisse oder Erleichterungen aussprechen.\n\nSikaryan-Durst: Diese Schlechte Eigenschaft sorgt dafür, dass ein Sikaryan-Räuber seinen Hunger stillen will. Je höher sein Sikaryan-Verlust ist, desto eindringlicher will er dem Verlangen nachgehen und ist bereit, seine Tarnung aufzugeben und sich auf den nächsten Kulturschaffenden zu stürzen.",
+    "voraussetzung": "Keine",
+    "variant": "Sikaryan-Durst",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 176
+      },
+      {
+        "buch": "Aventurisches Bestiarium II",
+        "seite": 118
+      }
+    ],
+    "_source_file": "Schlechte+Eigenschaft.txt",
+    "_category": "Nachteil",
+    "_variant_info": {
+      "base_name": "Schlechte Eigenschaft",
+      "total_variants": 12
+    }
+  },
+  {
+    "name": "Schlechte Eigenschaft (Spielsucht)",
+    "regel": "In jeder Situation, in der der Held mit einem potenziellen Auslöser seiner Schlechten Eigenschaft konfrontiert wird, muss er eine Probe auf Willenskraft bestehen, um sich zu beherrschen. Gelingt ihm diese Probe, ist alles in Ordnung, ansonsten muss er entsprechend der Schlechten Eigenschaft agieren. Seine Schlechte Eigenschaft hat ihn so lange im Griff, wie er dem Auslöser ausgesetzt ist. Der Meister kann für die Probe auf Willenskraft entsprechend der Stärke des Auslösers Erschwernisse oder Erleichterungen aussprechen.\n\nSpielsucht: Spielsüchtige lassen sich leicht zu riskanten Glücksspielen und Wetten verleiten. Oft führt die Spielsucht zu hohen Spielschulden.",
+    "voraussetzung": "Keine",
+    "variant": "Spielsucht",
+    "ap_wert": -5,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 176
+      },
+      {
+        "buch": "Aventurisches Bestiarium II",
+        "seite": 118
+      }
+    ],
+    "_source_file": "Schlechte+Eigenschaft.txt",
+    "_category": "Nachteil",
+    "_variant_info": {
+      "base_name": "Schlechte Eigenschaft",
+      "total_variants": 12
+    }
+  },
+  {
+    "name": "Schlechte Eigenschaft (Verschwendungssucht)",
+    "regel": "In jeder Situation, in der der Held mit einem potenziellen Auslöser seiner Schlechten Eigenschaft konfrontiert wird, muss er eine Probe auf Willenskraft bestehen, um sich zu beherrschen. Gelingt ihm diese Probe, ist alles in Ordnung, ansonsten muss er entsprechend der Schlechten Eigenschaft agieren. Seine Schlechte Eigenschaft hat ihn so lange im Griff, wie er dem Auslöser ausgesetzt ist. Der Meister kann für die Probe auf Willenskraft entsprechend der Stärke des Auslösers Erschwernisse oder Erleichterungen aussprechen.\n\nVerschwendungssucht: Geld bleibt nicht lange im Besitz des Helden. Er gibt es mit vollen Händen (für sinnlose Dinge) aus.",
+    "voraussetzung": "Keine",
+    "variant": "Verschwendungssucht",
+    "ap_wert": -5,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 176
+      },
+      {
+        "buch": "Aventurisches Bestiarium II",
+        "seite": 118
+      }
+    ],
+    "_source_file": "Schlechte+Eigenschaft.txt",
+    "_category": "Nachteil",
+    "_variant_info": {
+      "base_name": "Schlechte Eigenschaft",
+      "total_variants": 12
+    }
+  },
+  {
+    "name": "Schlechte Regeneration (Astralenergie) I-III",
+    "regel": "Für jede Stufe des Nachteils muss der Held beim Regenerationswurf 1 Punkt abziehen (bis zu einem Minimum von 0).",
+    "voraussetzung": "Vorteil Zauberer, Kein Vorteil Verbesserte Regeneration (Astralenergie)",
+    "level": 3,
+    "ap_wert": -30,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 176
+      }
+    ],
+    "_source_file": "Schlechte+Regeneration+(Astralenergie)+I-III.txt",
+    "_category": "Nachteil",
+    "_level_info": {
+      "base_name": "Schlechte Regeneration (Astralenergie)",
+      "ap_per_level": -10,
+      "ap_values": null,
+      "total_levels": 3
+    }
+  },
+  {
+    "name": "Schlechte Regeneration (Karmaenergie) I-III",
+    "regel": "Für jede Stufe des Nachteils muss der Held beim Regenerationswurf 1 Punkt abziehen (bis zu einem Minimum von 0).",
+    "voraussetzung": "Vorteil Geweihter, Kein Vorteil Verbesserte Regeneration (Karmaenergie)",
+    "level": 3,
+    "ap_wert": -30,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 176
+      }
+    ],
+    "_source_file": "Schlechte+Regeneration+(Karmaenergie)+I-III.txt",
+    "_category": "Nachteil",
+    "_level_info": {
+      "base_name": "Schlechte Regeneration (Karmaenergie)",
+      "ap_per_level": -10,
+      "ap_values": null,
+      "total_levels": 3
+    }
+  },
+  {
+    "name": "Schlechte Regeneration (Lebensenergie) I-III",
+    "regel": "Für jede Stufe des Nachteils muss der Held beim Regenerationswurf 1 Punkt abziehen (bis zu einem Minimum von 0).",
+    "voraussetzung": "Kein Vorteil Verbesserte Regeneration (Lebensenergie)",
+    "level": 3,
+    "ap_wert": -30,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 177
+      }
+    ],
+    "_source_file": "Schlechte+Regeneration+(Lebensenergie)+I-III.txt",
+    "_category": "Nachteil",
+    "_level_info": {
+      "base_name": "Schlechte Regeneration (Lebensenergie)",
+      "ap_per_level": -10,
+      "ap_values": null,
+      "total_levels": 3
+    }
+  },
+  {
+    "name": "Schurkenname",
+    "regel": "Eine Heldin mit diesem Nachteil bekommt nach Meisterentscheid bei Proben auf die Talente Etikette und Überreden eine Erschwernis von 1 auf alle Teilproben, die auf Charisma abgelegt werden, wenn sich ihr Gegenüber an dem Schurkennamen stört und dieser dem Gegenüber bekannt ist. Dafür erhält die Heldin eine Erleichterung von 1 auf Teilproben bei Charisma in dem Talent Einschüchtern.",
+    "voraussetzung": "Ein möglichst schurkischer Name, Kein Vorteil Allerweltsname, Kein Vorteil Heldenhafter Name, Kein Nachteil Lächerlicher Name, Kein Nachteil Unpassender Name. Elfen können diesen Vorteil nicht wählen, da sie keine Schurkennamen aufweisen.",
+    "ap_wert": -2,
+    "publikationen": [
+      {
+        "buch": "Aventurische Namen",
+        "seite": 90
+      }
+    ],
+    "_source_file": "Schurkenname.txt",
+    "_category": "Nachteil"
+  },
+  {
+    "name": "Schwacher Astralkörper",
+    "regel": "Jedes Mal, wenn der Held Astralpunkte ausgibt, verliert er einen Astralpunkt zusätzlich.",
+    "voraussetzung": "Vorteil Zauberer",
+    "ap_wert": -15,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 177
+      }
+    ],
+    "_source_file": "Schwacher+Astralkörper.txt",
+    "_category": "Nachteil"
+  },
+  {
+    "name": "Schwacher Karmalkörper",
+    "regel": "Jedes Mal, wenn der Held Karmapunkte ausgibt, verliert er einen Karmapunkt zusätzlich.",
+    "voraussetzung": "Vorteil Geweihter",
+    "ap_wert": -15,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 177
+      }
+    ],
+    "_source_file": "Schwacher+Karmalkörper.txt",
+    "_category": "Nachteil"
+  },
+  {
+    "name": "Schwache Zaubermelodien",
+    "regel": "Die Heldin kann nur Personen bis zu SK 1 durch ihre Zaubermelodien verzaubern (statt bis zu SK 2).",
+    "voraussetzung": "Sonderfertigkeit Tradition (Zauberbarden), Kein Vorteil Machtvolle Zaubermelodien",
+    "ap_wert": -8,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie",
+        "seite": 226
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 380
+      }
+    ],
+    "_source_file": "Schwache+Zaubermelodien.txt",
+    "_category": "Nachteil"
+  },
+  {
+    "name": "Schwache Zaubertänze",
+    "regel": "Der Held kann nur Personen bis zu SK 1 durch seine magischen Handlungen verzaubern (statt bis zu SK 2).",
+    "voraussetzung": "Vorteil Zauberer, Sonderfertigkeit Tradition (Zaubertänzer), Kein Vorteil Machtvolle Zaubertänze",
+    "ap_wert": -8,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie",
+        "seite": 226
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 380
+      }
+    ],
+    "_source_file": "Schwache+Zaubertänze.txt",
+    "_category": "Nachteil"
+  },
+  {
+    "name": "Sensibler Geruchssinn (_)",
+    "regel": "Solange der Held dem Geruch ausgesetzt ist, erleidet er eine Stufe Verwirrung.",
+    "voraussetzung": "Spezies, Kultur oder Profession muss Sensibler Geruchssinn als automatischen oder empfohlenen Nachteil besitzen., Kein Eingeschränkter Sinn (Geruch)",
+    "ap_wert": -10,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 177
+      }
+    ],
+    "_source_file": "Sensibler+Geruchssinn+(_).txt",
+    "_category": "Nachteil"
+  },
+  {
+    "name": "Sprachfehler",
+    "regel": "Bei Gesellschaftstalenten (außer Menschenkenntnis und Willenskraft) und Handeln (Feilschen) kann er nach Meisterentscheid eine Erschwernis von 1 erhalten, wenn es darum geht, mit anderen Personen zu sprechen.",
+    "voraussetzung": "Kein Nachteil Stumm",
+    "ap_wert": -15,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 177
+      }
+    ],
+    "_source_file": "Sprachfehler.txt",
+    "_category": "Nachteil"
+  },
+  {
+    "name": "Stechender Orkgeruch (_)",
+    "regel": "Wesen, die diesen Nachteil aufweisen, werden in Kampfsituationen gegen Tiere bevorzugt angegriffen. Zudem sind nach Meisterentscheid Proben auf Reiten und Tierkunde, um bestimmte Tiere abzurichten, zu beruhigen oder zu reiten, um –2 erschwert.",
+    "voraussetzung": "Spezies, Kultur oder Profession muss Nachteil als automatischen oder empfohlenen Nachteil aufweisen.",
+    "ap_wert": -12,
+    "publikationen": [
+      {
+        "buch": "Orks - Hauer & Schwarzer Pelz",
+        "seite": 30
+      }
+    ],
+    "_source_file": "Stechender+Orkgeruch+(_).txt",
+    "_category": "Nachteil"
+  },
+  {
+    "name": "Stigma",
+    "regel": "Der Meister kann eine Erschwernis von 1 auf Gesellschaftstalente (ausgenommen Einschüchtern, Menschenkenntnis und Willenskraft) und Handel (Feilschen) aussprechen, wenn er dies für angemessen hält. Ein Held kann den Nachteil nur einmal wählen.",
+    "voraussetzung": "Keine",
+    "ap_wert": -10,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 178
+      }
+    ],
+    "_source_file": "Stigma.txt",
+    "_category": "Nachteil"
+  },
+  {
+    "name": "Stumm",
+    "regel": "Der Held kann sich in den meisten Fällen mit anderen Personen nicht verständigen (außer über Zeichensprache oder schriftlich). Der Einsatz von Zaubern und anderen Handlungen, die Sprache erfordern, ist unmöglich oder stark erschwert. Der Held erhält dauerhaft den Status Stumm.",
+    "voraussetzung": "Kein Vorteil Geborener Redner, Kein Vorteil Wohlklang, Kein Nachteil Sprachfehler",
+    "ap_wert": -40,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 178
+      }
+    ],
+    "_source_file": "Stumm.txt",
+    "_category": "Nachteil"
+  },
+  {
+    "name": "Taub",
+    "regel": "Der Held kann keine Probe auf Sinnesschärfe ablegen, die mit dem Hören zu tun haben. Er erhält den Status Taub.",
+    "voraussetzung": "Kein Vorteil Herausragender Sinn (Gehör)",
+    "ap_wert": -40,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 178
+      }
+    ],
+    "_source_file": "Taub.txt",
+    "_category": "Nachteil"
+  },
+  {
+    "name": "Unfähig (A- Talent)",
+    "regel": "Der Held muss bei einer Probe auf das Talent das beste Würfelergebnis einer Teilprobe neu würfeln. Das zweite Ergebnis ist bindend.\n\nA- Talent: -1 Abenteuerpunkt(e)",
+    "voraussetzung": "Kein Vorteil Begabung auf das gleiche Talent, Maximal 2 Unfähigkeiten",
+    "variant": "A- Talent",
+    "ap_wert": -1,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 178
+      }
+    ],
+    "_source_file": "Unfähig.txt",
+    "_category": "Nachteil",
+    "_variant_info": {
+      "base_name": "Unfähig",
+      "total_variants": 4
+    }
+  },
+  {
+    "name": "Unfähig (B- Talent)",
+    "regel": "Der Held muss bei einer Probe auf das Talent das beste Würfelergebnis einer Teilprobe neu würfeln. Das zweite Ergebnis ist bindend.\n\nB- Talent: -2 Abenteuerpunkt(e)",
+    "voraussetzung": "Kein Vorteil Begabung auf das gleiche Talent, Maximal 2 Unfähigkeiten",
+    "variant": "B- Talent",
+    "ap_wert": -2,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 178
+      }
+    ],
+    "_source_file": "Unfähig.txt",
+    "_category": "Nachteil",
+    "_variant_info": {
+      "base_name": "Unfähig",
+      "total_variants": 4
+    }
+  },
+  {
+    "name": "Unfähig (C- Talent)",
+    "regel": "Der Held muss bei einer Probe auf das Talent das beste Würfelergebnis einer Teilprobe neu würfeln. Das zweite Ergebnis ist bindend.\n\nC- Talent: -3 Abenteuerpunkt(e)",
+    "voraussetzung": "Kein Vorteil Begabung auf das gleiche Talent, Maximal 2 Unfähigkeiten",
+    "variant": "C- Talent",
+    "ap_wert": -3,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 178
+      }
+    ],
+    "_source_file": "Unfähig.txt",
+    "_category": "Nachteil",
+    "_variant_info": {
+      "base_name": "Unfähig",
+      "total_variants": 4
+    }
+  },
+  {
+    "name": "Unfähig (D- Talent)",
+    "regel": "Der Held muss bei einer Probe auf das Talent das beste Würfelergebnis einer Teilprobe neu würfeln. Das zweite Ergebnis ist bindend.\n\nD- Talent: -4 Abenteuerpunkt(e)",
+    "voraussetzung": "Kein Vorteil Begabung auf das gleiche Talent, Maximal 2 Unfähigkeiten",
+    "variant": "D- Talent",
+    "ap_wert": -4,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 178
+      }
+    ],
+    "_source_file": "Unfähig.txt",
+    "_category": "Nachteil",
+    "_variant_info": {
+      "base_name": "Unfähig",
+      "total_variants": 4
+    }
+  },
+  {
+    "name": "Unfrei",
+    "regel": "Der Held kann eine Erschwernis erhalten, wenn er als Unfreier Höhergestellte mit Gesellschaftstalenten überzeugen will. In seiner Kultur hat er zudem mit Unterdrückung zu kämpfen, genießt fast keinen rechtlichen Schutz und gilt als Besitz eines Höhergestellten.",
+    "voraussetzung": "Keine",
+    "ap_wert": -8,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 178
+      }
+    ],
+    "_source_file": "Unfrei.txt",
+    "_category": "Nachteil"
+  },
+  {
+    "name": "Unpassender Name",
+    "regel": "Ein Held mit diesem Nachteil bekommt nach Meisterentscheid bei Proben auf die Talente Bekehren & Überzeugen und Überreden eine Erschwernis von 1  auf alle Teilproben, die auf Charisma abgelegt werden, wenn sich sein Gegenüber an dem unpassenden Namen stört und dieser dem Gegenüber bekannt ist.",
+    "voraussetzung": "Ein möglichst unpassender Name,, Kein Vorteil Allerweltsname,, Kein Vorteil Heldenhafter Name,, Kein Nachteil Schurkenname., Kein Nachteil Lächerlicher Name,, Elfen können diesen Vorteil nicht wählen, da ihre Namen immer passend sind.",
+    "ap_wert": -4,
+    "publikationen": [
+      {
+        "buch": "Aventurische Namen",
+        "seite": 90
+      }
+    ],
+    "_source_file": "Unpassender+Name.txt",
+    "_category": "Nachteil"
+  },
+  {
+    "name": "Unverträglichkeit gegenüber Alkohol",
+    "regel": "Wer über diesen Nachteil verfügt, für den verdoppeln sich die Auswirkungen nach Giftproben beim Konsum von Alkohol. Würde der Held beispielsweise 1 Stufe Berauscht erleiden, erhält er stattdessen direkt 2 Stufen des Zustands.",
+    "voraussetzung": "Keine Sonderfertigkeit Kampftrinker",
+    "ap_wert": -2,
+    "publikationen": [
+      {
+        "buch": "Kneipen & Tavernen (Meisterschirmbegleitheft)",
+        "seite": 13
+      }
+    ],
+    "_source_file": "Unverträglichkeit+gegenüber+Alkohol.txt",
+    "_category": "Nachteil"
+  },
+  {
+    "name": "Verminderte Zaubermelodien I",
+    "regel": "Die Zaubermelodien des Abenteurers reichen pro Stufe des Nachteils 2 Schritt weniger weit als üblich.",
+    "voraussetzung": "Sonderfertigkeit Tradition (Zauberbarden), Kein Vorteil Weitreichende Zaubermelodien",
+    "level": 1,
+    "ap_wert": -2,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie",
+        "seite": 226
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 380
+      }
+    ],
+    "_source_file": "Verminderte+Zaubermelodien+I-III.txt",
+    "_category": "Nachteil",
+    "_level_info": {
+      "base_name": "Verminderte Zaubermelodien",
+      "ap_per_level": -2,
+      "ap_values": null,
+      "total_levels": 3
+    }
+  },
+  {
+    "name": "Verminderte Zaubermelodien II",
+    "regel": "Die Zaubermelodien des Abenteurers reichen pro Stufe des Nachteils 2 Schritt weniger weit als üblich.",
+    "voraussetzung": "Sonderfertigkeit Tradition (Zauberbarden), Kein Vorteil Weitreichende Zaubermelodien",
+    "level": 2,
+    "ap_wert": -4,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie",
+        "seite": 226
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 380
+      }
+    ],
+    "_source_file": "Verminderte+Zaubermelodien+I-III.txt",
+    "_category": "Nachteil",
+    "_level_info": {
+      "base_name": "Verminderte Zaubermelodien",
+      "ap_per_level": -2,
+      "ap_values": null,
+      "total_levels": 3
+    }
+  },
+  {
+    "name": "Verminderte Zaubermelodien III",
+    "regel": "Die Zaubermelodien des Abenteurers reichen pro Stufe des Nachteils 2 Schritt weniger weit als üblich.",
+    "voraussetzung": "Sonderfertigkeit Tradition (Zauberbarden), Kein Vorteil Weitreichende Zaubermelodien",
+    "level": 3,
+    "ap_wert": -6,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie",
+        "seite": 226
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 380
+      }
+    ],
+    "_source_file": "Verminderte+Zaubermelodien+I-III.txt",
+    "_category": "Nachteil",
+    "_level_info": {
+      "base_name": "Verminderte Zaubermelodien",
+      "ap_per_level": -2,
+      "ap_values": null,
+      "total_levels": 3
+    }
+  },
+  {
+    "name": "Verminderte Zaubertänze I",
+    "regel": "Die Zaubertänze des Abenteurers reichen pro Stufe des Nachteils 2 Schritt weniger weit als üblich.",
+    "voraussetzung": "Sonderfertigkeit Tradition (Zaubertänzer), Kein Vorteil Weitreichende Zaubertänze",
+    "level": 1,
+    "ap_wert": -2,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie",
+        "seite": 226
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 381
+      }
+    ],
+    "_source_file": "Verminderte+Zaubertänze+I-III.txt",
+    "_category": "Nachteil",
+    "_level_info": {
+      "base_name": "Verminderte Zaubertänze",
+      "ap_per_level": -2,
+      "ap_values": null,
+      "total_levels": 3
+    }
+  },
+  {
+    "name": "Verminderte Zaubertänze II",
+    "regel": "Die Zaubertänze des Abenteurers reichen pro Stufe des Nachteils 2 Schritt weniger weit als üblich.",
+    "voraussetzung": "Sonderfertigkeit Tradition (Zaubertänzer), Kein Vorteil Weitreichende Zaubertänze",
+    "level": 2,
+    "ap_wert": -4,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie",
+        "seite": 226
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 381
+      }
+    ],
+    "_source_file": "Verminderte+Zaubertänze+I-III.txt",
+    "_category": "Nachteil",
+    "_level_info": {
+      "base_name": "Verminderte Zaubertänze",
+      "ap_per_level": -2,
+      "ap_values": null,
+      "total_levels": 3
+    }
+  },
+  {
+    "name": "Verminderte Zaubertänze III",
+    "regel": "Die Zaubertänze des Abenteurers reichen pro Stufe des Nachteils 2 Schritt weniger weit als üblich.",
+    "voraussetzung": "Sonderfertigkeit Tradition (Zaubertänzer), Kein Vorteil Weitreichende Zaubertänze",
+    "level": 3,
+    "ap_wert": -6,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie",
+        "seite": 226
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 381
+      }
+    ],
+    "_source_file": "Verminderte+Zaubertänze+I-III.txt",
+    "_category": "Nachteil",
+    "_level_info": {
+      "base_name": "Verminderte Zaubertänze",
+      "ap_per_level": -2,
+      "ap_values": null,
+      "total_levels": 3
+    }
+  },
+  {
+    "name": "Verpflichtungen I",
+    "regel": "Der Held muss Anweisungen desjenigen befolgen, dem er verpflichtet ist, oder mit den Konsequenzen leben. Ein Held kann mehreren Institutionen oder Personen verpflichtet sein, er bekommt jedoch nur einmal Abenteuerpunkte für den Nachteil (und zwar für die höchste Verpflichtungsstufe).",
+    "voraussetzung": "Keine",
+    "level": 1,
+    "ap_wert": -10,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 178
+      }
+    ],
+    "_source_file": "Verpflichtungen+I-III.txt",
+    "_category": "Nachteil",
+    "_level_info": {
+      "base_name": "Verpflichtungen",
+      "ap_per_level": -10,
+      "ap_values": null,
+      "total_levels": 3
+    }
+  },
+  {
+    "name": "Verpflichtungen II",
+    "regel": "Der Held muss Anweisungen desjenigen befolgen, dem er verpflichtet ist, oder mit den Konsequenzen leben. Ein Held kann mehreren Institutionen oder Personen verpflichtet sein, er bekommt jedoch nur einmal Abenteuerpunkte für den Nachteil (und zwar für die höchste Verpflichtungsstufe).",
+    "voraussetzung": "Keine",
+    "level": 2,
+    "ap_wert": -20,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 178
+      }
+    ],
+    "_source_file": "Verpflichtungen+I-III.txt",
+    "_category": "Nachteil",
+    "_level_info": {
+      "base_name": "Verpflichtungen",
+      "ap_per_level": -10,
+      "ap_values": null,
+      "total_levels": 3
+    }
+  },
+  {
+    "name": "Verpflichtungen III",
+    "regel": "Der Held muss Anweisungen desjenigen befolgen, dem er verpflichtet ist, oder mit den Konsequenzen leben. Ein Held kann mehreren Institutionen oder Personen verpflichtet sein, er bekommt jedoch nur einmal Abenteuerpunkte für den Nachteil (und zwar für die höchste Verpflichtungsstufe).",
+    "voraussetzung": "Keine",
+    "level": 3,
+    "ap_wert": -30,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 178
+      }
+    ],
+    "_source_file": "Verpflichtungen+I-III.txt",
+    "_category": "Nachteil",
+    "_level_info": {
+      "base_name": "Verpflichtungen",
+      "ap_per_level": -10,
+      "ap_values": null,
+      "total_levels": 3
+    }
+  },
+  {
+    "name": "Verstümmelt (Einäugig)",
+    "regel": "Viele Fertigkeitsproben können durch die Verstümmelung erschwert oder unmöglich sein. Die Entscheidung hierüber obliegt dem Meister je nach Situation.\n\nEinäugig: Eines der beiden Augen des Helden ist blind oder er hat es verloren. Fernkampfangriffe sind dadurch um 4 erschwert.",
+    "voraussetzung": "Keine",
+    "variant": "Einäugig",
+    "ap_wert": -10,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 179
+      }
+    ],
+    "_source_file": "Verstümmelt.txt",
+    "_category": "Nachteil",
+    "_variant_info": {
+      "base_name": "Verstümmelt",
+      "total_variants": 5
+    }
+  },
+  {
+    "name": "Verstümmelt (Einarmig)",
+    "regel": "Viele Fertigkeitsproben können durch die Verstümmelung erschwert oder unmöglich sein. Die Entscheidung hierüber obliegt dem Meister je nach Situation.\n\nEinarmig: Einer der beiden Arme des Charakters fehlt mindestens bis zum Ellbogen.",
+    "voraussetzung": "Keine",
+    "variant": "Einarmig",
+    "ap_wert": -30,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 179
+      }
+    ],
+    "_source_file": "Verstümmelt.txt",
+    "_category": "Nachteil",
+    "_variant_info": {
+      "base_name": "Verstümmelt",
+      "total_variants": 5
+    }
+  },
+  {
+    "name": "Verstümmelt (Einbeinig)",
+    "regel": "Viele Fertigkeitsproben können durch die Verstümmelung erschwert oder unmöglich sein. Die Entscheidung hierüber obliegt dem Meister je nach Situation.\n\nEinbeinig: Der Held hat nur ein Bein, bzw. es ist unterhalb des Knies amputiert. Der Geschwindigkeit- Grundwert ist halbiert. Krücken und einfache Prothesen wie ein Holzbein helfen gegen die Verminderung der Geschwindigkeit nicht.",
+    "voraussetzung": "Keine",
+    "variant": "Einbeinig",
+    "ap_wert": -30,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 179
+      }
+    ],
+    "_source_file": "Verstümmelt.txt",
+    "_category": "Nachteil",
+    "_variant_info": {
+      "base_name": "Verstümmelt",
+      "total_variants": 5
+    }
+  },
+  {
+    "name": "Verstümmelt (Einhändig)",
+    "regel": "Viele Fertigkeitsproben können durch die Verstümmelung erschwert oder unmöglich sein. Die Entscheidung hierüber obliegt dem Meister je nach Situation.\n\nEinhändig: Dem Abenteurer fehlt eine Hand.",
+    "voraussetzung": "Keine",
+    "variant": "Einhändig",
+    "ap_wert": -20,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 179
+      }
+    ],
+    "_source_file": "Verstümmelt.txt",
+    "_category": "Nachteil",
+    "_variant_info": {
+      "base_name": "Verstümmelt",
+      "total_variants": 5
+    }
+  },
+  {
+    "name": "Verstümmelt (Einohrig)",
+    "regel": "Viele Fertigkeitsproben können durch die Verstümmelung erschwert oder unmöglich sein. Die Entscheidung hierüber obliegt dem Meister je nach Situation.\n\nEinohrig: Eines der Ohren ist abgeschnitten oder verkrüppelt. Proben auf Sinnesschärfe auf Hören sind für den Helden grundsätzlich um 1 erschwert.",
+    "voraussetzung": "Keine",
+    "variant": "Einohrig",
+    "ap_wert": -5,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 179
+      }
+    ],
+    "_source_file": "Verstümmelt.txt",
+    "_category": "Nachteil",
+    "_variant_info": {
+      "base_name": "Verstümmelt",
+      "total_variants": 5
+    }
+  },
+  {
+    "name": "Verweichlicht",
+    "regel": "Bei der Probe auf Selbstbeherrschung (Handlungsfähigkeit bewahren oder Störungen ignorieren) bei Wundeffekten bekommt die Heldin eine Erschwernis von 2.",
+    "voraussetzung": "Keine",
+    "ap_wert": -3,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Kompendium",
+        "seite": 133
+      }
+    ],
+    "_source_file": "Verweichlicht.txt",
+    "_category": "Nachteil"
+  },
+  {
+    "name": "Wahrer Name",
+    "regel": "Wenn ein Zauberer einen Zauberspruch gegen ein Ziel einsetzt, dessen Wahren Namen er kennt (und der über diesen Nachteil verfügt), verschlechtert sich die Seelenkraft und die Zähigkeit des Ziels um 4, womit es leichter zu verzaubern ist.",
+    "voraussetzung": "Keine",
+    "ap_wert": -10,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 179
+      }
+    ],
+    "_source_file": "Wahrer+Name.txt",
+    "_category": "Nachteil"
+  },
+  {
+    "name": "Wenige Predigten I",
+    "regel": "Bei Stufe I kann der Zelot nur 2 Predigt-Sonderfertigkeiten beherrschen, bei Stufe II sogar nur 1.",
+    "voraussetzung": "Vorteil Prediger",
+    "level": 1,
+    "ap_wert": -10,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Götterwirken",
+        "seite": 228
+      }
+    ],
+    "_source_file": "Wenige+Predigten+I-II.txt",
+    "_category": "Nachteil",
+    "_level_info": {
+      "base_name": "Wenige Predigten",
+      "ap_per_level": -10,
+      "ap_values": null,
+      "total_levels": 2
+    }
+  },
+  {
+    "name": "Wenige Predigten II",
+    "regel": "Bei Stufe I kann der Zelot nur 2 Predigt-Sonderfertigkeiten beherrschen, bei Stufe II sogar nur 1.",
+    "voraussetzung": "Vorteil Prediger",
+    "level": 2,
+    "ap_wert": -20,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Götterwirken",
+        "seite": 228
+      }
+    ],
+    "_source_file": "Wenige+Predigten+I-II.txt",
+    "_category": "Nachteil",
+    "_level_info": {
+      "base_name": "Wenige Predigten",
+      "ap_per_level": -10,
+      "ap_values": null,
+      "total_levels": 2
+    }
+  },
+  {
+    "name": "Wenige Visionen I",
+    "regel": "Bei Stufe I kann der Zelot nur 2 Vision-Sonderfertigkeiten beherrschen, bei Stufe II sogar nur 1.",
+    "voraussetzung": "Vorteil Visionär",
+    "level": 1,
+    "ap_wert": -10,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Götterwirken",
+        "seite": 228
+      }
+    ],
+    "_source_file": "Wenige+Visionen+I-II.txt",
+    "_category": "Nachteil",
+    "_level_info": {
+      "base_name": "Wenige Visionen",
+      "ap_per_level": -10,
+      "ap_values": null,
+      "total_levels": 2
+    }
+  },
+  {
+    "name": "Wenige Visionen II",
+    "regel": "Bei Stufe I kann der Zelot nur 2 Vision-Sonderfertigkeiten beherrschen, bei Stufe II sogar nur 1.",
+    "voraussetzung": "Vorteil Visionär",
+    "level": 2,
+    "ap_wert": -20,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Götterwirken",
+        "seite": 228
+      }
+    ],
+    "_source_file": "Wenige+Visionen+I-II.txt",
+    "_category": "Nachteil",
+    "_level_info": {
+      "base_name": "Wenige Visionen",
+      "ap_per_level": -10,
+      "ap_values": null,
+      "total_levels": 2
+    }
+  },
+  {
+    "name": "Wilde Magie",
+    "regel": "19er werden bei Fertigkeitsproben auf Zauber und Rituale in Hinsicht auf die Bestimmung eines Patzers wie eine 20 behandelt.",
+    "voraussetzung": "Vorteil Zauberer",
+    "ap_wert": -10,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 179
+      }
+    ],
+    "_source_file": "Wilde+Magie.txt",
+    "_category": "Nachteil"
+  },
+  {
+    "name": "Yurach",
+    "regel": "Yurach gelten bei den Orks als Ausgestoßene. Alle Proben auf Bekehren & Überzeugen, Etikette, Handel und Überreden erhalten gegenüber Orks eine Erschwernis von –1. Diese Erschwernis gilt nicht gegenüber Nicht-Orks. Der soziale Stand eines Yurach ist zudem immer Stufe I (siehe Regelwerk).",
+    "voraussetzung": "Der Held muss der Kultur Orkland angehören.",
+    "ap_wert": -20,
+    "publikationen": [
+      {
+        "buch": "Orks - Hauer & Schwarzer Pelz",
+        "seite": 30
+      }
+    ],
+    "_source_file": "Yurach.txt",
+    "_category": "Nachteil"
+  },
+  {
+    "name": "Zauberanfällig I",
+    "regel": "Gegen Magie sind Seelenkraft und Zähigkeit um 1 pro Stufe schlechter als üblich.",
+    "voraussetzung": "Kein Vorteil Schwer zu verzaubern",
+    "level": 1,
+    "ap_wert": -12,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 179
+      }
+    ],
+    "_source_file": "Zauberanfällig+I-II.txt",
+    "_category": "Nachteil",
+    "_level_info": {
+      "base_name": "Zauberanfällig",
+      "ap_per_level": -12,
+      "ap_values": null,
+      "total_levels": 2
+    }
+  },
+  {
+    "name": "Zauberanfällig II",
+    "regel": "Gegen Magie sind Seelenkraft und Zähigkeit um 1 pro Stufe schlechter als üblich.",
+    "voraussetzung": "Kein Vorteil Schwer zu verzaubern",
+    "level": 2,
+    "ap_wert": -24,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 179
+      }
+    ],
+    "_source_file": "Zauberanfällig+I-II.txt",
+    "_category": "Nachteil",
+    "_level_info": {
+      "base_name": "Zauberanfällig",
+      "ap_per_level": -12,
+      "ap_values": null,
+      "total_levels": 2
+    }
+  },
+  {
+    "name": "Zerbrechlich I",
+    "regel": "Erschwernisse durch den Zustand Schmerz werden wie bei einer Stufe höher behandelt. Die Handlungsunfähigkeit tritt somit bereits bei Stufe III ein.",
+    "voraussetzung": "Kein Vorteil Zäher Hund",
+    "level": 1,
+    "ap_wert": -20,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 179
+      }
+    ],
+    "_source_file": "Zerbrechlich.txt",
+    "_category": "Nachteil",
+    "_level_info": {
+      "base_name": "Zerbrechlich",
+      "ap_per_level": -20,
+      "ap_values": null,
+      "total_levels": 3
+    }
+  },
+  {
+    "name": "Zerbrechlich II",
+    "regel": "Erschwernisse durch den Zustand Schmerz werden wie bei einer Stufe höher behandelt. Die Handlungsunfähigkeit tritt somit bereits bei Stufe III ein.",
+    "voraussetzung": "Kein Vorteil Zäher Hund",
+    "level": 2,
+    "ap_wert": -40,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 179
+      }
+    ],
+    "_source_file": "Zerbrechlich.txt",
+    "_category": "Nachteil",
+    "_level_info": {
+      "base_name": "Zerbrechlich",
+      "ap_per_level": -20,
+      "ap_values": null,
+      "total_levels": 3
+    }
+  },
+  {
+    "name": "Zerbrechlich III",
+    "regel": "Erschwernisse durch den Zustand Schmerz werden wie bei einer Stufe höher behandelt. Die Handlungsunfähigkeit tritt somit bereits bei Stufe III ein.",
+    "voraussetzung": "Kein Vorteil Zäher Hund",
+    "level": 3,
+    "ap_wert": -60,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 179
+      }
+    ],
+    "_source_file": "Zerbrechlich.txt",
+    "_category": "Nachteil",
+    "_level_info": {
+      "base_name": "Zerbrechlich",
+      "ap_per_level": -20,
+      "ap_values": null,
+      "total_levels": 3
+    }
+  }
+]

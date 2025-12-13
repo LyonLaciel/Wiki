@@ -1,0 +1,287 @@
+[
+  {
+    "name": "Bolzenschuss-Torsionswaffe",
+    "regel": "Der Schaden der Waffe erhöht sich um +2 TP, die Reichweite sich um 10 %. Die Waffe kann keine Kugeln mehr verschießen und kann kein Repetier-Magazin verwenden.",
+    "kosten": "+100 % der ursprünglichen Waffe, Pfeile kosten das Doppelte von Kugeln",
+    "waffen": "Armbrüste, die als Munitionsart Kugeln verwenden",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer II",
+        "seite": 120
+      }
+    ],
+    "_source_file": "bolzenschuss-torsionswaffe.txt",
+    "_category": "Waffenausstattung"
+  },
+  {
+    "name": "Dornenspitze",
+    "regel": "Die Spitze verursacht 1W6+3 TP. Rüstungen mit RS 4 oder mehr erleiden dadurch einen Malus von –2 auf RS.",
+    "kosten": "50 Silbertaler",
+    "waffen": "Streitaxt",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 120
+      }
+    ],
+    "_source_file": "dornenspitze.txt",
+    "_category": "Waffenausstattung"
+  },
+  {
+    "name": "Einkerbung",
+    "regel": "Der Schaden der Waffe erhöht sich um +1 TP. Die Probe auf FK ist um 1 erschwert.",
+    "kosten": "Preis x 2",
+    "waffen": "Armbrüste, die als Munitionsart Kugeln verwenden",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer II",
+        "seite": 120
+      }
+    ],
+    "_source_file": "einkerbung.txt",
+    "_category": "Waffenausstattung"
+  },
+  {
+    "name": "Gehänge",
+    "regel": "Wer ein Gehänge benutzt, der benötigt keine zusätzlichen Aktionen, um eine Hiebwaffe oder Zweihandhiebwaffe bereitzumachen.",
+    "kosten": "5 Silbertaler",
+    "waffen": "Kampftechniken Hiebwaffen, Zweihandhiebwaffen, Zweihandschwerter",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 119
+      }
+    ],
+    "_source_file": "gehaenge.txt",
+    "_category": "Waffenausstattung"
+  },
+  {
+    "name": "Gehärtete Pfeile und Bolzen",
+    "regel": "Der Schaden der Waffe erhöht sich um +1 TP.",
+    "kosten": "Preis x 4",
+    "waffen": "Kettenbrecher-Pfeile und -Bolzen, Kriegspfeile und -bolzen, Panzerbrecher-Pfeile und -Bolzen, Pferde-Pfeile und-bolzen",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer II",
+        "seite": 121
+      }
+    ],
+    "_source_file": "gehaertete-pfeile-und-bolzen.txt",
+    "_category": "Waffenausstattung"
+  },
+  {
+    "name": "Gürtelhalter",
+    "regel": "Benutzt der Held einen Gürtelhalter, dann kann er die Ladezeit bei den meisten Armbrüsten um 2 Aktionen reduzieren (vor weiteren Abzügen durch die Sonderfertigkeit Schnellladen).",
+    "kosten": "40 Silbertaler",
+    "waffen": "Armbrüste (nur Modelle, die mindestens 5 Aktionen Ladezeit aufweisen)",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer II",
+        "seite": 121
+      }
+    ],
+    "_source_file": "guertelhalter.txt",
+    "_category": "Waffenausstattung"
+  },
+  {
+    "name": "Gute Federn",
+    "regel": "Die Reichweite erhöht sich um 10 %.",
+    "kosten": "Preis x 2",
+    "waffen": "alle Pfeil- und Bolzentypen, bis auf Brandpfeile und -bolzen und Sehnenschneider-Pfeile und -Bolzen, Gute Federn lässt sich nicht mit der Ausstattung Improvisierte Brandpfeile und -bolzen kombinieren",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer II",
+        "seite": 121
+      }
+    ],
+    "_source_file": "gute-federn.txt",
+    "_category": "Waffenausstattung"
+  },
+  {
+    "name": "Hüftköcher",
+    "regel": "Wenn ein Held keinen Hüftköcher griffbereit umgeschnallt hat, so steigt die Ladezeit um 1 Aktion, wenn er seine Waffe (also beispielsweise Pfeile oder Wurfspeere) bereitmachen will. Ein Hüftköcher reduziert darüber hinaus auch die Ladezeiterhöhung von einem Reittier aus um 1 Aktion (siehe Seite 122).",
+    "kosten": "25 Silbertaler",
+    "waffen": "Bögen, Wurfspeere",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer II",
+        "seite": 121
+      }
+    ],
+    "_source_file": "hueftkoecher.txt",
+    "_category": "Waffenausstattung"
+  },
+  {
+    "name": "Improvisierte Brandpfeile und -bolzen",
+    "regel": "Die Reichweitenangaben der Fernkampfwaffen sind bei einem improvisierten Brandgeschoss halbiert. Die TP der Waffe sind halbiert. Bei einem Treffer entzündet sich brennbares Material bei 1-2 auf dem W6. Dazu zählt nach Meisterentscheid auch die Kleidung eines Helden, sodass er zu Beginn der nächsten KR an dem Status Brennend auf kleiner Fläche leidet. Das Geschoss lässt sich nicht wiederverwenden.",
+    "kosten": "Preis x 2",
+    "waffen": "alle Pfeil- und Bolzentypen bis auf Brandpfeile und -bolzen, Improvisierte Brandpfeile und -bolzen lässt sich nicht mit der Ausstattung Gute Federn kombinieren",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer II",
+        "seite": 121
+      }
+    ],
+    "_source_file": "improvisierte-brandpfeile-und-bolzen.txt",
+    "_category": "Waffenausstattung"
+  },
+  {
+    "name": "Köcher",
+    "regel": "Wenn ein Held keinen Köcher griffbereit umgeschnallt hat, so steigt die Ladezeit um 1 Aktion, wenn er seine Waffe (also beispielsweise Pfeile oder Wurfspeere) bereitmachen will.",
+    "kosten": "15 Silbertaler",
+    "waffen": "Bögen, Wurfspeere",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 119
+      }
+    ],
+    "_source_file": "koecher.txt",
+    "_category": "Waffenausstattung"
+  },
+  {
+    "name": "Lederriemen",
+    "regel": "Das Manöver Entwaffnen ist gegen den Helden mit einer Waffe mit Lederriemen schwerer auszuführen. Eine Parade, um das Entwaffnen zu verhindern, ist um 1 erleichtert.",
+    "kosten": "5 Silbertaler",
+    "waffen": "alle Waffen, die über einen Griff verfügen, der mit Leder umwickelt werden kann",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 120
+      }
+    ],
+    "_source_file": "lederriemen.txt",
+    "_category": "Waffenausstattung"
+  },
+  {
+    "name": "Lederschlaufe",
+    "regel": "Bei einem Patzer erleidet der Held nur 1W6 SP. Spielst du mit der Optionalregel der Patzertabellen, so kann das Ergebnis Waffe verloren ignoriert werden. Der Patzer hat dann keine Auswirkungen. Die Lederschlaufe hat keinen Einfluss auf das Manöver Entwaffnen.",
+    "kosten": "5 Silbertaler",
+    "waffen": "Kampftechnik Hiebwaffen (vor allem Streitäxte und Streitkolben)",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 120
+      }
+    ],
+    "_source_file": "lederschlaufe.txt",
+    "_category": "Waffenausstattung"
+  },
+  {
+    "name": null,
+    "regel": null,
+    "kosten": null,
+    "waffen": null,
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Das Schwarze Auge - Regeln",
+        "seite": 275
+      }
+    ],
+    "_source_file": "munition.txt",
+    "_category": "Waffenausstattung"
+  },
+  {
+    "name": "Munitionstasche",
+    "regel": "Wenn ein Held keine Munitionstasche griffbereit umgeschnallt hat, so steigt die Ladezeit um 1 Aktion, wenn er seine Waffe (also Bolzen) bereitmachen will.",
+    "kosten": "15 Silbertaler",
+    "waffen": "Armbrüste",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer II",
+        "seite": 121
+      }
+    ],
+    "_source_file": "munitionstasche.txt",
+    "_category": "Waffenausstattung"
+  },
+  {
+    "name": "Repetier-Magazin",
+    "regel": "Die Fernkampfwaffe benötigt nur noch die Hälfte der LZ, solange noch Munition im Repetier-Magazin enthalten ist. Das aufgesetzte Repetier-Magazin kann entweder 3 oder 7 Kugeln aufnehmen. Um das gesamte Magazin zu wechseln, benötigt der Schütze 6 Aktionen, das Nachladen einer einzelnen Kugel dauert so lange, wie die LZ normalerweise bei der Waffe dauert +1 Aktion.",
+    "kosten": "120 Silbertaler für 3er-Magazin, 350 Silbertaler für 7er-Magazin",
+    "waffen": "Armbrüste, die als Munitionsart Kugeln verwenden",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer II",
+        "seite": 121
+      }
+    ],
+    "_source_file": "repetier-magazin.txt",
+    "_category": "Waffenausstattung"
+  },
+  {
+    "name": "Scheide",
+    "regel": "Wer eine Scheide benutzt, der benötigt keine zusätzlichen Aktionen, um einen Dolch, eine Fechtwaffe oder ein Schwert bereitzumachen.",
+    "kosten": "12 Silbertaler (Schwertscheide), 10 Silbertaler (Fechtwaffenscheide), 5 Silbertaler (Dolchscheide)",
+    "waffen": "Kampftechniken Dolche, Fechtwaffen, Schwerter",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 120
+      }
+    ],
+    "_source_file": "scheide.txt",
+    "_category": "Waffenausstattung"
+  },
+  {
+    "name": "Schwärzen",
+    "regel": "Geschwärzte Waffen verleihen dem Helden eine Erleichterung von 1 bei Proben auf Verbergen (Gegenstände verbergen), wenn die Waffe in der Dunkelheit wahrgenommen werden soll. Der Zustand hält 1 Stunde an, kann aber jederzeit mit einem feuchten Tuch abgewischt werden.",
+    "kosten": "5 Silbertaler",
+    "waffen": "alle Waffen mit einer Metallfläche",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 120
+      }
+    ],
+    "_source_file": "schwaerzen.txt",
+    "_category": "Waffenausstattung"
+  },
+  {
+    "name": "Waffenpflegeset",
+    "regel": "Das Waffenpflegeset hat nur einen regeltechnischen Effekt, wenn du mit Waffenbruchfaktor spielst. Mit einem Waffenpflegeset kann ein Held die erste Stufe Beschädigung einer Waffe aufheben. Er muss dazu nicht die Fähigkeit besitzen, die Waffe herstellen zu können, aber er muss eine Probe auf das Herstellungstalent, beispielsweise Metall- oder Holzbearbeitung, ablegen. Gelingt die Probe, so wird die Beschädigungsstufe aufgehoben. Sollte die Waffe mehr als nur 1 Stufe Beschädigung aufweisen, kann der Held nicht von der Wirkung des Waffenpflegesets profitieren.",
+    "kosten": "1 Silbertaler",
+    "waffen": "alle Waffen mit Metallklingen oder -spitzen",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 120
+      }
+    ],
+    "_source_file": "waffenpflegeset.txt",
+    "_category": "Waffenausstattung"
+  },
+  {
+    "name": "Widerhaken-Pfeile und -Bolzen",
+    "regel": "Verursacht das Widerhaken-Geschoss SP, steckt es im Körper des Ziels fest. Ein steckenbleibendes Widerhakengeschoss verursacht alle 5 Minuten 1 SP. Um es zu entfernen muss entweder das Geschoss mit Kraft herausgezogen (1W6+2 SP) oder vorsichtig mit einer Probe auf Heilkunde Wunden herausgelöst werden. Eine misslungene Probe verursacht 1W3 SP, dauert aber auch nur 1 Minute. Das Geschoss lässt sich nach einem erfolgreichen Treffer nicht mehr wiederverwenden.",
+    "kosten": "Preis x 3",
+    "waffen": "Jagdpfeile und -bolzen, Kettenbrecher-Pfeile und -Bolzen, Kriegspfeile und -bolzen, Panzerbrecher- Pfeile und -Bolzen, Pferde-Pfeile und-bolzen, Sehnenscheider-Pfeile und -Bolzen",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer II",
+        "seite": 121
+      }
+    ],
+    "_source_file": "widerhaken-pfeile-und-bolzen.txt",
+    "_category": "Waffenausstattung"
+  }
+]

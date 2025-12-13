@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Rüstungspflegeset",
+    "regel": "Das Rüstungspflegeset hat nur einen regeltechnischen Effekt, wenn du mit Rüstungsstabilität spielst. Mit einem Rüstungspflegeset kann ein Held die erste Stufe Verschleiß einer Rüstung aufheben. Er muss dazu nicht die Fähigkeit besitzen, die Rüstung herstellen zu können, aber er muss eine Probe auf das Herstellungstalent, beispielsweise Metall- oder Holzbearbeitung, ablegen. Die Probe ist um die BE der Rüstung erschwert. Gelingt die Probe, so wird die Verschleißstufe aufgehoben. Sollte die Rüstung mehr als nur 1 Stufe Verschleiß aufweisen, kann der Held nicht von der Wirkung des Rüstungspflegesets profitieren. Für jede Rüstungsart, also beispielsweise Lederrüstungen oder Kettenrüstungen, existiert ein eigenes Pflegeset.",
+    "kosten": "5 Silbertaler",
+    "ruestungen": "alle Rüstungen",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 120
+      }
+    ],
+    "_source_file": "ruestungspflegeset.txt",
+    "_category": "Ruestungsausstattung"
+  },
+  {
+    "name": "Rüstungsstacheln",
+    "regel": "Wessen Rüstung Rüstungsstacheln aufweist, der kann seinen Gegner damit eventuell verletzen. Greift ein Gegner mit einer kurzen Waffe an und sein Angriff ist erfolgreich, muss er mit 1W6 würfeln. Bei 5-6 hat er sich an den Stacheln verletzt und erleidet 1 SP. Dies gilt auch für Tiere mit Angriffen auf kurzer Reichweite. Allerdings erleidet der Träger einer mit Rüstungsstacheln ausgestatteten Rüstung bei einem bestätigten oder unbestätigten Patzer bei Attacke oder Parade (zusätzlich zu sonstigen potenziellen Patzerauswirkungen) 1 SP.",
+    "kosten": "10 % der Rüstungskosten",
+    "ruestungen": "Knochenrüstung, Hornrüstung, Lederrüstung, Plattenrüstung, Schuppenrüstung",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 121
+      }
+    ],
+    "_source_file": "ruestungsstacheln.txt",
+    "_category": "Ruestungsausstattung"
+  },
+  {
+    "name": "Unterkleidung für Metallrüstungen",
+    "regel": "Wer unter einer Metallrüstung Unterkleidung trägt, erleidet keine Abschürfungen. Bei Komplettrüstungen ist Unterkleidung, sofern sie notwendig ist, bereits enthalten.",
+    "kosten": "12 Silbertaler",
+    "ruestungen": "alle Metallrüstungen",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 121
+      }
+    ],
+    "_source_file": "unterkleidung-fuer-metallruestungen.txt",
+    "_category": "Ruestungsausstattung"
+  }
+]

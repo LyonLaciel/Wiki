@@ -1,0 +1,524 @@
+[
+  {
+    "name": "Alrauniger Homunculus",
+    "typische_ingredienzien": "eine frische Alraunwurzel (nicht substituierbar), Eigenblut (2W6+6 LeP pro Stufe, nicht substituierbar), Blut eines Zauberers (auch Eigenblut möglich, ansonsten 2W6+6 LeP pro Stufe), Asche, Speichel des Erschaffers, exakt bemessene Mischung aus hochpotenten Alchimika (etwa Zaubertränke, deren Zutaten, eingefangenes Mondlicht, Alicornpulver; entspricht 2W6 AsP pro Stufe)",
+    "kosten_ingredienzien": "500 Silbertaler pro Stufe",
+    "labor": "archaisches Labor",
+    "brauschwierigkeit": -4,
+    "voraussetzungen_brauvorgang": "keine mächtigen Zauberspeicher oder anderweitig bindende Artefakte in der Nähe, die den Vorgang stören könnten",
+    "zusaetzliche_voraussetzungen": "Sonderfertigkeit Homunculusbindung (30 AP, muss vor der Brauprobe erworben werden) AP-Wert (Berufsgeheimnis): 20 AP (Voraussetzungen: Alchimie 12)",
+    "qualitaetsstufen": {
+      "1": "Der Homunculus erhält 50 % der Fertigkeitswerte des Erschaffers (gilt für Alchimie, Heilkunde Gift, Lebensmittelbearbeitung, Magiekunde, Malen & Zeichnen, Pflanzenkunde, Rechnen, Willenskraft), 30 % der LeP des Erschaffers und 30 % seiner KL zusätzlich sowie 50 AP.",
+      "2": "Der Homunculus erhält 60 % der Fertigkeitswerte des Erschaffers (gilt für Alchimie, Heilkunde Gift, Lebensmittelbearbeitung, Magiekunde, Malen & Zeichnen, Pflanzenkunde, Rechnen, Willenskraft), 30 % der LeP des Erschaffers und 30 % seiner KL zusätzlich sowie 60 AP.",
+      "3": "Der Homunculus erhält 70 % der Fertigkeitswerte des Erschaffers (gilt für Alchimie, Heilkunde Gift, Lebensmittelbearbeitung, Magiekunde, Malen & Zeichnen, Pflanzenkunde, Rechnen, Willenskraft), 40 % der LeP des Erschaffers und 40 % seiner KL zusätzlich sowie 70 AP.",
+      "4": "Der Homunculus erhält 80 % der Fertigkeitswerte des Erschaffers (gilt für Alchimie, Heilkunde Gift, Lebensmittelbearbeitung, Magiekunde, Malen & Zeichnen, Pflanzenkunde, Rechnen, Willenskraft), 50 % der LeP des Erschaffers und 40 % seiner KL zusätzlich sowie 80 AP.",
+      "5": "Der Homunculus erhält 90 % der Fertigkeitswerte des Erschaffers (gilt für Alchimie, Heilkunde Gift, Lebensmittelbearbeitung, Magiekunde, Malen & Zeichnen, Pflanzenkunde, Rechnen, Willenskraft), 50 % der LeP des Erschaffers und 40 % seiner KL zusätzlich sowie 90 AP.",
+      "6": "Der Homunculus erhält 100 % der Fertigkeitswerte des Erschaffers (gilt für Alchimie, Heilkunde Gift, Lebensmittelbearbeitung, Magiekunde, Malen & Zeichnen, Pflanzenkunde, Rechnen, Willenskraft), 50 % der LeP des Erschaffers und 50 % seiner KL zusätzlich sowie 100 AP."
+    },
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Herbarium",
+        "seite": 97
+      }
+    ],
+    "_source_file": "her_rez_arlauniger_homunculus.txt",
+    "_category": "Rezept"
+  },
+  {
+    "name": "Alraunensud",
+    "typische_ingredienzien": null,
+    "kosten_ingredienzien": null,
+    "labor": null,
+    "brauschwierigkeit": null,
+    "voraussetzungen_brauvorgang": "Probe auf Alchimie erschwert um –2",
+    "zusaetzliche_voraussetzungen": null,
+    "qualitaetsstufen": {
+      "1": "Die Brauschwierigkeit sinkt um 1.",
+      "2": "Die Brauschwierigkeit sinkt um 2.",
+      "3": "Die FP erhöhen sich bei einer gelungenen Probe um 1 (bis zu einem Maximum von 18 FP).",
+      "4": "Die FP erhöhen sich bei einer gelungenen Probe um 2 (bis zu einem Maximum von 18 FP).",
+      "5": "Die QS erhöht sich bei einer gelungenen Probe um 1 (bis zu einem Maximum von 6 QS).",
+      "6": "Die Brauschwierigkeit sinkt um 1 und die FP erhöhen sich bei einer gelungenen Probe um 1 (bis zu einem Maximum von 18 FP)."
+    },
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Herbarium",
+        "seite": 141
+      }
+    ],
+    "_source_file": "her_Alraunensud.txt",
+    "_category": "Rezept",
+    "_subcategory": "her_Alternative_Wirkungen_durch_Haltbarmachung"
+  },
+  {
+    "name": "Argansud",
+    "typische_ingredienzien": null,
+    "kosten_ingredienzien": null,
+    "labor": null,
+    "brauschwierigkeit": null,
+    "voraussetzungen_brauvorgang": null,
+    "zusaetzliche_voraussetzungen": null,
+    "qualitaetsstufen": {
+      "12 Tage": "Haltbarkeit"
+    },
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Herbarium II",
+        "seite": 96
+      }
+    ],
+    "_source_file": "Herbarium_II_Argansud.txt",
+    "_category": "Rezept",
+    "_subcategory": "her_Alternative_Wirkungen_durch_Haltbarmachung"
+  },
+  {
+    "name": "Carlog-Essenz",
+    "typische_ingredienzien": null,
+    "kosten_ingredienzien": null,
+    "labor": null,
+    "brauschwierigkeit": null,
+    "voraussetzungen_brauvorgang": null,
+    "zusaetzliche_voraussetzungen": null,
+    "qualitaetsstufen": {
+      "1": "Nach Einnahme von Carlog-Essenz erhält der Held für 10 Minuten den Vorteil Dunkelsicht I. Verfügt er schon über Dunkelsicht I, so bekommt er Stufe II.",
+      "2": "Tagsüber erscheint nach der Einnahme alles in so grellem Licht, dass der Held einen Sichtmodifikator von 1 erhält."
+    },
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Herbarium",
+        "seite": 141
+      }
+    ],
+    "_source_file": "her_Carlog_Essenz.txt",
+    "_category": "Rezept",
+    "_subcategory": "her_Alternative_Wirkungen_durch_Haltbarmachung"
+  },
+  {
+    "name": "Eingelegte Alraunwurzel",
+    "typische_ingredienzien": null,
+    "kosten_ingredienzien": null,
+    "labor": null,
+    "brauschwierigkeit": null,
+    "voraussetzungen_brauvorgang": null,
+    "zusaetzliche_voraussetzungen": null,
+    "qualitaetsstufen": {},
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Herbarium",
+        "seite": 141
+      }
+    ],
+    "_source_file": "her_Eingelegte_Alraunwurzel.txt",
+    "_category": "Rezept",
+    "_subcategory": "her_Alternative_Wirkungen_durch_Haltbarmachung"
+  },
+  {
+    "name": "Finagesud",
+    "typische_ingredienzien": "frische Finagetriebe mit Alkohol",
+    "kosten_ingredienzien": null,
+    "labor": null,
+    "brauschwierigkeit": null,
+    "voraussetzungen_brauvorgang": null,
+    "zusaetzliche_voraussetzungen": null,
+    "qualitaetsstufen": {
+      "1": "heilt Schäden, die durch Gift und Magie verursacht wurden, um 1W3+2 LeP",
+      "2": "Wenn mehr als 1 Anwendung innerhalb von 24 Stunden eingenommen wird, muss 1W20 gewürfelt werden: Bei 1-2 auf 1W20 verfällt der Anwender in einen Blutrausch.",
+      "3": null,
+      "4": null,
+      "5": null,
+      "6": null
+    },
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Herbarium II",
+        "seite": 97
+      }
+    ],
+    "_source_file": "Herb_Finagesud.txt",
+    "_category": "Rezept",
+    "_subcategory": "her_Alternative_Wirkungen_durch_Haltbarmachung"
+  },
+  {
+    "name": "Gerebelter Thonnys",
+    "typische_ingredienzien": null,
+    "kosten_ingredienzien": null,
+    "labor": null,
+    "brauschwierigkeit": null,
+    "voraussetzungen_brauvorgang": null,
+    "zusaetzliche_voraussetzungen": null,
+    "qualitaetsstufen": {
+      "1": "Zauberer, die gerebelten Thonnys einnehmen, können sofort in 1 freien Aktion ihre LeP in AsP im Verhältnis 1 zu 1 umwandeln, allerdings erleiden sie auch 1W6 SP zusätzlich und 1 Stufe Betäubung aufgrund von Übelkeit. Muss trocken geschluckt werden, da sich erst in Kontakt mit reinem Zaubererspeichel die Wirkung entfaltet.",
+      "2": null,
+      "3": null,
+      "4": null,
+      "5": null,
+      "6": null
+    },
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Herbarium",
+        "seite": 142
+      }
+    ],
+    "_source_file": "her_Gerebelter_Thonnys.txt",
+    "_category": "Rezept",
+    "_subcategory": "her_Alternative_Wirkungen_durch_Haltbarmachung"
+  },
+  {
+    "name": "Getrocknete Libellengrasfrucht",
+    "typische_ingredienzien": null,
+    "kosten_ingredienzien": null,
+    "labor": null,
+    "brauschwierigkeit": null,
+    "voraussetzungen_brauvorgang": null,
+    "zusaetzliche_voraussetzungen": null,
+    "qualitaetsstufen": {},
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Herbarium",
+        "seite": 141
+      }
+    ],
+    "_source_file": "her_Getrocknete_Libellengrasfrucht.txt",
+    "_category": "Rezept",
+    "_subcategory": "her_Alternative_Wirkungen_durch_Haltbarmachung"
+  },
+  {
+    "name": "Gulmondtee",
+    "typische_ingredienzien": "getrocknete Gulmondblätter",
+    "kosten_ingredienzien": null,
+    "labor": null,
+    "brauschwierigkeit": null,
+    "voraussetzungen_brauvorgang": null,
+    "zusaetzliche_voraussetzungen": null,
+    "qualitaetsstufen": {
+      "1": "1 Anwendung lässt den Konsumenten 24 Stunden lang die Abzüge von 2 Stufen Betäubung ignorieren. Bei Stufe IV wird der Konsument dennoch handlungsunfähig.",
+      "2": "Ein Tee aus 2 Anwendungen Gulmond (Doppelter Gulmond) lässt den Konsumenten 24 Stunden lang die Abzüge von 3 Stufen Betäubung ignorieren. Bei Stufe IV wird der Konsument dennoch handlungsunfähig.",
+      "3": "Eine zweite Anwendung Doppelter Gulmond innerhalb von 2 Tagen beendet die Wirkung aller Gulmond-Anwendungen, egal in welcher Form, und unterbindet die weitere Wirkung der Pflanze für 3 Tage. Außerdem erhält der Anwender 4 Stufen Betäubung für 3 Tage."
+    },
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Herbarium II",
+        "seite": 97
+      }
+    ],
+    "_source_file": "Herb_Gulmondtee.txt",
+    "_category": "Rezept",
+    "_subcategory": "her_Alternative_Wirkungen_durch_Haltbarmachung"
+  },
+  {
+    "name": "Ilmenblatt-Essenz",
+    "typische_ingredienzien": "Ilmenblatt in Alkohol einlegen und filtrieren",
+    "kosten_ingredienzien": null,
+    "labor": null,
+    "brauschwierigkeit": null,
+    "voraussetzungen_brauvorgang": null,
+    "zusaetzliche_voraussetzungen": null,
+    "qualitaetsstufen": {
+      "1": "Die Wirkungsdauer des Rauschmittels steigt um 10 %. Es verursacht zusätzlich 1 Stufe Berauscht.",
+      "2": "Die Wirkungsdauer des Rauschmittels steigt um 20 %. Es verursacht zusätzlich 2 Stufen Berauscht.",
+      "3": "Die Wirkungsdauer des Rauschmittels steigt um 30 %. Es verursacht zusätzlich 3 Stufen Berauscht."
+    },
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Archiv der Kräuter",
+        "seite": 288
+      },
+      {
+        "buch": "Aventurisches Herbarium II",
+        "seite": 97
+      }
+    ],
+    "_source_file": "her_Alternative_Wirkungen_durch_Haltbarmachung_ilmenblatt-essenz.txt",
+    "_category": "Rezept",
+    "_subcategory": "her_Alternative_Wirkungen_durch_Haltbarmachung"
+  },
+  {
+    "name": "Kajubo in Öl",
+    "typische_ingredienzien": null,
+    "kosten_ingredienzien": null,
+    "labor": null,
+    "brauschwierigkeit": null,
+    "voraussetzungen_brauvorgang": null,
+    "zusaetzliche_voraussetzungen": null,
+    "qualitaetsstufen": {},
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Herbarium",
+        "seite": 142
+      }
+    ],
+    "_source_file": "her_Kajubo_in_oel.txt",
+    "_category": "Rezept",
+    "_subcategory": "her_Alternative_Wirkungen_durch_Haltbarmachung"
+  },
+  {
+    "name": "Malomis-Wasser",
+    "typische_ingredienzien": null,
+    "kosten_ingredienzien": null,
+    "labor": null,
+    "brauschwierigkeit": null,
+    "voraussetzungen_brauvorgang": null,
+    "zusaetzliche_voraussetzungen": null,
+    "qualitaetsstufen": {},
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Herbarium",
+        "seite": 142
+      }
+    ],
+    "_source_file": "her_Malomis_Wasser.txt",
+    "_category": "Rezept",
+    "_subcategory": "her_Alternative_Wirkungen_durch_Haltbarmachung"
+  },
+  {
+    "name": "Olginsud",
+    "typische_ingredienzien": null,
+    "kosten_ingredienzien": null,
+    "labor": null,
+    "brauschwierigkeit": null,
+    "voraussetzungen_brauvorgang": "sanft in Alkohol abkochen, Gebräu sieben und mit Wasser vermischen",
+    "zusaetzliche_voraussetzungen": null,
+    "qualitaetsstufen": {
+      "1": "schützt den Anwender 1 Woche lang vor allen natürlichen Giften und Krankheiten. Nur gegen das Gift der Noralec-Otter wirkt Olginsud nicht.",
+      "2": null,
+      "3": null,
+      "4": null,
+      "5": null,
+      "6": null
+    },
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Herbarium",
+        "seite": 142
+      }
+    ],
+    "_source_file": "her_Olginsud.txt",
+    "_category": "Rezept",
+    "_subcategory": "her_Alternative_Wirkungen_durch_Haltbarmachung"
+  },
+  {
+    "name": "Pfeilblütenpunsch",
+    "typische_ingredienzien": "Blüten mit heißem Wasser aufgießen und Alkohol hinzufügen",
+    "kosten_ingredienzien": null,
+    "labor": null,
+    "brauschwierigkeit": null,
+    "voraussetzungen_brauvorgang": null,
+    "zusaetzliche_voraussetzungen": null,
+    "qualitaetsstufen": {},
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Herbarium",
+        "seite": 142
+      }
+    ],
+    "_source_file": "her_Pfeilbluetenpunsch.txt",
+    "_category": "Rezept",
+    "_subcategory": "her_Alternative_Wirkungen_durch_Haltbarmachung"
+  },
+  {
+    "name": "Pfeilblütentee",
+    "typische_ingredienzien": null,
+    "kosten_ingredienzien": null,
+    "labor": null,
+    "brauschwierigkeit": null,
+    "voraussetzungen_brauvorgang": null,
+    "zusaetzliche_voraussetzungen": null,
+    "qualitaetsstufen": {
+      "1": "Haltbarkeit: 6 Monate",
+      "2": "Alternative Wirkung: Der Anwender erhält jede volle Stunde 1W3+2 LeP zurück. Die heilsame Wirkung hält 3 Stunden lang an."
+    },
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Herbarium",
+        "seite": 142
+      }
+    ],
+    "_source_file": "her_Pfeilbluetentee.txt",
+    "_category": "Rezept",
+    "_subcategory": "her_Alternative_Wirkungen_durch_Haltbarmachung"
+  },
+  {
+    "name": "Schwefliger Orazal",
+    "typische_ingredienzien": null,
+    "kosten_ingredienzien": null,
+    "labor": null,
+    "brauschwierigkeit": null,
+    "voraussetzungen_brauvorgang": "Lösung mit Schwefel und Weinstein versetzen, für Wirkung mindestens 1 Tag ziehen lassen",
+    "zusaetzliche_voraussetzungen": null,
+    "qualitaetsstufen": {},
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Herbarium",
+        "seite": 142
+      }
+    ],
+    "_source_file": "her_Schwefliger_Orazal.txt",
+    "_category": "Rezept",
+    "_subcategory": "her_Alternative_Wirkungen_durch_Haltbarmachung"
+  },
+  {
+    "name": "Würgertee",
+    "typische_ingredienzien": null,
+    "kosten_ingredienzien": null,
+    "labor": null,
+    "brauschwierigkeit": null,
+    "voraussetzungen_brauvorgang": "trocknen, zerkleinern, nach Belieben mit wohlschmeckenden Kräutern vermischen",
+    "zusaetzliche_voraussetzungen": null,
+    "qualitaetsstufen": {
+      "1": "Ein Tee aus dem Ulmenwürger verbessert die nächste Regenerationsphase durch einen Bonus von +2 LeP und senkt die Wahrscheinlichkeit, sich in den nächsten 7 Tagen mit Wundfieber zu infizieren, um 20 %.",
+      "2": null,
+      "3": null,
+      "4": null,
+      "5": null,
+      "6": null
+    },
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Herbarium",
+        "seite": 142
+      }
+    ],
+    "_source_file": "her_Wuergertee.txt",
+    "_category": "Rezept",
+    "_subcategory": "her_Alternative_Wirkungen_durch_Haltbarmachung"
+  },
+  {
+    "name": "Xordai",
+    "typische_ingredienzien": "4 Anwendungen Rinde des Axorda-Baumes zu einem intensiven Sud abkochen, optional Tarnele hinzufügen",
+    "kosten_ingredienzien": null,
+    "labor": null,
+    "brauschwierigkeit": null,
+    "voraussetzungen_brauvorgang": null,
+    "zusaetzliche_voraussetzungen": null,
+    "qualitaetsstufen": {},
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Herbarium II",
+        "seite": 98
+      }
+    ],
+    "_source_file": "Herb_II_Xordai.txt",
+    "_category": "Rezept",
+    "_subcategory": "her_Alternative_Wirkungen_durch_Haltbarmachung"
+  },
+  {
+    "name": null,
+    "typische_ingredienzien": "tierischen und mineralischen Ingredienzien",
+    "kosten_ingredienzien": null,
+    "labor": null,
+    "brauschwierigkeit": null,
+    "voraussetzungen_brauvorgang": "*Es ist auch hier theoretisch möglich, sogar einen AsP-spendenden Zaubertrank zu brauen, der selbst nicht magisch ist, z. B. indem er stattdessen den Körper dazu anregt, AsP aus der Umgebung aufzunehmen oder ähnliches.*",
+    "zusaetzliche_voraussetzungen": null,
+    "qualitaetsstufen": {
+      "1": "Elixier hat eine schwache Wirkung.",
+      "2": "Elixier hat eine mittlere Wirkung.",
+      "3": "Elixier hat eine starke Wirkung.",
+      "4": "Elixier hat eine sehr starke Wirkung.",
+      "5": "Elixier hat eine extrem starke Wirkung.",
+      "6": "Elixier hat eine überirdische Wirkung."
+    },
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Herbarium",
+        "seite": 83
+      }
+    ],
+    "_source_file": "her_a_elixiere.txt",
+    "_category": "Rezept",
+    "_subcategory": "her_a_rezepte"
+  },
+  {
+    "name": null,
+    "typische_ingredienzien": null,
+    "kosten_ingredienzien": null,
+    "labor": null,
+    "brauschwierigkeit": null,
+    "voraussetzungen_brauvorgang": "Herstellung funktioniert wie bei Elixieren",
+    "zusaetzliche_voraussetzungen": "Anwendung folgt den Regeln für Rauschmittel (siehe Abschnitt Sucht ab Seite 155). Bei einigen Rezepten für alchimistische Rauschmittel können, ebenso wie bei Elixieren, Ingredienzien gemäß der alchimistischen Äquivalenzlehre efrsetzt werden. Der Raum für Experimente ist hier jedoch geringer, da eine Hauptingredienz in ihrer bereits bestehenden Rauschwirkung bei manchen Rezepten nur verstärkt wird, also beim Brauprozess nicht im strengen Sinne eine völlig neue Substanz entsteht.",
+    "qualitaetsstufen": null,
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Herbarium",
+        "seite": 83
+      }
+    ],
+    "_source_file": "her_a_rauschmittel.txt",
+    "_category": "Rezept",
+    "_subcategory": "her_a_rezepte"
+  },
+  {
+    "name": null,
+    "typische_ingredienzien": null,
+    "kosten_ingredienzien": null,
+    "labor": null,
+    "brauschwierigkeit": null,
+    "voraussetzungen_brauvorgang": "Eine bestimmte Hauptpflanze als Zutat, Probe auf Pflanzenkunde wird um die Stufe der Verarbeitungsschwierigkeit erschwert.",
+    "zusaetzliche_voraussetzungen": null,
+    "qualitaetsstufen": {
+      "1": "Eine Anwendung oder ein Exemplar des Hilfsmittels",
+      "2": null,
+      "3": null,
+      "4": null,
+      "5": null,
+      "6": null
+    },
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Herbarium",
+        "seite": 76
+      }
+    ],
+    "_source_file": "her_Pflanzliche_Hilfsmittel.txt",
+    "_category": "Rezept",
+    "_subcategory": "her_p_rezepte"
+  },
+  {
+    "name": null,
+    "typische_ingredienzien": null,
+    "kosten_ingredienzien": null,
+    "labor": null,
+    "brauschwierigkeit": null,
+    "voraussetzungen_brauvorgang": "Regeln des Vorgangs gleichen der Herstellung eines pflanzlichen Hilfsmittels mit einer Verarbeitungsschwierigkeit als Erschwernis in Höhe der halben Giftstufe.",
+    "zusaetzliche_voraussetzungen": null,
+    "qualitaetsstufen": {
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null,
+      "5": null,
+      "6": null
+    },
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Herbarium",
+        "seite": 76
+      }
+    ],
+    "_source_file": "her_pflanzliche_rauschmittel.txt",
+    "_category": "Rezept",
+    "_subcategory": "her_p_rezepte"
+  }
+]

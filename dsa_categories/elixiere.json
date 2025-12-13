@@ -1,0 +1,903 @@
+[
+  {
+    "name": "Alchimistensäure",
+    "beschreibung": "Alchimistensäure besteht aus einer Mischung verschiedener Säuren und kann sowohl Objekte als auch Lebewesen schädigen. Gegen Lebewesen gelten die Regeln für Feuer- und Säureschaden (siehe Regelwerk). Die Säure richtet 1W3 Punkte Strukturschaden/SP pro KR an. Ist sie in ein dafür vorgesehenes Gefäß gefüllt und soll auf jemanden geworfen werden, ist dazu eine Probe auf Wurfwaffen notwendig (Reichweite 2/4/8). Dem Gefäß kann man ausweichen oder es mit einer Schild-PA abwehren. Bei einem Schild richtet die Säure Strukturschaden an. Die Säure ist extrem schwer zu löschen: Proben auf Körperbeherrschung sind um 2 erschwert.",
+    "typische_ingredienzien": "Orazal, Quallen, Seifenreste, Schweiß einer Kröte, Splitter einer scharlatanischen Zauberkugel, verschiedene, mindere Säuren",
+    "kosten_der_ingredienzienstufe": "50 Silbertaler pro Stufe",
+    "labor": "alchimistisches Labor",
+    "brauschwierigkeit": -1,
+    "ap_wert": 3,
+    "qualitaetsstufen": {
+      "1": "Die Säure wirkt 1W3 KR.",
+      "2": "Die Säure wirkt 1W6 KR.",
+      "3": "Die Säure wirkt 1W6+2 KR.",
+      "4": "Die Säure wirkt 1W6+4 KR.",
+      "5": "Die Säure wirkt 1W6+6 KR.",
+      "6": "Die Säure wirkt 1W6+8 KR."
+    },
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 219
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 384
+      }
+    ],
+    "_source_file": "grgrtg.txt",
+    "_category": "Elixier"
+  },
+  {
+    "name": "Angstgift",
+    "beschreibung": null,
+    "typische_ingredienzien": "Alraune, Bärenfett, Haifischzähne, Hasenohren, Höllenkraut, Speichel eines Berserkers, Staub aus einer Gruft, Vitriol",
+    "kosten_der_ingredienzienstufe": "60 Silbertaler pro Stufe",
+    "labor": "Hexenküche",
+    "brauschwierigkeit": -2,
+    "ap_wert": 4,
+    "qualitaetsstufen": {
+      "1": "Die Giftstufe entspricht der QS."
+    },
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 220
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 384
+      }
+    ],
+    "_source_file": "grtgrtgrtgt.txt",
+    "_category": "Elixier"
+  },
+  {
+    "name": "Antidot",
+    "beschreibung": null,
+    "typische_ingredienzien": "Alicorn, Belmartblätter, geharzter Wein, Giftzahn einer Sandviper, Menchalsaft, Schwarzer Lotus, Storchen- oder Ibiseier, Tulmadron, Turmalin, Zinnober",
+    "kosten_ingredienzienstufen": "40 Silbertaler pro Stufe",
+    "labor": "Hexenküche",
+    "brauschwierigkeit": -1,
+    "qualitaetsstufen": {
+      "1": "Hebt Gifte bis zu einer Stufe von 1 auf.",
+      "2": "Hebt Gifte bis zu einer Stufe von 2 auf.",
+      "3": "Hebt Gifte bis zu einer Stufe von 3 auf.",
+      "4": "Hebt Gifte bis zu einer Stufe von 4 auf.",
+      "5": "Hebt Gifte bis zu einer Stufe von 5 auf.",
+      "6": "Hebt Gifte bis zu einer Stufe von 6 auf."
+    },
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 272
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 384
+      }
+    ],
+    "_source_file": "Antidot.txt",
+    "_category": "Elixier"
+  },
+  {
+    "name": "Bannstaub",
+    "beschreibung": "Das Pulver verursacht seine Wirkung bei Hautkontakt und muss auf ein Ziel geworfen werden, dazu ist eine Probe auf die Kampftechnik Wurfwaffen notwendig, die wie üblich modifiziert wird (Reichweite: 3/4/5, wenn als Pulver in der Hand; 5/10/15, wenn als Beutelchen). Um geworfenen Staub auszuweichen, muss dem Beworfenen eine Probe auf Ausweichen gelingen. Auch hier gelten die üblichen Modifikatoren für Ausweichen im Fernkampf. Es spielt dabei keine Rolle, ob sich der Bannstaub in der Hand des Werfenden befindet oder in einem sich beim Aufprall öffnenden Säckchen. Die Wirkung von Bannstaub setzt augenblicklich ein. Bannstaub kann außerdem in Flüssigkeit gelöst als Einnahmegift verabreicht werden, schmeckt aber recht bitter, was das Unterfangen nicht einfach macht. Wenn der Bannstaub bei seiner Wirkung die Regeneration von AsP verhindert, dann ist damit der Zurückgewinn während der Regenerationsphase gemeint. Die AsP, die z. B. ein Zaubertrank zurückgibt, kann das Opfer von Bannstaub durchaus aufnehmen und nutzen.",
+    "typische_ingredienzien": "Bernstein, Koschbasalt, Nitrol, die Eierschale eines am 1. Praios geschlüpften Hahns, Greifenfedern, Eisenpulver, durch Sonnenhitze destilliertes Regenwasser, reines Salz, Brabaker Vitriol, Gold, Harn vom Sonnenluchs, frische Blütenblätter der Praiosblume (Sonnenblume)",
+    "kosten_ingredienzienstufen": "400 Silbertaler pro Stufe",
+    "labor": "Archaisches Labor",
+    "brauschwierigkeit": -4,
+    "qualitaetsstufen": {
+      "1": "Das Opfer des Bannstaubs verliert sofort 1W6+2 AsP.",
+      "2": "Das Opfer des Bannstaubs verliert sofort 2W6+4 AsP und kann 1 Tag lang keine AsP regenerieren.",
+      "3": "Das Opfer des Bannstaubs verliert sofort 3W6+6 AsP und kann 1W2+1 Tage lang keine AsP regenerieren.",
+      "4": "Das Opfer des Bannstaubs verliert sofort 4W6+8 AsP und kann 1W3+2 Tage lang keine AsP regenerieren.",
+      "5": "Das Opfer des Bannstaubs verliert sofort 5W6+10 AsP und kann 1W3+3 Tage lang keine AsP regenerieren.",
+      "6": "Das Opfer des Bannstaubs verliert sofort 6W6+12 AsP und kann 2W3+3 Tage lang keine AsP regenerieren."
+    },
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurischer Almanach",
+        "seite": 131
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 385
+      }
+    ],
+    "_source_file": "Bannstaub.txt",
+    "_category": "Elixier"
+  },
+  {
+    "name": "Berserkerelixier",
+    "beschreibung": "Das Berserkerelixier verwandelt Kämpfer in rasende Bestien. Sie greifen in ihrem Blutrausch allerdings nie denjenigen an, der ihnen das Elixier zu Trinken gegeben hat.",
+    "typische_ingredienzien": "Blut von einem durch das Beil gerichteten wahnsinnigen Mörder, echtes Premer Feuer, Feuerkraut, Feueropal, Schleimiger Sumpfknöterich",
+    "kosten_der_ingredienzienstufe": "70 Silbertaler pro Stufe",
+    "labor": "archaisches Labor",
+    "brauschwierigkeit": -2,
+    "qualitaetsstufen": {
+      "1": "Anwender ist für 5 KR im Kampf leicht aggressiv (+1 AT, –2 VW). Nach dem Ablauf der Wirkung erhält der Anwender 1 Stufe Betäubung.",
+      "2": "Anwender ist für 5 KR im Kampf sehr aggressiv (+2 AT, –4 VW).",
+      "3": "Anwender erhält Status Blutrausch für 5 KR.",
+      "4": "Anwender erhält Status Blutrausch für 10 KR.",
+      "5": "Anwender erhält Status Blutrausch für 20 KR.",
+      "6": "Anwender erhält Status Blutrausch für 40 KR."
+    },
+    "ap_wert": 2,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 220
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 385
+      }
+    ],
+    "_source_file": "rerfreg.txt",
+    "_category": "Elixier"
+  },
+  {
+    "name": "Eulentränen",
+    "beschreibung": "Eulentränen sind ein flüssiger alchimistischer Stoff, der in die Augen geträufelt werden muss. Durch die Erweiterung der Pupillen ist es möglich, im Dunkeln deutlich besser zu sehen. Bei jeder Anwendung der Eulentränen erleidet der Benutzer 1 SP.",
+    "typische_ingredienzien": "Alraunenpulver, Auge eines Nachtwinds, Carlog, Mondsteinstaub, Praiosblumenkerne, Tollkirschensaft, Tränen einer Eule, Wasser",
+    "kosten_ingredienzienstufen": "10 Silbertaler pro Stufe",
+    "labor": "archaisches Labor",
+    "brauschwierigkeit": 0,
+    "qualitaetsstufen": {
+      "1": "Der Anwender bekommt den Vorteil Dunkelsicht I für 5 Minuten.",
+      "2": "Der Anwender bekommt den Vorteil Dunkelsicht I für 10 Minuten.",
+      "3": "Der Anwender bekommt den Vorteil Dunkelsicht I für 15 Minuten.",
+      "4": "Der Anwender bekommt den Vorteil Dunkelsicht II für 30 Minuten.",
+      "5": "Der Anwender bekommt den Vorteil Dunkelsicht II für 1 Stunde.",
+      "6": "Der Anwender bekommt den Vorteil Dunkelsicht II für 2 Stunden."
+    },
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Katakomben & Ruinen",
+        "seite": 24
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 385
+      }
+    ],
+    "_source_file": "Eulentränen.txt",
+    "_category": "Elixier"
+  },
+  {
+    "name": "Feuerpulver",
+    "beschreibung": "Die Rezeptur von Feuerpulver ist ein eifersüchtig gehütetes Geheimnis weniger Scharlatane und Alchimistinnen aus Mengbilla und von den Zyklopeninseln. Wenn man es verbrennt, entstehen völlig profan aufregende Lichtspiele.",
+    "typische_ingredienzien": "Feuermoos und Efferdsmoos, getrocknete Feuersalamander, gemahlene Steine aus Drachenmägen, Phosphorpilze, Pyrit, Rubinstaub, Synärethikon, allerhand experimentelle Mittel, die das Pulver trocken und Mindergeister fernhalten sollen",
+    "kosten_ingredienzienstufen": "150 Silbertaler pro Stufe",
+    "labor": "Alchimistisches Labor",
+    "brauschwierigkeit": -5,
+    "qualitaetsstufen": {
+      "1": "Verzückende Lichtspiele erleuchten eine Zone von 1 Rechtsschritt. Wer sich in der Zone aufhält, erhält bei 1-2 auf 1W20 den Status Brennend auf kleiner Fläche.",
+      "2": "Verzückende Lichtspiele erleuchten eine Zone von 2 Rechtsschritt. Wer sich in der Zone aufhält, erhält bei 1-2 auf W20 1W20 TP durch sich spontan ausdehnende bunte Funken sowie den Status Brennend auf kleiner Fläche.",
+      "3": "Verzückende Lichtspiele erleuchten eine Zone von 3 Rechtsschritt. Wer sich in der Zone aufhält, erhält bei 1-2 auf 1W20 2W20 TP durch sich spontan ausdehnende bunte Funken sowie den Status Brennend auf großer Fläche.",
+      "4": "Verzückende Lichtspiele erleuchten eine Zone von 4 Rechtsschritt. Wer sich in der Zone aufhält, erhält bei 1-2 auf 1W20 3W20 TP durch sich spontan ausdehnende bunte Funken sowie den Status Brennend auf großer Fläche.",
+      "5": "Verzückende Lichtspiele erleuchten eine Zone von 6 Rechtsschritt. Wer sich in der Zone aufhält, erhält bei 1-2 auf 1W20 4W20 TP durch sich spontan ausdehnende bunte Funken sowie den Status Brennend, den ganzen Körper betreffend.",
+      "6": "Verzückende Lichtspiele erleuchten eine Zone von 8 Rechtsschritt. Wer sich in der Zone aufhält, erhält bei 1-2 auf 1W20 5W20 TP durch sich spontan ausdehnende bunte Funken sowie den Status Brennend, den ganzen Körper betreffend."
+    },
+    "ap_wert": 8,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Herbarium II",
+        "seite": 89
+      }
+    ],
+    "_source_file": "Herb_Feuerpulver.txt",
+    "_category": "Elixier"
+  },
+  {
+    "name": "Friedenswasser",
+    "alternativer_name": "Tsa-Tränen",
+    "beschreibung": "Bei seelenkundigen Noioniten, Marbiden und Tsageweihten wird das Geheimnis um die Herstellung des Friedenswassers gehütet, welches manchen als heiliges Elixier der Tsa oder gar einer Nachbildung ihrer leibhaftigen Tränen gilt.",
+    "typische_ingredienzien": "reiner Alkohol, Ilmenblatt, Grün vom Lebensbaum, durch einen Regenbogen gefallene Regentropfen, Tigermohn",
+    "kosten_der_ingredienzienstufe": "40 Silbertaler pro Stufe",
+    "labor": "Hexenküche",
+    "brauschwierigkeit": -3,
+    "ap_wert": 4,
+    "qualitaetsstufen": {
+      "1": "Verminderung von Angst, Aggression und Wahnvorstellungen für 1W6 Stunden (entsprechende Nachteile Angst vor … und der Zustand Furcht werden für die Dauer ignoriert und 1 Stufe Furcht wird abgebaut).",
+      "2": "Verminderung von Angst, Aggression und Wahnvorstellungen für 1W6+2 Stunden (entsprechende Nachteile Angst vor … und der Zustand Furcht werden für die Dauer ignoriert und 2 Stufen Furcht werden abgebaut).",
+      "3": "Verminderung von Angst, Aggression und Wahnvorstellungen für 1W6+4 Stunden (entsprechende Nachteile Angst vor … und der Zustand Furcht werden für die Dauer ignoriert und 3 Stufen Furcht werden abgebaut).",
+      "4": "Desgleichen. Der Anwender wird außerdem für 15 Minuten zum vollendeten Pazifisten. Er versucht alle kulturschaffenden Lebewesen, die er wahrnehmen kann, von der Sinnlosigkeit von Gewalt und Zwietracht zu überzeugen",
+      "5": "Desgleichen. Der Anwender wird außerdem für 30 Minuten zum vollendeten Pazifisten. Er versucht alle intelligenten Lebewesen (ja, selbst Dämonen), die er wahrnehmen kann, von der Sinnlosigkeit von Gewalt und Zwietracht zu überzeugen.",
+      "6": "Desgleichen. Außerdem versucht der Anwender, alle Waffen an sich zu bringen, die er wahrnimmt, und sie zu zerstören. Bei Widerstand bleibt er entschlossen und verwendet sämtliche friedlichen Mittel, die ihm zur Verfügung stehen, um sein Ziel zu erreichen."
+    },
+    "publikationen": [
+      {
+        "buch": "Archiv der Kräuter",
+        "seite": 162
+      },
+      {
+        "buch": "Aventurisches Herbarium II",
+        "seite": 90
+      }
+    ],
+    "_source_file": "Elixier_friedenswasser.txt",
+    "_category": "Elixier"
+  },
+  {
+    "name": "Furchtlos-Tropfen",
+    "beschreibung": null,
+    "typische_ingredienzien": "Blutachat, Dergolasch, Fell vom Vielfraß, Holzkohle, Ilmenblatt-Harz, Quellwasser, Salzwasser, Schwefel",
+    "kosten_der_ingredienzienstufe": "45 Silbertaler pro Stufe",
+    "labor": "archaisches Labor",
+    "brauschwierigkeit": -1,
+    "qualitaetsstufen": {
+      "1": "Verminderung von Angst, Aggression und Wahnvorstellungen für 1W3+3 Stunden (entsprechende Nachteile Angst vor … und der Zustand Furcht werden für die Dauer ignoriert und 1 Stufe Furcht wird abgebaut).",
+      "2": "Verminderung von Angst, Aggression und Wahnvorstellungen für 1W3+4 Stunden (entsprechende Nachteile Angst vor … und der Zustand Furcht werden für die Dauer ignoriert und 1 Stufe Furcht wird abgebaut).",
+      "3": "Verminderung von Angst, Aggression und Wahnvorstellungen für 1W3+5 Stunden (entsprechende Nachteile Angst vor … und der Zustand Furcht werden für die Dauer ignoriert und 1 Stufe Furcht wird abgebaut).",
+      "4": "Verminderung von Angst, Aggression und Wahnvorstellungen für 1W3+5 Stunden (entsprechende Nachteile Angst vor … und der Zustand Furcht werden für die Dauer ignoriert und 2 Stufen Furcht werden abgebaut).",
+      "5": "Verminderung von Angst, Aggression und Wahnvorstellungen für 1W3+6 Stunden (entsprechende Nachteile Angst vor … und der Zustand Furcht werden für die Dauer ignoriert und 3 Stufen Furcht werden abgebaut).",
+      "6": "Verminderung von Angst, Aggression und Wahnvorstellungen für 1W3+8 Stunden (entsprechende Nachteile Angst vor … und der Zustand Furcht werden für die Dauer ignoriert und 4 Stufen Furcht werden abgebaut)."
+    },
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Herbarium II",
+        "seite": 90
+      }
+    ],
+    "_source_file": "Herb_Furchtlos-Tropfen.txt",
+    "_category": "Elixier"
+  },
+  {
+    "name": "Hauch der Weissagung",
+    "beschreibung": null,
+    "typische_ingredienzien": "Cheria-Kaktus, Gewölle einer Eule, Ilmenblatt-Harz, Myridaniumkristall, Rosenquarz, 7 Tränen eines Weisen, Unauer Salzlake, Zithabar",
+    "kosten_der_ingredienzienstufe": "50 Silbertaler pro Stufe",
+    "labor": "Hexenküche",
+    "brauschwierigkeit": -3,
+    "ap_wert": 3,
+    "qualitaetsstufen": {
+      "1": "Proben auf Sinnesschärfe sind für 1 Stunde um +1 erleichtert. Dafür sinkt die KL um –1.",
+      "2": "Proben auf Sinnesschärfe sind für 1 Stunde um +2 erleichtert. Dafür sinkt die KL um –2.",
+      "3": "Proben auf Sinnesschärfe sind für 1 Stunde um +2 erleichtert. Dafür sinkt die KL um –1.",
+      "4": "Desgleichen, außerdem erlebt die Anwenderin synästhetische Eindrücke und Proben auf Menschenkenntnis sind um +1 erleichtert.",
+      "5": "Desgleichen, aber Menschenkenntnis ist um +2 erleichtert.",
+      "6": "Desgleichen, außerdem kann sie einem anderen Abenteurer Karten legen, aus dem Teesatz lesen oder auf andere Weise die Zukunft deuten. Dies ist nur einmal bei einem Helden während eines Abenteuers erlaubt und kostet 1 Schip. Weitere Anwendungen von Prophezeiung innerhalb dieser Frist haben keine Auswirkungen. Davon ausgenommen sind Helden mit der Sonderfertigkeit Prophezeien. Der Held, an den die Prophezeiung gerichtet ist, bezahlt nach dem nächsten Einsatz von Neu Würfeln, Schadenswurf wiederholen oder Verteidigung keinen Schip. Die Wirkung der Prophezeiung hält bis zum Ende des aktuellen Abenteuers an."
+    },
+    "publikationen": [
+      {
+        "buch": "Archiv der Kräuter",
+        "seite": 164
+      }
+    ],
+    "_source_file": "Elixier_hauch-der-weissagung.txt",
+    "_category": "Elixier"
+  },
+  {
+    "name": "Heiltrank",
+    "beschreibung": "Der Heiltrank kann wie der BALSAM SALABUNDE oder der HEILSEGEN jemanden von der Schwelle des Todes retten.",
+    "typische_ingredienzien": "Achat, Eidechsenschwänze, Goldstaub, Hämatit, Heilkräuter wie Einbeeren oder Wirselkraut, Malachit, Morgentau, Storchen- oder Ibiseier",
+    "kosten_der_ingredienzienstufen": "40 Silbertaler pro Stufe",
+    "labor": "archaisches Labor",
+    "brauschwierigkeit": 0,
+    "qualitaetsstufen": {
+      "1": "Heilt bei Einnahme 1W3 LeP.",
+      "2": "Heilt bei Einnahme 1W6 LeP.",
+      "3": "Heilt bei Einnahme 1W6+2 LeP.",
+      "4": "Heilt bei Einnahme 1W6+4 LeP.",
+      "5": "Heilt bei Einnahme 1W6+6 LeP.",
+      "6": "Heilt bei Einnahme 1W6+8 LeP."
+    },
+    "ap_wert": 40,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 272
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 385
+      }
+    ],
+    "_source_file": "Heiltrank.txt",
+    "_category": "Elixier"
+  },
+  {
+    "name": "Hylailer Feuer",
+    "beschreibung": "Gegen Lebewesen gelten die Regeln für Feuer- und Säureschaden. Das Feuer richtet 1W3 Punkte Strukturschaden/SP pro KR an (durch Brennend auf kleiner Fläche). Alle 5 KR wird die Fläche, die betroffen ist, um eine Stufe größer.",
+    "typische_ingredienzien": "Erdpech, Holzkohle, Orazal, reinster Schwefel, Steinöl, Walrat",
+    "kosten_der_ingredienzienstufen": "150 Silbertaler",
+    "labor": "alchimistisches Labor",
+    "brauschwierigkeit": -4,
+    "qualitaetsstufen": {
+      "1": "Zündet bei 1-2 auf W6, brennt 1W6 KR lang",
+      "2": "Zündet bei 1-3 auf W6, brennt 1W6+2 KR lang",
+      "3": "Zündet bei 1-3 auf W6, brennt 2W6+4 KR lang",
+      "4": "Zündet bei 1-4 auf W6, brennt 2W6+6 KR lang",
+      "5": "Zündet bei 1-4 auf W6, brennt 3W6+8 KR lang",
+      "6": "Zündet bei 1-5 auf W6, brennt 3W6+10 KR lang"
+    },
+    "ap_wert": 10,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer II",
+        "seite": 69
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 386
+      }
+    ],
+    "_source_file": "hylailer-feuer.txt",
+    "_category": "Elixier"
+  },
+  {
+    "name": "Kaltes Licht",
+    "beschreibung": "Phosphoros, meist auch einfach nur Kaltes Licht genannt, ist ein Standard-Alchimicum, das fast jeder Alchimist brauen kann. Das Kalte Licht wird in Flüssigkeit aufbewahrt. Sobald man es herausnimmt, beginnt es zu leuchten und die Masse wird handwarm. Bei einer Berührung mit Haut oder Kleidung von 1 KR mit dem brennenden Phosphoros gilt das betroffene Kleidungsstück oder der Held selbst als auf kleiner Fläche Brennend.",
+    "typische_ingredienzien": "Bienenwachs, Eigelb, fauler Urin, Knochenasche, Phosphorpilze, Schneelaurerfett",
+    "kosten_der_ingredienzienstufen": "15 Silbertaler pro Stufe",
+    "labor": "archaisches Labor",
+    "brauschwierigkeit": -1,
+    "qualitaetsstufen": {
+      "1": "Das Kalte Licht besitzt den Lichtradius einer Kerze für 0,5 Stunden.",
+      "2": "Das Kalte Licht besitzt den Lichtradius einer Kerze für 1 Stunde.",
+      "3": "Das Kalte Licht besitzt den Lichtradius einer Kerze für 1,5 Stunden.",
+      "4": "Das Kalte Licht besitzt den Lichtradius einer Fackel für 2 Stunden.",
+      "5": "Das Kalte Licht besitzt den Lichtradius einer Fackel für 2,5 Stunden.",
+      "6": "Das Kalte Licht besitzt den Lichtradius einer Fackel für 3 Stunden."
+    },
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Katakomben & Ruinen",
+        "seite": 24
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 386
+      }
+    ],
+    "_source_file": "KaltesLicht.txt",
+    "_category": "Elixier"
+  },
+  {
+    "name": "Leuchtkreide",
+    "beschreibung": "Die Leuchtkreide dient verschiedenen Zwecken. In dunklen Gewölben dient sie als leuchtende und leicht zu erkennende Orientierungshilfe. Leuchtkreide kann man in vollständiger Dunkelheit bis zu 20 Schritt weit sehen. Die Kreide kann aber nicht als Lichtquelle mit einem Leuchtradius dienen.",
+    "typische_ingredienzien": "abgebrannter Kerzendocht, Kreide, Überreste einer elfischen Leuchtblume, Zikade",
+    "kosten_ingredienzienstufen": "12 Silbertaler pro Stufe",
+    "labor": "Hexenküche",
+    "brauschwierigkeit": -1,
+    "qualitaetsstufen": {
+      "1": "Die Kreide hat eine Haltbarkeit von 1 Monat.",
+      "2": "Die Kreide hat eine Haltbarkeit von 2 Monaten.",
+      "3": "Die Kreide hat eine Haltbarkeit von 3 Monaten.",
+      "4": "Die Kreide hat eine Haltbarkeit von 4 Monaten.",
+      "5": "Die Kreide hat eine Haltbarkeit von 5 Monaten.",
+      "6": "Die Kreide hat eine Haltbarkeit von 6 Monaten."
+    },
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Katakomben & Ruinen",
+        "seite": 25
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 386
+      }
+    ],
+    "_source_file": "Leuchtkreide.txt",
+    "_category": "Elixier"
+  },
+  {
+    "name": "Liebestrunk",
+    "beschreibung": null,
+    "typische_ingredienzien": "Alraunen, Amethyst, Biberklötze, Erdbeeren, Granat, Hahnenkämme, Kekeyatonba, Ilmenblatt, Pollen des Schleichenden Todes, Premer Feuer, Rosenöl, Rosenquarz, Samthauch, Tabaschir, Walpenisknochen",
+    "kosten_ingredienzienstufen": "55 Silbertaler pro Stufe",
+    "labor": "Hexenküche",
+    "brauschwierigkeit": -1,
+    "qualitaetsstufen": {
+      "1": "Die Potenz oder Fruchtbarkeit des Einnehmenden wird gesteigert.",
+      "2": "Der Anwender fühlt sich zudem nach Einnahme der ersten Person freundschaftlich verbunden, die es erblickt.",
+      "3": "Der Anwender ist zudem für die nächste Stunde stark sexuell erregt.",
+      "4": "Der Anwender hegt zudem für die erste Person, die er erblickt, romantische Gefühl und sexuelle Gelüste.",
+      "5": "Der Anwender verliebt sich zudem für einen Tag in die erste Person, die er erblickt.",
+      "6": "Der Anwender verliebt sich zudem für eine Woche in die erste Person, die er erblickt."
+    },
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 273
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 386
+      }
+    ],
+    "_source_file": "Liebestrunk.txt",
+    "_category": "Elixier"
+  },
+  {
+    "name": "Neckergel",
+    "beschreibung": "Mit Neckergel können wichtige Notizen, wertvolle Artefakte und liebgewonnene Rüstung vor Feuer und Säure geschützt werden. Alchimisten sind in Hüttendörfern gerne gesehen, und oft legen selbst ärmste Bauern ihr Geld zusammen, um ihre Schreine und die Schlafstätten ihrer Kinder bei Unglücken schützen zu lassen. Leider hält das Gel Regen nur kurze Zeit stand.",
+    "typische_ingredienzien": "Aquamarin, Efferdsmoos, Meerschaum, Salbenfett, Schwimmblätter des Färberlotos, Tonerde",
+    "kosten_der_ingredienzienstufe": "30 Silbertaler pro Stufe",
+    "labor": "archaisches Labor",
+    "brauschwierigkeit": -1,
+    "qualitaetsstufen": {
+      "1": "Eine eingeriebene Fläche von 1 Rechtsschritt pro Anwendung ist für 5 KR vor dem Zustand Brennend geschützt und erleidet keinen Schaden durch Feuer oder Säure. Gleichzeitig perlt für 5 Minuten jede Flüssigkeit ab. Ausgenommen sind magisches Feuer und Drachenfeuer. Die Wirkungsdauer beginnt erst bei Kontakt mit Feuer oder Säure.",
+      "2": "Wie QS 1, aber für 10 KR.",
+      "3": "Wie QS 1, aber für 20 KR.",
+      "4": "Wie QS 1, aber für 1 Minute. Magisches Feuer ist nicht länger ausgenommen.",
+      "5": "Wie QS 4, aber für 2 Minuten.",
+      "6": "Wie QS 4, aber für 2 Minuten. Alternativ wird Drachenfeuer für 5 KR neutralisiert."
+    },
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Herbarium II",
+        "seite": 92
+      }
+    ],
+    "_source_file": "Herb_Neckergel.txt",
+    "_category": "Elixier"
+  },
+  {
+    "name": "Pastillen gegen Schmerzen",
+    "beschreibung": "Mittels dieser Pastillen können Schmerzen für kurze Zeit unterdrückt werden. Sie sind nicht nur bei reisenden Helden beliebt, sondern auch bei Patienten von Zahnreißern und bei kopfschmerzgeplagten Patriziern mit lockerer Geldkatze. Die Zustandsstufe verschwindet nach der Einnahme der Pastillen nicht, die Auswirkungen werden nur unterdrückt.",
+    "typische_ingredienzien": "Eiswasser, Gulmond, Kandiszucker, Knoblauch, Pferdeschweiß, Steineicheln",
+    "kosten_ingredienzienstufen": "10 Silbertaler pro Stufe",
+    "labor": "Archaisches Labor",
+    "brauschwierigkeit": 0,
+    "qualitaetsstufen": {
+      "1": "Die Auswirkungen einer Stufe Schmerz können für 15 Minuten unterdrückt werden.",
+      "2": "Die Auswirkungen einer Stufe Schmerz können für 30 Minuten unterdrückt werden.",
+      "3": "Die Auswirkungen von zwei Stufen Schmerz können für 15 Minuten unterdrückt werden, danach noch für weitere 15 Minuten die Auswirkungen von einer Stufe Schmerz.",
+      "4": "Die Auswirkungen von zwei Stufen Schmerz können für 30 Minuten unterdrückt werden.",
+      "5": "Die Auswirkungen von drei Stufen Schmerz können für 15 Minuten unterdrückt werden, danach noch für weitere 15 Minuten die Auswirkungen von zwei Stufen Schmerz.",
+      "6": "Die Auswirkungen von drei Stufen Schmerz können für 30 Minuten unterdrückt werden."
+    },
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurischer Almanach",
+        "seite": 132
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 387
+      }
+    ],
+    "_source_file": "Pastillen.txt",
+    "_category": "Elixier"
+  },
+  {
+    "name": "Pyrophor",
+    "beschreibung": "Pyrophor entzündet sich, sobald er in Luftkontakt gerät, weshalb er zur Aufbewahrung luftdicht verschlossen wird. [...] Er eignet sich auch, um Heu oder Stroh anzuzünden, für größere Holzstücke reicht seine Hitze aber nicht aus.",
+    "typische_ingredienzien": "Bleistaub, Alraunenpulver, Sporen von Bärlapp oder Orkland-Bovisten",
+    "kosten_der_ingredienzienstufen": "10 Silbertaler pro Stufe",
+    "labor": "archaisches Labor",
+    "brauschwierigkeit": 0,
+    "ap_wert": 10,
+    "qualitaetsstufen": {
+      "1": "Proben auf Gaukeleien können nach Meisterentscheid +1 FP (bis zu einem Maximum von 18 FP) erhalten, wenn Pyrophor eingesetzt wird.",
+      "2": "Proben auf Gaukeleien können nach Meisterentscheid +1 FP (bis zu einem Maximum von 18 FP) erhalten, wenn Pyrophor eingesetzt wird. Herunterrieselndes Pyrophor besitzt den Lichtradius einer Kerze für 1 KR.",
+      "3": "Proben auf Gaukeleien können nach Meisterentscheid +1 FP (bis zu einem Maximum von 18 FP) erhalten, wenn Pyrophor eingesetzt wird. Herunterrieselndes Pyrophor besitzt den Lichtradius einer Kerze für 2 KR.",
+      "4": "Proben auf Gaukeleien können nach Meisterentscheid +2 FP (bis zu einem Maximum von 18 FP) erhalten, wenn Pyrophor eingesetzt wird. Herunterrieselndes Pyrophor besitzt den Lichtradius einer Kerze für 2 KR.",
+      "5": "Proben auf Gaukeleien können nach Meisterentscheid +2 FP (bis zu einem Maximum von 18 FP) erhalten, wenn Pyrophor eingesetzt wird. Herunterrieselndes Pyrophor besitzt den Lichtradius einer Kerze für 3 KR.",
+      "6": "Proben auf Gaukeleien können nach Meisterentscheid +1 QS (bis zu einem Maximum von 6 QS) erhalten, wenn Pyrophor eingesetzt wird. Herunterrieselndes Pyrophor besitzt den Lichtradius einer Kerze für 3 KR."
+    },
+    "publikationen": [
+      {
+        "buch": "Katakomben & Ruinen",
+        "seite": 25
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 387
+      }
+    ],
+    "_source_file": "Pyrophor.txt",
+    "_category": "Elixier"
+  },
+  {
+    "name": "Schlaftrunk",
+    "beschreibung": null,
+    "typische_ingredienzien": "Einbeere, klares Regenwasser, Yagannüsse, Minze, Gulmond, Kamille, Rabenfedern, weißer Khômsand",
+    "kosten_der_ingredienzienstufen": "20 Silbertaler pro Stufe",
+    "labor": "Archaisches Labor",
+    "brauschwierigkeit": 0,
+    "qualitaetsstufen": {
+      "1": "Regeneration von 1 zusätzlichen Punkt LE, AE und KE im Schlaf während der nächsten Regenerationsphase.",
+      "2": "Regeneration von 2 zusätzlichen Punkten LE, AE und KE im Schlaf während der nächsten Regenerationsphase.",
+      "3": "Regeneration von 3 zusätzlichen Punkten LE, AE und KE im Schlaf während der nächsten Regenerationsphase.",
+      "4": "Regeneration von 4 zusätzlichen Punkten LE, AE und KE im Schlaf während der nächsten Regenerationsphase.",
+      "5": "Regeneration von 5 zusätzlichen Punkten LE, AE und KE im Schlaf während der nächsten Regenerationsphase.",
+      "6": "Regeneration von 6 zusätzlichen Punkten LE, AE und KE im Schlaf während der nächsten Regenerationsphase."
+    },
+    "ap_wert": 20,
+    "publikationen": [
+      {
+        "buch": "Aventurischer Almanach",
+        "seite": 131
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 387
+      }
+    ],
+    "_source_file": "Schlaftrunk.txt",
+    "_category": "Elixier"
+  },
+  {
+    "name": "Schwadenbeutel",
+    "beschreibung": "Der Schwadenbeutel ist bei Dieben ein bewährtes Mittel, um für kurze Zeit Finsternis durch Rauch zu erzeugen. In einem Gebäude hält sich der Rauch 15 KR, außerhalb von Gebäuden 10 KR, bei Regen 5 KR, bei starker Witterung nur bis zum Ende der nächsten KR.",
+    "typische_ingredienzien": "Alraunenpulver, Asche verkohlter Tannenzapfen, schwefliges Wasser",
+    "kosten_der_ingredienzienstufe": "40 Silbertaler pro Stufe",
+    "labor": "archaisches Labor",
+    "brauschwierigkeit": -1,
+    "ap_wert": 3,
+    "qualitaetsstufen": {
+      "1": "In 3 Schritt Radius um den Beutel entsteht ein Sichtmodifikator der Stufe 1.",
+      "2": "In 3 Schritt Radius um den Beutel entsteht ein Sichtmodifikator der Stufe 2.",
+      "3": "In 3 Schritt Radius um den Beutel entsteht ein Sichtmodifikator der Stufe 3.",
+      "4": "In 3 Schritt Radius um den Beutel entsteht ein Sichtmodifikator der Stufe 4.",
+      "5": "In 7 Schritt Radius um den Beutel entsteht ein Sichtmodifikator der Stufe 4.",
+      "6": "In 15 Schritt Radius um den Beutel entsteht ein Sichtmodifikator der Stufe 4."
+    },
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 221
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 388
+      }
+    ],
+    "_source_file": "bfgbgfbgb.txt",
+    "_category": "Elixier"
+  },
+  {
+    "name": "Stinktöpfchen",
+    "beschreibung": "Das Stinktöpfchen soll es jedem Lebewesen erschweren, sich in dessen Nähe aufzuhalten. In einem Gebäude hält der Gestank 1 Stunde, außerhalb von Gebäuden 10 Minuten, bei Regen 1 Minute, bei starker Witterung nur bis zum Ende der nächsten KR.",
+    "typische_ingredienzien": "abgestandenes Wasser, Alraunenpulver, Drachendung, geriebene Rinde des Faulbaums, Sekret des Stinktiers",
+    "kosten_ingredienzienstufen": "40 Silbertaler pro Stufe",
+    "labor": "archaisches Labor",
+    "brauschwierigkeit": 0,
+    "ap_wert": 3,
+    "qualitaetsstufen": {
+      "1": "In einem Radius von 1 Schritt um das Töpfchen stinkt es so gewaltig, dass alle Lebewesen eine Erschwernis von 1 auf alle Fertigkeitsproben erleiden.",
+      "2": "In einem Radius von 3 Schritt um das Töpfchen stinkt es so gewaltig, dass alle Lebewesen eine Erschwernis von 1 auf alle Fertigkeitsproben erleiden.",
+      "3": "In einem Radius von 3 Schritt um das Töpfchen stinkt es so gewaltig, dass alle Lebewesen eine Erschwernis von 1 auf alle Fertigkeitsproben erleiden. Außerdem erleiden sie den Status Übler Geruch für 30 Minuten.",
+      "4": "In einem Radius von 7 Schritt um das Töpfchen stinkt es so gewaltig, dass alle Lebewesen eine Erschwernis von 1 auf alle Fertigkeitsproben erleiden. Außerdem erleiden sie den Status Übler Geruch für 1 Stunde.",
+      "5": "In einem Radius von 7 Schritt um das Töpfchen stinkt es so gewaltig, dass alle Lebewesen eine Erschwernis von 1 auf alle Fertigkeitsproben erleiden. Außerdem erleiden sie den Status Übler Geruch für 1 Tag.",
+      "6": "In einem Radius von 7 Schritt um das Töpfchen stinkt es so gewaltig, dass alle Lebewesen eine Erschwernis von 2 auf alle Fertigkeitsproben erleiden. Außerdem erleiden sie den Status Übler Geruch für 1 Woche."
+    },
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 221
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 388
+      }
+    ],
+    "_source_file": "bgbttrt.txt",
+    "_category": "Elixier"
+  },
+  {
+    "name": "Tarnelixier",
+    "beschreibung": null,
+    "typische_ingredienzien": "Alicornstaub, Alraunensaft, Bleistaub, Chamäleonhaut, Färberlotos, Kirschen, Kröteneier, Abgeworfener Schwanz der Regenbogeneidechse, Schmetterlingspuppen, Tarnblatt, Quecksilber",
+    "kosten_ingredienzienstufen": "80 Silbertaler pro Stufe",
+    "labor": "Alchimistisches Labor",
+    "brauschwierigkeit": -4,
+    "ap_wert": 6,
+    "qualitaetsstufen": {
+      "1": "Der Anwender kann seine Augen-, Haar- und Hautfarbe frei bestimmen.",
+      "2": "Desgleichen. Ebenso ist es möglich, die Form einzelner kleiner Körperteile (z. B.: Nase, Auge, Ohr, Finger) leicht zu verändern, beispielsweise, um spitze Ohren zu erzeugen. Bei starker körperlicher Ertüchtigung, etwa bei der Anwendung von Körpertalenten oder im Kampf, muss nach Meisterentscheid eine Probe auf Selbstbeherrschung (Störungen ignorieren) –2 gelingen, um die Veränderung aufrecht zu erhalten.",
+      "3": "Desgleichen. Ebenso können einzelne mittelgroße Körperteile (z. B.: Hand, Fuß, Genitalien) verändert werden.",
+      "4": "Desgleichen. Ebenso können einzelne große Körperteile (z. B.: Bein, Arm, Bauch, Brust) verändert werden. Es ist nur noch eine um –1 erschwerte Probe auf Selbstbeherrschung (Störungen ignorieren) nötig.",
+      "5": "Desgleichen. Es ist nur noch eine einfache Probe auf Selbstbeherrschung (Störungen ignorieren) nötig.",
+      "6": "Desgleichen. Ebenso lässt sich sogar eine ganzkörperliche Veränderung bewirken, die das körperliche Geschlecht, das Gesicht und die Körperstruktur betreffen, solange Gesamtgröße und -gewicht des Anwenders erhalten bleiben. Selbst die Stimme kann in ihrer Höhe und Klangfarbe verändert werden. Das letzte Wort hat hierbei der Meister."
+    },
+    "publikationen": [
+      {
+        "buch": "Aventurisches Herbarium II",
+        "seite": 93
+      }
+    ],
+    "_source_file": "Herb_2_Tarne.txt",
+    "_category": "Elixier"
+  },
+  {
+    "name": "Trunk der ruhigen Hand",
+    "beschreibung": null,
+    "typische_ingredienzien": "Atmon, Finage, Finger eines Diebes, rechte Vorderpfote vom Feh, reiner Alkohol, Schwanz eines Faultiers, zerhauener Topas",
+    "kosten_der_ingredienzienstufen": "20 Silbertaler pro Stufe",
+    "labor": "Hexenküche",
+    "brauschwierigkeit": -1,
+    "qualitaetsstufen": {
+      "1": "Die erste Teilprobe auf FF bei Schlösserknacken ist um 1 erleichtert. Die Wirkung hält 15 Minuten an.",
+      "2": "Beide Teilproben auf FF bei Schlösserknacken sind um 1 erleichtert. Die Wirkung hält 30 Minuten an.",
+      "3": "Beide Teilproben auf FF bei Schlösserknacken sind um 1 erleichtert. Die Wirkung hält 1 Stunde an",
+      "4": "Proben auf Schlösserknacken sind um 1 erleichtert. Die Wirkung hält 2 Stunden an.",
+      "5": "Proben auf Schlösserknacken sind um 1 erleichtert. Die Wirkung hält 4 Stunden an.",
+      "6": "Proben auf Schlösserknacken sind um 1 erleichtert. Die Wirkung hält 8 Stunden an."
+    },
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Katakomben & Ruinen",
+        "seite": 25
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 384
+      }
+    ],
+    "_source_file": "Trunk_der_ruhigen_Hand.txt",
+    "_category": "Elixier"
+  },
+  {
+    "name": "Unsichtbarkeitselixier",
+    "beschreibung": null,
+    "typische_ingredienzien": "Alraunen, Blut eines Unsichtbaren, Chamäleonschuppen, Coelestin, Diamant, Geisterflug, Kristallglas, Meteoreisen, rauchendes Braunöl, Späne eines misslungenen Magierstabes, Spinnennetze, Wasser aus Nebeltau, Wermut",
+    "kosten_ingredienzienstufen": "55 Silbertaler pro Stufe",
+    "labor": "Hexenküche",
+    "brauschwierigkeit": -2,
+    "qualitaetsstufen": {
+      "1": "Der Anwender wird 1 Minute unsichtbar. Die Transformation dauert jeweils 10 Minuten.",
+      "2": "Der Anwender wird 3 Minuten unsichtbar. Die Transformation dauert jeweils 5 Minuten.",
+      "3": "Der Anwender wird 5 Minuten unsichtbar. Die Transformation dauert jeweils 2 Minuten.",
+      "4": "Der Anwender wird 10 Minuten unsichtbar. Die Transformation dauert jeweils 1 Minute.",
+      "5": "Der Anwender wird 15 Minuten unsichtbar. Die Transformation dauert jeweils 30 Sekunden.",
+      "6": "Der Anwender wird 20 Minuten unsichtbar. Die Transformation dauert jeweils 15 Sekunden."
+    },
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 273
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 388
+      }
+    ],
+    "_source_file": "Unsichtbar.txt",
+    "_category": "Elixier",
+    "_note": "Could not parse level range"
+  },
+  {
+    "name": "Verwandlungselixier",
+    "beschreibung": "Mit diesem Elixier kann sich der Anwender in ein beim Brauen ausgewähltes Tier verwandeln. Die Wirkung des Elixiers hält je nach Qualitätsstufe des Elixiers unterschiedlich lange an. Auch die Verwandlung und Rückverwandlung erfordert einige Zeit und ist ausgesprochen schmerzhaft. Während der Verwandlung und Rückverwandlung leidet der Anwender unter einer Stufe des Zustandes Schmerz.",
+    "typische_ingredienzien": "Achat, Alkohol, Blüten des Morgendornstrauches, Ei oder Embryo des jeweiligen Tieres, Herzblut von Werkreaturen, Kairanrohr, Lapislazuli, Mäusemilch, Neunaugenblut, Quecksilber, Smaragd",
+    "kosten_ingredienzienstufen": "55 Silbertaler pro Stufe",
+    "labor": "Hexenküche",
+    "brauschwierigkeit": -2,
+    "qualitaetsstufen": {
+      "1": "Der Anwender verwandelt sich für 1 Minute. Die Transformation dauert jeweils 10 Minuten. Finger, Ohren oder Zehen verwandeln sich nicht komplett mit.",
+      "2": "Der Anwender verwandelt sich für 2 Minuten. Die Transformation dauert jeweils 5 Minuten.",
+      "3": "Der Anwender verwandelt sich für 5 Minuten. Die Transformation dauert jeweils 2 Minuten.",
+      "4": "Der Anwender verwandelt sich für 10 Minuten. Die Transformation dauert jeweils 1 Minute.",
+      "5": "Der Anwender verwandelt sich für 15 Minuten. Die Transformation dauert jeweils 30 Sekunden.",
+      "6": "Der Anwender verwandelt sich für 20 Minuten. Die Transformation dauert jeweils 15 Sekunden."
+    },
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 273
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 389
+      }
+    ],
+    "_source_file": "Verwandlung.txt",
+    "_category": "Elixier"
+  },
+  {
+    "name": "Waffenbalsam",
+    "beschreibung": "Es dauert 5 Kampfrunden, um eine Waffe mit Waffenbalsam einzureiben.",
+    "typische_ingredienzien": "Asche von Greifenfedern, Bärenfett, Brabaker Vitriol, Horuschenkerne, Silberstaub, Smaragd, Schuppen eines Höhlendrachen, Topas, Wasser aus einem fließenden Gewässer",
+    "kosten_ingredienzienstufen": "65 Silbertaler pro Stufe",
+    "labor": "Alchimistisches Labor",
+    "brauschwierigkeit": -2,
+    "qualitaetsstufen": {
+      "1": "Waffe gilt für 5 Minuten als magisch.",
+      "2": "Waffe gilt für 15 Minuten als magisch.",
+      "3": "Waffe gilt für 2 Stunden als magisch, +1 TP.",
+      "4": "Waffe gilt für 8 Stunden als magisch, +1 TP.",
+      "5": "Waffe gilt für einen Tag als magisch und ist unzerbrechlich, +1 TP.",
+      "6": "Waffe gilt für eine Woche als magisch und ist unzerbrechlich, +1 TP."
+    },
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 273
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 389
+      }
+    ],
+    "_source_file": "Waffenbalsam.txt",
+    "_category": "Elixier"
+  },
+  {
+    "name": "Wasserodem",
+    "beschreibung": null,
+    "typische_ingredienzien": "eine Strähne schwarzes Neckerhaar, eine große Perle, 10 Skrupel Gwen Petryl-Staub, Kiemen eines Thunfischs, Seerosenblüten, ein halber Schank efferdgeweihtes Wasser",
+    "kosten_ingredienzienstufen": "100 Silbertaler pro Stufe",
+    "labor": "Archaisches Labor",
+    "brauschwierigkeit": -2,
+    "qualitaetsstufen": {
+      "1": "Wasseratmung für 5 Minuten.",
+      "2": "Wasseratmung für 10 Minuten.",
+      "3": "Wasseratmung für 20 Minuten.",
+      "4": "Wasseratmung für 40 Minuten.",
+      "5": "Wasseratmung, Schutz vor Unterkühlung für 60 Minuten.",
+      "6": "Wasseratmung, Schutz vor Unterkühlung für 120 Minuten."
+    },
+    "ap_wert": 100,
+    "publikationen": [
+      {
+        "buch": "Havena - Versunkene Geheimnisse",
+        "seite": 91
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 389
+      }
+    ],
+    "_source_file": "Wasserodem.txt",
+    "_category": "Elixier"
+  },
+  {
+    "name": "Weissasgungspulver",
+    "beschreibung": null,
+    "typische_ingredienzien": "Cheria-Kaktus, Feder eines Raben, Mondsilberpulver, Schlangenaugen, Weihrauch",
+    "kosten_der_ingredienzienstufen": "45 Silbertaler pro Stufe",
+    "labor": "Archaisches Labor",
+    "brauschwierigkeit": -1,
+    "qualitaetsstufen": {
+      "1": "Der Anwender atmet das Pulver ein und bittet eine Entität seiner Wahl um ein Zeichen. Innerhalb der nächsten 15 Minuten macht der Anwender eine flüchtige Beobachtung, die ihm bemerkenswert und außeralltäglich erscheint. Allerdings muss dem Anwender eine Probe auf Bekehren & Überzeugen –1 gelingen, damit andere das Zeichen nicht nur ebenso wahrnehmen, sondern gleichsam als bedeutungsvoll verstehen. Der Anwender spürt nicht automatisch, ob das Zeichen auch von der Entität stammt, die er angerufen hat.",
+      "2": "Desgleichen, allerdings ist die Probe nicht erschwert.",
+      "3": "Desgleichen, allerdings ist die Probe um +1 erleichtert.",
+      "4": "Desgleichen, zusätzlich ist das Zeichen 3 KR lang auch für Personen sichtbar, die nicht aktiv darauf hingewiesen werden.",
+      "5": "Desgleichen, aber für 6 KR lang.",
+      "6": "Desgleichen, aber für 9 KR lang."
+    },
+    "ap_wert": 2,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Herabrium II",
+        "seite": 94
+      }
+    ],
+    "_source_file": "Weisses_Pulver.txt",
+    "_category": "Elixier"
+  },
+  {
+    "name": "Willenstrunk",
+    "beschreibung": null,
+    "typische_ingredienzien": "Amethyst, Bosparanienholz, Diamant, Kokosnuss, Feuerschlick, Granit, Greifenfedern, Haare aus einem Zwergenbart, Magnetit, Quecksilber, Thonnys, Unauer Salzlake",
+    "kosten_ingredienzienstufen": "55 Silbertaler pro Stufe",
+    "labor": "Alchimistisches Labor",
+    "brauschwierigkeit": -2,
+    "qualitaetsstufen": {
+      "1": "Die Seelenkraft verbessert sich für 5 Minuten um 1.",
+      "2": "Die Seelenkraft verbessert sich für 10 Minuten um 2.",
+      "3": "Die Seelenkraft verbessert sich für 15 Minuten um 2.",
+      "4": "Die Seelenkraft verbessert sich für 20 Minuten um 2.",
+      "5": "Die Seelenkraft verbessert sich für 30 Minuten um 3.",
+      "6": "Die Seelenkraft verbessert sich für 45 Minuten um 3."
+    },
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 274
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 389
+      }
+    ],
+    "_source_file": "Willenstrank.txt",
+    "_category": "Elixier"
+  },
+  {
+    "name": "Zähigkeitstrunk",
+    "beschreibung": null,
+    "typische_ingredienzien": "Diamant, Finage, Kokosnuss, Granit, Ochsenblut Olginwurz, Unkraut, Unauer Salzlake",
+    "kosten_der_ingredienzienstufen": "55 Silbertaler pro Stufe",
+    "labor": "Alchimistisches Labor",
+    "brauschwierigkeit": -2,
+    "qualitaetsstufen": {
+      "1": "Die Zähigkeit verbessert sich für 5 Minuten um 1.",
+      "2": "Die Zähigkeit verbessert sich für 10 Minuten um 2.",
+      "3": "Die Zähigkeit verbessert sich für 15 Minuten um 2.",
+      "4": "Die Zähigkeit verbessert sich für 20 Minuten um 2.",
+      "5": "Die Zähigkeit verbessert sich für 30 Minuten um 3.",
+      "6": "Die Zähigkeit verbessert sich für 45 Minuten um 3."
+    },
+    "ap_wert": 55,
+    "publikationen": [
+      {
+        "buch": "Aventurischer Almanach",
+        "seite": 131
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 390
+      }
+    ],
+    "_source_file": "Zähigkeitstrunk.txt",
+    "_category": "Elixier"
+  },
+  {
+    "name": "Zaubertrank",
+    "beschreibung": null,
+    "typische_ingredienzien": "Alicorn, Alraunen, Diamantstaub, Blut magischer Wesen, Drachentränen, Kairanrohr, Karfunkel, Meteoreisen, Mindoriumpulver, Orichalcum, Schnee vom 1. Hesinde, Thonnys, Topas",
+    "kosten_ingredienzienstufen": "55 Silbertaler pro Stufe",
+    "labor": "Alchimistisches Labor",
+    "brauschwierigkeit": -2,
+    "qualitaetsstufen": {
+      "1": "Regeneriert bei Einnahme 1W3 AsP.",
+      "2": "Regeneriert bei Einnahme 1W6 AsP.",
+      "3": "Regeneriert bei Einnahme 1W6+2 AsP.",
+      "4": "Regeneriert bei Einnahme 1W6+4 AsP.",
+      "5": "Regeneriert bei Einnahme 1W6+6 AsP.",
+      "6": "Regeneriert bei Einnahme 1W6+8 AsP."
+    },
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 274
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 390
+      }
+    ],
+    "_source_file": "Zaubertrank.txt",
+    "_category": "Elixier"
+  },
+  {
+    "name": "Zielwasser",
+    "beschreibung": null,
+    "typische_ingredienzien": "Alraune, Angbarer Blutstein, Auge vom Bergadler, Brabaker Vitriol, Finage, Kairan",
+    "kosten_der_ingredienzienstufe": "30 Silbertaler pro Stufe",
+    "labor": "archaisches Labor",
+    "brauschwierigkeit": -1,
+    "ap_wert": 3,
+    "qualitaetsstufen": {
+      "1": "Der FK-Wert steigt für 1 Minute um 1.",
+      "2": "Der FK-Wert steigt für 5 Minuten um 1.",
+      "3": "Der FK-Wert steigt für 5 Minuten um 2.",
+      "4": "Der FK-Wert steigt für 10 Minuten um 2.",
+      "5": "Der FK-Wert steigt für 10 Minuten um 3.",
+      "6": "Der FK-Wert steigt für 15 Minuten um 3."
+    },
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 221
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 390
+      }
+    ],
+    "_source_file": "bgvfdgr.txt",
+    "_category": "Elixier"
+  }
+]

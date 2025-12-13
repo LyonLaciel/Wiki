@@ -1,0 +1,3589 @@
+[
+  {
+    "name": "Adel I",
+    "regel": "Der Held ist angesehen, genießt die Privilegien des Adels und kann vom Meister Erleichterungen zugesprochen bekommen, wenn er gegenüber Rangniedrigeren agiert.",
+    "voraussetzung": "Kultur muss über einen passenden Adel verfügen.",
+    "level": 1,
+    "ap_wert": 5,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 163
+      }
+    ],
+    "_source_file": "Adel+I-III.txt",
+    "_category": "Vorteil",
+    "_level_info": {
+      "base_name": "Adel",
+      "ap_per_level": 5,
+      "ap_values": null,
+      "total_levels": 3
+    }
+  },
+  {
+    "name": "Adel II",
+    "regel": "Der Held ist angesehen, genießt die Privilegien des Adels und kann vom Meister Erleichterungen zugesprochen bekommen, wenn er gegenüber Rangniedrigeren agiert.",
+    "voraussetzung": "Kultur muss über einen passenden Adel verfügen.",
+    "level": 2,
+    "ap_wert": 10,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 163
+      }
+    ],
+    "_source_file": "Adel+I-III.txt",
+    "_category": "Vorteil",
+    "_level_info": {
+      "base_name": "Adel",
+      "ap_per_level": 5,
+      "ap_values": null,
+      "total_levels": 3
+    }
+  },
+  {
+    "name": "Adel III",
+    "regel": "Der Held ist angesehen, genießt die Privilegien des Adels und kann vom Meister Erleichterungen zugesprochen bekommen, wenn er gegenüber Rangniedrigeren agiert.",
+    "voraussetzung": "Kultur muss über einen passenden Adel verfügen.",
+    "level": 3,
+    "ap_wert": 15,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 163
+      }
+    ],
+    "_source_file": "Adel+I-III.txt",
+    "_category": "Vorteil",
+    "_level_info": {
+      "base_name": "Adel",
+      "ap_per_level": 5,
+      "ap_values": null,
+      "total_levels": 3
+    }
+  },
+  {
+    "name": "Affinität zu Dämonen",
+    "regel": "Der Held kann Dämonen leichter zu einem Dienst überreden, wenn er sie selbst beschworen hat. Der Dämon erfüllt ihm einen zusätzlichen Dienst auch über das Maximum von 6 Diensten hinaus.",
+    "voraussetzung": "Vorteil Zauberer, Kein Vorteil Affinität zu Elementaren",
+    "ap_wert": 10,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie",
+        "seite": 225
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 379
+      }
+    ],
+    "_source_file": "Affinität+zu+Dämonen.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Affinität zu Elementaren",
+    "regel": "Der Held kann Elementare leichter zu einem Dienst überreden, wenn er sie selbst beschworen hat. Das Elementar erfüllt ihm einen zusätzlichen Dienst auch über das Maximum von 6 Diensten hinaus.",
+    "voraussetzung": "Vorteil Zauberer, Kein Vorteil Affinität zu Dämonen",
+    "ap_wert": 10,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie",
+        "seite": 225
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 379
+      }
+    ],
+    "_source_file": "Affinität+zu+Elementaren.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Akoluth",
+    "regel": "Ein Akoluth verfügt über die Fähigkeit, einen Geweihten einer einzigen ausgewählten Kirche bei Liturgien zu unterstützen. Es muss sich um die Kirche handeln, für die er vorher die Prinzipientreue und die Verpflichtungen erworben hat. Sollte ein Akoluth bei einer Liturgie genauso viele Aktionen aufwenden, wie für die Liturgiedauer notwendig sind, erhält der Geweihte eine Erleichterung von 1 für die Liturgie. Der Akoluth muss sich in einem Radius von 3 Schritt um den Geweihten aufhalten, damit die Unterstützung funktioniert. Dieser Effekt ist nicht kumulativ mit weiteren Akoluthen.",
+    "voraussetzung": "Kein Vorteil Geweihter, Nachteil Prinzipientreue (Moralkodex einer Kirche), Verpflichtungen (Kirche)",
+    "ap_wert": 5,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Götterwirken",
+        "seite": 227
+      }
+    ],
+    "_source_file": "Akoluth.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Allerweltsname",
+    "regel": "Ein Held mit diesem Vorteil ist schwer ausfindig zu machen, weil sich niemand seinen Namen merken kann oder ihn mit einem Träger eines ähnlichen Namens verwechselt. Die Teilprobe auf Klugheit bei Proben auf Gassenwissen (Informationsbeschaffung) ist um 1 erschwert, wenn es darum geht, den Helden ausfindig zu machen oder Informationen über ihn zu sammeln.",
+    "voraussetzung": "Ein gewöhnlicher Name ohne großen Wiedererkennungswert, Kein Vorteil Heldenhafter Name oder Nachteil Lächerlicher Name, Schurkenname oder Unpassender Name, Elfen können diesen Vorteil nicht wählen, da sie über keine Allerweltsnamen verfügen.",
+    "ap_wert": 2,
+    "publikationen": [
+      {
+        "buch": "Aventurische Namen",
+        "seite": 89
+      }
+    ],
+    "_source_file": "Allerweltsname.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Altersresistenz",
+    "regel": "Der Held ist immun gegen natürliche wie magische Alterungserscheinungen. Negative Auswirkungen des Alters werden bei ihm nicht berücksichtigt.",
+    "voraussetzung": "Spezies, Kultur oder Profession muss Altersresistenz als automatischen oder empfohlenen Vorteil aufweisen, Kein Nachteil Schnelle Alterung",
+    "ap_wert": 5,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 163
+      }
+    ],
+    "_source_file": "Altersresistenz+(_).txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Angenehmer Geruch",
+    "regel": "Fertigkeitsproben auf Betören (Anbändeln, Liebeskünste) sind um 1 erleichtert.",
+    "voraussetzung": "Keine",
+    "ap_wert": -6,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 163
+      }
+    ],
+    "_source_file": "Angenehmer+Geruch.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Animalische Kraft",
+    "regel": "Einmal am Tag kann der Held eine Probe auf Selbstbeherrschung ablegen. Er erhält bei Gelingen für 1 Minute QS/2 zu seiner Körperkraft. Dies kann auch den Schadensbonus erhöhen, ändert aber nichts an weiteren abgeleiteten Werten. Diese Fähigkeit zu aktivieren dauert 1 Aktion. Nach dem Ende der Wirkung erhält der Held 1 Stufe Betäubung.",
+    "voraussetzung": "Vorteil Feenblut (Großer Biestinger)",
+    "ap_wert": 12,
+    "publikationen": [
+      {
+        "buch": "Die Siebenwindküste - Albernia und der Windhag",
+        "seite": 164
+      }
+    ],
+    "_source_file": "Animalische+Kraft.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Basiliskentöter",
+    "regel": "Basiliskentöter werden respektvoll behandelt, erhalten regelmäßig Einladungen zu Festen der gehobenen Gesellschaft und oftmals kostenlos Speis und Trank in Tavernen. Der Held wird so behandelt, als hätte er einen um 2 höheren sozialen Rang als üblich (siehe Regelwerk Seite 338). Das Gegenüber muss aber wissen oder zumindest glauben, dass der Held ein Basiliskentöter ist, damit der Bonus zählt.",
+    "voraussetzung": "Der Held muss einen Basilisken getötet haben.",
+    "ap_wert": 10,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Bestiarium",
+        "seite": 120
+      }
+    ],
+    "_source_file": "Basiliskentöter.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Begabte/r Aufreißer/in",
+    "regel": "Beim Abschleppen (siehe Seite 36) hat der Held mehr Erfolg als andere Personen. Bei der Probe auf Betören (Liebeskünste) zum Abschleppen bekommt er +1 FP (bis zu einem Maximum von 18 FP). Alternativ kann der Spieler auch beschließen, mehrere Personen gleichzeitig abzuschleppen. Die Probe ist dann jedoch pro Person, die er abschleppen will, um 2 erschwert. Dieser Vorteil kann mit der Sonderfertigkeit Abschleppspezialist/in (siehe Seite 41 Aventurisches Kompendium 2) kombiniert werden. Damit bekommt der Held +2 FP oder die Probe zum Abschleppen von mehreren Personen ist pro Person nur um 1 erschwert.",
+    "voraussetzung": "Keine",
+    "ap_wert": 5,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Kompendium II",
+        "seite": 40
+      }
+    ],
+    "_source_file": "Begabte_r+Aufreißer_in.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Begabung (A-Fertigkeit)",
+    "regel": "Ein begabter Abenteurer kann bei jeder Probe auf eine bestimmte Fertigkeit einen W20 neu würfeln. Der Spieler kann zunächst die 3W20 würfeln und sich eines der drei Ergebnisse aussuchen, dass er neu würfeln kann. Es gilt das bessere Ergebnis beider Würfe. Eine Begabung muss für jede Fertigkeit einzeln gewählt werden, also zum Beispiel auf ein bestimmtes Talent, einen Zauber oder eine Liturgie. Man kann nicht mehrfach in einer Fertigkeit begabt sein und somit zwei oder gar drei W20-Würfe in einer Probe wiederholen. Fällt eine Doppel-20 oder Dreifach-20 kann man diesen Vorteil nicht nutzen. Eine Begabung kann nur für eine Fertigkeit, nicht aber für eine Kampftechnik gewählt werden (dafür gibt es jedoch den Vorteil Waffenbegabung). Ein Einsatz von Schicksalspunkten ist vor oder nach dem Einsatz einer Begabung erlaubt (siehe Seite 29). Dadurch ist es möglich, mehrfach neu zu würfeln oder eine andere Wirkung der Schicksalspunkte mit der Begabung zu kombinieren.\n\nA-Fertigkeit: 6 Abenteuerpunkte (A-Fertigkeit)",
+    "voraussetzung": "Keine Nachteil Unfähig für diese Fertigkeit, nicht mehr als drei Begabungen pro Person",
+    "variant": "A-Fertigkeit",
+    "ap_wert": 6,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 163
+      }
+    ],
+    "_source_file": "Begabung.txt",
+    "_category": "Vorteil",
+    "_variant_info": {
+      "base_name": "Begabung",
+      "total_variants": 4
+    }
+  },
+  {
+    "name": "Begabung (B-Fertigkeit)",
+    "regel": "Ein begabter Abenteurer kann bei jeder Probe auf eine bestimmte Fertigkeit einen W20 neu würfeln. Der Spieler kann zunächst die 3W20 würfeln und sich eines der drei Ergebnisse aussuchen, dass er neu würfeln kann. Es gilt das bessere Ergebnis beider Würfe. Eine Begabung muss für jede Fertigkeit einzeln gewählt werden, also zum Beispiel auf ein bestimmtes Talent, einen Zauber oder eine Liturgie. Man kann nicht mehrfach in einer Fertigkeit begabt sein und somit zwei oder gar drei W20-Würfe in einer Probe wiederholen. Fällt eine Doppel-20 oder Dreifach-20 kann man diesen Vorteil nicht nutzen. Eine Begabung kann nur für eine Fertigkeit, nicht aber für eine Kampftechnik gewählt werden (dafür gibt es jedoch den Vorteil Waffenbegabung). Ein Einsatz von Schicksalspunkten ist vor oder nach dem Einsatz einer Begabung erlaubt (siehe Seite 29). Dadurch ist es möglich, mehrfach neu zu würfeln oder eine andere Wirkung der Schicksalspunkte mit der Begabung zu kombinieren.\n\nB-Fertigkeit: 12 Abenteuerpunkte (B-Fertigkeit)",
+    "voraussetzung": "Keine Nachteil Unfähig für diese Fertigkeit, nicht mehr als drei Begabungen pro Person",
+    "variant": "B-Fertigkeit",
+    "ap_wert": 12,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 163
+      }
+    ],
+    "_source_file": "Begabung.txt",
+    "_category": "Vorteil",
+    "_variant_info": {
+      "base_name": "Begabung",
+      "total_variants": 4
+    }
+  },
+  {
+    "name": "Begabung (C-Fertigkeit)",
+    "regel": "Ein begabter Abenteurer kann bei jeder Probe auf eine bestimmte Fertigkeit einen W20 neu würfeln. Der Spieler kann zunächst die 3W20 würfeln und sich eines der drei Ergebnisse aussuchen, dass er neu würfeln kann. Es gilt das bessere Ergebnis beider Würfe. Eine Begabung muss für jede Fertigkeit einzeln gewählt werden, also zum Beispiel auf ein bestimmtes Talent, einen Zauber oder eine Liturgie. Man kann nicht mehrfach in einer Fertigkeit begabt sein und somit zwei oder gar drei W20-Würfe in einer Probe wiederholen. Fällt eine Doppel-20 oder Dreifach-20 kann man diesen Vorteil nicht nutzen. Eine Begabung kann nur für eine Fertigkeit, nicht aber für eine Kampftechnik gewählt werden (dafür gibt es jedoch den Vorteil Waffenbegabung). Ein Einsatz von Schicksalspunkten ist vor oder nach dem Einsatz einer Begabung erlaubt (siehe Seite 29). Dadurch ist es möglich, mehrfach neu zu würfeln oder eine andere Wirkung der Schicksalspunkte mit der Begabung zu kombinieren.\n\nC-Fertigkeit: 18 Abenteuerpunkte (C-Fertigkeit)",
+    "voraussetzung": "Keine Nachteil Unfähig für diese Fertigkeit, nicht mehr als drei Begabungen pro Person",
+    "variant": "C-Fertigkeit",
+    "ap_wert": 18,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 163
+      }
+    ],
+    "_source_file": "Begabung.txt",
+    "_category": "Vorteil",
+    "_variant_info": {
+      "base_name": "Begabung",
+      "total_variants": 4
+    }
+  },
+  {
+    "name": "Begabung (D-Fertigkeit)",
+    "regel": "Ein begabter Abenteurer kann bei jeder Probe auf eine bestimmte Fertigkeit einen W20 neu würfeln. Der Spieler kann zunächst die 3W20 würfeln und sich eines der drei Ergebnisse aussuchen, dass er neu würfeln kann. Es gilt das bessere Ergebnis beider Würfe. Eine Begabung muss für jede Fertigkeit einzeln gewählt werden, also zum Beispiel auf ein bestimmtes Talent, einen Zauber oder eine Liturgie. Man kann nicht mehrfach in einer Fertigkeit begabt sein und somit zwei oder gar drei W20-Würfe in einer Probe wiederholen. Fällt eine Doppel-20 oder Dreifach-20 kann man diesen Vorteil nicht nutzen. Eine Begabung kann nur für eine Fertigkeit, nicht aber für eine Kampftechnik gewählt werden (dafür gibt es jedoch den Vorteil Waffenbegabung). Ein Einsatz von Schicksalspunkten ist vor oder nach dem Einsatz einer Begabung erlaubt (siehe Seite 29). Dadurch ist es möglich, mehrfach neu zu würfeln oder eine andere Wirkung der Schicksalspunkte mit der Begabung zu kombinieren.\n\nD-Fertigkeit: 24 Abenteuerpunkte (D-Fertigkeit)",
+    "voraussetzung": "Keine Nachteil Unfähig für diese Fertigkeit, nicht mehr als drei Begabungen pro Person",
+    "variant": "D-Fertigkeit",
+    "ap_wert": 24,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 163
+      }
+    ],
+    "_source_file": "Begabung.txt",
+    "_category": "Vorteil",
+    "_variant_info": {
+      "base_name": "Begabung",
+      "total_variants": 4
+    }
+  },
+  {
+    "name": "Beidhändig",
+    "regel": "Der Held erleidet keine Erschwernisse bei Fertigkeitsproben, wenn er die falsche Hand benutzt. Im Kampf hebt der Vorteil alle Abzüge auf, die durch das Führen einer Waffe mit der falschen Hand anfallen.",
+    "voraussetzung": "Keine",
+    "ap_wert": 15,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 164
+      }
+    ],
+    "_source_file": "Beidhändig.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Betörender Duft",
+    "regel": "Der Held riecht immer nach einer bestimmten wohlriechenden Blumenart. Er kann nie unter dem Status Übler Geruch leiden und erhält bei Proben auf Betören einen Bonus von +1 auf CH, wenn sein Gegenüber den Blütengeruch mag (ansonsten kann die Probe auch um –1 erschwert sein).",
+    "voraussetzung": "Vorteil Dschinnenblut (Rosendschinn)",
+    "ap_wert": 12,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Elementarium",
+        "seite": 143
+      }
+    ],
+    "_source_file": "Betörender+Duft.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Biss I",
+    "regel": "Der Held hat scharfe Zähne, die sich als Nahkampfwaffe eignen. Es gibt drei Stufen des Biss-Angriffs. Der Schaden ist von der Stufe und der Größenkategorie des Helden abhängig: # winzig, Stufe I/II/III: 1W3/1W3+1/1W3+2 TP # klein, Stufe I/II/III:1W6/1W6+1/1W6+2 TP # mittel, Stufe I/II/III: 1W6+1/1W6+2/1W6+3 TP # groß, Stufe I/II/III: 1W6+2/1W6+3/1W6+4 TP # riesig, Stufe I/II/III: 2W6/2W6+1/2W6+2 TP Der Angriff zählt als waffenloser Angriff und wird mit der Kampftechnik Raufen ausgeführt. Verfügt ein Held über den Biss-Angriff, kann er die Sonderfertigkeit Verbeißen für 10 AP erwerben.",
+    "voraussetzung": "Spezies, Kultur oder Profession muss Vorteil als automatischen oder empfohlenen Vorteil aufweisen",
+    "level": 1,
+    "ap_wert": 5,
+    "publikationen": [
+      {
+        "buch": "Achaz - Schuppenkleid & Lange Zungen",
+        "seite": 28
+      },
+      {
+        "buch": "Orks - Hauer & Schwarzer Pelz",
+        "seite": 30
+      }
+    ],
+    "_source_file": "Biss+I-III+(_).txt",
+    "_category": "Vorteil",
+    "_level_info": {
+      "base_name": "Biss",
+      "ap_per_level": 5,
+      "ap_values": null,
+      "total_levels": 3
+    }
+  },
+  {
+    "name": "Biss II",
+    "regel": "Der Held hat scharfe Zähne, die sich als Nahkampfwaffe eignen. Es gibt drei Stufen des Biss-Angriffs. Der Schaden ist von der Stufe und der Größenkategorie des Helden abhängig: # winzig, Stufe I/II/III: 1W3/1W3+1/1W3+2 TP # klein, Stufe I/II/III:1W6/1W6+1/1W6+2 TP # mittel, Stufe I/II/III: 1W6+1/1W6+2/1W6+3 TP # groß, Stufe I/II/III: 1W6+2/1W6+3/1W6+4 TP # riesig, Stufe I/II/III: 2W6/2W6+1/2W6+2 TP Der Angriff zählt als waffenloser Angriff und wird mit der Kampftechnik Raufen ausgeführt. Verfügt ein Held über den Biss-Angriff, kann er die Sonderfertigkeit Verbeißen für 10 AP erwerben.",
+    "voraussetzung": "Spezies, Kultur oder Profession muss Vorteil als automatischen oder empfohlenen Vorteil aufweisen",
+    "level": 2,
+    "ap_wert": 10,
+    "publikationen": [
+      {
+        "buch": "Achaz - Schuppenkleid & Lange Zungen",
+        "seite": 28
+      },
+      {
+        "buch": "Orks - Hauer & Schwarzer Pelz",
+        "seite": 30
+      }
+    ],
+    "_source_file": "Biss+I-III+(_).txt",
+    "_category": "Vorteil",
+    "_level_info": {
+      "base_name": "Biss",
+      "ap_per_level": 5,
+      "ap_values": null,
+      "total_levels": 3
+    }
+  },
+  {
+    "name": "Biss III",
+    "regel": "Der Held hat scharfe Zähne, die sich als Nahkampfwaffe eignen. Es gibt drei Stufen des Biss-Angriffs. Der Schaden ist von der Stufe und der Größenkategorie des Helden abhängig: # winzig, Stufe I/II/III: 1W3/1W3+1/1W3+2 TP # klein, Stufe I/II/III:1W6/1W6+1/1W6+2 TP # mittel, Stufe I/II/III: 1W6+1/1W6+2/1W6+3 TP # groß, Stufe I/II/III: 1W6+2/1W6+3/1W6+4 TP # riesig, Stufe I/II/III: 2W6/2W6+1/2W6+2 TP Der Angriff zählt als waffenloser Angriff und wird mit der Kampftechnik Raufen ausgeführt. Verfügt ein Held über den Biss-Angriff, kann er die Sonderfertigkeit Verbeißen für 10 AP erwerben.",
+    "voraussetzung": "Spezies, Kultur oder Profession muss Vorteil als automatischen oder empfohlenen Vorteil aufweisen",
+    "level": 3,
+    "ap_wert": 15,
+    "publikationen": [
+      {
+        "buch": "Achaz - Schuppenkleid & Lange Zungen",
+        "seite": 28
+      },
+      {
+        "buch": "Orks - Hauer & Schwarzer Pelz",
+        "seite": 30
+      }
+    ],
+    "_source_file": "Biss+I-III+(_).txt",
+    "_category": "Vorteil",
+    "_level_info": {
+      "base_name": "Biss",
+      "ap_per_level": 5,
+      "ap_values": null,
+      "total_levels": 3
+    }
+  },
+  {
+    "name": "Blumenduft",
+    "regel": "Die Heldin riecht immer nach einer bestimmten wohlriechenden Blumenart. Sie kann nie unter dem Status Übler Geruch leiden, und sie erhält bei Proben auf Überreden einen Bonus von +1 auf CH, wenn ihr Gegenüber den Blütengeruch mag (ansonsten kann die Probe auch um 1 erschwert sein).",
+    "voraussetzung": "Vorteil Feenblut (Blütenfee)",
+    "ap_wert": 8,
+    "publikationen": [
+      {
+        "buch": "Die Siebenwindküste - Albernia und der Windhag",
+        "seite": 164
+      }
+    ],
+    "_source_file": "Blumenduft.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Blutzauberer",
+    "regel": "Der Held wird zum Zauberer, obwohl er nicht mit der Gabe der Zauberei geboren wurde. Er verfügt nicht über einen eigenen AsP-Vorrat, sondern zaubert stattdessen mit seiner Lebensenergie. Dabei sind Lebenspunkte doppelt so viel Wert wie AsP, sodass ein Zauber, der 7 AsP kosten würde, den Helden nur 4 LeP kosten. Hat der Held einen eigenen AsP-Vorrat, kann er sich bei jedem Zauber entscheiden, ob er mit AsP oder LeP zaubern möchte.",
+    "voraussetzung": "Paktgeschenk Zauberei mit Lebenskraft",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie III",
+        "seite": 208
+      },
+      {
+        "buch": "Aventurische Magie III Bonusmaterial und Errata",
+        "seite": 7
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 379
+      }
+    ],
+    "_source_file": "Blutzauberer.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Dickes Fell",
+    "regel": "Der Held weist einen natürlichen RS von 1 auf. Dieser kann mit dem RS von Rüstungen kombiniert werden, aber nur bis zu einem Wert von insgesamt RS 4.",
+    "voraussetzung": "Vorteil Feenblut (Großer Biestinger)",
+    "ap_wert": 15,
+    "publikationen": [
+      {
+        "buch": "Die Siebenwindküste - Albernia und der Windhag",
+        "seite": 165
+      }
+    ],
+    "_source_file": "Dickes+Fell.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Drachentöter",
+    "regel": "Drachentöter werden respektvoll behandelt, erhalten regelmäßig Einladungen zu Festen der gehobenen Gesellschaft und oftmals kostenlos Speis und Trank in Tavernen. Der Held wird so behandelt, als hätte er einen um 1 höheren sozialen Rang als üblich (siehe Regelwerk Seite 338). Das Gegenüber muss aber wissen oder zumindest glauben, dass der Held ein Drachentöter ist, damit der Bonus zählt. Der Held erhält zudem einen Bonus von +1 TP gegen alle Drachen, sowohl gegenüber echten als auch niederen Drachen.",
+    "voraussetzung": "Der Held muss einen echten Drachen getötet haben.",
+    "ap_wert": 10,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Bestiarium",
+        "seite": 120
+      }
+    ],
+    "_source_file": "Drachentöter.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Dschinnenblut (Eisdschinn)",
+    "regel": "Der Held kann weist gegen Kälte 2 Stufen Kälteschutz auf (siehe Regelwerk) und erleidet bei Zustandsstufen Paralyse, die durch Kält",
+    "voraussetzung": "Kein anderer Ahnenblut-Vorteil",
+    "ap_wert": 10,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Elementarium",
+        "seite": 142
+      }
+    ],
+    "_source_file": "Dschinnenblut+(Eisdschinn).txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Dschinnenblut (Feuerdschinn)",
+    "regel": "Der Held kann TP durch Feuer und Hitze halbieren. Proben auf Schwimmen sind für ihn um –1 erschwert.",
+    "voraussetzung": "Kein anderer Ahnenblut-Vorteil",
+    "ap_wert": 10,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Elementarium",
+        "seite": 143
+      }
+    ],
+    "_source_file": "Dschinnenblut+(Feuerdschinn).txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Dschinnenblut (Humusdschinn)",
+    "regel": "Der Held kann eine Pflanze durch Berührung innerhalb von 4 Aktion bis zu ihrer vollständigen Größe wachsen lassen (also vom Samen bis zu ihrer natürlichen Maximalgröße). Er erleidet dadurch 1 Stufe Betäubung.",
+    "voraussetzung": "Kein anderer Ahnenblut-Vorteil",
+    "ap_wert": 10,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Elementarium",
+        "seite": 143
+      }
+    ],
+    "_source_file": "Dschinnenblut+(Humusdschinn).txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Dschinnenblut (Luftdschinn)",
+    "regel": "Der Held verfügt über +1 GS und +2 INI. Dafür erhält er keine zusätzlichen Boni auf Regeneration, wenn er in Höhlen oder Zimmern nächtig.",
+    "voraussetzung": "Kein anderer Ahnenblut-Vorteil",
+    "ap_wert": 10,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Elementarium",
+        "seite": 143
+      }
+    ],
+    "_source_file": "Dschinnenblut+(Luftdschinn).txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Dschinnenblut (Rosendschinn)",
+    "regel": "Wenn ein Held mit diesem Vorteil während einer Regenerationsphase auf Erdboden schläft, regeneriert er +2 LeP. Er darf dabei leichte Kleidung tragen (keine Kleidung oder Rüstung mit RS) oder eine Decke benutzen. Seine Haut ist allerdings sehr empfindlich gegenüber Klingenwaffen. Alle Waffen, die eine Klinge aufweisen (Schwerter, Äxte, Speere etc.), richten bei ihm +1 TP an.",
+    "voraussetzung": "Kein anderer Ahnenblut-Vorteil",
+    "ap_wert": 10,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Elementarium",
+        "seite": 143
+      }
+    ],
+    "_source_file": "Dschinnenblut+(Rosendschinn).txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Dschinnenblut (Wasserdschinn)",
+    "regel": "Durch Feuer erleidet der Held +2 TP. Dafür sind alle seine Proben auf Schwimmen um +1 erleichtert und er kann doppelt so lange die Luft anhalten wie ein Held ohne diesen Vorteil.",
+    "voraussetzung": "Kein anderer Ahnenblut-Vorteil",
+    "ap_wert": 10,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Elementarium",
+        "seite": 143
+      }
+    ],
+    "_source_file": "Dschinnenblut+(Wasserdschinn).txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Dunkelsicht I",
+    "regel": "Auf Stufe I werden Erschwernisse durch Dunkelheit um eine Stufe gesenkt, auf Stufe II können alle Erschwernisse durch Dunkelheit ignoriert werden. Bei vollständiger Finsternis ist aber Dunkelsicht (egal ob Stufe I oder II) wirkungslos und es gelten die Abzüge für vollständige Finsternis.",
+    "voraussetzung": "Spezies, Kultur oder Profession muss Dunkelsicht als automatischen oder empfohlenen Vorteil aufweisen, kein Nachteil Nachtblind",
+    "level": 1,
+    "ap_wert": 10,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 164
+      }
+    ],
+    "_source_file": "Dunkelsicht+I-II+(_).txt",
+    "_category": "Vorteil",
+    "_level_info": {
+      "base_name": "Dunkelsicht",
+      "ap_per_level": 10,
+      "ap_values": null,
+      "total_levels": 2
+    }
+  },
+  {
+    "name": "Dunkelsicht II",
+    "regel": "Auf Stufe I werden Erschwernisse durch Dunkelheit um eine Stufe gesenkt, auf Stufe II können alle Erschwernisse durch Dunkelheit ignoriert werden. Bei vollständiger Finsternis ist aber Dunkelsicht (egal ob Stufe I oder II) wirkungslos und es gelten die Abzüge für vollständige Finsternis.",
+    "voraussetzung": "Spezies, Kultur oder Profession muss Dunkelsicht als automatischen oder empfohlenen Vorteil aufweisen, kein Nachteil Nachtblind",
+    "level": 2,
+    "ap_wert": 20,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 164
+      }
+    ],
+    "_source_file": "Dunkelsicht+I-II+(_).txt",
+    "_category": "Vorteil",
+    "_level_info": {
+      "base_name": "Dunkelsicht",
+      "ap_per_level": 10,
+      "ap_values": null,
+      "total_levels": 2
+    }
+  },
+  {
+    "name": "Einblicke ins Verborgene",
+    "regel": "Die Heldin bekommt im Talent Sinnesschärfe eine Erleichterung von 1, wenn sie Zauber mit dem Merkmal Illusion durchschauen will.",
+    "voraussetzung": "Vorteil Feenblut (Blütenfee)",
+    "ap_wert": 8,
+    "publikationen": [
+      {
+        "buch": "Die Siebenwindküste - Albernia und der Windhag",
+        "seite": 165
+      }
+    ],
+    "_source_file": "Einblicke+ins+Verborgene.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Einkommen I-VI",
+    "regel": "Für jede Stufe dieses Vorteils bekommt der Held die gleiche Stufe als dauerhaften Lebensstil. Das verdiente Geld des Vorteils fließt ausschließlich in den Erhalt des Lebensstils. Extrakosten wie Waffen, Rüstungen und andere Ausrüstung muss der Held von seinem Startkapital oder seinen Erwerbungen während des Spiels bezahlen. Alles was über den Lebensstil hinausgeht, muss allerdings extra gezahlt werden.",
+    "voraussetzung": "Keine",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Kompendium II",
+        "seite": 48
+      }
+    ],
+    "_source_file": "Einkommen+I-VI.txt",
+    "_category": "Vorteil",
+    "_note": "Could not parse level range"
+  },
+  {
+    "name": "Eisenaffine Aura",
+    "regel": "Wer diesen Vorteil aufweist, erleidet durch den Bann des Eisens lediglich pro vollen 4 Stein Gewicht Erschwernisse, anstatt bereits bei 2 vollen Stein.",
+    "voraussetzung": "Vorteil Zauberer",
+    "ap_wert": 15,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 164
+      }
+    ],
+    "_source_file": "Eisenaffine+Aura.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Eisern",
+    "regel": "Die Wundschwelle des Helden steigt durch den Vorteil um 1.",
+    "voraussetzung": "Keine",
+    "ap_wert": 5,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Kompendium",
+        "seite": 132
+      }
+    ],
+    "_source_file": "Eisern.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Eiskalte Berührung",
+    "regel": "Der Held kann bei Angriffen mit Raufen statt TP 1 Stufe Paralyse verursachen. Der Schaden ist kumulativ, maximal lassen sich so aber nur 2 Stufen gegen ein Ziel erzeugen. Der Held benötigt dafür 1 freie Aktion, die Wirkung hält 10 KR lang, danach erleidet er 1 Stufe Betäubung.",
+    "voraussetzung": "Vorteil Dschinnenblut (Eisdschinn)",
+    "ap_wert": 10,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Elementarium",
+        "seite": 143
+      }
+    ],
+    "_source_file": "Eiskalte+Berührung.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Elementare Verteidigung",
+    "regel": "Der Held kann sich schnell bewegen oder mit elementaren Ablenkungen seinen Gegner verwirren, sodass er einen Bonus von +2 auf AW erhält. Er muss dafür 1 freie Aktion einsetzen, die Wirkung hält 10 KR und danach erleidet er selbst 1 Stufe Verwirrung.",
+    "voraussetzung": "Vorteil Dschinnenblut (Eisdschinn, Erzdschinn, Feuerdschinn, Humusdschinn, Luftdschinn oder Wasserdschinn)",
+    "ap_wert": 12,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Elementarium",
+        "seite": 143
+      }
+    ],
+    "_source_file": "Elementare+Verteidigung.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Entfernungssinn",
+    "regel": "Proben auf Fernkampf mit Schusswaffen (und nur mit Schusswaffen) sind bei der Entfernungskategorie Weit nur um 1 anstatt um 2 erschwert.",
+    "voraussetzung": "Kein Nachteil Blind, Eingeschränkter Sinn (Sicht), Farbenblind oder Verstümmelt (Einäugig)",
+    "ap_wert": 10,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 164
+      }
+    ],
+    "_source_file": "Entfernungssinn.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Feenblut (Blütenfee)",
+    "regel": "Die Heldin erhält bei Proben auf alle Gesellschaftstalente (außer Einschüchtern und Willenskraft) eine Erleichterung von 1 bei Teilproben auf IN. Sie kann zudem Angriffen besser ausweichen und bekommt einen Bonus von +1 AW, solange sie maximal Kleidung mit einem RS von bis zu 1 trägt. Bei Wissenstalenten erhält sie eine Erschwernis von 1 auf alle Teilproben, die auf KL gehen.",
+    "voraussetzung": "Kein anderer Ahnenblut-Vorteil",
+    "ap_wert": 15,
+    "publikationen": [
+      {
+        "buch": "Die Siebenwindküste - Albernia und der Windhag",
+        "seite": 163
+      }
+    ],
+    "_source_file": "Feenblut+(Blütenfee).txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Feenblut (Dryade)",
+    "regel": "Die Heldin hat ein gutes Gespür für Bäume und wirkt auf alle humanoiden Spezies verführerisch. Sie erhält bei einer gelungenen Probe auf Pflanzenkunde +1 QS (bis zu einem Maximum von 6 QS), wenn es um Bäume geht, und bei Proben auf Betören einen Bonus von +1 auf beide Teilproben von CH. Dafür erleidet sie eine Erschwernis von 1 bei Proben auf Willenskraft (Betören widerstehen).",
+    "voraussetzung": "Kein anderer Ahnenblut-Vorteil",
+    "ap_wert": 10,
+    "publikationen": [
+      {
+        "buch": "Die Siebenwindküste - Albernia und der Windhag",
+        "seite": 164
+      }
+    ],
+    "_source_file": "Feenblut+(Dryade).txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Feenblut (Großer Eberbiestinger)",
+    "regel": "Der Held erhält bei einer gelungenen Probe auf Tierkunde +1 FP (bis zu einem Maximum von 18 FP). Außerdem friert er kaum, da ihm selbst im Winter aufgrund eines dichten Fells am Körper warm ist. Bei der Bestimmung von Kälteschaden schützt der Vorteil wie Dicke Wollsachen (Kältestufe –1, Regelwerk Seite 346). Bei Proben auf Willenskraft, die zum Widerstehen von Einschüchtern (Provokation) dienen, erleidet der Held eine zusätzliche Erschwernis von 1.",
+    "voraussetzung": "Kein anderer Ahnenblut-Vorteil",
+    "ap_wert": 10,
+    "publikationen": [
+      {
+        "buch": "Die Siebenwindküste - Albernia und der Windhag",
+        "seite": 164
+      }
+    ],
+    "_source_file": "Feenblut+(Großer+Eberbiestinger).txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Feenfreund",
+    "regel": "Proben auf Überreden (Aufschwatzen, Herausreden, Manipulieren, Schmeicheln), um Feen freundlich zu stimmen, gelten bei Gelingen der Probe als um 1 QS besser. Allerdings kann sich so die QS nie über 6 hinaus erhöhen.",
+    "voraussetzung": null,
+    "ap_wert": 3,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Bestiarium",
+        "seite": 120
+      },
+      {
+        "buch": "Die Siebenwindküste - Albernia und der Windhag",
+        "seite": 153
+      }
+    ],
+    "_source_file": "Feenfreund.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Flammenhand",
+    "regel": "Der Held lässt Feuer um seine Hände erscheinen, was ihm bei Angriffen mit Raufen +2 TP gewährt. Er benötigt dafür 1 freie Aktion, die Wirkung hält 10 KR lang, danach erleidet er 1 Stufe Betäubung.",
+    "voraussetzung": "Vorteil Dschinnenblut (Feuerdschinn)",
+    "ap_wert": 10,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Elementarium",
+        "seite": 144
+      }
+    ],
+    "_source_file": "Flammenhand.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Flink",
+    "regel": "Durch Flink bekommt ein Held 1 Punkt auf seinen Geschwindigkeit-Grundwert hinzu.",
+    "voraussetzung": "Kein Nachteil Behäbig, Fettleibig oder Verstümmelt (Einbeinig)",
+    "ap_wert": 8,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 165
+      }
+    ],
+    "_source_file": "Flink.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Fuchssinn",
+    "regel": "Der Held kann Fallen erspüren, die mit den herkömmlichen Sinnen nicht entdeckt werden können. Durch den Vorteil wird das Anwendungsgebiet Fuchssinn im Talent Sinnesschärfe erworben.",
+    "voraussetzung": "Keine",
+    "ap_wert": 15,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 165
+      }
+    ],
+    "_source_file": "Fuchssinn.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Geborener Redner",
+    "regel": "Proben auf das Talent Bekehren & Überzeugen (öffentliche Rede) sind um 1 erleichtert.",
+    "voraussetzung": "Kein Nachteil Stumm",
+    "ap_wert": 4,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 165
+      }
+    ],
+    "_source_file": "Geborener+Redner.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Geweihter",
+    "regel": "Der Geweihte erhält als Karmaenergie-Grundwert 20 KaP. Der Vorteil beinhaltet nicht die Sonderfertigkeit Tradition. Diese muss einzeln erworben werden. Jeder Geweihte muss mit einer Tradition starten (eine Tradition ist eine spezielle Sonderfertigkeit). Ein Held kann auch im späteren Verlauf seines Lebens diesen Vorteil erwerben und Geweihter werden. Allerdings kann man nur eine geweihte Tradition besitzen. Ein Erwerb einer weiteren geweihten Tradition ist nicht möglich.",
+    "voraussetzung": "Keine",
+    "ap_wert": 25,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 165
+      }
+    ],
+    "_source_file": "Geweihter.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Giftresistenz I",
+    "regel": "Eine Giftresistenz verbessert Zähigkeit und Seelenkraft um 1 pro Stufe, wenn es darum geht, Giften zu widerstehen.",
+    "voraussetzung": "Kein Nachteil Giftanfällig",
+    "level": 1,
+    "ap_wert": 10,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 165
+      }
+    ],
+    "_source_file": "Giftresistenz+I-II.txt",
+    "_category": "Vorteil",
+    "_level_info": {
+      "base_name": "Giftresistenz",
+      "ap_per_level": 10,
+      "ap_values": null,
+      "total_levels": 2
+    }
+  },
+  {
+    "name": "Giftresistenz II",
+    "regel": "Eine Giftresistenz verbessert Zähigkeit und Seelenkraft um 1 pro Stufe, wenn es darum geht, Giften zu widerstehen.",
+    "voraussetzung": "Kein Nachteil Giftanfällig",
+    "level": 2,
+    "ap_wert": 20,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 165
+      }
+    ],
+    "_source_file": "Giftresistenz+I-II.txt",
+    "_category": "Vorteil",
+    "_level_info": {
+      "base_name": "Giftresistenz",
+      "ap_per_level": 10,
+      "ap_values": null,
+      "total_levels": 2
+    }
+  },
+  {
+    "name": "Glatte Haut",
+    "regel": "Die Haut des Helden ist elastisch und glatt. Dadurch gleiten alle Nahkampfwaffen im Kampf ab, wenn bei der TP-Bestimmung das minimale Ergebnis erwürfelt wurde. Der Held erleidet dann keinen Schaden. Diese Regel findet jedoch nur Anwendung, wenn der RS des Helden maximal 2 beträgt.",
+    "voraussetzung": "Vorteil Feenblut (Nixer)",
+    "ap_wert": 5,
+    "publikationen": [
+      {
+        "buch": "Die Siebenwindküste - Albernia und der Windhag",
+        "seite": 165
+      }
+    ],
+    "_source_file": "Glatte+Haut.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Glück I",
+    "regel": "Das für den Helden erreichbare Maximum an Schicksalspunkten steigt hierdurch um 1 je Stufe und der Held erhält diesen Schip gleich zu Spielbeginn zu seinem Vorrat.",
+    "voraussetzung": "Kein Nachteil Pech",
+    "level": 1,
+    "ap_wert": 30,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 165
+      }
+    ],
+    "_source_file": "Glück+I-III.txt",
+    "_category": "Vorteil",
+    "_level_info": {
+      "base_name": "Glück",
+      "ap_per_level": 30,
+      "ap_values": null,
+      "total_levels": 3
+    }
+  },
+  {
+    "name": "Glück II",
+    "regel": "Das für den Helden erreichbare Maximum an Schicksalspunkten steigt hierdurch um 1 je Stufe und der Held erhält diesen Schip gleich zu Spielbeginn zu seinem Vorrat.",
+    "voraussetzung": "Kein Nachteil Pech",
+    "level": 2,
+    "ap_wert": 60,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 165
+      }
+    ],
+    "_source_file": "Glück+I-III.txt",
+    "_category": "Vorteil",
+    "_level_info": {
+      "base_name": "Glück",
+      "ap_per_level": 30,
+      "ap_values": null,
+      "total_levels": 3
+    }
+  },
+  {
+    "name": "Glück III",
+    "regel": "Das für den Helden erreichbare Maximum an Schicksalspunkten steigt hierdurch um 1 je Stufe und der Held erhält diesen Schip gleich zu Spielbeginn zu seinem Vorrat.",
+    "voraussetzung": "Kein Nachteil Pech",
+    "level": 3,
+    "ap_wert": 90,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 165
+      }
+    ],
+    "_source_file": "Glück+I-III.txt",
+    "_category": "Vorteil",
+    "_level_info": {
+      "base_name": "Glück",
+      "ap_per_level": 30,
+      "ap_values": null,
+      "total_levels": 3
+    }
+  },
+  {
+    "name": "Gon",
+    "regel": "Die Heldin wird von Gjalskern so behandelt, als hätte sie einen um 1 höheren sozialen Rang als üblich (siehe Regelwerk Seite 338). Das Gegenüber muss aber wissen oder zumindest glauben, dass die Heldin ein Gon ist, damit der Bonus zählt. Die Heldin erhält zudem einen Bonus von +2/+1 bei Proben auf Einschüchtern gegenüber anderen Gjalskern/ Nicht-Gjalskern.",
+    "voraussetzung": "Die Heldin muss ein Gon’da-Gon-Palenkel gewonnen haben.",
+    "ap_wert": 10,
+    "publikationen": [
+      {
+        "buch": "Die Gestade des Gottwals - Thorwal und das Gjalskerland",
+        "seite": 140
+      }
+    ],
+    "_source_file": "Gon.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Greifschwanz",
+    "regel": "Der lange Schwanz des Helden kann Gegenstände so mühelos tragen wie ein Arm, kann aber keine Waffen oder Schilde führen. Er kann Gegenstände mit dem Schwanz feinfühlig genug manipulieren, um sie effektiv als Werkzeuge einzusetzen.",
+    "voraussetzung": "Spezies, Kultur oder Profession muss Vorteil als automatischen oder empfohlenen Vorteil aufweisen.",
+    "ap_wert": 8,
+    "publikationen": [
+      {
+        "buch": "Achaz - Schuppenkleid & Lange Zungen",
+        "seite": 28
+      }
+    ],
+    "_source_file": "Greifschwanz+(_).txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Große Zauberauswahl I",
+    "regel": "Der Held kann pro Stufe des Vorteils einen zusätzlichen Zauber aktivieren und damit die Begrenzung von maximal 3 Zaubern übersteigen. Ob er diese Zauber zu Spielbeginn oder später aktiviert, ist ihm überlassen.",
+    "voraussetzung": "Sonderfertigkeit Tradition (Aninmisten oder Intuitive Zauberer oder Runenschöpfer oder Darna), kein Nachteil Kleine Zauberauswahl",
+    "level": 1,
+    "ap_wert": 8,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie",
+        "seite": 225
+      },
+      {
+        "buch": "Aventurische Magie III",
+        "seite": 207
+      },
+      {
+        "buch": "Geisterwald & Knochenklippen (Die Gestade des Gottwals)",
+        "seite": 5
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 379
+      }
+    ],
+    "_source_file": "Große+Zauberauswahl+I-II.txt",
+    "_category": "Vorteil",
+    "_level_info": {
+      "base_name": "Große Zauberauswahl",
+      "ap_per_level": 8,
+      "ap_values": null,
+      "total_levels": 2
+    }
+  },
+  {
+    "name": "Große Zauberauswahl II",
+    "regel": "Der Held kann pro Stufe des Vorteils einen zusätzlichen Zauber aktivieren und damit die Begrenzung von maximal 3 Zaubern übersteigen. Ob er diese Zauber zu Spielbeginn oder später aktiviert, ist ihm überlassen.",
+    "voraussetzung": "Sonderfertigkeit Tradition (Aninmisten oder Intuitive Zauberer oder Runenschöpfer oder Darna), kein Nachteil Kleine Zauberauswahl",
+    "level": 2,
+    "ap_wert": 16,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie",
+        "seite": 225
+      },
+      {
+        "buch": "Aventurische Magie III",
+        "seite": 207
+      },
+      {
+        "buch": "Geisterwald & Knochenklippen (Die Gestade des Gottwals)",
+        "seite": 5
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 379
+      }
+    ],
+    "_source_file": "Große+Zauberauswahl+I-II.txt",
+    "_category": "Vorteil",
+    "_level_info": {
+      "base_name": "Große Zauberauswahl",
+      "ap_per_level": 8,
+      "ap_values": null,
+      "total_levels": 2
+    }
+  },
+  {
+    "name": "Gutaussehend I",
+    "regel": "Jede Stufe des Vorteils gibt dem Helden eine Erleichterung von 1 auf Betören (Anbändeln, Liebeskünste), Überreden (Aufschwatzen, Herausreden, Manipulieren, Schmeicheln) und Handel (Feilschen).",
+    "voraussetzung": "Kein Nachteil Hässlich",
+    "level": 1,
+    "ap_wert": 20,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 165
+      }
+    ],
+    "_source_file": "Gutaussehend+I-II.txt",
+    "_category": "Vorteil",
+    "_level_info": {
+      "base_name": "Gutaussehend",
+      "ap_per_level": 20,
+      "ap_values": null,
+      "total_levels": 2
+    }
+  },
+  {
+    "name": "Gutaussehend II",
+    "regel": "Jede Stufe des Vorteils gibt dem Helden eine Erleichterung von 1 auf Betören (Anbändeln, Liebeskünste), Überreden (Aufschwatzen, Herausreden, Manipulieren, Schmeicheln) und Handel (Feilschen).",
+    "voraussetzung": "Kein Nachteil Hässlich",
+    "level": 2,
+    "ap_wert": 40,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 165
+      }
+    ],
+    "_source_file": "Gutaussehend+I-II.txt",
+    "_category": "Vorteil",
+    "_level_info": {
+      "base_name": "Gutaussehend",
+      "ap_per_level": 20,
+      "ap_values": null,
+      "total_levels": 2
+    }
+  },
+  {
+    "name": "Gutes Namensgedächtnis",
+    "regel": "Die Abenteurerin kann sich an so gut wie jeden Namen (samt Titel, Ränge und Ämter) erinnern. Der Meister sollte voraussetzen, dass die Heldin Personen immer den korrekten Namen zuordnen kann, auch wenn der Spieler der Heldin sich nicht immer erinnert. Zudem kann der Meister in passenden Situationen, z. B. auf Festen oder wenn der korrekte Name eine wichtige Rolle spielt, dem Spieler eine Erleichterung von 1 bei der Teilprobe auf Klugheit bei Etikette (Heraldik & Stammbäume oder Klatsch & Tratsch) zugestehen.",
+    "voraussetzung": "Kein Nachteil Schlechtes Namensgedächtnis",
+    "ap_wert": 2,
+    "publikationen": [
+      {
+        "buch": "Aventurische Namen",
+        "seite": 89
+      }
+    ],
+    "_source_file": "Gutes+Namensgedächtnis.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Harmonie des Waldes",
+    "regel": "Befindet die Heldin sich in einem Wald, so kann sie einmal am Tag eine Probe auf Willenskraft ablegen, um QS/2 Zustandsstufen von Betäubung, Furcht, Paralyse oder Schmerz abzubauen. Wenn mehrere Stufen auf diese Weise aufgehoben werden können, können diese zwischen den Zuständen aufgeteilt werden (z. B. 1 Stufe Furcht und 2 Stufen Betäubung). Die Probe abzulegen dauert 1 Minute.",
+    "voraussetzung": "Vorteil Feenblut (Dryade)",
+    "ap_wert": 10,
+    "publikationen": [
+      {
+        "buch": "Die Siebenwindküste - Albernia und der Windhag",
+        "seite": 165
+      }
+    ],
+    "_source_file": "Harmonie+des+Waldes.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Hart im Nehmen",
+    "regel": "Muss eine Probe auf Selbstbeherrschung (Handlungsfähigkeit bewahren oder Störungen ignorieren) bei Wundeffekten abgelegt werden, bekommt die Spielerin eine Erleichterung von 1.",
+    "voraussetzung": "Keine",
+    "ap_wert": 3,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Kompendium",
+        "seite": 132
+      }
+    ],
+    "_source_file": "Hart+im+Nehmen.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Hass auf",
+    "regel": "Der Held richtet gegen eine Art von Wesen, das beim Erwerb dieses Vorteils festgelegt werden muss, +1 TP im Nahkampf an. Der Typus des Wesens muss dabei näher spezifiziert werden. Je häufiger der Typus des Wesens in Aventurien vorkommt, desto teurer der AP-Wert für diesen Vorteil. Ausgeschlossen als wählbare Typen sind die Oberkategorien Lebewesen und Nicht Lebende. Neben dem im Regelwerk aufgeführten Typen und Unterkategorien kann man auch Spezies und Kulturen wählen.",
+    "voraussetzung": "Keine",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Bestiarium",
+        "seite": 120
+      }
+    ],
+    "_source_file": "Hass+auf.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Hauttasche",
+    "regel": "Der Held hat zwei kleine Hauttaschen, die je einen tassengroßen Gegenstand oder vier handflächengroße Gegenstände aufnehmen können. Verfügt er über den Vorteil Greifschwanz, kann er die Gegenstände mit 1 freien Aktion aus der Hauttasche holen. Um die Gegenstände zu bemerken, ist eine Probe auf Sinnesschärfe (Suchen oder Wahrnehmen) –2 notwendig.",
+    "voraussetzung": "Spezies, Kultur oder Profession muss Vorteil als automatischen oder empfohlenen Vorteil aufweisen.",
+    "ap_wert": 10,
+    "publikationen": [
+      {
+        "buch": "Achaz - Schuppenkleid & Lange Zungen",
+        "seite": 28
+      }
+    ],
+    "_source_file": "Hauttasche+(_).txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Heldenhafter Name",
+    "regel": "Abenteurer mit einem heldenhaften Namen werden respektvoller behandelt als andere Menschen und man glaubt ihnen eher. Teilproben auf Charisma bei Bekehren & Überzeugen und Überreden sind um 1 erleichtert.",
+    "voraussetzung": "Ein heldenhafter Name, kein Vorteil Allerweltsname, kein Nachteil Lächerlicher Name, Schurkenname oder Unpassender Name",
+    "ap_wert": 8,
+    "publikationen": [
+      {
+        "buch": "Aventurische Namen",
+        "seite": 89
+      }
+    ],
+    "_source_file": "Heldenhafter+Name.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Herausragender Sinn (Geruch & Geschmack)",
+    "regel": "Wer über einen Herausragenden Sinn verfügt, dessen Proben auf Sinnesschärfe sind um 1 erleichtert, wenn die Probe den entsprechenden Sinn betrifft. Folgende Sinne können gewählt werden: Sicht, Gehör, Geruch & Geschmack, Tastsinn.\n\nGeruch & Geschmack: Wer über einen Herausragenden Sinn verfügt, dessen Proben auf Sinnesschärfe sind um 1 erleichtert, wenn die Probe den entsprechenden Sinn betrifft.",
+    "voraussetzung": "Kein Nachteil Eingeschränkter Sinn für den gleichen Sinn, kein Nachteil Blind (für Sicht), kein Nachteil Taub (für Gehör)",
+    "variant": "Geruch & Geschmack",
+    "ap_wert": 6,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 166
+      }
+    ],
+    "_source_file": "Herausragender+Sinn.txt",
+    "_category": "Vorteil",
+    "_variant_info": {
+      "base_name": "Herausragender Sinn",
+      "total_variants": 3
+    }
+  },
+  {
+    "name": "Herausragender Sinn (Sicht/Gehör)",
+    "regel": "Wer über einen Herausragenden Sinn verfügt, dessen Proben auf Sinnesschärfe sind um 1 erleichtert, wenn die Probe den entsprechenden Sinn betrifft. Folgende Sinne können gewählt werden: Sicht, Gehör, Geruch & Geschmack, Tastsinn.\n\nSicht/Gehör: Wer über einen Herausragenden Sinn verfügt, dessen Proben auf Sinnesschärfe sind um 1 erleichtert, wenn die Probe den entsprechenden Sinn betrifft.",
+    "voraussetzung": "Kein Nachteil Eingeschränkter Sinn für den gleichen Sinn, kein Nachteil Blind (für Sicht), kein Nachteil Taub (für Gehör)",
+    "variant": "Sicht/Gehör",
+    "ap_wert": 12,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 166
+      }
+    ],
+    "_source_file": "Herausragender+Sinn.txt",
+    "_category": "Vorteil",
+    "_variant_info": {
+      "base_name": "Herausragender Sinn",
+      "total_variants": 3
+    }
+  },
+  {
+    "name": "Herausragender Sinn (Tastsinn)",
+    "regel": "Wer über einen Herausragenden Sinn verfügt, dessen Proben auf Sinnesschärfe sind um 1 erleichtert, wenn die Probe den entsprechenden Sinn betrifft. Folgende Sinne können gewählt werden: Sicht, Gehör, Geruch & Geschmack, Tastsinn.\n\nTastsinn: Wer über einen Herausragenden Sinn verfügt, dessen Proben auf Sinnesschärfe sind um 1 erleichtert, wenn die Probe den entsprechenden Sinn betrifft.",
+    "voraussetzung": "Kein Nachteil Eingeschränkter Sinn für den gleichen Sinn, kein Nachteil Blind (für Sicht), kein Nachteil Taub (für Gehör)",
+    "variant": "Tastsinn",
+    "ap_wert": 2,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 166
+      }
+    ],
+    "_source_file": "Herausragender+Sinn.txt",
+    "_category": "Vorteil",
+    "_variant_info": {
+      "base_name": "Herausragender Sinn",
+      "total_variants": 3
+    }
+  },
+  {
+    "name": "Herausragende Fertigkeit (A-Fertigkeit)",
+    "regel": "Durch den Vorteil Herausragende Fertigkeit verschiebt sich das Maximum in einer Fertigkeit um 1 nach oben, sowohl beim Maximum der Heldenerschaffung als auch beim endgültigen Maximum (abhängig von der höchsten beteiligten Eigenschaft). Zwar erhält ein Held nicht automatisch einen Fertigkeitspunkt dazu, aber er kann zu Spielbeginn zum Beispiel bei Erfahrungsgrad Erfahren mit einem Wert von 11 starten (anstatt 10) und auch sein absolutes Maximum in der Fertigkeit ist um 1 erhöht. Der Vorteil kann bis zu viermal gewählt werden, wobei keine Fertigkeit mehr als zweimal gewählt werden kann. Bei zweifacher Zuteilung auf eine Fertigkeit erhöht der Vorteil das Maximum um 2.\n\nA-Fertigkeit: 2 Abenteuerpunkte pro Anwendung für A-Fertigkeit",
+    "voraussetzung": "Kein Nachteil Unfähig in der Fertigkeit",
+    "variant": "A-Fertigkeit",
+    "ap_wert": 2,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 166
+      }
+    ],
+    "_source_file": "Herausragende+Fertigkeit.txt",
+    "_category": "Vorteil",
+    "_variant_info": {
+      "base_name": "Herausragende Fertigkeit",
+      "total_variants": 4
+    }
+  },
+  {
+    "name": "Herausragende Fertigkeit (B-Fertigkeit)",
+    "regel": "Durch den Vorteil Herausragende Fertigkeit verschiebt sich das Maximum in einer Fertigkeit um 1 nach oben, sowohl beim Maximum der Heldenerschaffung als auch beim endgültigen Maximum (abhängig von der höchsten beteiligten Eigenschaft). Zwar erhält ein Held nicht automatisch einen Fertigkeitspunkt dazu, aber er kann zu Spielbeginn zum Beispiel bei Erfahrungsgrad Erfahren mit einem Wert von 11 starten (anstatt 10) und auch sein absolutes Maximum in der Fertigkeit ist um 1 erhöht. Der Vorteil kann bis zu viermal gewählt werden, wobei keine Fertigkeit mehr als zweimal gewählt werden kann. Bei zweifacher Zuteilung auf eine Fertigkeit erhöht der Vorteil das Maximum um 2.\n\nB-Fertigkeit: 4 Abenteuerpunkte pro Anwendung für B-Fertigkeit",
+    "voraussetzung": "Kein Nachteil Unfähig in der Fertigkeit",
+    "variant": "B-Fertigkeit",
+    "ap_wert": 4,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 166
+      }
+    ],
+    "_source_file": "Herausragende+Fertigkeit.txt",
+    "_category": "Vorteil",
+    "_variant_info": {
+      "base_name": "Herausragende Fertigkeit",
+      "total_variants": 4
+    }
+  },
+  {
+    "name": "Herausragende Fertigkeit (C-Fertigkeit)",
+    "regel": "Durch den Vorteil Herausragende Fertigkeit verschiebt sich das Maximum in einer Fertigkeit um 1 nach oben, sowohl beim Maximum der Heldenerschaffung als auch beim endgültigen Maximum (abhängig von der höchsten beteiligten Eigenschaft). Zwar erhält ein Held nicht automatisch einen Fertigkeitspunkt dazu, aber er kann zu Spielbeginn zum Beispiel bei Erfahrungsgrad Erfahren mit einem Wert von 11 starten (anstatt 10) und auch sein absolutes Maximum in der Fertigkeit ist um 1 erhöht. Der Vorteil kann bis zu viermal gewählt werden, wobei keine Fertigkeit mehr als zweimal gewählt werden kann. Bei zweifacher Zuteilung auf eine Fertigkeit erhöht der Vorteil das Maximum um 2.\n\nC-Fertigkeit: 6 Abenteuerpunkte pro Anwendung für C-Fertigkeit",
+    "voraussetzung": "Kein Nachteil Unfähig in der Fertigkeit",
+    "variant": "C-Fertigkeit",
+    "ap_wert": 6,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 166
+      }
+    ],
+    "_source_file": "Herausragende+Fertigkeit.txt",
+    "_category": "Vorteil",
+    "_variant_info": {
+      "base_name": "Herausragende Fertigkeit",
+      "total_variants": 4
+    }
+  },
+  {
+    "name": "Herausragende Fertigkeit (D-Fertigkeit)",
+    "regel": "Durch den Vorteil Herausragende Fertigkeit verschiebt sich das Maximum in einer Fertigkeit um 1 nach oben, sowohl beim Maximum der Heldenerschaffung als auch beim endgültigen Maximum (abhängig von der höchsten beteiligten Eigenschaft). Zwar erhält ein Held nicht automatisch einen Fertigkeitspunkt dazu, aber er kann zu Spielbeginn zum Beispiel bei Erfahrungsgrad Erfahren mit einem Wert von 11 starten (anstatt 10) und auch sein absolutes Maximum in der Fertigkeit ist um 1 erhöht. Der Vorteil kann bis zu viermal gewählt werden, wobei keine Fertigkeit mehr als zweimal gewählt werden kann. Bei zweifacher Zuteilung auf eine Fertigkeit erhöht der Vorteil das Maximum um 2.\n\nD-Fertigkeit: 8 Abenteuerpunkte pro Anwendung für D-Fertigkeit",
+    "voraussetzung": "Kein Nachteil Unfähig in der Fertigkeit",
+    "variant": "D-Fertigkeit",
+    "ap_wert": 8,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 166
+      }
+    ],
+    "_source_file": "Herausragende+Fertigkeit.txt",
+    "_category": "Vorteil",
+    "_variant_info": {
+      "base_name": "Herausragende Fertigkeit",
+      "total_variants": 4
+    }
+  },
+  {
+    "name": "Herausragende Kampftechnik (B-/C-/D-Kampftechnik)",
+    "regel": "Durch den Vorteil Herausragende Kampftechnik verschiebt sich das Maximum in einer Kampftechnik um 1 nach oben, sowohl beim Maximum der Heldenerschaffung als auch beim endgültigen Maximum (abhängig von der Leiteigenschaft). Zwar erhält der Held nicht automatisch einen Kampftechnikpunkt dazu, aber er kann zu Spielbeginn zum Beispiel bei Erfahrungsgrad Erfahren mit einem Wert von 13 starten (anstatt 12) und auch das absolute Maximum in der Kampftechnik ist um 1 erhöht.",
+    "voraussetzung": "Keine",
+    "variant": "B-/C-/D-Kampftechnik",
+    "ap_wert": 16,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 166
+      }
+    ],
+    "_source_file": "Herausragende+Kampftechnik.txt",
+    "_category": "Vorteil",
+    "_variant_info": {
+      "base_name": "Herausragende Kampftechnik",
+      "total_variants": 3
+    }
+  },
+  {
+    "name": "Hitzeresistenz",
+    "regel": "Hitzestufen werden für den Helden um 1 Stufe reduziert, bis zu einem Minimum von Hitzestufe 1.",
+    "voraussetzung": "Kein Nachteil Hitzeempfindlich",
+    "ap_wert": 5,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 166
+      }
+    ],
+    "_source_file": "Hitzeresistenz.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Hohe Astralkraft I",
+    "regel": "Der AE-Grundwert steigt durch diesen Vorteil um 1 Punkt pro Stufe des Vorteils.",
+    "voraussetzung": "Vorteil Zauberer, kein Nachteil Niedrige Astralkraft",
+    "level": 1,
+    "ap_wert": 6,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 166
+      }
+    ],
+    "_source_file": "Hohe+Astralkraft+I-VII.txt",
+    "_category": "Vorteil",
+    "_level_info": {
+      "base_name": "Hohe Astralkraft",
+      "ap_per_level": 6,
+      "ap_values": null,
+      "total_levels": 7
+    }
+  },
+  {
+    "name": "Hohe Astralkraft II",
+    "regel": "Der AE-Grundwert steigt durch diesen Vorteil um 1 Punkt pro Stufe des Vorteils.",
+    "voraussetzung": "Vorteil Zauberer, kein Nachteil Niedrige Astralkraft",
+    "level": 2,
+    "ap_wert": 12,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 166
+      }
+    ],
+    "_source_file": "Hohe+Astralkraft+I-VII.txt",
+    "_category": "Vorteil",
+    "_level_info": {
+      "base_name": "Hohe Astralkraft",
+      "ap_per_level": 6,
+      "ap_values": null,
+      "total_levels": 7
+    }
+  },
+  {
+    "name": "Hohe Astralkraft III",
+    "regel": "Der AE-Grundwert steigt durch diesen Vorteil um 1 Punkt pro Stufe des Vorteils.",
+    "voraussetzung": "Vorteil Zauberer, kein Nachteil Niedrige Astralkraft",
+    "level": 3,
+    "ap_wert": 18,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 166
+      }
+    ],
+    "_source_file": "Hohe+Astralkraft+I-VII.txt",
+    "_category": "Vorteil",
+    "_level_info": {
+      "base_name": "Hohe Astralkraft",
+      "ap_per_level": 6,
+      "ap_values": null,
+      "total_levels": 7
+    }
+  },
+  {
+    "name": "Hohe Astralkraft IV",
+    "regel": "Der AE-Grundwert steigt durch diesen Vorteil um 1 Punkt pro Stufe des Vorteils.",
+    "voraussetzung": "Vorteil Zauberer, kein Nachteil Niedrige Astralkraft",
+    "level": 4,
+    "ap_wert": 24,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 166
+      }
+    ],
+    "_source_file": "Hohe+Astralkraft+I-VII.txt",
+    "_category": "Vorteil",
+    "_level_info": {
+      "base_name": "Hohe Astralkraft",
+      "ap_per_level": 6,
+      "ap_values": null,
+      "total_levels": 7
+    }
+  },
+  {
+    "name": "Hohe Astralkraft V",
+    "regel": "Der AE-Grundwert steigt durch diesen Vorteil um 1 Punkt pro Stufe des Vorteils.",
+    "voraussetzung": "Vorteil Zauberer, kein Nachteil Niedrige Astralkraft",
+    "level": 5,
+    "ap_wert": 30,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 166
+      }
+    ],
+    "_source_file": "Hohe+Astralkraft+I-VII.txt",
+    "_category": "Vorteil",
+    "_level_info": {
+      "base_name": "Hohe Astralkraft",
+      "ap_per_level": 6,
+      "ap_values": null,
+      "total_levels": 7
+    }
+  },
+  {
+    "name": "Hohe Astralkraft VI",
+    "regel": "Der AE-Grundwert steigt durch diesen Vorteil um 1 Punkt pro Stufe des Vorteils.",
+    "voraussetzung": "Vorteil Zauberer, kein Nachteil Niedrige Astralkraft",
+    "level": 6,
+    "ap_wert": 36,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 166
+      }
+    ],
+    "_source_file": "Hohe+Astralkraft+I-VII.txt",
+    "_category": "Vorteil",
+    "_level_info": {
+      "base_name": "Hohe Astralkraft",
+      "ap_per_level": 6,
+      "ap_values": null,
+      "total_levels": 7
+    }
+  },
+  {
+    "name": "Hohe Astralkraft VII",
+    "regel": "Der AE-Grundwert steigt durch diesen Vorteil um 1 Punkt pro Stufe des Vorteils.",
+    "voraussetzung": "Vorteil Zauberer, kein Nachteil Niedrige Astralkraft",
+    "level": 7,
+    "ap_wert": 42,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 166
+      }
+    ],
+    "_source_file": "Hohe+Astralkraft+I-VII.txt",
+    "_category": "Vorteil",
+    "_level_info": {
+      "base_name": "Hohe Astralkraft",
+      "ap_per_level": 6,
+      "ap_values": null,
+      "total_levels": 7
+    }
+  },
+  {
+    "name": "Hohe Karmalkraft I",
+    "regel": "Der KE-Grundwert steigt durch diesen Vorteil um 1 Punkt pro Stufe des Vorteils.",
+    "voraussetzung": "Vorteil Geweihter, kein Nachteil Niedrige Karmalkraft",
+    "level": 1,
+    "ap_wert": 6,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 166
+      }
+    ],
+    "_source_file": "Hohe+Karmalkraft+I-VII.txt",
+    "_category": "Vorteil",
+    "_level_info": {
+      "base_name": "Hohe Karmalkraft",
+      "ap_per_level": 6,
+      "ap_values": null,
+      "total_levels": 7
+    }
+  },
+  {
+    "name": "Hohe Karmalkraft II",
+    "regel": "Der KE-Grundwert steigt durch diesen Vorteil um 1 Punkt pro Stufe des Vorteils.",
+    "voraussetzung": "Vorteil Geweihter, kein Nachteil Niedrige Karmalkraft",
+    "level": 2,
+    "ap_wert": 12,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 166
+      }
+    ],
+    "_source_file": "Hohe+Karmalkraft+I-VII.txt",
+    "_category": "Vorteil",
+    "_level_info": {
+      "base_name": "Hohe Karmalkraft",
+      "ap_per_level": 6,
+      "ap_values": null,
+      "total_levels": 7
+    }
+  },
+  {
+    "name": "Hohe Karmalkraft III",
+    "regel": "Der KE-Grundwert steigt durch diesen Vorteil um 1 Punkt pro Stufe des Vorteils.",
+    "voraussetzung": "Vorteil Geweihter, kein Nachteil Niedrige Karmalkraft",
+    "level": 3,
+    "ap_wert": 18,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 166
+      }
+    ],
+    "_source_file": "Hohe+Karmalkraft+I-VII.txt",
+    "_category": "Vorteil",
+    "_level_info": {
+      "base_name": "Hohe Karmalkraft",
+      "ap_per_level": 6,
+      "ap_values": null,
+      "total_levels": 7
+    }
+  },
+  {
+    "name": "Hohe Karmalkraft IV",
+    "regel": "Der KE-Grundwert steigt durch diesen Vorteil um 1 Punkt pro Stufe des Vorteils.",
+    "voraussetzung": "Vorteil Geweihter, kein Nachteil Niedrige Karmalkraft",
+    "level": 4,
+    "ap_wert": 24,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 166
+      }
+    ],
+    "_source_file": "Hohe+Karmalkraft+I-VII.txt",
+    "_category": "Vorteil",
+    "_level_info": {
+      "base_name": "Hohe Karmalkraft",
+      "ap_per_level": 6,
+      "ap_values": null,
+      "total_levels": 7
+    }
+  },
+  {
+    "name": "Hohe Karmalkraft V",
+    "regel": "Der KE-Grundwert steigt durch diesen Vorteil um 1 Punkt pro Stufe des Vorteils.",
+    "voraussetzung": "Vorteil Geweihter, kein Nachteil Niedrige Karmalkraft",
+    "level": 5,
+    "ap_wert": 30,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 166
+      }
+    ],
+    "_source_file": "Hohe+Karmalkraft+I-VII.txt",
+    "_category": "Vorteil",
+    "_level_info": {
+      "base_name": "Hohe Karmalkraft",
+      "ap_per_level": 6,
+      "ap_values": null,
+      "total_levels": 7
+    }
+  },
+  {
+    "name": "Hohe Karmalkraft VI",
+    "regel": "Der KE-Grundwert steigt durch diesen Vorteil um 1 Punkt pro Stufe des Vorteils.",
+    "voraussetzung": "Vorteil Geweihter, kein Nachteil Niedrige Karmalkraft",
+    "level": 6,
+    "ap_wert": 36,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 166
+      }
+    ],
+    "_source_file": "Hohe+Karmalkraft+I-VII.txt",
+    "_category": "Vorteil",
+    "_level_info": {
+      "base_name": "Hohe Karmalkraft",
+      "ap_per_level": 6,
+      "ap_values": null,
+      "total_levels": 7
+    }
+  },
+  {
+    "name": "Hohe Karmalkraft VII",
+    "regel": "Der KE-Grundwert steigt durch diesen Vorteil um 1 Punkt pro Stufe des Vorteils.",
+    "voraussetzung": "Vorteil Geweihter, kein Nachteil Niedrige Karmalkraft",
+    "level": 7,
+    "ap_wert": 42,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 166
+      }
+    ],
+    "_source_file": "Hohe+Karmalkraft+I-VII.txt",
+    "_category": "Vorteil",
+    "_level_info": {
+      "base_name": "Hohe Karmalkraft",
+      "ap_per_level": 6,
+      "ap_values": null,
+      "total_levels": 7
+    }
+  },
+  {
+    "name": "Hohe Lebenskraft I",
+    "regel": "Der LE-Grundwert steigt durch diesen Vorteil um 1 Punkt pro Stufe des Vorteils.",
+    "voraussetzung": "Kein Nachteil Niedrige Lebenskraft",
+    "level": 1,
+    "ap_wert": 6,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 166
+      }
+    ],
+    "_source_file": "Hohe+Lebenskraft+I-VII.txt",
+    "_category": "Vorteil",
+    "_level_info": {
+      "base_name": "Hohe Lebenskraft",
+      "ap_per_level": 6,
+      "ap_values": null,
+      "total_levels": 7
+    }
+  },
+  {
+    "name": "Hohe Lebenskraft II",
+    "regel": "Der LE-Grundwert steigt durch diesen Vorteil um 1 Punkt pro Stufe des Vorteils.",
+    "voraussetzung": "Kein Nachteil Niedrige Lebenskraft",
+    "level": 2,
+    "ap_wert": 12,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 166
+      }
+    ],
+    "_source_file": "Hohe+Lebenskraft+I-VII.txt",
+    "_category": "Vorteil",
+    "_level_info": {
+      "base_name": "Hohe Lebenskraft",
+      "ap_per_level": 6,
+      "ap_values": null,
+      "total_levels": 7
+    }
+  },
+  {
+    "name": "Hohe Lebenskraft III",
+    "regel": "Der LE-Grundwert steigt durch diesen Vorteil um 1 Punkt pro Stufe des Vorteils.",
+    "voraussetzung": "Kein Nachteil Niedrige Lebenskraft",
+    "level": 3,
+    "ap_wert": 18,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 166
+      }
+    ],
+    "_source_file": "Hohe+Lebenskraft+I-VII.txt",
+    "_category": "Vorteil",
+    "_level_info": {
+      "base_name": "Hohe Lebenskraft",
+      "ap_per_level": 6,
+      "ap_values": null,
+      "total_levels": 7
+    }
+  },
+  {
+    "name": "Hohe Lebenskraft IV",
+    "regel": "Der LE-Grundwert steigt durch diesen Vorteil um 1 Punkt pro Stufe des Vorteils.",
+    "voraussetzung": "Kein Nachteil Niedrige Lebenskraft",
+    "level": 4,
+    "ap_wert": 24,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 166
+      }
+    ],
+    "_source_file": "Hohe+Lebenskraft+I-VII.txt",
+    "_category": "Vorteil",
+    "_level_info": {
+      "base_name": "Hohe Lebenskraft",
+      "ap_per_level": 6,
+      "ap_values": null,
+      "total_levels": 7
+    }
+  },
+  {
+    "name": "Hohe Lebenskraft V",
+    "regel": "Der LE-Grundwert steigt durch diesen Vorteil um 1 Punkt pro Stufe des Vorteils.",
+    "voraussetzung": "Kein Nachteil Niedrige Lebenskraft",
+    "level": 5,
+    "ap_wert": 30,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 166
+      }
+    ],
+    "_source_file": "Hohe+Lebenskraft+I-VII.txt",
+    "_category": "Vorteil",
+    "_level_info": {
+      "base_name": "Hohe Lebenskraft",
+      "ap_per_level": 6,
+      "ap_values": null,
+      "total_levels": 7
+    }
+  },
+  {
+    "name": "Hohe Lebenskraft VI",
+    "regel": "Der LE-Grundwert steigt durch diesen Vorteil um 1 Punkt pro Stufe des Vorteils.",
+    "voraussetzung": "Kein Nachteil Niedrige Lebenskraft",
+    "level": 6,
+    "ap_wert": 36,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 166
+      }
+    ],
+    "_source_file": "Hohe+Lebenskraft+I-VII.txt",
+    "_category": "Vorteil",
+    "_level_info": {
+      "base_name": "Hohe Lebenskraft",
+      "ap_per_level": 6,
+      "ap_values": null,
+      "total_levels": 7
+    }
+  },
+  {
+    "name": "Hohe Lebenskraft VII",
+    "regel": "Der LE-Grundwert steigt durch diesen Vorteil um 1 Punkt pro Stufe des Vorteils.",
+    "voraussetzung": "Kein Nachteil Niedrige Lebenskraft",
+    "level": 7,
+    "ap_wert": 42,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 166
+      }
+    ],
+    "_source_file": "Hohe+Lebenskraft+I-VII.txt",
+    "_category": "Vorteil",
+    "_level_info": {
+      "base_name": "Hohe Lebenskraft",
+      "ap_per_level": 6,
+      "ap_values": null,
+      "total_levels": 7
+    }
+  },
+  {
+    "name": "Hohe Seelenkraft",
+    "regel": "Der SK-Grundwert des Helden ist um 1 besser.",
+    "voraussetzung": "Kein Nachteil Niedrige Seelenkraft",
+    "ap_wert": 25,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 166
+      }
+    ],
+    "_source_file": "Hohe+Seelenkraft.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Hohe Zähigkeit",
+    "regel": "Der ZK-Grundwert des Helden ist um 1 besser.",
+    "voraussetzung": "Kein Nachteil Niedrige Zähigkeit",
+    "ap_wert": 25,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 167
+      }
+    ],
+    "_source_file": "Hohe+Zähigkeit.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Immunität gegen (Gift)",
+    "regel": "Wer immun gegen ein bestimmtes Gift ist, auf den hat dieses Gift keinerlei Wirkung. Eine Immunität muss für jedes Gift einzeln erworben werden.",
+    "voraussetzung": "Keine",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 167
+      }
+    ],
+    "_source_file": "Immunität+gegen+(Gift).txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Immunität gegen (Krankheit)",
+    "regel": "Wer immun gegen eine bestimmte Krankheit ist, kann nicht an ihr erkranken. Eine Immunität muss für jede Krankheit einzeln erworben werden.",
+    "voraussetzung": "Keine",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 167
+      }
+    ],
+    "_source_file": "Immunität+gegen+(Krankheit).txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Kälteresistenz",
+    "regel": "Kältestufen werden für den Helden um 1 Stufe reduziert, bis zu einem Minimum von 0.",
+    "voraussetzung": "Kein Nachteil Kälteempfindlich",
+    "ap_wert": 5,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 167
+      }
+    ],
+    "_source_file": "Kälteresistenz.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Kein Bann des Eisens",
+    "regel": "Der Held kann die Erschwernisse durch Bann des Eisens (siehe Regelwerk) ignorieren. Er ist weder durch das Tragen von Eisen in Form von Waffen, Rüstungen oder Ausrüstung betroffen, noch erleidet er irgendwelche Nachteile dadurch, dass er mit dem Material arbeitet.",
+    "voraussetzung": "Sonderfertigkeit Tradition (Meistertalentierte), kein Vorteil Eisenaffine Aura",
+    "ap_wert": 25,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie",
+        "seite": 225
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 379
+      }
+    ],
+    "_source_file": "Kein+Bann+des+Eisens.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Koboldfreund",
+    "regel": "Proben auf Überreden (Aufschwatzen, Herausreden, Manipulieren, Schmeicheln), um einen Kobold/Klabauter freundlich zu stimmen, gelten bei Gelingen der Probe als um 1 QS besser. Allerdings kann sich die QS so nie über 6 hinaus erhöhen.",
+    "voraussetzung": "Kein Vorteil Hass auf Kobolde (und deren Untergruppen), keine Schlechte Eigenschaft Vorurteile gegen Kobolde",
+    "ap_wert": 3,
+    "publikationen": [
+      {
+        "buch": "Die Siebenwindküste - Albernia und der Windhag",
+        "seite": 153
+      }
+    ],
+    "_source_file": "Koboldfreund.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Kontakt",
+    "regel": "In Städten gibt es Unterweltbanden, die einen mehr oder weniger fähigen Anführer haben. Einer dieser Unterweltkönige kann für einen Helden ein wertvoller Kontakt sein, da er Schläger zum Schutz des Helden bereitstellen, einen Gegenstand von seinen Leuten stehlen lassen oder den Helden mit Gerüchten versorgen kann.",
+    "voraussetzung": "Keine",
+    "ap_wert": 20,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Kompendium II",
+        "seite": 62
+      }
+    ],
+    "_source_file": "Kontakt+(Unterweltkönig).txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Kontakt (Bettler)",
+    "regel": "Von den Menschen kaum beachtet, ist ein Bettler eine Informationsquelle für allerlei Gerüchte, die sich auf den Gassen einer Stadt abspielen. Er kann Auge und Ohr offen halten und für ein paar Silbertaler einem Helden Gerüchte über Stadtwachen, Diebe und Patrizier verraten.",
+    "voraussetzung": "Keine",
+    "ap_wert": 5,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Kompendium II",
+        "seite": 60
+      }
+    ],
+    "_source_file": "Kontakt+(Bettler).txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Kontakt (Botenreiter)",
+    "regel": "Ein Botenreiter kommt viel herum und ist deshalb eine gute Informationsquelle für Geschehnisse, die sich an deren Orten zugetragen haben, oder auch, was sich auf dem Weg dorthin ereignet hat. Zudem kann er den Helden neue Pferde oder Schreiber vermitteln.",
+    "voraussetzung": null,
+    "ap_wert": 13,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Kompendium II",
+        "seite": 60
+      }
+    ],
+    "_source_file": "Kontakt+(Botenreiter).txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Kontakt (Freund aus Kindheitstagen)",
+    "regel": "Der Freund aus Kindheitstagen eines Helden ist ein treuer Kamerad, der vielleicht nicht über viel Einfluss verfügt, aber stets bereit ist, dem Helden einen kleinen Gefallen zu tun.",
+    "voraussetzung": "Keine",
+    "ap_wert": -29,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Kompendium II",
+        "seite": 60
+      }
+    ],
+    "_source_file": "Kontakt+(Freund+aus+Kindheitstagen).txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Kontakt (Geweihte)",
+    "regel": "Ein einfacher Geweihter kann dem Helden bei Fragen zu kirchlichen Themen beistehen oder für ihn auch eine passende Liturgie wirken, um ihm bei der Lösung eines Problems zu helfen, sofern dies nicht im Widerspruch zur Gottheit oder Kirche des Geweihten steht.",
+    "voraussetzung": null,
+    "ap_wert": 18,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Kompendium II",
+        "seite": 60
+      }
+    ],
+    "_source_file": "Kontakt+(Geweihte).txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Kontakt (Handwerksmeister)",
+    "regel": "Der Handwerksmeister, beispielsweise ein Schmied, kann ein Kontakt des Helden sein, der ihm ermöglicht, deutlich bessere Ausrüstung zu oder die Hilfe einer Zunft oder Gilde zu erhalten.",
+    "voraussetzung": null,
+    "ap_wert": 8,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Kompendium II",
+        "seite": 61
+      }
+    ],
+    "_source_file": "Kontakt+(Handwerksmeister).txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Kontakt (Hehler)",
+    "regel": "Hehler sind Experten darin, Waren ein- und zu verkaufen, allerdings meist gestohlene Ware oder Schmuggelgut. Für einen Helden kann ein Hehler der wichtigste Kontakt in der Unterwelt einer Stadt sein, verschafft er dem Abenteurer doch Ausrüstung (und Informationen), an die er sonst nicht herankommt.",
+    "voraussetzung": "Keine",
+    "ap_wert": 10,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Kompendium II",
+        "seite": 61
+      }
+    ],
+    "_source_file": "Kontakt+(Hehler).txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Kontakt (Junkerin)",
+    "regel": "Die Junkerin ist eine Kleinadlige, die diverse Kontakte zu Adelskreisen oder einflussreichen Persönlichkeiten hat.",
+    "voraussetzung": "Keine",
+    "ap_wert": 13,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Kompendium II",
+        "seite": 61
+      }
+    ],
+    "_source_file": "Kontakt+(Junkerin).txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Kontakt (Magier)",
+    "regel": "Ein Magier kann einem Helden als zuverlässiger Garant für Informationen über magische Ereignisse dienen oder ihm auch mit seiner Magie zur Seite stehen, wenn der Abenteurer von ihm einen Gefallen verlangt.",
+    "voraussetzung": "Keine",
+    "ap_wert": 18,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Kompendium II",
+        "seite": 61
+      }
+    ],
+    "_source_file": "Kontakt+(Magier).txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Kontakt (Schmuggler)",
+    "regel": "Schmuggler sind ausgesprochen nützliche Kontakte, wenn man ungesehen in Städte hinein oder hinaus will. Zudem sind sie ortskundig, kennen eine Menge anderer Leute und können einem möglicherweise den einen oder anderen Ausrüstungsgegenstand beschaffen, den man ansonsten nicht bekommt.",
+    "voraussetzung": "Keine",
+    "ap_wert": 25,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Kompendium II",
+        "seite": 61
+      }
+    ],
+    "_source_file": "Kontakt+(Schmuggler).txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Kontakt (Sklavin)",
+    "regel": "Auf eine Sklavin achtet kaum jemand. Dennoch kann gerade sie, die von anderen kaum bemerkt wird, eine ausgezeichnete Quelle für Informationen über ihre Herrin oder deren Gäste sein.",
+    "voraussetzung": "Keine",
+    "ap_wert": 2,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Kompendium II",
+        "seite": 61
+      }
+    ],
+    "_source_file": "Kontakt+(Sklavin).txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Kontakt (Söldnerhauptmann)",
+    "regel": "Der Söldnerhauptmann hebt sich deutlich von seinen Untergebenen ab und hat zahlreiche Kontakte zu einfachen Söldnern, wie auch zur Oberschicht. Somit kann er eine sehr vielseitige Verbindung sein.",
+    "voraussetzung": null,
+    "ap_wert": 13,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Kompendium II",
+        "seite": 13
+      }
+    ],
+    "_source_file": "Kontakt+(Söldnerhauptmann).txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Kontakt (Soldat)",
+    "regel": "Ein Soldat hat schon auf einigen Schlachtfeldern Aventuriens gekämpft. Für einen Helden kann er ein Ansprechpartner sein, wenn sie Informationen über einen bestimmten Feind benötigen, jemand, der sich beim Kampf unterstützt, oder jemand, der sie mit Informationen über militärische Kreise versorgt.",
+    "voraussetzung": null,
+    "ap_wert": 10,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Kompendium II",
+        "seite": 61
+      }
+    ],
+    "_source_file": "Kontakt+(Soldat).txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Kontakt (Stadtmagistrat)",
+    "regel": "Städte besitzen in der Regel mehrere Beamte, die den Herrscher unterstützen. Der Stadtmagistrat ist ein Teil der Stadtregierung und kann einem Helden helfen, wenn er Ärger in der Stadt hat.",
+    "voraussetzung": "Keine",
+    "ap_wert": 13,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Kompendium II",
+        "seite": 13
+      }
+    ],
+    "_source_file": "Kontakt+(Stadtmagistrat).txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Kontakt (Stadtwache)",
+    "regel": "Ein Stadtgardist kann den Helden einen Gefallen tun, wenn sie mit dem Gesetz in Konflikt sind und noch mal ein Auge zudrücken. Zudem ist er eine gute Quelle für Informationen, da er tagtäglich mit vielen Leuten auf der Straße zu tun hat.",
+    "voraussetzung": "Keine",
+    "ap_wert": 13,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Kompendium II",
+        "seite": 62
+      }
+    ],
+    "_source_file": "Kontakt+(Stadtwache).txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Kontakt (Tempelvorsteherin)",
+    "regel": "Eine Tempelvorsteherin ist eine hochangesehene Persönlichkeit, die einem Helden nicht nur helfen kann, indem sie ihm eine Waffe oder ihn selbst segnet, sondern auch andere Kontakte vermittelt.",
+    "voraussetzung": "Keine",
+    "ap_wert": 25,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Kompendium II",
+        "seite": 62
+      }
+    ],
+    "_source_file": "Kontakt+(Tempelvorsteherin).txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Kontakt (Wirt)",
+    "regel": "An kaum einem anderen Ort treffen sich Helden so häufig wie in einer Taverne oder einem Wirtshaus. Der Wirt ist oftmals ein zuverlässiger Freund des Abenteurers, bei dem er einen sicheren Unterschlupf finden, der ihm Aufträge vermitteln oder auch die eine oder andere Informationen beschaffen kann.",
+    "voraussetzung": "Keine",
+    "ap_wert": 20,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Kompendium II",
+        "seite": 62
+      }
+    ],
+    "_source_file": "Kontakt+(Wirt).txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Kraft der Bäume",
+    "regel": "Schläft die Heldin unter einem Baum, kann sie einmal am Tag einen Teil von dessen Lebenskraft in sich aufnehmen. Sie regeneriert dadurch 1W3 LeP. Hierfür muss sie jedoch mindestens eine halbe Stunde unter dem Baum schlafen.",
+    "voraussetzung": "Vorteil Feenblut (Dryade)",
+    "ap_wert": 10,
+    "publikationen": [
+      {
+        "buch": "Die Siebenwindküste - Albernia und der Windhag",
+        "seite": 165
+      }
+    ],
+    "_source_file": "Kraft+der+Bäume.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Krankheitsresistenz I",
+    "regel": "Eine Krankheitsresistenz verbessert Zähigkeit und Seelenkraft um 1 pro Stufe, wenn es darum geht, Krankheiten zu widerstehen.",
+    "voraussetzung": "Kein Nachteil Krankheitsanfällig",
+    "level": 1,
+    "ap_wert": 10,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 167
+      }
+    ],
+    "_source_file": "Krankheitsresistenz+I-II.txt",
+    "_category": "Vorteil",
+    "_level_info": {
+      "base_name": "Krankheitsresistenz",
+      "ap_per_level": 10,
+      "ap_values": null,
+      "total_levels": 2
+    }
+  },
+  {
+    "name": "Krankheitsresistenz II",
+    "regel": "Eine Krankheitsresistenz verbessert Zähigkeit und Seelenkraft um 1 pro Stufe, wenn es darum geht, Krankheiten zu widerstehen.",
+    "voraussetzung": "Kein Nachteil Krankheitsanfällig",
+    "level": 2,
+    "ap_wert": 20,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 167
+      }
+    ],
+    "_source_file": "Krankheitsresistenz+I-II.txt",
+    "_category": "Vorteil",
+    "_level_info": {
+      "base_name": "Krankheitsresistenz",
+      "ap_per_level": 10,
+      "ap_values": null,
+      "total_levels": 2
+    }
+  },
+  {
+    "name": "Leichter Gang",
+    "regel": "Die Heldin kann sich schneller bewegen als normale Menschen. Ihre GS erhält einen Bonus von 1. Zudem erhält sie + 1FP bei gelungenen Proben auf Tanzen (bis zu einem Maximum von 18 FP).",
+    "voraussetzung": "Vorteil Feenblut (Blütenfee)",
+    "ap_wert": 10,
+    "publikationen": [
+      {
+        "buch": "Die Siebenwindküste - Albernia und der Windhag",
+        "seite": 165
+      }
+    ],
+    "_source_file": "Leichter+Gang.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Machtvolle Zaubermelodien",
+    "regel": "Der Abenteurer kann Personen bis zu SK 3 durch seine Zaubermelodien verzaubern (statt nur bis zu SK 2).",
+    "voraussetzung": "Sonderfertigkeit Tradition (Zauberbarden), kein Nachteil Schwache Zaubermelodien",
+    "ap_wert": 15,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie",
+        "seite": 225
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 379
+      }
+    ],
+    "_source_file": "Machtvolle+Zaubermelodien.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Machtvolle Zaubertänze",
+    "regel": "Die Heldin kann Personen bis zu SK 3 durch ihre Zaubertänze verzaubern (statt nur bis zu SK 2).",
+    "voraussetzung": "Sonderfertigkeit Tradition (Zaubertänzer), kein Nachteil Schwache Zaubertänze",
+    "ap_wert": 15,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie",
+        "seite": 225
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 379
+      }
+    ],
+    "_source_file": "Machtvolle+Zaubertänze.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Magische Einstimmung (Wesen der Auen)",
+    "regel": "Man muss sich für eine Variante des Vorteils entscheiden (Beispiele sind dem nebenstehenden Kasten zu entnehmen). In der betreffenden Umgebung oder Situation, für die der Vorteil gewählt wurde, hat der Zauberer bei magischen Fertigkeitsproben eine Erleichterung von 1.\n\nWesen der Auen: In der betreffenden Umgebung (Wesen der Auen) hat der Zauberer bei magischen Fertigkeitsproben eine Erleichterung von 1.",
+    "voraussetzung": "Vorteil Zauberer, kein Nachteil Magische Einschränkung auf die gleiche Umgebung",
+    "variant": "Wesen der Auen",
+    "ap_wert": 40,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 167
+      }
+    ],
+    "_source_file": "Magische+Einstimmung.txt",
+    "_category": "Vorteil",
+    "_variant_info": {
+      "base_name": "Magische Einstimmung",
+      "total_variants": 6
+    }
+  },
+  {
+    "name": "Magische Einstimmung (Wesen der Berge)",
+    "regel": "Man muss sich für eine Variante des Vorteils entscheiden (Beispiele sind dem nebenstehenden Kasten zu entnehmen). In der betreffenden Umgebung oder Situation, für die der Vorteil gewählt wurde, hat der Zauberer bei magischen Fertigkeitsproben eine Erleichterung von 1.\n\nWesen der Berge: In der betreffenden Umgebung (Wesen der Berge) hat der Zauberer bei magischen Fertigkeitsproben eine Erleichterung von 1.",
+    "voraussetzung": "Vorteil Zauberer, kein Nachteil Magische Einschränkung auf die gleiche Umgebung",
+    "variant": "Wesen der Berge",
+    "ap_wert": 40,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 167
+      }
+    ],
+    "_source_file": "Magische+Einstimmung.txt",
+    "_category": "Vorteil",
+    "_variant_info": {
+      "base_name": "Magische Einstimmung",
+      "total_variants": 6
+    }
+  },
+  {
+    "name": "Magische Einstimmung (Wesen der Meere)",
+    "regel": "Man muss sich für eine Variante des Vorteils entscheiden (Beispiele sind dem nebenstehenden Kasten zu entnehmen). In der betreffenden Umgebung oder Situation, für die der Vorteil gewählt wurde, hat der Zauberer bei magischen Fertigkeitsproben eine Erleichterung von 1.\n\nWesen der Meere: In der betreffenden Umgebung (Wesen der Meere) hat der Zauberer bei magischen Fertigkeitsproben eine Erleichterung von 1.",
+    "voraussetzung": "Vorteil Zauberer, kein Nachteil Magische Einschränkung auf die gleiche Umgebung",
+    "variant": "Wesen der Meere",
+    "ap_wert": 40,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 167
+      }
+    ],
+    "_source_file": "Magische+Einstimmung.txt",
+    "_category": "Vorteil",
+    "_variant_info": {
+      "base_name": "Magische Einstimmung",
+      "total_variants": 6
+    }
+  },
+  {
+    "name": "Magische Einstimmung (Wesen der Nacht)",
+    "regel": "Man muss sich für eine Variante des Vorteils entscheiden (Beispiele sind dem nebenstehenden Kasten zu entnehmen). In der betreffenden Umgebung oder Situation, für die der Vorteil gewählt wurde, hat der Zauberer bei magischen Fertigkeitsproben eine Erleichterung von 1.\n\nWesen der Nacht: In der betreffenden Umgebung (Wesen der Nacht) hat der Zauberer bei magischen Fertigkeitsproben eine Erleichterung von 1.",
+    "voraussetzung": "Vorteil Zauberer, kein Nachteil Magische Einschränkung auf die gleiche Umgebung",
+    "variant": "Wesen der Nacht",
+    "ap_wert": 40,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 167
+      }
+    ],
+    "_source_file": "Magische+Einstimmung.txt",
+    "_category": "Vorteil",
+    "_variant_info": {
+      "base_name": "Magische Einstimmung",
+      "total_variants": 6
+    }
+  },
+  {
+    "name": "Magische Einstimmung (Wesen des Eises)",
+    "regel": "Man muss sich für eine Variante des Vorteils entscheiden (Beispiele sind dem nebenstehenden Kasten zu entnehmen). In der betreffenden Umgebung oder Situation, für die der Vorteil gewählt wurde, hat der Zauberer bei magischen Fertigkeitsproben eine Erleichterung von 1.\n\nWesen des Eises: In der betreffenden Umgebung (Wesen des Eises) hat der Zauberer bei magischen Fertigkeitsproben eine Erleichterung von 1.",
+    "voraussetzung": "Vorteil Zauberer, kein Nachteil Magische Einschränkung auf die gleiche Umgebung",
+    "variant": "Wesen des Eises",
+    "ap_wert": 40,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 167
+      }
+    ],
+    "_source_file": "Magische+Einstimmung.txt",
+    "_category": "Vorteil",
+    "_variant_info": {
+      "base_name": "Magische Einstimmung",
+      "total_variants": 6
+    }
+  },
+  {
+    "name": "Magische Einstimmung (Wesen des Waldes)",
+    "regel": "Man muss sich für eine Variante des Vorteils entscheiden (Beispiele sind dem nebenstehenden Kasten zu entnehmen). In der betreffenden Umgebung oder Situation, für die der Vorteil gewählt wurde, hat der Zauberer bei magischen Fertigkeitsproben eine Erleichterung von 1.\n\nWesen des Waldes: In der betreffenden Umgebung (Wesen des Waldes) hat der Zauberer bei magischen Fertigkeitsproben eine Erleichterung von 1.",
+    "voraussetzung": "Vorteil Zauberer, kein Nachteil Magische Einschränkung auf die gleiche Umgebung",
+    "variant": "Wesen des Waldes",
+    "ap_wert": 40,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 167
+      }
+    ],
+    "_source_file": "Magische+Einstimmung.txt",
+    "_category": "Vorteil",
+    "_variant_info": {
+      "base_name": "Magische Einstimmung",
+      "total_variants": 6
+    }
+  },
+  {
+    "name": "Muttererde",
+    "regel": "Solange sich der Held barfuß auf Erde bewegt, dauert es nur halb so lang, 1 Stufe Betäubung, Furcht, Paralyse oder Verwirrung abzubauen wie üblich. Sollte er zwischenzeitlich den Erdboden verlassen, so dauert der Abbau der Stufe wieder so lang wie üblich. Die verkürzte Zeit für den Abbau gilt nach dem erneuten Betreten von Erdboden dann erst wieder für die nächste Zustandsstufe der Zustände.",
+    "voraussetzung": "Vorteil Dschinnenblut (Rosendschinn)",
+    "ap_wert": 12,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Elementarium",
+        "seite": 144
+      }
+    ],
+    "_source_file": "Muttererde.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Mystiker",
+    "regel": "Bei einem Mystiker baut sich Entrückung erst nach zwei Stunden statt einer Stunde pro Stufe ab.",
+    "voraussetzung": "Vorteil Geweihter, kein Vorteil Pragmatiker",
+    "ap_wert": 20,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 167
+      }
+    ],
+    "_source_file": "Mystiker.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Natürlicher Rüstungsschutz I",
+    "regel": "Das Wesen verfügt pro Stufe des Vorteils über einen natürlichen Rüstungsschutz, der mit anderen Rüstungen kombiniert werden kann.",
+    "voraussetzung": "Spezies, Kultur oder Profession muss Natürlicher Rüstungsschutz als automatischen oder empfohlenen Vorteil aufweisen.",
+    "level": 1,
+    "ap_wert": 20,
+    "publikationen": [
+      {
+        "buch": "Achaz - Schuppenkleid & Lange Zungen",
+        "seite": 29
+      },
+      {
+        "buch": "Aventurisches Bestiarium II",
+        "seite": 117
+      },
+      {
+        "buch": "Orks - Hauer & Schwarzer Pelz",
+        "seite": 30
+      }
+    ],
+    "_source_file": "Natürlicher+Rüstungsschutz+I-II+(_).txt",
+    "_category": "Vorteil",
+    "_level_info": {
+      "base_name": "Natürlicher Rüstungsschutz",
+      "ap_per_level": 20,
+      "ap_values": null,
+      "total_levels": 2
+    }
+  },
+  {
+    "name": "Natürlicher Rüstungsschutz II",
+    "regel": "Das Wesen verfügt pro Stufe des Vorteils über einen natürlichen Rüstungsschutz, der mit anderen Rüstungen kombiniert werden kann.",
+    "voraussetzung": "Spezies, Kultur oder Profession muss Natürlicher Rüstungsschutz als automatischen oder empfohlenen Vorteil aufweisen.",
+    "level": 2,
+    "ap_wert": 40,
+    "publikationen": [
+      {
+        "buch": "Achaz - Schuppenkleid & Lange Zungen",
+        "seite": 29
+      },
+      {
+        "buch": "Aventurisches Bestiarium II",
+        "seite": 117
+      },
+      {
+        "buch": "Orks - Hauer & Schwarzer Pelz",
+        "seite": 30
+      }
+    ],
+    "_source_file": "Natürlicher+Rüstungsschutz+I-II+(_).txt",
+    "_category": "Vorteil",
+    "_level_info": {
+      "base_name": "Natürlicher Rüstungsschutz",
+      "ap_per_level": 20,
+      "ap_values": null,
+      "total_levels": 2
+    }
+  },
+  {
+    "name": "Natürliche Waffe (Biss)",
+    "regel": "Das Wesen kann den Vorteil Biss erlangen und diesen mit einer Raufen-AT einsetzen. Dieser Angriff ersetzt den sonst üblichen Waffenlosen Raufen-Angriff.",
+    "voraussetzung": "Spezies, Kultur oder Profession muss Vorteil als automatischen oder empfohlenen Vorteil aufweisen",
+    "ap_wert": 5,
+    "publikationen": [
+      {
+        "buch": "Achaz - Schuppenkleid & Lange Zungen",
+        "seite": 28
+      },
+      {
+        "buch": "Orks - Hauer & Schwarzer Pelz",
+        "seite": 30
+      }
+    ],
+    "_source_file": "Natürliche+Waffe+(Biss)+(_).txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Natürliche Waffe (Schwanz)",
+    "regel": "Das Wesen kann den Vorteil Schwanzschlag erhalten und diesen mit einer Raufen-AT einsetzen. Dieser Angriff ersetzt den sonst üblichen waffenlosen Raufen-Angriff.",
+    "voraussetzung": "Spezies, Kultur oder Profession muss Vorteil als automatischen oder empfohlenen Vorteil aufweisen.",
+    "ap_wert": 5,
+    "publikationen": [
+      {
+        "buch": "Achaz - Schuppenkleid & Lange Zungen",
+        "seite": 29
+      }
+    ],
+    "_source_file": "Natürliche+Waffe+(Schwanz)+(_).txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Nichtschliefer",
+    "regel": "Ein Wesen mit diesem Vorteil muss nicht regelmäßig schlafen, sondern kann bis zu einer Woche wach bleiben, ohne zu ermütden. Der Schlaf muss aber anschließend nachgeholt werden, was bei einigen Spezies durch echten Schlaf, bei anderen durch Meditation oder vergleichbare Techniken erreicht wird. Während der Zeit, in der der Nichtschliefer nicht schlaft, kann er auch nicht durch Ausruhen und Schlafen regenerieren (Ausnahme stellt die Verwendung von Heilkräutern und der Einsatz des Talents Heilkunde Wunden dar).",
+    "voraussetzung": "Spezies, Kultur oder Profession muss Nichtschliefer als automatischen oder empfohlenen Vorteil besitzen",
+    "ap_wert": 8,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 168
+      }
+    ],
+    "_source_file": "Nichtschläfer+(_).txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Pragmatiker",
+    "regel": "Bei einem Pragmatiker baut sich Entrückung bereits nach einer halben Stunde statt einer Stunde pro Stufe ab.",
+    "voraussetzung": "Vorteil Geweihter, kein Vorteil Mystiker",
+    "ap_wert": 10,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 168
+      }
+    ],
+    "_source_file": "Pragmatiker.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Prediger",
+    "regel": "Der Held bekommt eine neue Einsatzmöglichkeit für Bekehren & Überzeugen (öffentliche Rede). Er kann bis zu drei Predigt-Sonderfertigkeiten erlernen, auch wenn er nicht über den Vorteil Geweihter verfügt. Der Zelot muss eine Gottheit auswählen, wenn er sich für diesen Vorteil entscheidet. Lässt sich ein Prediger im späteren Verlauf seines Lebens der ausgewählten Gottheit weihen, bekommt er die 10 AP dieses Vorteils wieder zurück bzw. kann sie mit Geweihter verrechnen.",
+    "voraussetzung": "Nachteil Prinzipientreue I (ausgewählte Gottheit), kein Vorteil Geweihter, kein Vorteil Visionär",
+    "ap_wert": 10,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Götterwirken",
+        "seite": 227
+      }
+    ],
+    "_source_file": "Prediger.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Rankenfessel",
+    "regel": "Ein Gegner in maximal 8 Schritt Entfernung wird von Ranken festgehalten und erhält den Status Fixiert. Er kann sich jeweils 1 freie Aktion nutzen, um eine Probe auf Körperbeherrschung (Entwinden) –2 abzulegen, um sich zu befreien. Der Gegner darf maximal die Größenkategorie groß aufweisen und muss sich auf Erdboden befinden. Der Held erleidet beim Einsatz dieser Fähigkeit 1 Stufe Betäubung.",
+    "voraussetzung": "Vorteil Dschinnenblut (Humusdschinn)",
+    "ap_wert": 10,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Elementarium",
+        "seite": 144
+      }
+    ],
+    "_source_file": "Rankenfessel.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Reich I",
+    "regel": "Durch den Vorteil Reich erhält ein Held bei der Generierung zusätzlich 250 Silbertaler pro Stufe.",
+    "voraussetzung": "Kein Nachteil Arm",
+    "level": 1,
+    "ap_wert": 1,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 168
+      }
+    ],
+    "_source_file": "Reich+I-X.txt",
+    "_category": "Vorteil",
+    "_level_info": {
+      "base_name": "Reich",
+      "ap_per_level": 1,
+      "ap_values": null,
+      "total_levels": 10
+    }
+  },
+  {
+    "name": "Reich II",
+    "regel": "Durch den Vorteil Reich erhält ein Held bei der Generierung zusätzlich 250 Silbertaler pro Stufe.",
+    "voraussetzung": "Kein Nachteil Arm",
+    "level": 2,
+    "ap_wert": 2,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 168
+      }
+    ],
+    "_source_file": "Reich+I-X.txt",
+    "_category": "Vorteil",
+    "_level_info": {
+      "base_name": "Reich",
+      "ap_per_level": 1,
+      "ap_values": null,
+      "total_levels": 10
+    }
+  },
+  {
+    "name": "Reich III",
+    "regel": "Durch den Vorteil Reich erhält ein Held bei der Generierung zusätzlich 250 Silbertaler pro Stufe.",
+    "voraussetzung": "Kein Nachteil Arm",
+    "level": 3,
+    "ap_wert": 3,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 168
+      }
+    ],
+    "_source_file": "Reich+I-X.txt",
+    "_category": "Vorteil",
+    "_level_info": {
+      "base_name": "Reich",
+      "ap_per_level": 1,
+      "ap_values": null,
+      "total_levels": 10
+    }
+  },
+  {
+    "name": "Reich IV",
+    "regel": "Durch den Vorteil Reich erhält ein Held bei der Generierung zusätzlich 250 Silbertaler pro Stufe.",
+    "voraussetzung": "Kein Nachteil Arm",
+    "level": 4,
+    "ap_wert": 4,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 168
+      }
+    ],
+    "_source_file": "Reich+I-X.txt",
+    "_category": "Vorteil",
+    "_level_info": {
+      "base_name": "Reich",
+      "ap_per_level": 1,
+      "ap_values": null,
+      "total_levels": 10
+    }
+  },
+  {
+    "name": "Reich IX",
+    "regel": "Durch den Vorteil Reich erhält ein Held bei der Generierung zusätzlich 250 Silbertaler pro Stufe.",
+    "voraussetzung": "Kein Nachteil Arm",
+    "level": 9,
+    "ap_wert": 9,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 168
+      }
+    ],
+    "_source_file": "Reich+I-X.txt",
+    "_category": "Vorteil",
+    "_level_info": {
+      "base_name": "Reich",
+      "ap_per_level": 1,
+      "ap_values": null,
+      "total_levels": 10
+    }
+  },
+  {
+    "name": "Reich V",
+    "regel": "Durch den Vorteil Reich erhält ein Held bei der Generierung zusätzlich 250 Silbertaler pro Stufe.",
+    "voraussetzung": "Kein Nachteil Arm",
+    "level": 5,
+    "ap_wert": 5,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 168
+      }
+    ],
+    "_source_file": "Reich+I-X.txt",
+    "_category": "Vorteil",
+    "_level_info": {
+      "base_name": "Reich",
+      "ap_per_level": 1,
+      "ap_values": null,
+      "total_levels": 10
+    }
+  },
+  {
+    "name": "Reich VI",
+    "regel": "Durch den Vorteil Reich erhält ein Held bei der Generierung zusätzlich 250 Silbertaler pro Stufe.",
+    "voraussetzung": "Kein Nachteil Arm",
+    "level": 6,
+    "ap_wert": 6,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 168
+      }
+    ],
+    "_source_file": "Reich+I-X.txt",
+    "_category": "Vorteil",
+    "_level_info": {
+      "base_name": "Reich",
+      "ap_per_level": 1,
+      "ap_values": null,
+      "total_levels": 10
+    }
+  },
+  {
+    "name": "Reich VII",
+    "regel": "Durch den Vorteil Reich erhält ein Held bei der Generierung zusätzlich 250 Silbertaler pro Stufe.",
+    "voraussetzung": "Kein Nachteil Arm",
+    "level": 7,
+    "ap_wert": 7,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 168
+      }
+    ],
+    "_source_file": "Reich+I-X.txt",
+    "_category": "Vorteil",
+    "_level_info": {
+      "base_name": "Reich",
+      "ap_per_level": 1,
+      "ap_values": null,
+      "total_levels": 10
+    }
+  },
+  {
+    "name": "Reich VIII",
+    "regel": "Durch den Vorteil Reich erhält ein Held bei der Generierung zusätzlich 250 Silbertaler pro Stufe.",
+    "voraussetzung": "Kein Nachteil Arm",
+    "level": 8,
+    "ap_wert": 8,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 168
+      }
+    ],
+    "_source_file": "Reich+I-X.txt",
+    "_category": "Vorteil",
+    "_level_info": {
+      "base_name": "Reich",
+      "ap_per_level": 1,
+      "ap_values": null,
+      "total_levels": 10
+    }
+  },
+  {
+    "name": "Reich X",
+    "regel": "Durch den Vorteil Reich erhält ein Held bei der Generierung zusätzlich 250 Silbertaler pro Stufe.",
+    "voraussetzung": "Kein Nachteil Arm",
+    "level": 10,
+    "ap_wert": 10,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 168
+      }
+    ],
+    "_source_file": "Reich+I-X.txt",
+    "_category": "Vorteil",
+    "_level_info": {
+      "base_name": "Reich",
+      "ap_per_level": 1,
+      "ap_values": null,
+      "total_levels": 10
+    }
+  },
+  {
+    "name": "Richtungssinn",
+    "regel": "Proben auf Orientierung sind immer um 1 erleichtert.",
+    "voraussetzung": "Kein Nachtteil Unfähig in Orientierung",
+    "ap_wert": 10,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 168
+      }
+    ],
+    "_source_file": "Richtungssinn.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Sagaheld",
+    "regel": "Die Heldin wird von Thorwalern so behandelt, als hätte sie einen um 1 höheren sozialen Rang als üblich (siehe Regelwerk Seite 338). Das Gegenüber muss aber wissen oder zumindest glauben, dass die Heldin eine Ruhmestat vollbracht hat, die einer Saga würdig ist, damit der Bonus zählt. Die Heldin erhält zudem einen Bonus von +2/+1 bei Proben auf Überreden gegenüber anderen Thorwalern/Nicht-Thorwalern.",
+    "voraussetzung": "Die Heldin muss eine immense Ruhmestat vollbracht haben.",
+    "ap_wert": 15,
+    "publikationen": [
+      {
+        "buch": "Die Gestade des Gottwals - Thorwal und das Gjalskerland",
+        "seite": 140
+      }
+    ],
+    "_source_file": "Sagaheld.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Saumagen I",
+    "regel": "Mit Saumagen kann der Held zähes Fleisch problemlos essen, so als ob es normales Fleisch wäre. Bei Stufe II kann er sogar ungenießbares Fleisch verzehren. Es wird ihm nicht sonderlich schmecken, aber er kann es verdauen, ohne dass ihm übel wird und er sich erbrechen muss. Gifte und Krankheitskeime können jedoch nicht durch den Vorteil umgangen werden. Ähnliches gilt auch für pflanzliche Nahrungsmittel. Schwerverdauliche Kost ist essbar, ohne dass es weitere Auswirkungen hat.",
+    "voraussetzung": "Keine",
+    "level": 1,
+    "ap_wert": 2,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Bestiarium",
+        "seite": 121
+      }
+    ],
+    "_source_file": "Saumagen+I-II.txt",
+    "_category": "Vorteil",
+    "_level_info": {
+      "base_name": "Saumagen",
+      "ap_per_level": 2,
+      "ap_values": null,
+      "total_levels": 2
+    }
+  },
+  {
+    "name": "Saumagen II",
+    "regel": "Mit Saumagen kann der Held zähes Fleisch problemlos essen, so als ob es normales Fleisch wäre. Bei Stufe II kann er sogar ungenießbares Fleisch verzehren. Es wird ihm nicht sonderlich schmecken, aber er kann es verdauen, ohne dass ihm übel wird und er sich erbrechen muss. Gifte und Krankheitskeime können jedoch nicht durch den Vorteil umgangen werden. Ähnliches gilt auch für pflanzliche Nahrungsmittel. Schwerverdauliche Kost ist essbar, ohne dass es weitere Auswirkungen hat.",
+    "voraussetzung": "Keine",
+    "level": 2,
+    "ap_wert": 4,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Bestiarium",
+        "seite": 121
+      }
+    ],
+    "_source_file": "Saumagen+I-II.txt",
+    "_category": "Vorteil",
+    "_level_info": {
+      "base_name": "Saumagen",
+      "ap_per_level": 2,
+      "ap_values": null,
+      "total_levels": 2
+    }
+  },
+  {
+    "name": "Schlangenmensch",
+    "regel": "Proben auf Körperbeherrschung (Akrobatik, Entwinden) sind um 1 erleichtert.",
+    "voraussetzung": "Keine",
+    "ap_wert": -6,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 168
+      }
+    ],
+    "_source_file": "Schlangenmensch.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Schnell wieder auf den Beinen",
+    "regel": "Mit diesem Vorteil benötigt man nur noch die Hälfte der Zeit, bis eine Stufe des Zustands Betäubung oder Berauscht, der durch Alkohol verursacht wurde, abgebaut ist.",
+    "voraussetzung": "Keine",
+    "ap_wert": 2,
+    "publikationen": [
+      {
+        "buch": "Kneipen & Tavernen (Meisterschirmbegleitheft)",
+        "seite": 13
+      }
+    ],
+    "_source_file": "Schnell+wieder+auf+den+Beinen.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Schutzgeist",
+    "regel": "Wer über einen Schutzgeist verfügt, der kann die folgenden Optionen einsetzen. Sie kosten keine Handliung, sondern können jederzeit eingesetzt werden.\n# Bei einem Patzer kann der Held einen Schip einsetzen. Das Ergebnis gilt einfach als misslungen, ist aber kein Patzer.\n# Wenn der Held nur noch 5 oder weniger LeP besitzt, kann er 1 Schip einsetzen, um 1W6 LeP zurückzubekommen. Der Einsatz dieser Option ist nur einmal am Tag gestattet.",
+    "voraussetzung": "Sonderfertigkeit Tradition (Animisten oder Intuitive Zauberer oder Meistertalentierte)",
+    "ap_wert": 10,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie",
+        "seite": 226
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 379
+      }
+    ],
+    "_source_file": "Schutzgeist.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Schwer zu verzaubern",
+    "regel": "Viele Zauber, die auf den Helden gesprochen werden können, die auf ihn wirken, sind um gst1 erschwert. Dies gilt für alle Zauber und magischen Effekte mit den Merkmalen Einfluss, Heilung, Hellsicht und Verwandlung sowie für solche, die durch Seelenkraft oder Zähigkeit modifiziert werden. Diese Erschwernis gilt auch dann, wenn der Held sich verzaubern lassen möchte.",
+    "voraussetzung": "Spezies, Kultur oder Profession muss Schwer zu verzaubern als automatischen oder empfohlenen Vorteil besitzen.",
+    "ap_wert": 15,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 168
+      }
+    ],
+    "_source_file": "Schwer+zu+verzaubern+(_).txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Seesprache",
+    "regel": "Der Held kann sich mit allen Süß- und Salzwassertieren unterhalten. Je nach KL des Tiers kann es unterschiedlich gut Auskunft geben, das Gespräch ist dabei jedoch immer durch die tierische Intelligenz begrenzt. Tiefgreifende Diskussionen sind daher nicht zu erwarten.",
+    "voraussetzung": "Vorteil Feenblut (Nixer)",
+    "ap_wert": 10,
+    "publikationen": [
+      {
+        "buch": "Die Siebenwindküste - Albernia und der Windhag",
+        "seite": 165
+      }
+    ],
+    "_source_file": "Seesprache.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Soziale Anpassungsfähigkeit",
+    "regel": "Personen mit Sozialer Anpassungsfähigkeit können Erschwernisse auf Gesellschaftstalente ignorieren, die durch Standesunterschiede entstehen. Die Soziale Anpassungsfähigkeit täuscht aber keine Personen des Hochadels.",
+    "voraussetzung": "Kein Nachteil Unfähig auf ein Gesellschaftstalent, kein Nachteil Unfrei",
+    "ap_wert": 10,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 168
+      }
+    ],
+    "_source_file": "Soziale+Anpassungsfähigkeit.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Tierfreund",
+    "regel": "Proben auf Tierkunde (domestizierte Tiere, Wildtiere) gelten bei Gelingen der Probe als um gstQS besser, allerdings kann sich die QS dabei nie über 6 erhöhen.",
+    "voraussetzung": "Kein Vorteil Hass auf die Tierart",
+    "ap_wert": 10,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Bestiarium",
+        "seite": 121
+      }
+    ],
+    "_source_file": "Tierfreund.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Tiergeistaura",
+    "regel": "Tiere verspüren ein Misstrauen gegenüber der Heldin. Proben auf Reiten und Tierkunde, wenn es um das Beruhigen oder Abrichten des Tieres geht, sind um –1 erschwert. Allerdings erhält die Heldin auch +1 QS (bis zu einem Maximum von 6 QS) bei Proben auf Tierkunde, wenn es um das Beruhigen oder Abrichten von Tieren geht, die ihrem primären Tierpatron entsprechen.",
+    "voraussetzung": "Tradition (Animisten), kein Nachteil Raubtiergeruch oder Unfähig (Tierkunde)",
+    "ap_wert": 2,
+    "publikationen": [
+      {
+        "buch": "Geisterwald & Knochenklippen (Die Gestade des Gottwals)",
+        "seite": 5
+      }
+    ],
+    "_source_file": "Tiergeistaura+(Patron).txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Tierische Kampfgefährten",
+    "regel": "Gelingt dem Helden eine Probe auf Tierkunde (Wildtiere), so stürzen sich Säugetiere und/oder Vögel der Größenkategorie winzig auf bis zu 3 vom Helden benannte Feinde, die nicht weiter als 16 Schritt von ihm entfernt sein dürfen. Die Gegner erleiden durch die kleinen Tiere für QS/2 KR eine Erschwernis von 1 auf alle Proben inklusive AT, PA, AW und FK. Nach diesem Zeitraum ziehen sich die Tiere wieder zurück. Diese Fähigkeit kann nur einmal am Tag genutzt werden und setzt zudem die Anwesenheit der Tiere in einer Umgebung von bis zu 64 Schritt Radius um den Helden voraus. Der Meister kann bei einer zu kleinen Zahl an Tieren auch die Anzahl der abgelenkten Feinde begrenzen (auch auf bis zu 0). Der Einsatz kostet 1 freie Aktion.",
+    "voraussetzung": "Vorteil Feenblut (Großer Biestinger)",
+    "ap_wert": 12,
+    "publikationen": [
+      {
+        "buch": "Die Siebenwindküste - Albernia und der Windhag",
+        "seite": 165
+      }
+    ],
+    "_source_file": "Tierische+Kampfgefährten.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Unbeschwertes Zaubern",
+    "regel": "Der Schelm kann eine SK und ZK seiner Ziele von bis zu 2 bei seinen Schelmenstreichen ignorieren. Dieser Vorteil ist mit der Sonderfertigkeit Lockeres Zaubern kombinierbar, sodass SK und ZK von bis zu 3 ignoriert werden können.",
+    "voraussetzung": "Sonderfertigkeit Tradition (Schelme)",
+    "ap_wert": 15,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 219
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 380
+      }
+    ],
+    "_source_file": "Unbeschwertes+Zaubern.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Unscheinbar",
+    "regel": "Helden mit diesem Vorteil erhalten eine Erleichterung von 1 auf Gassenwissen (Beschatten).",
+    "voraussetzung": "Keine",
+    "ap_wert": 4,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 169
+      }
+    ],
+    "_source_file": "Unscheinbar.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Unumstößlich",
+    "regel": "Der Held kann nicht mehr den Status Liegend erleiden, es sei denn, er möchte es.",
+    "voraussetzung": "Vorteil Dschinnenblut (Erzdschinn)",
+    "ap_wert": 10,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Elementarium",
+        "seite": 144
+      }
+    ],
+    "_source_file": "Unumstößlich.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Verbesserte Regeneration (Astralenergie) I",
+    "regel": "Für jede Stufe des Vorteils bekommt der Held 1 zusätzlichen Punkt dazu, wenn er regeneriert.",
+    "voraussetzung": "Vorteil Zauberer, kein Nachteil Schlechte Regeneration (Astralenergie)",
+    "level": 1,
+    "ap_wert": 10,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 169
+      }
+    ],
+    "_source_file": "Verbesserte+Regeneration+(Astralenergie)+I-III.txt",
+    "_category": "Vorteil",
+    "_level_info": {
+      "base_name": "Verbesserte Regeneration (Astralenergie)",
+      "ap_per_level": 10,
+      "ap_values": null,
+      "total_levels": 3
+    }
+  },
+  {
+    "name": "Verbesserte Regeneration (Astralenergie) II",
+    "regel": "Für jede Stufe des Vorteils bekommt der Held 1 zusätzlichen Punkt dazu, wenn er regeneriert.",
+    "voraussetzung": "Vorteil Zauberer, kein Nachteil Schlechte Regeneration (Astralenergie)",
+    "level": 2,
+    "ap_wert": 20,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 169
+      }
+    ],
+    "_source_file": "Verbesserte+Regeneration+(Astralenergie)+I-III.txt",
+    "_category": "Vorteil",
+    "_level_info": {
+      "base_name": "Verbesserte Regeneration (Astralenergie)",
+      "ap_per_level": 10,
+      "ap_values": null,
+      "total_levels": 3
+    }
+  },
+  {
+    "name": "Verbesserte Regeneration (Astralenergie) III",
+    "regel": "Für jede Stufe des Vorteils bekommt der Held 1 zusätzlichen Punkt dazu, wenn er regeneriert.",
+    "voraussetzung": "Vorteil Zauberer, kein Nachteil Schlechte Regeneration (Astralenergie)",
+    "level": 3,
+    "ap_wert": 30,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 169
+      }
+    ],
+    "_source_file": "Verbesserte+Regeneration+(Astralenergie)+I-III.txt",
+    "_category": "Vorteil",
+    "_level_info": {
+      "base_name": "Verbesserte Regeneration (Astralenergie)",
+      "ap_per_level": 10,
+      "ap_values": null,
+      "total_levels": 3
+    }
+  },
+  {
+    "name": "Verbesserte Regeneration (Karmaenergie) I",
+    "regel": "Für jede Stufe des Vorteils bekommt der Held 1 zusätzlichen Punkt dazu, wenn er regeneriert.",
+    "voraussetzung": "Vorteil Geweihter, kein Nachteil Schlechte Regeneration (Karmaenergie)",
+    "level": 1,
+    "ap_wert": 10,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 169
+      }
+    ],
+    "_source_file": "Verbesserte+Regeneration+(Karmaenergie)+I-III.txt",
+    "_category": "Vorteil",
+    "_level_info": {
+      "base_name": "Verbesserte Regeneration (Karmaenergie)",
+      "ap_per_level": 10,
+      "ap_values": null,
+      "total_levels": 3
+    }
+  },
+  {
+    "name": "Verbesserte Regeneration (Karmaenergie) II",
+    "regel": "Für jede Stufe des Vorteils bekommt der Held 1 zusätzlichen Punkt dazu, wenn er regeneriert.",
+    "voraussetzung": "Vorteil Geweihter, kein Nachteil Schlechte Regeneration (Karmaenergie)",
+    "level": 2,
+    "ap_wert": 20,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 169
+      }
+    ],
+    "_source_file": "Verbesserte+Regeneration+(Karmaenergie)+I-III.txt",
+    "_category": "Vorteil",
+    "_level_info": {
+      "base_name": "Verbesserte Regeneration (Karmaenergie)",
+      "ap_per_level": 10,
+      "ap_values": null,
+      "total_levels": 3
+    }
+  },
+  {
+    "name": "Verbesserte Regeneration (Karmaenergie) III",
+    "regel": "Für jede Stufe des Vorteils bekommt der Held 1 zusätzlichen Punkt dazu, wenn er regeneriert.",
+    "voraussetzung": "Vorteil Geweihter, kein Nachteil Schlechte Regeneration (Karmaenergie)",
+    "level": 3,
+    "ap_wert": 30,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 169
+      }
+    ],
+    "_source_file": "Verbesserte+Regeneration+(Karmaenergie)+I-III.txt",
+    "_category": "Vorteil",
+    "_level_info": {
+      "base_name": "Verbesserte Regeneration (Karmaenergie)",
+      "ap_per_level": 10,
+      "ap_values": null,
+      "total_levels": 3
+    }
+  },
+  {
+    "name": "Verbesserte Regeneration (Lebensenergie) I",
+    "regel": "Für jede Stufe des Vorteils bekommt der Held 1 zusätzlichen Punkt dazu, wenn er regeneriert",
+    "voraussetzung": "Kein Nachteil Schlechte Regeneration (Lebensenergie)",
+    "level": 1,
+    "ap_wert": 10,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 169
+      }
+    ],
+    "_source_file": "Verbesserte+Regeneration+(Lebensenergie)+I-III.txt",
+    "_category": "Vorteil",
+    "_level_info": {
+      "base_name": "Verbesserte Regeneration (Lebensenergie)",
+      "ap_per_level": 10,
+      "ap_values": null,
+      "total_levels": 3
+    }
+  },
+  {
+    "name": "Verbesserte Regeneration (Lebensenergie) II",
+    "regel": "Für jede Stufe des Vorteils bekommt der Held 1 zusätzlichen Punkt dazu, wenn er regeneriert",
+    "voraussetzung": "Kein Nachteil Schlechte Regeneration (Lebensenergie)",
+    "level": 2,
+    "ap_wert": 20,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 169
+      }
+    ],
+    "_source_file": "Verbesserte+Regeneration+(Lebensenergie)+I-III.txt",
+    "_category": "Vorteil",
+    "_level_info": {
+      "base_name": "Verbesserte Regeneration (Lebensenergie)",
+      "ap_per_level": 10,
+      "ap_values": null,
+      "total_levels": 3
+    }
+  },
+  {
+    "name": "Verbesserte Regeneration (Lebensenergie) III",
+    "regel": "Für jede Stufe des Vorteils bekommt der Held 1 zusätzlichen Punkt dazu, wenn er regeneriert",
+    "voraussetzung": "Kein Nachteil Schlechte Regeneration (Lebensenergie)",
+    "level": 3,
+    "ap_wert": 30,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 169
+      }
+    ],
+    "_source_file": "Verbesserte+Regeneration+(Lebensenergie)+I-III.txt",
+    "_category": "Vorteil",
+    "_level_info": {
+      "base_name": "Verbesserte Regeneration (Lebensenergie)",
+      "ap_per_level": 10,
+      "ap_values": null,
+      "total_levels": 3
+    }
+  },
+  {
+    "name": "Verführerische Gestalt",
+    "regel": "Dieser Vorteil eröffnet eine Einsatzmöglichkeit des Talents Betören (Anbändeln). Wenn die Heldin sich verführerisch und charmant gibt, kann sie mehrere Personen in ihren Bann ziehen, sodass diese als leicht abgelenkt gelten und sie z. B. bei Proben auf Sinnesschärfe eine Erschwernis von 1 erhalten. Die Spielerin würfelt hierzu eine Probe auf Betören (Anbändeln). Die Reichweite der Wirkung liegt bei QS x 3 Schritt, maximal kann die Abenteurerin QS Personen ihrer Wahl durch die Wirkung beeinflussen. Die Wirkung hält 5 Minuten an und kann nicht in einem Kampf eingesetzt werden.",
+    "voraussetzung": "Vorteil Feenblut (Dryade)",
+    "ap_wert": 10,
+    "publikationen": [
+      {
+        "buch": "Die Siebenwindküste - Albernia und der Windhag",
+        "seite": 166
+      }
+    ],
+    "_source_file": "Verführerische+Gestalt.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Verhüllte Aura",
+    "regel": "Bei ungerichteter magischer Wahrnehmung erscheint der Zauberkundige immer als nicht magisch. Wer gezielt versucht, den Zauberkundigen zu entdecken oder zu analysieren, beispielsweise mit dem Zauber ODEM oder der Liturgie Magiesicht, muss eine Erschwernis von 3 hinnehmen.",
+    "voraussetzung": "Vorteil Zauberer",
+    "ap_wert": 20,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 169
+      }
+    ],
+    "_source_file": "Verhüllte+Aura.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Vertrauenerweckend",
+    "regel": "Proben auf Bekehren & Überzeugen (öffentliche Rede, Einzelgespräch, Diskussionsführung), Überreden (Betteln, Manipulieren, Schmeicheln) und Handel (Feilschen) sind um 1 erleichtert.",
+    "voraussetzung": "Kein Nachteil Unfähig in einem Gesellschaftstalent",
+    "ap_wert": 25,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 169
+      }
+    ],
+    "_source_file": "Vertrauenerweckend.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Visionär",
+    "regel": "Die Heldin bekommt eine neue Einsatzmöglichkeit für Götter & Kulte (eigene Gottheit). Sie kann bis zu drei Vision-Sonderfertigkeiten erlernen, auch wenn sie nicht über den Vorteil Geweihter verfügt. Die Zelotin muss eine Gottheit auswählen, wenn sie sich für diesen Vorteil entscheidet. Lässt sich eine Visionärin im späteren Verlauf ihres Lebens der ausgewählten Gottheit weihen, bekommt sie die 10 AP dieses Vorteils wieder zurück bzw. kann sie mit Geweihter verrechnen.",
+    "voraussetzung": "Nachteil Prinzipientreue I (ausgewählte Gottheit), kein Vorteil Geweihter, kein Vorteil Prediger",
+    "ap_wert": 10,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Götterwirken",
+        "seite": 227
+      }
+    ],
+    "_source_file": "Visionär.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Waffenbegabung (B-Kampftechnik)",
+    "regel": "Eine Waffenbegabung erlaubt bei Kritischen Erfolgen und Patzern bei einer Probe auf eine Kampftechnik eine Wiederholung des Bestätigungswurfs.\n\nB-Kampftechnik: Eine Waffenbegabung erlaubt bei Kritischen Erfolgen und Patzern bei einer Probe auf eine Kampftechnik eine Wiederholung des Bestätigungswurfs.",
+    "voraussetzung": "Keine",
+    "variant": "B-Kampftechnik",
+    "ap_wert": 5,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 169
+      }
+    ],
+    "_source_file": "Waffenbegabung.txt",
+    "_category": "Vorteil",
+    "_variant_info": {
+      "base_name": "Waffenbegabung",
+      "total_variants": 3
+    }
+  },
+  {
+    "name": "Waffenbegabung (C-Kampftechnik)",
+    "regel": "Eine Waffenbegabung erlaubt bei Kritischen Erfolgen und Patzern bei einer Probe auf eine Kampftechnik eine Wiederholung des Bestätigungswurfs.\n\nC-Kampftechnik: Eine Waffenbegabung erlaubt bei Kritischen Erfolgen und Patzern bei einer Probe auf eine Kampftechnik eine Wiederholung des Bestätigungswurfs.",
+    "voraussetzung": "Keine",
+    "variant": "C-Kampftechnik",
+    "ap_wert": 10,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 169
+      }
+    ],
+    "_source_file": "Waffenbegabung.txt",
+    "_category": "Vorteil",
+    "_variant_info": {
+      "base_name": "Waffenbegabung",
+      "total_variants": 3
+    }
+  },
+  {
+    "name": "Waffenbegabung (D-Kampftechnik)",
+    "regel": "Eine Waffenbegabung erlaubt bei Kritischen Erfolgen und Patzern bei einer Probe auf eine Kampftechnik eine Wiederholung des Bestätigungswurfs.\n\nD-Kampftechnik: Eine Waffenbegabung erlaubt bei Kritischen Erfolgen und Patzern bei einer Probe auf eine Kampftechnik eine Wiederholung des Bestätigungswurfs.",
+    "voraussetzung": "Keine",
+    "variant": "D-Kampftechnik",
+    "ap_wert": 15,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 169
+      }
+    ],
+    "_source_file": "Waffenbegabung.txt",
+    "_category": "Vorteil",
+    "_variant_info": {
+      "base_name": "Waffenbegabung",
+      "total_variants": 3
+    }
+  },
+  {
+    "name": "Walwut",
+    "regel": "Personen mit der Kultur Thorwal erleiden eine Erschwernis von –1 auf Vergleichsproben bei Gesellschaftstalenten gegenüber der Heldin (sofern sie diese als Swafnirkind erkennen). Eine Heldin mit diesem Vorteil verliert jedoch auch leichter die Beherrschung und gerät häufiger in Blutrausch. Proben auf Selbstbeherrschung und Willenskraft (um den Blutrausch zu vermeiden), sind um –1 erschwert. Außerdem kann die Heldin keinen höheren Sozialen Stand als Stufe 2 aufweisen.",
+    "voraussetzung": "Kultur Thorwal, Nachteil Blutrausch",
+    "ap_wert": 5,
+    "publikationen": [
+      {
+        "buch": "Die Gestade des Gottwals - Thorwal und das Gjalskerland",
+        "seite": 141
+      }
+    ],
+    "_source_file": "Walwut+(Swafskari).txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Wasserheilung",
+    "regel": "Der Held kann einmal alle 24 Stunden einem anderen Lebewesen Wasser zu trinken geben und dem Lebewesen dabei 1W6 LeP zurückgeben.",
+    "voraussetzung": "Vorteil Dschinnenblut (Wasserdschinn)",
+    "ap_wert": 12,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Elementarium",
+        "seite": 144
+      }
+    ],
+    "_source_file": "Wasserheilung.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Wasserlebewesen",
+    "regel": "Wesen mit diesem Vorteil erhalten automatisch die Sonderfertigkeit Unterwasserkampf (die Kosten der SF sind in diesem Vorteil einberechnet). Wasserlebewesen können unter Wasser atmen. Außerdem können sie sich darin mit Leichtigkeit fortbewegen, da es sich um ihr natürliches Element handelt. Sie müssen keine Proben ablegen, um nicht zu ertrinken.",
+    "voraussetzung": "Spezies, Kultur oder Profession muss Wasserlebewesen als automatischen oder empfohlenen Vorteil aufweisen.",
+    "ap_wert": 15,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Bestiarium",
+        "seite": 121
+      },
+      {
+        "buch": "Aventurisches Bestiarium II",
+        "seite": 117
+      },
+      {
+        "buch": "Der schwarze Forst (Theaterritter III)",
+        "seite": 36
+      },
+      {
+        "buch": "Die Gestade des Gottwals - Thorwal und das Gjalskerland",
+        "seite": 83
+      },
+      {
+        "buch": "Die Sonnenküste - Der wilde Süden & die Zyklopeninseln",
+        "seite": 79
+      },
+      {
+        "buch": "Divinarium Liturgia",
+        "seite": 464
+      },
+      {
+        "buch": "Havena - Versunkene Geheimnisse",
+        "seite": 56
+      }
+    ],
+    "_source_file": "Wasserlebewesen+(_).txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Wasser des Lebens",
+    "regel": "Gelangt der Held in Kontakt mit einer größeren Menge an Wasser (z. B.: aus Meer, Bach, Fluss oder See), kann er eine Regenerationsphase des angebrochenen Tages sofort nutzen. Die nächste reguläre Regenerationsphase danach entfällt für diesen Helden dann jedoch. Die Regeneration dauert 5 Minuten.",
+    "voraussetzung": "Vorteil Feenblut (Nixer)",
+    "ap_wert": 10,
+    "publikationen": [
+      {
+        "buch": "Die Siebenwindküste - Albernia und der Windhag",
+        "seite": 166
+      }
+    ],
+    "_source_file": "Wasser+des+Lebens.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Wegwehen",
+    "regel": "Durch einen Luftstoß kann der Held in bis zu 8 Schritt Entfernung ein Lebewesen der Größenkategorie mittel oder kleiner dazu zwingen, eine Probe auf Körperbeherrschung –2 ablegen zu müssen. Bei Misslingen erleidet es den Status Liegend und wird 1W6 Schritt weiter fortgeweht. Die Fähigkeit erfordert 1 Aktion und der Held erleidet danach 1 Stufe Betäubung.",
+    "voraussetzung": "Vorteil Dschinnenblut (Luftdschinn)",
+    "ap_wert": 12,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Elementarium",
+        "seite": 144
+      }
+    ],
+    "_source_file": "Wegwehen.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Weitreichende Zaubermelodien",
+    "regel": "Die Zaubermelodien des Abenteurers reichen pro Stufe des Vorteils 2 Schritt weiter als üblich.",
+    "voraussetzung": "Sonderfertigkeit Tradition (Zauberbarden), kein Nachteil Verminderte Zaubermelodien",
+    "ap_wert": 5,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie",
+        "seite": 226
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 380
+      }
+    ],
+    "_source_file": "Weitreichende+Zaubermelodien+I-III.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Weitreichende Zaubertänze",
+    "regel": "Die Zaubertänze der Abenteurerin reichen pro Stufe des Vorteils 2 Schritt weiter als üblich.",
+    "voraussetzung": "Sonderfertigkeit Tradition (Zaubertänzer), kein Nachteil Verminderte Zaubertänze",
+    "ap_wert": 5,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie",
+        "seite": 226
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 380
+      }
+    ],
+    "_source_file": "Weitreichende+Zaubertänze+I-III.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Wohlklang",
+    "regel": "Fertigkeitsproben auf Singen sind um 1 erleichtert.",
+    "voraussetzung": "Kein Nachteil Stumm",
+    "ap_wert": 5,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 169
+      }
+    ],
+    "_source_file": "Wohlklang.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Wolfsblut",
+    "regel": "Der Held verfügt über feine Sinne und hat ein Talent darin, Spuren zu folgen. Er erhält bei einer gelungenen Probe auf Fährtensuchen und Sinnesschärfe +1 QS (bis zu einem Maximum von 6 QS). Allerdings lenkt ihn der Vollmond so stark ab, dass alle Proben in der Vollmondnacht und an dem Tag davor und danach um 1 erschwert sind.",
+    "voraussetzung": "Spezies Mensch (Nivese), Kultur Nivesen",
+    "ap_wert": 15,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie III",
+        "seite": 208
+      }
+    ],
+    "_source_file": "Wolfsblut.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Wolfsgebiss",
+    "regel": "Der Held kann sich innerhalb 1 Aktion ein Wolfsgebiss wachsen lassen und damit im Nahkampf mehr Schaden verursachen. Er benutzt dazu eine Raufen-AT und richtet +1 TP im Waffenlosen Kampf an. Zudem kann er die Sonderfertigkeit Verbeißen einsetzen. Die Rückverwandlung zu einem normalen Gebiss dauert ebenfalls 1 Aktion. Außerdem erzielt er, während die Verwandlung andauert, bei Proben auf Einschüchtern +1 FP (bis zu einem Maximum von 18 FP).",
+    "voraussetzung": "Vorteil Wolfsblut",
+    "ap_wert": 15,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie III",
+        "seite": 208
+      }
+    ],
+    "_source_file": "Wolfsgebiss.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Wolfskind",
+    "regel": "Die Heldin kann sich in einen Grimwolf verwandeln (siehe Aventurischer Almanach Seite 168). Dazu benötigt sie 4 Aktionen. Während der Wirkungsdauer verwendet die Heldin die körperlichen Werte des Tieres, einschließlich seiner Eigenschaften, Talente und Kampfwerte. Eine niedrige LE wird bei der Verwandlung anteilsmäßig angerechnet, gleiches geschieht bei der Rückverwandlung. Die geistigen Werte der Heldin bleiben ebenso wie ihr Bewusstsein erhalten. Die Verwandlung betrifft nur die Heldin selbst, nicht ihre Kleidung oder Ausrüstung. Die Wirkungsdauer beträgt 1 Stunde. Die Heldin kann sich nicht willentlich zurückverwandeln. Am Ende der Wirkungsdauer erleidet die Heldin 1 Stufe Betäubung.",
+    "voraussetzung": "Vorteil Wolfsblut",
+    "ap_wert": 20,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie III",
+        "seite": 208
+      }
+    ],
+    "_source_file": "Wolfskind.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Zäher Hund",
+    "regel": "Dieser Vorteil sorgt dafür, dass der Held die Auswirkungen der höchsten Stufe des Zustands Schmerz ignorieren darf. Er erleidet lediglich die Auswirkungen der nächstniedrigeren Stufe. Wenn ein Held also beispielsweise drei Stufen Schmerz erlitten hat, gelten für ihn nur die Auswirkungen von Stufe II. Bei Schmerz Stufe IV wird der Held dennoch handlungsunfähig.",
+    "voraussetzung": "Kein Nachteil Zerbrechlich",
+    "ap_wert": 20,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 169
+      }
+    ],
+    "_source_file": "Zäher+Hund.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Zahlreiche Predigten I",
+    "regel": "Bei Stufe I kann der Zelot 4 Predigt-Sonderfertigkeiten beherrschen, bei Stufe II sogar 5.",
+    "voraussetzung": "Vorteil Prediger",
+    "level": 1,
+    "ap_wert": 8,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Götterwirken",
+        "seite": 227
+      }
+    ],
+    "_source_file": "Zahlreiche+Predigten+I-II.txt",
+    "_category": "Vorteil",
+    "_level_info": {
+      "base_name": "Zahlreiche Predigten",
+      "ap_per_level": 8,
+      "ap_values": null,
+      "total_levels": 2
+    }
+  },
+  {
+    "name": "Zahlreiche Predigten II",
+    "regel": "Bei Stufe I kann der Zelot 4 Predigt-Sonderfertigkeiten beherrschen, bei Stufe II sogar 5.",
+    "voraussetzung": "Vorteil Prediger",
+    "level": 2,
+    "ap_wert": 16,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Götterwirken",
+        "seite": 227
+      }
+    ],
+    "_source_file": "Zahlreiche+Predigten+I-II.txt",
+    "_category": "Vorteil",
+    "_level_info": {
+      "base_name": "Zahlreiche Predigten",
+      "ap_per_level": 8,
+      "ap_values": null,
+      "total_levels": 2
+    }
+  },
+  {
+    "name": "Zahlreiche Visionen I",
+    "regel": "Bei Stufe I kann der Zelot 4 Vision-Sonderfertigkeiten beherrschen, bei Stufe II sogar 5.",
+    "voraussetzung": "Vorteil Visionär",
+    "level": 1,
+    "ap_wert": 8,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Götterwirken",
+        "seite": 227
+      }
+    ],
+    "_source_file": "Zahlreiche+Visionen+I-II.txt",
+    "_category": "Vorteil",
+    "_level_info": {
+      "base_name": "Zahlreiche Visionen",
+      "ap_per_level": 8,
+      "ap_values": null,
+      "total_levels": 2
+    }
+  },
+  {
+    "name": "Zahlreiche Visionen II",
+    "regel": "Bei Stufe I kann der Zelot 4 Vision-Sonderfertigkeiten beherrschen, bei Stufe II sogar 5.",
+    "voraussetzung": "Vorteil Visionär",
+    "level": 2,
+    "ap_wert": 16,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Götterwirken",
+        "seite": 227
+      }
+    ],
+    "_source_file": "Zahlreiche+Visionen+I-II.txt",
+    "_category": "Vorteil",
+    "_level_info": {
+      "base_name": "Zahlreiche Visionen",
+      "ap_per_level": 8,
+      "ap_values": null,
+      "total_levels": 2
+    }
+  },
+  {
+    "name": "Zauberer",
+    "regel": "Der Zauberer erhält als Astralenergie- Grundwert 20 AsP. Der Vorteil beinhaltet nicht die Sonderfertigkeit Tradition (siehe Regelwerk Seite 275). Diese muss einzeln erworben werden. Jeder Zauberer muss mit einer Tradition starten (eine Tradition ist eine spezielle Sonderfertigkeit).",
+    "voraussetzung": "Keine",
+    "ap_wert": 25,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 169
+      }
+    ],
+    "_source_file": "Zauberer.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Zeitgefühl",
+    "regel": "Der Charakter hat ein ausgezeichnetes Zeitgefühl und kann, ohne den Stand der Sonne zu sehen oder auf andere Hilfsmittel zurückzugreifen, die Tageszeit genau bestimmen.",
+    "voraussetzung": "Keine",
+    "ap_wert": 2,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 170
+      }
+    ],
+    "_source_file": "Zeitgefühl.txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Zusätzliche Gliedmaßen (Schwanz)",
+    "regel": "Das Wesen verfügt über einen Schwanz und kann die Vorteile Natürliche Waffe (Schwanz) und Greifschwanz erhalten. Bei Proben auf Körperbeherrschung (Balance) sind Teilproben auf GE um +1 erleichtert.",
+    "voraussetzung": "Spezies, Kultur oder Profession muss Vorteil als automatischen oder empfohlenen Vorteil aufweisen",
+    "ap_wert": 5,
+    "publikationen": [
+      {
+        "buch": "Achaz - Schuppenkleid & Lange Zungen",
+        "seite": 29
+      }
+    ],
+    "_source_file": "Zusätzliche+Gliedmaßen+(Schwanz)+(_).txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Zweistimmiger Gesang",
+    "regel": "Ein Held kann den Zweistimmigen Gesang singen und hat somit die Möglichkeit, Elfenlieder zu erlernen. Durch den Vorteil erwirbt der Held das Anwendungsgebiet Zweistimmiger Gesang im Talent Singen.",
+    "voraussetzung": "Spezies, Kultur oder Profession muss Zweistimmiger Gesang als automatischen oder empfohlenen Vorteil besitzen.",
+    "ap_wert": 5,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 170
+      }
+    ],
+    "_source_file": "Zweistimmiger+Gesang+(_).txt",
+    "_category": "Vorteil"
+  },
+  {
+    "name": "Zwergennase",
+    "regel": "Der Abenteurer erhält bei Proben auf Sinnesschärfe zur Entdeckung von Geheimtüren, Hohlräumen, versteckten Schubladen und Ähnlichem eine Erleichterung von 1.",
+    "voraussetzung": "Keine",
+    "ap_wert": 8,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 170
+      }
+    ],
+    "_source_file": "Zwergennase.txt",
+    "_category": "Vorteil"
+  }
+]

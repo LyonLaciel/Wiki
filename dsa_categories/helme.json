@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Baburiner Hut",
+    "anmerkung": "Der Baburiner Hut gilt als Plattenrüstung für die Trefferzone Kopf.",
+    "helmvorteil": "Gegen Waffen der Kampftechniken Armbrüste, Bögen, Dolche und Schwerter schützt der Baburiner Hut mit RS 5.",
+    "helmnachteil": "Proben auf Sinnesschärfe sind um 1 erschwert, wenn es ums Hören geht.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": null,
+        "seite": null
+      }
+    ],
+    "_source_file": "baburiner-hut.txt",
+    "_category": "Helm"
+  },
+  {
+    "name": "Drachenhelm",
+    "anmerkung": "Der Drachenhelm gilt als Plattenrüstung für die Trefferzone Kopf.",
+    "helmvorteil": "Gegen Waffen der Kampftechniken Dolche und Schwerter schützt der Drachenhelm mit RS 7. Außerdem kann einmal in einem Kampf ein Bestätigungswurf nochmal gewürfelt werden und das bessere Ergebnis zählt.",
+    "helmnachteil": "Proben auf Sinnesschärfe sind um 2 erschwert, wenn es ums Hören oder Sehen geht.",
+    "ap_wert": null,
+    "publikationen": [],
+    "_source_file": "drachenhelm.txt",
+    "_category": "Helm"
+  },
+  {
+    "name": "Flügelhelm",
+    "anmerkung": "Der Flügelhelm gilt als Plattenrüstung für die Trefferzone Kopf.",
+    "helmvorteil": "Einmal in einem Kampf kann der Träger eines Flügelhelms einen Schip ausgeben und die Wirkung einem seiner Kampfgefährten übertragen.",
+    "helmnachteil": "Proben auf Sinnesschärfe sind um 1 erschwert, wenn es ums Hören geht.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": null,
+        "seite": null
+      }
+    ],
+    "_source_file": "fluegelhelm.txt",
+    "_category": "Helm"
+  },
+  {
+    "name": "Gladiatorenhelm",
+    "anmerkung": "Der Gladiatorenhelm gilt als Lederrüstung für die Trefferzone Kopf.",
+    "helmvorteil": "Gegen Waffen der Kampftechniken Dolche, Fechtwaffen und Schwerter schützt der Gladiatorenhelm mit RS 4.",
+    "helmnachteil": "Proben auf Sinnesschärfe sind um 1 erschwert, wenn es ums Hören oder Sehen geht.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": null,
+        "seite": null
+      }
+    ],
+    "_source_file": "gladiatorenhelm.txt",
+    "_category": "Helm"
+  },
+  {
+    "name": "Kettenhaube",
+    "anmerkung": "Die Kettenhaube gilt als Kettenrüstung für die Trefferzone Kopf. Sie kann mit einem Topfhelm, einem Tellerhelm und dem Tobrischen Hut kombiniert werden. Für die Trefferzone Kopf zählt dann der RS des getragenen Helm und zusätzlich ein Bonus von +1 RS durch die Kettenhaube. Der so ermittelte RS der Trefferzone Kopf dient als Grundlage zur Berechnung der Belastung nach den Regeln für Trefferzonen-Rüstungsschutz.",
+    "helmvorteil": "Gegen Waffen der Kampftechniken Armbrüste, Bögen, Dolche und Schwerter schützt die Kettenhaube mit RS 5.",
+    "helmnachteil": "Sinnesschärfe-Proben, um einen Kettenhaubenträger zu bemerken, sind um 1 erleichtert.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": null,
+        "seite": null
+      }
+    ],
+    "_source_file": "kettenhaube.txt",
+    "_category": "Helm"
+  },
+  {
+    "name": "Lederhelm",
+    "anmerkung": "Der Lederhelm gilt als Lederrüstung für die Trefferzone Kopf.",
+    "helmvorteil": "keine",
+    "helmnachteil": "keine",
+    "ap_wert": null,
+    "publikationen": [],
+    "_source_file": "lederhelm.txt",
+    "_category": "Helm"
+  },
+  {
+    "name": "Maskenhelm",
+    "anmerkung": "Der Maskenhelm gilt als Plattenrüstung für die Trefferzone Kopf. Man benötigt zum Auf- und Absetzen des Helms 5 Aktionen.",
+    "helmvorteil": "Proben auf Einschüchtern sind um 1 erleichtert.",
+    "helmnachteil": "Proben auf Sinnesschärfe sind um 1 erschwert, wenn es ums Hören oder Sehen geht.",
+    "ap_wert": null,
+    "publikationen": [],
+    "_source_file": "maskenhelm.txt",
+    "_category": "Helm"
+  },
+  {
+    "name": "Morion",
+    "anmerkung": "Der Morion gilt als Plattenrüstung für die Trefferzone Kopf.",
+    "helmvorteil": "keine",
+    "helmnachteil": "keine",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": null,
+        "seite": null
+      }
+    ],
+    "_source_file": "morion.txt",
+    "_category": "Helm"
+  },
+  {
+    "name": "Schaller",
+    "anmerkung": "Die Schaller gilt als Plattenrüstung für die Trefferzone Kopf. Sie kann mit einem Bart kombiniert werden. Für die Trefferzone Kopf zählt dann der RS der Schaller und zusätzlich ein Bonus von +1 RS durch den Bart. Der so ermittelte RS der Trefferzone Kopf dient als Grundlage zur Berechnung der Belastung nach den Regeln für Trefferzonen-Rüstungsschutz.",
+    "helmvorteil": "Gegen Waffen der Kampftechniken Armbrüste, Bögen, Dolche und Schwerter schützt die Schaller die Trefferzone Kopf mit RS 7.",
+    "helmnachteil": "Proben auf Sinnesschärfe sind um 1 erschwert, wenn es ums Hören geht.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": null,
+        "seite": null
+      }
+    ],
+    "_source_file": "schaller.txt",
+    "_category": "Helm"
+  },
+  {
+    "name": "Sturmhaube",
+    "anmerkung": "Die Sturmhaube gilt als Plattenrüstung für die Trefferzone Kopf.",
+    "helmvorteil": "Gegen Waffen der Kampftechniken Armbrüste, Bögen, Dolche und Schwerter schützt die Sturmhaube die Trefferzone Kopf mit RS 7.",
+    "helmnachteil": "Proben auf Sinnesschärfe sind um 1 erschwert, wenn es ums Hören geht.",
+    "ap_wert": null,
+    "publikationen": [],
+    "_source_file": "sturmhaube.txt",
+    "_category": "Helm"
+  },
+  {
+    "name": "Tellerhelm",
+    "anmerkung": "Der Tellerhelm gilt als Plattenrüstung für die Trefferzone Kopf.",
+    "helmvorteil": "Bei Schaden durch herabfallende Trümmer schützt der Tellerhelm seinen Träger mit +1 RS für den gesamten Körper.",
+    "helmnachteil": "Bei einem Treffer muss zusätzlich mit 1W6 gewürfelt werden. Bei einer 1 besteht nur ein RS von 0, bei einer 2 ein RS von 1 und bei einer 3 ein RS von 3.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": null,
+        "seite": null
+      }
+    ],
+    "_source_file": "tellerhelm.txt",
+    "_category": "Helm"
+  },
+  {
+    "name": "Tobrischer Hut",
+    "anmerkung": "Der Tobrische Hut gilt als Plattenrüstung für die Trefferzone Kopf.",
+    "helmvorteil": "keine",
+    "helmnachteil": "Bei einem Treffer muss zusätzlich mit 1W6 gewürfelt werden. Bei einer 1 besteht nur ein RS von 0, bei einer 2 ein RS von 1 und bei einer 3 bis 4 ein RS von 3. Bei einem Ergebnis von 5 und 6 schützt der Tobrische Hut wie gewohnt mit RS 6.",
+    "ap_wert": 0,
+    "publikationen": [
+      {
+        "buch": null,
+        "seite": null
+      }
+    ],
+    "_source_file": "tobrischer-hut.txt",
+    "_category": "Helm"
+  },
+  {
+    "name": "Topfhelm",
+    "anmerkung": "Der Topfhelm gilt als Plattenrüstung für die Trefferzone Kopf.",
+    "helmvorteil": "Gegen Waffen der Kampftechniken Schwerter und Zweihandschwerter zählt der Topfhelm in der Trefferzone Kopf mit RS 8.",
+    "helmnachteil": "Proben auf Sinnesschärfe sind um 3 erschwert, wenn es ums Hören oder Sehen geht. Wer länger als 7 KR am Stück mit einem Topfhelm auf dem Kopf kämpft, erleidet 1 Stufe Betäubung für 30 Minuten.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": null,
+        "seite": null
+      }
+    ],
+    "_source_file": "topfhelm.txt",
+    "_category": "Helm"
+  },
+  {
+    "name": "Wolfshelm",
+    "anmerkung": "Der Wolfshelm gilt als Plattenrüstung für die Trefferzone Kopf.",
+    "helmvorteil": "Proben auf Willenskraft, wenn der Träger eines Wolfshelms jemanden einschüchtert, sind um 1 erschwert.",
+    "helmnachteil": "Proben auf Sinnesschärfe sind um 2 erschwert, wenn es ums Hören oder Sehen geht. Wer länger als 10 KR am Stück mit einem Wolfshelm auf dem Kopf kämpft, erleidet 1 Stufe Betäubung für 30 Minuten.",
+    "ap_wert": null,
+    "publikationen": [],
+    "_source_file": "wolfshelm.txt",
+    "_category": "Helm"
+  },
+  {
+    "name": "Zwergenhelm",
+    "anmerkung": "Der Zwergenhelm gilt als Plattenrüstung für die Trefferzone Kopf.",
+    "helmvorteil": "Gegen Treffer von Kreaturen der Größenkategorie groß oder riesig schützt der Zwergenhelm mit RS 7.",
+    "helmnachteil": "Proben auf Sinnesschärfe sind um 2 erschwert, wenn es ums Hören geht.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": null,
+        "seite": null
+      }
+    ],
+    "_source_file": "zwergenhelm.txt",
+    "_category": "Helm"
+  }
+]

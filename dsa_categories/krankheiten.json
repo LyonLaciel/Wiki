@@ -1,0 +1,820 @@
+[
+  {
+    "name": "Augenpest",
+    "stufe": 5,
+    "verlauf": "Der Erkrankte erblindet oder sieht zumindest sehr schlecht.",
+    "widerstand": "Seelenkraft",
+    "inkubationszeit": "1 Tag",
+    "schaden": "Status Blind / Nachteil Eingeschränkter Sinn (Sicht)",
+    "dauer": "6 Tage / 3 Tage",
+    "ursachen": "dauerhafter Schlafmangel über mindestens eine Woche (1-2 auf W20, 10 %), Biss eines Maulwurfs (1 auf W20, 5 %), Tempelfrevel an Praios (1 auf W20, 5 %)",
+    "behandlung": "keine",
+    "gegenmittel": "Auftragen einer Salbe aus Praiosblumenkernöl, Wirselkrautblättern und Gulmond auf die Augenlider. War die Krankheitsprobe erfolgreich und nahm die Krankheit den schlimmeren Verlauf, nimmt sie nach der Verabreichung den weniger schlimmen Verlauf; war die Probe der Krankheit misslungen, endet die Krankheit augenblicklich.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Kompendium 2",
+        "seite": 17
+      }
+    ],
+    "_source_file": "Krank_Augenpest.txt",
+    "_category": "Krankheit"
+  },
+  {
+    "name": "Aussatz",
+    "stufe": 5,
+    "verlauf": "Als sehr langsam fortschreitendes Leiden beginnt Aussatz mit rötlichen Flecken auf der Haut, die sich taub anfühlen und sich innerhalb von mehreren Wochen ausbreiten. Die Flecken werden zunehmend knotig und innerhalb weniger Monate beginnen sich Gesicht und Extremitäten zu zersetzen. Durch Aussatz erleidet der Erkrankte nicht den Verlust der Regeneration durch den Status Krank.",
+    "widerstand": "Zähigkeit",
+    "inkubationszeit": "3 Monate, in seltenen Fällen bis zu mehreren Jahren",
+    "schaden": "Erkrankte verlieren zwei Stufen ihres Aussehens: Wer normal aussieht, erhält den Nachteil Hässlich II, Gutaussehend I wird durch Hässlich I ersetzt usw. Nach Wahl des Spielleiters verliert der Erkrankte in jedem weiteren Monat, den die Krankheit andauert, kleinere Extremitäten wie Finger oder Zehen. Pro Jahr erhält er eine Variante des Nachteils Verstümmelt, das erste Mal nach einem Jahr Krankheitsdauer. / Erkrankte verlieren eine Stufe ihres Aussehens. Nach Abklingen der Krankheit bleiben keine Schäden zurück und auch die herabgesetzte Stufe des Aussehens regeneriert sich nach 1W6 Tagen.",
+    "dauer": "bis zur Genesung oder dem Tod / 20 Tage",
+    "ursachen": "Kontakt mit Erkrankten (1 auf W20, 5 %)",
+    "behandlung": "Regelmäßige Bäder in heißem Essig und Kräuterabsuden verlangsamen die Auswirkungen der Krankheit um die Hälfte.",
+    "gegenmittel": "Keines; die Perainekirche kennt Liturgien, um den Aussatz zu stoppen.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurischer Almanach",
+        "seite": 127
+      }
+    ],
+    "_source_file": "Krank_Aussatz.txt",
+    "_category": "Krankheit"
+  },
+  {
+    "name": "Basiliskenblick oder Paralyse (magische Krankheit)",
+    "stufe": 4,
+    "verlauf": "Der Körper ist am ersten Tag leicht gelähmt, ab dem zweiten Tag beginnt jedoch ein tatsächlicher Versteinerungsprozess. Auch die Augenmuskulatur ist von Beginn an von der Lähmung betroffen, wodurch der Blick starr und bewegungslos wird (der Erkrankte bekommt einen ‚Basiliskenblick‘). Nachdem innerhalb weniger Tage die gesamte Körperoberfläche zu Stein erstarrt ist, beginnt anschließend die Versteinerung der inneren Organe. Wird der Krankheitsverlauf überlebt, bildet sich die Versteinerung innerhalb eines Tages vollständig zurück.",
+    "widerstand": "Seelenkraft",
+    "inkubationszeit": "7 Tage",
+    "schaden": "Am ersten Tag 1 Stufe Paralyse. Ab dem zweiten Tag jeweils eine Probe auf Selbstbeherrschung mit einer Erschwernis gleich der Anzahl der vergangenen Krankheitstage, bei Misslingen der Probe 1 Stufe Paralyse zusätzlich. Nachdem 4 Stufen Paralyse erreicht werden, erleidet der Erkrankte 2W6 SP pro weiterem Tag und erhält den Status Versteinert. / Am ersten Tag 1 Stufe Paralyse. Ab dem zweiten Tag jeweils eine Probe auf Selbstbeherrschung,\nbei Misslingen der Probe 1 Stufe Paralyse zusätzlich. Nachdem 4 Stufen Paralyse erreicht werden, erleidet der Erkrankte 1W6 SP pro weiterem Tag und erhält den Status Versteinert. Die angesammelten Stufen Paralyse bauen sich bei beiden Verläufen erst nach dem Ende der Krankheit wieder ab und verbleiben bis dahin dauerhaft.",
+    "dauer": "9 Tage / 6 Tage",
+    "ursachen": "Schaden durch Untote (1-2 auf W20, 10 %), Aufenthalt in einer Basiliskenbrache (pro Tag, 1-4 auf W20, 20 %), Blickkontakt mit einem Erkrankten* (1 auf W20, 5 %)",
+    "behandlung": "keine",
+    "gegenmittel": "Zerkauen von frischen oder eingelegten Donfstengeln. War die Krankheitsprobe erfolgreich und nahm die Krankheit den schlimmeren Verlauf, nimmt sie nach der Verabreichung den weniger schlimmen Verlauf; war die Probe der Krankheit misslungen, wird der Krankheitsverlauf innerhalb eines Tages gestoppt, die bisherigen Auswirkungen der Paralyse bleiben jedoch bis zum Ende der Krankheitsdauer bestehen.\n*) Die Dauer beträgt hierbei aber, gleich ob die Krankheitsprobe ge- oder misslungen ist, nur 1 Tag.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Kompendium 2",
+        "seite": 17
+      }
+    ],
+    "_source_file": "Krank_Paralye.txt",
+    "_category": "Krankheit"
+  },
+  {
+    "name": "Blaue Keuche",
+    "stufe": 6,
+    "verlauf": "Ab dem ersten Tag treten schwere Schmerzen im Brustkorb und Fieber auf, der Schlaf ist unruhig und die Atmung flach. Ab dem zweiten Tag folgen Hustenanfälle mit blauem bis violettem Auswurf. Die Haut ist blass, ab dem zweiten Tag im Gesicht teilweise leicht bläulich, dazu kommt häufig die Blaufärbung von Lippen und Zunge. Bei längerem Verlauf folgt zunehmende Ermattung bis zur völligen Entkräftung.",
+    "widerstand": "Zähigkeit",
+    "inkubationszeit": "1 Tag",
+    "schaden": "Am ersten Tag 1 Stufe Schmerz (der nur am ersten Tag auftritt), ab dem zweiten Tag 1 Stufe Betäubung, alle 3 Tage, dazu 2 SP pro Tag / 1 Stufe Schmerz (der nur am ersten Tag auftritt), dazu 1 SP pro Tag",
+    "dauer": "14 Tage / 7 Tage",
+    "ursachen": "Folge einer Erkrankung an Blutigem Rotz oder Dumpfschädel (1-2 auf W20, 10 %), längerer Kontakt mit einem Kranken (1 auf W20, 5 %)",
+    "behandlung": "Bettruhe, Hausmittel und die Aufnahme von viel Flüssigkeit halbieren die Dauer der Erkrankung.",
+    "gegenmittel": "Keines; die Perainekirche kennt Liturgien, um die Blaue Keuche zu stoppen.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurischer Almanach",
+        "seite": 127
+      }
+    ],
+    "_source_file": "Krank_BlaueKeuche.txt",
+    "_category": "Krankheit"
+  },
+  {
+    "name": "Bleiche Sieche",
+    "stufe": 6,
+    "verlauf": "Der Erkrankte erbleicht und sein Urin färbt sich grünlich, was mit Dauer der Krankheit beides immer intensiver wird. Zudem hat der Betroffene vor allem nachts, wenn die Assel aktiv ist, stechende Schmerzen an verschiedenen Stellen im Leib, von denen er erwacht.",
+    "widerstand": "Zähigkeit",
+    "inkubationszeit": "1 Tag",
+    "schaden": "Regeneration von LeP während der Regenerationsphase um 2 vermindert (Minimum der Regeneration beträgt 0 LeP); nachts für 1 Stunde Schmerzen (2 Stufen Schmerz) / Regeneration von LeP während der Regenerationsphase um 1 vermindert; nachts für 1 Stunde Schmerzen (1 Stufe Schmerz)",
+    "dauer": "14 Tage / 7 Tage",
+    "ursachen": "Steinassel-Biss (1 auf W20, 5 %), Schlafen in asselverseuchten Gebieten in Arivor (1-4 auf W20, 20 %)",
+    "behandlung": "Bettruhe und verschiedene Kräutertees reduzieren die Krankheitsdauer um 2 Tage.",
+    "gegenmittel": "Egelschreck verhindert 3 Tage eine Ansteckung an Bleicher Sieche (siehe Regelwerk Seite 345). Ein FULMINICTUS (egal, wie viel Schaden er anrichtet), der auf den Erkrankten gesprochen wird, tötet den Parasiten ab. Die Perainekirche kennt Liturgien, um die Bleiche Sieche zu stoppen.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Kompendium 2",
+        "seite": 18
+      },
+      {
+        "buch": "Der Tag danach",
+        "seite": 19
+      }
+    ],
+    "_source_file": "BSieche.txt",
+    "_category": "Krankheit"
+  },
+  {
+    "name": "Blutiger Rotz",
+    "stufe": 3,
+    "verlauf": "Mund- und Rachenschleimhäute schwellen an, rötlichbrauner Schleim wird abgesondert, begleitet von Hustenanfällen und leichtem Fieber. In manchen Fällen kann blutiger Rotz zu einer Erkrankung an Blauer Keuche führen (1-2 auf W20, 10 %).",
+    "widerstand": "Zähigkeit",
+    "inkubationszeit": "3 Tage",
+    "schaden": "alle drei Tage 1 Stufe Betäubung, 1 SP pro Tag / 1 Stufe Betäubung, dazu 1 SP pro Tag",
+    "dauer": "10 Tage / 3 Tage",
+    "ursachen": "langer Aufenthalt im Regenwald, mindestens 2 Wochen (1-2 auf W20, 10 %), Nähe eines Kranken (1-5 auf W20, 25 %)",
+    "behandlung": "Bettruhe, Hausmittel, dadurch wird der Verlauf um 2 Tage reduziert.",
+    "gegenmittel": "eine geheime Mischung aus verschiedenen Kräutern des Regengebirges (nur bei Schamanen und Animisten der Waldmenschenstämme bekannt)",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurischer Almanach",
+        "seite": 127
+      }
+    ],
+    "_source_file": "Krank_BlutigerRotz.txt",
+    "_category": "Krankheit"
+  },
+  {
+    "name": "Blutkrächzen",
+    "stufe": 3,
+    "verlauf": "Ab dem ersten Tag Halsschmerzen und Heiserkeit. Starker, blutiger Husten und Kopfschmerzen setzen ab dem zweiten Tag ein.",
+    "widerstand": "Zähigkeit",
+    "inkubationszeit": "1 Tag",
+    "schaden": "1W3 SP pro Tag. Ab dem zweiten Tag 1 Stufe Betäubung / 1 SP pro Tag. Ab dem zweiten Tag 1 Stufe Betäubung",
+    "dauer": "5 Tage / 3 Tage",
+    "ursachen": "Moskitostiche (1-3 auf W20, 15 %), Biss einer Ratte (1-2 auf W20, 10 %)",
+    "behandlung": "Bettruhe (1 SP weniger pro Tag)",
+    "gegenmittel": "Einnahme eines Tees aus getrockneten Gulmondblättern (Dauer –2 Tage)",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Kompendium 2",
+        "seite": 18
+      }
+    ],
+    "_source_file": "Krank_Blutkraechzen.txt",
+    "_category": "Krankheit"
+  },
+  {
+    "name": "Brabaker Schweiß",
+    "stufe": null,
+    "verlauf": null,
+    "widerstand": null,
+    "inkubationszeit": null,
+    "schaden": null,
+    "dauer": null,
+    "ursachen": "siehe Sumpffieber",
+    "behandlung": null,
+    "gegenmittel": null,
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 344
+      }
+    ],
+    "_source_file": "Krank_BrabakerSchweiß.txt",
+    "_category": "Krankheit"
+  },
+  {
+    "name": "Dumpfschädel",
+    "stufe": 2,
+    "verlauf": "Mattigkeit, Schwäche und Schwindelgefühle treten auf, einhergehend mit Fieber, Husten und Schnupfen. In seltenen Fällen kann Dumpfschädel zu einer Erkrankung an Blauer Keuche führen (1-2 auf W20, 10 %).",
+    "widerstand": "Zähigkeit",
+    "inkubationszeit": "2 Tage",
+    "schaden": "1 Stufe Betäubung, 1 Stufe Verwirrung, dazu 1 SP pro Tag / 1 Stufe Betäubung.",
+    "dauer": "6 Tage / 3 Tage",
+    "ursachen": "Lügen und Unwahrheiten verbreiten in einem Praios- oder Hesindetempel (1 auf W20, 5 %), Nähe eines Kranken (1-2 auf W20, 10 %), Unterkühlung (mindestens eine Unterkühlungsstufe erlitten, 1-8 auf W20, 40 %)",
+    "behandlung": "Durch Bettruhe wird die Krankheitsdauer um 1 Tag reduziert.",
+    "gegenmittel": "Traschbart (wirkt sofort, der Erkrankte verliert keine LeP durch den Krankheitsverlauf mehr)",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurischer Almanach",
+        "seite": 128
+      }
+    ],
+    "_source_file": "Krank_Dumpfschädel.txt",
+    "_category": "Krankheit"
+  },
+  {
+    "name": "Efferd- oder Kerkersieche",
+    "stufe": 2,
+    "verlauf": "Das langsame Siechtum beginnt mit Sinnestrübungen und Mattigkeit, die dann in Sehstörungen und Halluzinationen übergehen.",
+    "widerstand": "Seelenkraft",
+    "inkubationszeit": "sofort",
+    "schaden": "1 Stufe Verwirrung pro 5 Tage / 1 Stufe Verwirrung",
+    "dauer": "bis das Schiff oder der Kerker verlassen wird (Krankheit hört sofort auf)",
+    "ursachen": "Mindestens 5 Wochen auf See oder im Gefängnis (ab der sechsten Woche jede Woche 1 auf W20, 5 %)",
+    "behandlung": "Fixierung, damit sich der Erkrankte durch die Halluzinationen nicht selbst gefährdet",
+    "gegenmittel": "Siehe Dauer. Frisches Sansaro verhindert, dass die Erkrankung schlimmer wird (keine weiteren Stufen Verwirrung). Nach zwei Wochen der Einnahme ist die Krankheit geheilt. Die Einnahme von frischem Neckerkraut verhindert für eine Woche eine Erkrankung.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurischer Almanach",
+        "seite": 128
+      }
+    ],
+    "_source_file": "Krank_Efferdsieche.txt",
+    "_category": "Krankheit"
+  },
+  {
+    "name": "Flinker Difar",
+    "stufe": 1,
+    "verlauf": "Beim Flinken Difar, auch Darmfraisch genannt, handelt es sich um eine Durchfallerkrankung, die mit Mattigkeit einhergeht.",
+    "widerstand": "Zähigkeit",
+    "inkubationszeit": "1 Tag",
+    "schaden": "1W3 SP pro Tag, Mattigkeit (1 Stufe Betäubung) / 1 SP pro Tag",
+    "dauer": "4 Tage / 2 Tage",
+    "ursachen": "verdorbene Lebensmittel (1-16 auf W20, 80 %), dauerhaft mangelnde Hygiene (1 auf W20, 5 %), Nähe eines Kranken (1-5 auf W20, 25 %)",
+    "behandlung": "Bettruhe, Hausmittel, viel Flüssigkeit, dadurch wird der Verlauf um 1 Tag reduziert",
+    "gegenmittel": null,
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 343
+      }
+    ],
+    "_source_file": "Krank_FlinkerDifar.txt",
+    "_category": "Krankheit"
+  },
+  {
+    "name": "Gänsepusteln (Kinderkrankheit)",
+    "stufe": 2,
+    "verlauf": "Es bilden sich zahlreiche kleine, eitrige Pickel im Gesicht und an den Händen. Die Haut rötet sich an diesen Stellen leicht.",
+    "widerstand": "Zähigkeit",
+    "inkubationszeit": "1 Tag",
+    "schaden": "1W3 SP pro Tag, das Aussehen des Erkrankten sinkt um eine Stufe (z. B. von normal auf Hässlich I oder von Gutaussehend II auf Gutaussehend I) / 1 SP pro Tag, das Aussehen des Erkrankten sinkt um eine Stufe (z. B. von normal auf Hässlich I oder von Gutaussehend II auf Gutaussehend I)",
+    "dauer": "5 Tage / 3 Tage",
+    "ursachen": "dauerhaft mangelnde Hygiene über mindestens drei Monate (1-4 auf W20, 20 %), Kontakt mit einem Kranken (1-2 auf W20, 10 %)",
+    "behandlung": "Hausmittel (z. B. in Milch getränkte Tücher auf Gesicht und Hände legen, Dauer –1 Tag)",
+    "gegenmittel": "Eine Salbe aus zerdrückten Alraunen und Wirselkrautblättern auf die Haut auftragen. War die Krankheitsprobe erfolgreich und nahm die Krankheit den schlimmeren Verlauf, nimmt sie nach der Verabreichung den weniger schlimmen Verlauf; war die Probe der Krankheit misslungen, bilden sich die Pusteln sofort zurück und die Krankheit endet.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Kompendium 2",
+        "seite": 19
+      }
+    ],
+    "_source_file": "Krank_Gaensepusteln.txt",
+    "_category": "Krankheit"
+  },
+  {
+    "name": "Gilbe",
+    "stufe": 2,
+    "verlauf": "Starkes Fieber, begleitet durch Krampfschübe und Leibschmerzen. Zum Ende hin Gelbfärbung der Lippen. Bei Elfen verläuft die Gilbe immer schwer (die Krankheitsprobe gilt für die Gilbe immer als gelungen). In manchen Fällen kann Gilbe zu einer Erkrankung an Jahresfieber führen (1-2 auf W20, 10 %).",
+    "widerstand": "Zähigkeit",
+    "inkubationszeit": "3 Tage",
+    "schaden": "1 Stufe Schmerz und 1W6 SP pro Tag / 1 Stufe Schmerz, dazu 1 SP pro Tag",
+    "dauer": "7 Tage / 3 Tage",
+    "ursachen": "verunreinigte Wunden, besonders auf Schlachtfeldern (1-4 auf 1W20, 20 %), Nähe eines Kranken (1 auf W20, 5 %)",
+    "behandlung": "Bettruhe und Fieberfürsorge (1 SP weniger pro Tag)",
+    "gegenmittel": "Alkoholischer Sud aus Joruga und Gulmond verkürzt die Krankheit um 2 Tage, Traschbartsalbe verhindert eine Folgeerkrankung mit Jahresfieber.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurischer Almanach",
+        "seite": 128
+      }
+    ],
+    "_source_file": "Krank_Gilbe.txt",
+    "_category": "Krankheit"
+  },
+  {
+    "name": "Grasse",
+    "stufe": 4,
+    "verlauf": "Ab dem ersten Tag Gliederschmerzen, Schwindelgefühle, Benommenheit, Übelkeit und Fieber.",
+    "widerstand": "Zähigkeit",
+    "inkubationszeit": "1 Tag",
+    "schaden": "1W3 SP pro Tag und 1 Stufe Schmerz / 1W3–1 SP pro Tag und 1 Stufe Betäubung Die Stufen Schmerz und Betäubung bauen sich bei beiden Verläufen erst nach dem Ende der Krankheit wieder ab und verbleiben bis dahin dauerhaft.",
+    "dauer": "5 Tage / 3 Tage",
+    "ursachen": "Körper längere Zeit unterkühlt (1-2 auf W20, 10 %), Kontakt mit einem Kranken (1-4 auf W20, 20 %)",
+    "behandlung": "Bettruhe und allgemeine Fieberfürsorge (1 SP pro Tag weniger)",
+    "gegenmittel": "Einnahme eines Tees aus getrockneten Wirselkrautblättern (Dauer –2 Tage)",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Kompendium 2",
+        "seite": 19
+      }
+    ],
+    "_source_file": "Krank_Grasse.txt",
+    "_category": "Krankheit"
+  },
+  {
+    "name": "Guruk-Phaor (magische Krankheit)",
+    "stufe": 6,
+    "verlauf": "Der Held verwandelt sich in einen Menschenbaum. Er erhält den Status Baumartig.",
+    "widerstand": "Seelenkraft oder Zähigkeit (je nachdem, was niedriger ist)",
+    "inkubationszeit": "sofort",
+    "schaden": "verwandelt sich in 1W6 Tagen / verwandelt sich in 2W6 Tagen",
+    "dauer": "permanent",
+    "ursachen": "Dämonenharz des Arkhobal (1-6 auf W20, 30 %)",
+    "behandlung": "keine",
+    "gegenmittel": "Blütenblätter einer Alveranie",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Herbarium",
+        "seite": 158
+      },
+      {
+        "buch": "Aventurisches Pandämonium",
+        "seite": 125
+      }
+    ],
+    "_source_file": "krank_Guruk_Phaor.txt",
+    "_category": "Krankheit"
+  },
+  {
+    "name": "Herbstpocken (Kinderkrankheit)",
+    "stufe": 3,
+    "verlauf": "Es entstehen Bläschen und trockene Stellen auf der Haut, die furchtbar jucken. Durch Kratzen können diese aufplatzen, die dadurch entstehenden Wunden können bei schlechter Versorgung lebenslang Narben hinterlassen. Außerdem leidet der Erkrankte an Fieber.",
+    "widerstand": "Zähigkeit",
+    "inkubationszeit": "2 Tage",
+    "schaden": "Pro Tag eine Probe auf Selbstbeherrschung, bei Misslingen wird dem Juckreiz nachgegeben (1 SP). Fieber (1 Stufe Betäubung), 1W3 SP pro Tag. / Pro Tag eine Probe auf Selbstbeherrschung erleichtert um 2, bei Misslingen wird dem Juckreiz nachgegeben (1 SP). Fieber (1 Stufe Betäubung), 1 SP pro Tag.",
+    "dauer": "4 Tage / 2 Tage",
+    "ursachen": "dauerhaft mangelnde Hygiene über mindestens drei Monate (1-4 auf W20, 20 %), Kontakt mit einem Kranken (1-2 auf W20, 10 %)",
+    "behandlung": "Bettruhe und allgemeine Fieberfürsorge (1 SP pro Tag weniger)",
+    "gegenmittel": "Eine Salbe aus Gulmondblättern auf die Haut aufgetragen lindert den Juckreiz (keine Probe auf Selbstbeherrschung nötig und kein Schaden durch Kratzen).",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Kompendium 2",
+        "seite": 19
+      }
+    ],
+    "_source_file": "Krank_Herbstpocken.txt",
+    "_category": "Krankheit"
+  },
+  {
+    "name": "Höhenkrankheit",
+    "stufe": 2,
+    "verlauf": "Der Erkrankte erleidet Kopfschmerzen und Schwindel. Häufig kommen Übelkeit und Müdigkeit hinzu, sowie allgemeine Schwäche. Bisweilen treten auch Atemnot und Benommenheit auf.",
+    "widerstand": "Zähigkeit",
+    "inkubationszeit": "1 Tag",
+    "schaden": "2 Stufen Betäubung / 1 Stufe Betäubung",
+    "dauer": "bis zur Behandlung oder Heilung",
+    "ursachen": "Aufenthalt in großen Höhen, verschärft durch körperliche Belastung; Aufenthalt in einer Höhe von 5.000 Schritt (1 auf W20, 5%), Aufenthalt in einer Höhe ab 7.500 Schritt (1-2 auf W20, 10%), Aufenthalt in einer Höhe von 10.000 und mehr Schritt (1-3 auf W20, 15%)",
+    "behandlung": "Mindestens ein Tag Ruhezeit senkt den schweren Verlauf zu leichtem Verlauf ab.",
+    "gegenmittel": "Abstieg auf mäßige Höhen und dort mindestens drei Tage Ruhezeit",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Die silberne Wehr",
+        "seite": 52
+      }
+    ],
+    "_source_file": "hoehenkrankheit.txt",
+    "_category": "Krankheit"
+  },
+  {
+    "name": "Horasierkrankheit",
+    "stufe": 6,
+    "verlauf": "Am ersten Tag ist die Körperstelle, wo es zur Übertragung der Krankheit gekommen ist, gerötet und eine wässrige Flüssigkeit tritt aus. Ab dem zweiten Tag kommt ein leichtes Fieber hinzu, ab dem dritten Tag Hautauschlag und kleine, kupferfarbene Knötchen.\nIn vielen Fällen bricht die Krankheit alle 1W6+2 Monate erneut aus (1-10 auf W20, 50 %). Wenn dies geschieht, muss die Krankheit erneut eine Krankheitsprobe ablegen. Sie kehrt dann solange alle 1W6+2 Monate wieder, bis das Gegenmittel verabreicht wurde.",
+    "widerstand": "Zähigkeit",
+    "inkubationszeit": "3 Tage",
+    "schaden": "am ersten Tag 1W3+1 SP, am zweiten Tag 2W3+2 SP, am dritten Tag 3W3+3 SP; ab dem zweiten Tag 1 Stufe Verwirrung, die erst mit dem Ende der Krankheit abgebaut wird / am ersten Tag 1W3 SP, am zweiten Tag 2W3 SP, am dritten Tag 3W3 SP; ab dem zweiten Tag 1 Stufe Betäubung, die erst mit dem Ende der Krankheit abgebaut wird",
+    "dauer": "13 Tage / 7 Tage",
+    "ursachen": "Moskitostiche (1 auf W20, 5 %), Pflege eines Erkrankten (1-3 auf W20, 15 %), ungeschützter sexueller Kontakt mit Erkrankten (1-15 auf W20, 75 %)",
+    "behandlung": "Bettruhe und allgemeine Fieberfürsorge (1 SP pro Tag weniger)",
+    "gegenmittel": "Eine Salbe aus Donf, Rahjalieb, Sansaro und Traschbart verhindert den Wiederausbruch der Horasierkrankheit. Den aktuellen Verlauf kann die Salbe aber nicht aufhalten.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Kompendium 2",
+        "seite": 19
+      },
+      {
+        "buch": "Wege der Vereinigungen",
+        "seite": 117
+      }
+    ],
+    "_source_file": "gk_Horasierkrankheit.txt",
+    "_category": "Krankheit"
+  },
+  {
+    "name": "Ilaris-Sucht",
+    "stufe": 6,
+    "verlauf": "Träume mit ketzerischen Inhalten wider die Götter.",
+    "widerstand": "Seelenkraft",
+    "inkubationszeit": "1 Tag",
+    "schaden": "keiner",
+    "dauer": "permanent / 23 Tage",
+    "ursachen": "Abhängigkeit von Feuerschlick",
+    "behandlung": "Bekehrung durch Geweihte",
+    "gegenmittel": "keines",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Herbarium",
+        "seite": 156
+      },
+      {
+        "buch": "Das Dornenreich",
+        "seite": 94
+      }
+    ],
+    "_source_file": "krank_Ilaris_Sucht.txt",
+    "_category": "Krankheit"
+  },
+  {
+    "name": "Jahresfieber",
+    "stufe": 3,
+    "verlauf": "Ohne erkennbare Vorzeichen bricht das Jahresfieber unregelmäßig (pro Monat 1 auf W20, 5 %) für 3 Tage aus. Die Symptome sind schweres Fieber, begleitet von starkem Leibgrimmen.",
+    "widerstand": "Zähigkeit",
+    "inkubationszeit": "sofort",
+    "schaden": "1 Stufe Schmerz, dazu 1 Stufe Betäubung und 2 SP pro Tag / 1 Stufe Schmerz",
+    "dauer": "3 Tage pro Ausbruch, Jahresfieber selbst bis zum Lebensende / 3 Tage pro Ausbruch, Jahresfieber selbst bis zum Lebensende",
+    "ursachen": "Folgeerkrankung der Gilbe (1-2 auf W20, 10 %)",
+    "behandlung": "Bettruhe und Fieberfürsorge (1 SP weniger pro Tag)",
+    "gegenmittel": "Ein Sud aus Sansaro, Quinja und Donf verhindert für 5 Monate einen weiteren Ausbruch, ein Heilmittel ist nicht bekannt. Die Perainekirche kennt außerdem Liturgien, um das Jahresfieber zu stoppen.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurischer Almanach",
+        "seite": 129
+      }
+    ],
+    "_source_file": "Krank_Jahresfieber.txt",
+    "_category": "Krankheit"
+  },
+  {
+    "name": "Karmesin (Kinderkrankheit)",
+    "stufe": 3,
+    "verlauf": "Entzündung im Hals und Rachen, die Schleimhäute sind rot gefärbt und die Zunge ist geschwollen. Schlucken und Reden sind sehr schmerzhaft.",
+    "widerstand": "Zähigkeit",
+    "inkubationszeit": "1 Tag",
+    "schaden": "1W3 SP pro Tag. Nachteil Stumm / 1W3–1 SP pro Tag",
+    "dauer": "4 Tage / 2 Tage",
+    "ursachen": "Körper längere Zeit unterkühlt (1 auf W20, 5 %), Küssen eines Kranken (1-16 auf W20, 80 %), Kontakt mit einem Kranken (1-5 auf W20, 25 %)",
+    "behandlung": "keine",
+    "gegenmittel": "Einnahme eines Tees aus getrockneten Gulmondblättern (Dauer –2 Tage)",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Kompendium 2",
+        "seite": 20
+      }
+    ],
+    "_source_file": "Krank_Karmesin.txt",
+    "_category": "Krankheit"
+  },
+  {
+    "name": "Leichenblässe (magische Krankheit)",
+    "stufe": 3,
+    "verlauf": "Der Erkrankte erwacht am ersten Krankheitstag erschöpft, mit extrem bleicher Haut, starken, dunklen Augenringen und einem generell fahlen Erscheinungsbild. Auch die Stimme ist betroffen: Sie ist zittrig, leise und schwach.",
+    "widerstand": "Seelenkraft",
+    "inkubationszeit": "3 Tage",
+    "schaden": "1W3 SP pro Tag und 1 Stufe Betäubung. In manchen Situationen kann der Erkrankte für einen Untoten gehalten werden. / 1 SP pro Tag.",
+    "dauer": "4 Tage / 2 Tage",
+    "ursachen": "Grabfrevel (nach Meisterentscheid, dann 1-4 auf W20, 20 %), Biss einer Katze (1-2 auf W20, 10 %)",
+    "behandlung": "Bettruhe (1 SP weniger pro Tag)",
+    "gegenmittel": "keines; die Perainekirche kennt Liturgien, um die Leichenblässe zu stoppen.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Kompendium 2",
+        "seite": 20
+      }
+    ],
+    "_source_file": "Krank_Leichenblaesse.txt",
+    "_category": "Krankheit"
+  },
+  {
+    "name": "Lungenpilz",
+    "stufe": 4,
+    "verlauf": "Pilzsporen setzen sich in der Lunge fest, behindern dort schmerzhaft die Atmung und beeinträchtigen die Konstitution der Erkrankten.",
+    "widerstand": "Zähigkeit",
+    "inkubationszeit": "24 Stunden",
+    "schaden": "LE-Maximum sinkt um 2W6 LeP, 2 Stufen Paralyse / LE-Maximum sinkt um 1W6 LeP, 1 Stufe Paralyse",
+    "dauer": "permanent / 7 Tage",
+    "ursachen": "Einatmen von Sporen des reifen Orkland-Bovisten (13-18 auf W20, 35 %)",
+    "behandlung": "Inhalieren von ätherischen Dämpfen (unterdrückt die Paralyse für 1 Stunde)",
+    "gegenmittel": "Bei täglicher Einnahme von Gulmondtee darf die Krankheitsprobe alle drei Tage wiederholt werden, um die Krankheit vom schweren in den leichten Verlauf übergehen zu lassen. Dabei steigt die ZK mit jeder durch den Tee wiederholten Probe nach der ersten um 1 Punkt an. Aus dem schwächeren Verlauf klingt die Krankheit innerhalb von einer Woche vollständig ab.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Herbarium",
+        "seite": 158
+      }
+    ],
+    "_source_file": "krank_Lungenpilz.txt",
+    "_category": "Krankheit"
+  },
+  {
+    "name": "Lutanas",
+    "stufe": 3,
+    "verlauf": "Der Erkrankte erleidet starke Beklemmung, Atemnot und Angstzustände.",
+    "widerstand": "Seelenkraft",
+    "inkubationszeit": "2 Tag",
+    "schaden": "1W6 SP pro Tag, Angstzustände (1 Stufe Furcht pro 6 Stunden) / 1 SP pro Tag, (1 Stufe Furcht)",
+    "dauer": "7 Tage / 3 Tage",
+    "ursachen": "Biss eines Erkrankten (1-6 auf W20, 30 %)",
+    "behandlung": "seelische Betreuung, Heilkunde Seele, erschwert um Krankheitsstufe, pro 3 FP sinkt die Furcht um eine Stufe",
+    "gegenmittel": "Blütenstaub einer Lulanie als Trank: War die Krankheitsprobe erfolgreich und nahm die Krankheit den schlimmeren Verlauf, nimmt sie nach der Verabreichung den weniger schlimmen Verlauf; war die Probe der Krankheit misslungen, wird die Krankheit sofort geheilt.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 343
+      }
+    ],
+    "_source_file": "Krank_Lutanas.txt",
+    "_category": "Krankheit"
+  },
+  {
+    "name": "Lykanthropie (magische Krankheit)",
+    "stufe": 6,
+    "verlauf": "An den ersten Tagen nach der Ansteckung blutet der Erkrankte aus der Wunde oder verschiedenen Körperöffnungen. Die Verletzungen lassen sich selbst durch Magie oder Liturgien nicht richtig schließen und schmerzen. Ab dem ersten Vollmond setzt die erste Verwandlung ein.",
+    "widerstand": "Seelenkraft",
+    "inkubationszeit": "sofort",
+    "schaden": "Am ersten Tag nach der Ansteckung 1W6+2 SP durch Blutungen, am zweiten Tage 1W6+1 SP, am dritten Tag 1W6 SP, bis zum Ende des dritten Tags 1 Stufe Schmerz / Am ersten Tag nach der Ansteckung 1W3+2 SP durch Blutungen, am zweiten Tage 1W3+1 SP, am dritten Tag 1W3 SP",
+    "dauer": "permanent",
+    "ursachen": "Biss von Kyriaka / Anpa-Tonku, der SP verursacht (1-19 auf W20, 95 %), Biss eines Lykanthropen, der SP verursacht (W20, wird Menge der SP eines einzelnen Angriffs oder niedriger gewürfelt, erfolgt die Ansteckung), schicksalsträchtige Sternenkonstellation und Fluch eines Gottes (Meisterentscheid)",
+    "behandlung": "keine",
+    "gegenmittel": "Roter Drachenschlund kann die Krankheit stoppen, bevor sich der Erkrankte zum ersten Mal verwandelt. Danach ist die Heilungsaussicht durch den Roten Drachenschlund deutlich geringer.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Bestiairum 2",
+        "seite": 124
+      }
+    ],
+    "_source_file": "lykanthropie.txt",
+    "_category": "Krankheit"
+  },
+  {
+    "name": "Marder- oder Orkenkrätze",
+    "stufe": 3,
+    "verlauf": "Juckreiz und Hautirritationen. Danach haben sich die Parasiten satt gefressen und lassen vom Opfer ab.",
+    "widerstand": "Zähigkeit",
+    "inkubationszeit": "1 Tag",
+    "schaden": "Die Würmer sind zum Darm vorgedrungen. Juckreiz und Hautirritationen (1 Stufe Verwirrung) und Bauchkrämpfe (1 Stufe Schmerz) sowie 1W3 SP pro Tag. / Die Würmer haben nur die Haut befallen. Juckreiz und Hautirritationen (1 Stufe Verwirrung).",
+    "dauer": "7 Tage / 4 Tage",
+    "ursachen": "intensiver Hautkontakt mit Orks (bei 1 auf W20, 5 %, ist der Ork ein Überträger des Parasiten, bei 1 auf W20 bei einem weiteren Wurf, 5 %, kommt es zu einer Übertragung), Kontakt mit einem Kranken (1-2 auf W20, 10 %), Übernachtung in einer schäbigen Unterkunft (1-2 auf W20, 10 %), Pflege eines Erkrankten (1 auf W20, 5 %)",
+    "behandlung": "Wird der Körper täglich mit Egelschrecksalbe eingerieben, wird der Juckreiz unterdrückt (keine Stufe Verwirrung für diesen Tag). Ein Tee aus getrocknetem Egelschreck lindert die Bauchkrämpfe (nur 1 SP für diesen Tag).",
+    "gegenmittel": "Ein heißer Trank bestehend aus Sansaro und Gulmond erzeugt 1W6 SP und starken Durchfall, beendet den Parasitenbefall jedoch am selben Tag.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Kompendium 2",
+        "seite": 21
+      }
+    ],
+    "_source_file": "Krank_Orkenkraetze.txt",
+    "_category": "Krankheit"
+  },
+  {
+    "name": "Pilzflechte",
+    "stufe": 2,
+    "verlauf": "Unter der Haut des Erkrankten bildet sich eine grünlich schimmernde Pilzflechte",
+    "widerstand": "Zähigkeit",
+    "inkubationszeit": "24 Stunden",
+    "schaden": "1 SP pro Tag, 1 Stufe Verwirrung durch Jucken / 1 SP pro 2 Tage Dauer: 14 Tage",
+    "dauer": "14 Tage",
+    "ursachen": "Kontakt mit Sporen des reifen Orkland-Bovisten (1-12 auf W20, 60 %)",
+    "behandlung": "betroffene Hautstelle unterkühlen (halbiert die Krankheitsdauer)",
+    "gegenmittel": "keines",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Herbarium",
+        "seite": 158
+      }
+    ],
+    "_source_file": "krank_Pilzflechte.txt",
+    "_category": "Krankheit"
+  },
+  {
+    "name": "Rascher Wahn",
+    "stufe": 5,
+    "verlauf": "Am ersten Tag heftiges, unkontrolliertes Zucken, darauf folgend Anfälle grundlosen Zorns und ungezielter Gewaltausbrüche. Am zweiten Tag Raserei mit anschließendem Koma.",
+    "widerstand": "Seelenkraft",
+    "inkubationszeit": "3 Tage",
+    "schaden": "1W3 SP pro Tag, am ersten Tag Schüttellähmung (1 Stufe Paralyse) Proben auf Willenskraft bei den Schlechten Eigenschaften Rachsucht und Jähzorn sind um 5 erschwert. Ab dem zweiten Tag Raserei (der Held bekommt, so lange er an Raschem Wahn leidet, die Schlechte Eigenschaft Jähzorn; außerdem den Nachteil Blutrausch; leidet der Held bereits unter Jähzorn, sind seine Proben auf Willenskraft, um nicht in Jähzorn zu verfallen, um zusätzlich 2 erschwert), Koma (1 Stufe Betäubung pro 3 Stunden) / 1 SP pro Tag, Schüttellähmung (1 Stufe Paralyse) und es misslingen Proben auf Willenskraft bei den Schlechten Eigenschaften Rachsucht und Jähzorn automatisch.",
+    "dauer": "7 Tage / 3 Tage",
+    "ursachen": "Tempelfrevel (1 auf W20, 5 %), Tempelfrevel an Hesinde (1-4 auf W20, 20 %)",
+    "behandlung": "Fürbitten durch Geweihte, insbesondere die Hesindes. Fixierung des Erkrankten.",
+    "gegenmittel": "Blütenstaub einer Lulanie als Trank: War die Krankheitsprobe erfolgreich und nahm die Krankheit den schlimmeren Verlauf, nimmt sie nach der Verabreichung den weniger schlimmen Verlauf; war die Probe der Krankheit misslungen, wird die Krankheit sofort geheilt.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 343
+      }
+    ],
+    "_source_file": "Krank_RascherWahn.txt",
+    "_category": "Krankheit"
+  },
+  {
+    "name": "Reißwasserseuche",
+    "stufe": 5,
+    "verlauf": "Eine Krankheit, die mit Bauchkrämpfen, Erbrechen, Durchfall, Kopfschmerzen und Fieber einhergeht.",
+    "widerstand": "Zähigkeit",
+    "inkubationszeit": "2 Tage",
+    "schaden": "1W6+1 SP pro Tag, / 1W3+1 SP pro Tag",
+    "dauer": "8 Tage / 4 Tage",
+    "ursachen": "Trinken von verunreinigten Wasser (1-2 auf W20, 10 %)",
+    "behandlung": "Bettruhe senkt den Schaden pro Tag um 1 SP; ein Tee aus Donf und Gulmond sogar um 2 SP pro Tag. Bettruhe und Tee zusammen senken den Schaden um 3 SP pro Tag (jeweils immer bis zu einem Minimum von 1 SP pro Tag)",
+    "gegenmittel": "keines; die Perainekirche kennt Liturgien, um die Reißwasserseuche zu stoppen.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Kompendium 2",
+        "seite": 21
+      },
+      {
+        "buch": "Der Tag danach",
+        "seite": 19
+      }
+    ],
+    "_source_file": "rwasser.txt",
+    "_category": "Krankheit"
+  },
+  {
+    "name": "Rotbacke (Kinderkrankheit)",
+    "stufe": 1,
+    "verlauf": "Im Gesicht bildet sich ein rötlicher Ausschlag, der rasch größer wird und sich über den gesamten Körper ausbreitet. Der Erkrankte leidet während des gesamten Krankheitsverlaufs an Fieber.",
+    "widerstand": "Zähigkeit",
+    "inkubationszeit": "1 Tag",
+    "schaden": "1W3 SP pro Tag, hohes Fieber (2 Stufen Betäubung) / 1 SP pro Tag, Fieber (1 Stufe Betäubung)",
+    "dauer": "4 Tage / 2 Tage",
+    "ursachen": "Biss einer Fledermaus / Biss von Ungeziefer (1-2 auf W20, 10 %), Kontakt mit einem Kranken (1-2 auf W20, 10 %)",
+    "behandlung": "Bettruhe und allgemeine Fieberfürsorge (1 SP pro Tag weniger)",
+    "gegenmittel": "keines; die Perainekirche kennt Liturgien, um die Rotbacke zu stoppen.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Kompendium 2",
+        "seite": 21
+      }
+    ],
+    "_source_file": "Krank_Rotbacke.txt",
+    "_category": "Krankheit"
+  },
+  {
+    "name": "Schlachtfeldfieber",
+    "stufe": null,
+    "verlauf": null,
+    "widerstand": null,
+    "inkubationszeit": null,
+    "schaden": null,
+    "dauer": null,
+    "ursachen": "siehe Gilbe",
+    "behandlung": null,
+    "gegenmittel": null,
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurischer Almanach",
+        "seite": 128
+      }
+    ],
+    "_source_file": "Krank_Schlaftfeldfieber.txt",
+    "_category": "Krankheit"
+  },
+  {
+    "name": "Schlafkrankheit (magische Krankheit)",
+    "stufe": 6,
+    "verlauf": "Nach einer kurzen Phase der Kraftlosigkeit und aufkommender Schwindelanfälle setzt ein Tiefschlaf ein, aus dem der Erkrankte auch nach mehreren Stunden und Tagen nicht erwacht. Dabei ist sowohl die Atmung als auch der Herzschlag sehr schwach.",
+    "widerstand": "Seelenkraft",
+    "inkubationszeit": "1 Stunde",
+    "schaden": "1 Stufe Betäubung pro vollen 30 Minuten, nach 2 Stunden zusätzlich der Status Bewusstlos. Der Tiefschlaf hat keine direkten Folgen, bei langer Schlafdauer könnte jedoch fälschlicherweise der Tod diagnostiziert werden oder der Schlafende langsam verdursten bzw. verhungern. Leiden Elfen an der Schlafkrankheit, Schlafwandeln sie teilweise bis zu 8 Stunden am Tag. Der Meister hat hier das letzte Wort.",
+    "dauer": "geringe Wahrscheinlichkeit zu erwachen (pro Tag, 1-2 auf W20, 10 %) / hohe Wahrscheinlichkeit zu erwachen (pro Tag, 1-5 auf W20, 25 %)",
+    "ursachen": "Frevel an einer geweihten Grabstätte (1-4 auf W20, 20 %), Kontakt mit Untoten (1-2 auf W20, 10 %), Biss einer Fledermaus / Biss von Ungeziefer (1 auf W20, 5 %)",
+    "behandlung": "Wird die Krankheit als solche erkannt, sollte bei längerer Dauer die Zufuhr von Nahrungsmitteln und Wasser gewährleistet werden, damit der Erkrankte überlebt.",
+    "gegenmittel": "Auftragen von Öl einer Yagannuss auf die Augenlieder. War die Krankheitsprobe erfolgreich und nahm die Krankheit den schlimmeren Verlauf, nimmt sie nach der Verabreichung den weniger schlimmen Verlauf; war die Probe der Krankheit misslungen, wird der Tiefschlaf sofort beendet.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Kompendium 2",
+        "seite": 21
+      }
+    ],
+    "_source_file": "Krank_Schlafkrankheit.txt",
+    "_category": "Krankheit"
+  },
+  {
+    "name": "Schwarze Wut",
+    "stufe": 3,
+    "verlauf": "Am ersten Tag treten Schluckbeschwerden auf, danach Anfälle von Atemnot. Ab dem dritten Tag kommen leichtes Fieber, Wahnvorstellungen, Sinnestrübungen und häufig Anfälle von Raserei (pro Stunde 1-2 auf W20, 10 %) hinzu. Während dieser Anfälle erhält der Erkrankte den Status Blutrausch. Zudem bilden sich am ganzen Körper kleine, schwarze Schuppen, die nach der Heilung manchmal (1-2 auf W20, 10 %) schwarze Wundmale hinterlassen.",
+    "widerstand": "Zähigkeit",
+    "inkubationszeit": "2 Monate",
+    "schaden": "ab dem dritten Tag 1 Stufe Verwirrung und 1W6+2 SP pro Tag / ab dem dritten Tag 1 Stufe Verwirrung, dazu 1W6 SP pro Tag",
+    "dauer": "7 Tage / 3 Tage",
+    "ursachen": "Pflege bzw. Biss eines Tollwutkranken (1-2 auf W20, 10 %)",
+    "behandlung": "Bettruhe und Fieberfürsorge (1 SP weniger pro Tag), Fixierung zum Schutz des Erkrankten und seiner Umwelt",
+    "gegenmittel": "Einnahme einer Dosis Joruga-Öl schützt für 4 Monate vor einer Infektion, die dreifache Menge innerhalb eines Tages nach dem Biss eingenommen senkt die Infektionswahrscheinlichkeit auf 5 % (1 auf W20).",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurischer Almanach",
+        "seite": 129
+      }
+    ],
+    "_source_file": "Krank_SchwarzeWut.txt",
+    "_category": "Krankheit"
+  },
+  {
+    "name": "Sumpffieber",
+    "stufe": 3,
+    "verlauf": "Wahnvorstellungen, panische Angst, dann nach einigen Stunden einsetzender, lang andauernder Halbschlaf, Fieberschübe, die am dritten Tage ihren Zenit erreichen und danach wieder abflauen. Der Kranke ist die meiste Zeit bewusstlos.",
+    "widerstand": "Zähigkeit",
+    "inkubationszeit": "1 Tag",
+    "schaden": "Am 1. Tag 1W6 SP, am 2. Tag 2W6 SP, am dritten Tag 3W6 SP, am vierten Tag 2W6 SP und am fünften Tag 1W6 SP. Der Kranke erleidet pro 3 Stunden eine Stufe Betäubung. Am ersten Tag werden eventuell Ängste (siehe Nachteil) ausgelöst.",
+    "dauer": "5 Tage / 3 Tage",
+    "ursachen": "Bisse von Sumpfgeziefer (1 auf W20, 5 %), Moskitostiche (1 auf W20, 5 %), Pflege eines Erkrankten (1 auf W20, 5 %)",
+    "behandlung": "Bettruhe und allgemeine Fieberfürsorge (1 SP pro Tag weniger)",
+    "gegenmittel": "frische oder getrocknete und wieder aufgeweichte Donfstengel zerkauen (Dauer –2 Tage)",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 344
+      }
+    ],
+    "_source_file": "Krank_Sumpffieber.txt",
+    "_category": "Krankheit"
+  },
+  {
+    "name": "Tollwut",
+    "stufe": 6,
+    "verlauf": "Am ersten Tag treten Schluckbeschwerden auf, danach starke Anfälle von Atemnot. Ab dem dritten Tag kommen steigendes Fieber, Wahnvorstellungen, Sinnestrübungen und häufige Anfälle von Raserei (pro Stunde 1 auf W20, 5 %) hinzu. Während dieser Anfälle erhält der Erkrankte den Status Blutrausch.",
+    "widerstand": "Zähigkeit",
+    "inkubationszeit": "2 Monate, in seltenen Fällen bis zu einem Jahr",
+    "schaden": "ab dem dritten Tag 1 Stufe Verwirrung und 2W6+2 SP pro Tag / ab dem dritten Tag 1 Stufe Verwirrung, dazu 1W6+1 SP pro Tag",
+    "dauer": "7 Tage / 3 Tage",
+    "ursachen": "Biss eines tollwütigen Tieres oder eines Kranken (1-16 auf W20, 80 %)",
+    "behandlung": "Bettruhe und Fieberfürsorge (1 SP weniger pro Tag), Fixierung zum Schutz des Erkrankten und seiner Umwelt",
+    "gegenmittel": "Einnahme einer Dosis von Joruga-Öl schützt für 4 Monate vor einer Infektion, die dreifache Menge innerhalb von 4 Stunden nach dem Biss eingenommen senkt die Infektionswahrscheinlichkeit auf 20 % (1-4 auf W20).",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurischer Almanach",
+        "seite": 129
+      }
+    ],
+    "_source_file": "Krank_Tollwut.txt",
+    "_category": "Krankheit"
+  },
+  {
+    "name": "Triefnase",
+    "stufe": 1,
+    "verlauf": "Die Nase ist gerötet, verstopft und sondert ständig Sekret ab. Der Erkrankte muss häufig niesen. Manchmal können auch leichte Kopfschmerzen und Fieber auftreten.",
+    "widerstand": "Zähigkeit",
+    "inkubationszeit": "1 Tag",
+    "schaden": "2 SP pro Tag / 1 SP pro Tag",
+    "dauer": "3 Tage / 1 Tag",
+    "ursachen": "Körper längere Zeit unterkühlt (1-4 auf W20, 20 %), Kontakt mit einem Kranken (1-5 auf W20, 25 %)",
+    "behandlung": "Bettruhe und allgemeine Fieberfürsorge (1 SP pro Tag weniger)",
+    "gegenmittel": "Tee",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Kompendium 2",
+        "seite": 22
+      }
+    ],
+    "_source_file": "Krank_Triefnase.txt",
+    "_category": "Krankheit"
+  },
+  {
+    "name": "Wundfieber",
+    "stufe": 5,
+    "verlauf": "Am ersten Tag treten Verwirrung und Artikulationsschwierigkeiten auf, danach Fieber und starke Mattigkeit. Manche Erkrankten dämmern dauerhaft in einem unruhigen Halbschlaf.",
+    "widerstand": "Zähigkeit",
+    "inkubationszeit": "1 Tag",
+    "schaden": "am ersten Tag 2 Stufen Verwirrung, ab dem zweiten Tag 2 Stufen Betäubung und 1W6 SP pro Tag / am ersten Tag 1 Stufe Verwirrung, ab dem zweiten Tag 1 Stufe Betäubung, dazu 1W3 SP pro Tag",
+    "dauer": "3 Tage",
+    "ursachen": "Bisse von Aasfressern und Verwundungen mit stark verschmutzten Waffen, schlechte oder keine Wundversorgung (1-2 auf W20, 10 %)",
+    "behandlung": "Bettruhe und Fieberfürsorge (1 SP weniger pro Tag)",
+    "gegenmittel": "keines; die Perainekirche kennt Liturgien, um das Wundfieber zu stoppen.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurischer Almanach",
+        "seite": 129
+      }
+    ],
+    "_source_file": "Krank_Wundfieber.txt",
+    "_category": "Krankheit"
+  },
+  {
+    "name": "Zorganpocken",
+    "stufe": 5,
+    "verlauf": "An den ersten beiden Tagen helle, erbsengroße Pocken am ganzen Körper, danach Rotfärbung der Pocken, steigendes Fieber, Übelkeit, körperliche Schwäche. Anschwellen der Pocken mit eitriger Flüssigkeit. Am 13. Tag Aufbrechen der Pocken mit gleichzeitigem starken Fieberschub. Übersteht der Erkrankte diese Phase, heilen die Pocken ab und bilden Narben.",
+    "widerstand": "Zähigkeit",
+    "inkubationszeit": "13 Tage",
+    "schaden": "Ab dem 3. Tag 1W6 SP pro Tag, Körperliche Schwäche (3 Stufen Betäubung). Am 13. Tag 2W6 SP / Ab dem 3. Tag 1W6 SP pro Tag, Körperliche Schwäche (2 Stufen Betäubung)",
+    "dauer": "13 Tage / 5 Tage",
+    "ursachen": "gilt als Fluch des namenlosen, Kontakt mit einem Kranken (1-2 auf W20, 10 %), Pflege eines Kranken (1-10 auf W20, 50 %) An Zorganpocken kann man nur einmal im Leben erkranken. Bei schwerem Verlauf senken die Narben das Aussehen des Erkrankten um eine Stufe (z.B. von normal auf Hässlich I oder von Gutaussehend II auf Gutaussehend I).",
+    "behandlung": "Bettruhe und allgemeine Fieberfürsorge (1 SP pro Tag weniger), Gulmondtee senkt die Schadenswirkung am 13. Tag auf 1W6 SP",
+    "gegenmittel": "Bestreichen der Pocken mit Xordaiabsud. War die Krankheitsprobe erfolgreich und nahm die Krankheit den schlimmeren Verlauf, nimmt sie nach der Verabreichung den weniger schlimmen Verlauf; war die Probe misslungen, wird die Krankheit sofortgeheilt und die Pocken heilen ab.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 344
+      }
+    ],
+    "_source_file": "Krank_Zorganpocken.txt",
+    "_category": "Krankheit"
+  }
+]

@@ -1,0 +1,2340 @@
+[
+  {
+    "name": "Abakus",
+    "gewicht": "0,5 Stn",
+    "strukturpunkte": "5 StP",
+    "preis": "10 S",
+    "komplexitaet": "einf",
+    "regeltechnik": "Bei einer gelungenen Probe auf Rechnen steigen die FP um 1 (bis zu einem Maximum von 18). Zudem kann das Intervall bei Sammelproben auf Rechnen um 25 % verringert werden.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer II",
+        "seite": 12
+      }
+    ],
+    "_source_file": "RK_Ausr_Abakus.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Alchimistenschale",
+    "gewicht": "0,5 Stein",
+    "strukturpunkte": "30 StP",
+    "preis": "20 S",
+    "komplexitaet": "einf",
+    "regeltechnik": "Verwendung als Alchimistenschale (Traditionsartefakt)",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 234
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 167
+      }
+    ],
+    "_source_file": "alchimistenschale.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Angroschanhänger",
+    "gewicht": "0,2 Stn",
+    "strukturpunkte": "12 StP",
+    "preis": "12 S",
+    "komplexitaet": "einf",
+    "regeltechnik": "",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Götterwirken II",
+        "seite": 179
+      }
+    ],
+    "_source_file": "RK_Angroschanhaenger.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Annalen des Götteralters",
+    "gewicht": "2 Stn",
+    "strukturpunkte": "18 StP",
+    "preis": "50 bis 500 S",
+    "komplexitaet": "komp (2 AP)",
+    "regeltechnik": "Klugheit erhält bei der zweiten Teilprobe auf Geschichtswissen, Götter & Kulte (jede alveranische Gottheit und assoziierte Halbgötter) und Sagen & Legenden einen Bonus von +1, wenn es darum geht, allgemeine Informationen über die Gottheit des Anwendungsgebiets oder Sagen über den Zwölfgöttermythos zu erlangen.",
+    "cumulative_ap": null,
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer II",
+        "seite": 14
+      },
+      {
+        "buch": "Aventurisches Götterwirken",
+        "seite": 232
+      }
+    ],
+    "_source_file": "RK_Ausr_AnnalendesGoetteralters.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Bastmatte (Fluggerät)",
+    "gewicht": "0,75 Stein",
+    "strukturpunkte": "5 StP",
+    "preis": "10 S",
+    "komplexitaet": "prim",
+    "regeltechnik": "Verwendung als Fluggerät (minderes Traditionsartefakt)",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 234
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 130
+      }
+    ],
+    "_source_file": "bastmatte-fluggeraet.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Beil/Handaxt",
+    "gewicht": "0,75 Stn",
+    "strukturpunkte": "30 StruPu",
+    "preis": "20 S",
+    "komplexitaet": "prim",
+    "regeltechnik": "Fingerfertigkeit erhält bei der ersten Teilprobe auf Holzbearbeitung (Bäume schlagen) bei Verwendung eines Beils einen Bonus von +1. Ein Beil lässt sich als improvisierte Waffe verwenden.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 13
+      }
+    ],
+    "_source_file": "RK_Ausr_BeilHandaxt.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Bernsteinbrille",
+    "gewicht": "0,5 Stn",
+    "strukturpunkte": "10 StP",
+    "preis": "1.000 S",
+    "komplexitaet": "komp (3 AP)",
+    "regeltechnik": "Ein Träger der Bernsteinbrille muss keine Probe ablegen, um festzustellen, ob er Schneeblind wird. Voraussetzung dafür ist aber, dass er die Bernsteinbrille mindestens 8 Stunden täglich während seiner Reise trägt.",
+    "ap_wert": "komp (3 AP)",
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 15
+      }
+    ],
+    "_source_file": "RK_Ausr_Bernsteinbrille.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Besen",
+    "gewicht": "0,75 Stn",
+    "strukturpunkte": "8 StP",
+    "preis": "0,5 S",
+    "komplexitaet": "prim",
+    "regeltechnik": "Ein Besen lässt sich als improvisierte Waffe verwenden.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer 2",
+        "seite": 15
+      }
+    ],
+    "_source_file": "RK_Ausr_Besen.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": null,
+    "gewicht": null,
+    "strukturpunkte": null,
+    "preis": null,
+    "komplexitaet": null,
+    "regeltechnik": "Ab einem vollen Stein und bei bis zu 2/4/8/16 Schritt Entfernung vom Blaubasalt sind Proben auf Zauber um 4/3/2/1 erschwert. Pro weiteren 10 vollen Stein Blaubasalt werden die Erschwernisse verdoppelt. Zaubertricks und der Einsatz von SFs von Traditionsartefakten sind nicht möglich, solange sich der Zauberer innerhalb der Wirkungsreichweite von Blaubasalt befindet. Permanente Wirkungen, etwa die von magischen Artefakten und das Bindungsritual der Traditionsartefakte, bleiben bestehen. Ein Magierstab wird also nicht plötzlich zerbrechlich, wenn er in der Nähe von Blaubasalt ist. Allerdings lassen sich keine Zauber aktivieren, die auf einem Artefakt liegen, und bereits aktivierte Zauberwirkungen, etwa die Ewige Flamme eines Magierstabs oder der Flim Flam eines magischen Rings, werden innerhalb der Reichweite unterbrochen. Verlässt man die Reichweite, wird die Wirkung wieder aktiviert. Bei permanent magischen Objekten (also jenen, in denen permanente AsP enthalten sind) wird der Zauber nur unterdrückt, das Artefakt bleibt aber magisch (z. B. wird der Flim Flam eines magischen Gegenstand unterbrochen, das Artefakt funktioniert aber sofort wieder, wenn der Bereich verlassen wurde). Misslingt ein Zauber innerhalb der Wirkungsreichweite des Blaubasalts, so wird die für ihn benötigte Astralenergiemenge in den Basalt gesaugt. Hierbei handelt es sich um die AsP-Menge eines gelungenen Zaubers (also die vollen Kosten). Pro Stein Blaubasalt können 10 AsP aufgenommen werden. Wird diese Kapazität überschritten, entweichen die AsP sofort, was zerstörerische Effekte nach sich zieht: Der Basalt zerfällt oder platzt unter Feuerentwicklung auf und Lebewesen innerhalb des Explosionsradius um den Basalt erleiden 2W6 TP pro Stein. Jeden vollen Schritt Entfernung wird ein Würfel abgezogen (der mit der höchsten Augenzahl). Auch gelungene Zauber kosten 1W6 zusätzliche AsP, die in den Basalt fließen. Wesen mit AsP verlieren pro vollen 30 Minuten im Wirkungsbereich des Blaubasalts 1 AsP, der in das Gestein fließt. Es zählt immer die höchste Erschwernis, wenn man in, aus oder durch die Zone Zauber wirkt.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": null,
+        "seite": null
+      }
+    ],
+    "_source_file": "blaubasalt.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Bratspieß",
+    "gewicht": "3 Stn",
+    "strukturpunkte": "50 StruPu",
+    "preis": "16 S",
+    "komplexitaet": "prim",
+    "regeltechnik": "Fingerfertigkeit erhält bei der zweiten Teilprobe auf Lebensmittelbearbeitung (Braten & Sieden) bei Verwendung eines Bratspießes einen Bonus von +1, wenn es darum geht, Essen über einem Feuer zu braten. Ein Bratspieß lässt sich als improvisierte Waffe verwenden.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 15
+      }
+    ],
+    "_source_file": "RK_Ausr_Bratspiess.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Brecheisen",
+    "gewicht": "5 Stn",
+    "strukturpunkte": "70 StruPu",
+    "preis": "26 S",
+    "komplexitaet": "prim",
+    "regeltechnik": "Körperkraft erhält bei Kraftakt (Drücken & Verbiegen oder Stemmen & Heben) bei Verwendung eines Brecheisens einen Bonus von +1, wenn es darum geht, eine Tür, ein Fenster oder Ähnliches aufzubrechen oder ein Gewicht zu bewegen.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 15
+      }
+    ],
+    "_source_file": "RK_Ausr_Brecheisen.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Brett (Fluggerät)",
+    "gewicht": "1,5 Stein",
+    "strukturpunkte": "15 StP",
+    "preis": "1 S",
+    "komplexitaet": "prim",
+    "regeltechnik": "Verwendung als Fluggerät (minderes Traditionsartefakt)\nIm Kampf werden die Werte eines\nKnüppels\nverwendet.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 234
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 130
+      }
+    ],
+    "_source_file": "brett-fluggeraet.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Brevier der zwölfgöttlichen Unterweisung",
+    "gewicht": "1 Stn",
+    "strukturpunkte": "15 StruPu",
+    "preis": "75 S",
+    "komplexitaet": "komp (2 AP)",
+    "regeltechnik": "Klugheit erhält bei der zweiten Teilprobe auf Götter & Kulte (jede alveranische Gottheit und assoziierte Halbgötter) einen Bonus von +1, wenn es darum geht, allgemeine Informationen über die Gottheit des Anwendungsgebiets zu erlangen.",
+    "ap_wert": 2,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 16
+      }
+    ],
+    "_source_file": "RK_Ausr_Brevier12.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Brotbeutel",
+    "gewicht": null,
+    "strukturpunkte": null,
+    "preis": null,
+    "komplexitaet": null,
+    "regeltechnik": "Ein kleiner/großer Brotbeutel kann bis zu 2/4 Stein Gewicht an Gegenständen aufnehmen.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 16
+      }
+    ],
+    "_source_file": "RK_Ausr_Brotbeutel.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Buch der Schlange",
+    "gewicht": "1,5 Stn",
+    "strukturpunkte": "18 Strukturpunkte",
+    "preis": "90 S",
+    "komplexitaet": "komp (2 AP)",
+    "regeltechnik": "Zeremonialgegenstand der Hesinde-Kirche",
+    "ap_wert": 2,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Götterwirken",
+        "seite": 232
+      }
+    ],
+    "_source_file": "RK_ZerG_BuchSchlange.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Codex Albyricus",
+    "gewicht": "1 Stn",
+    "strukturpunkte": "15 StruPu",
+    "preis": "300 bis 750 S pro Band",
+    "komplexitaet": "komp (2 AP)",
+    "regeltechnik": "Bei einer gelungenen Probe auf Rechtskunde (Gildenrecht) steigen die FP um 1/2/3 (bis zu einem Maximum von 18), sofern dem Helden 1/3/7 brauchbare Bände des Codex Albyricus vorliegen.",
+    "ap_wert": 2,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 17
+      }
+    ],
+    "_source_file": "RK_Ausr_CodexAlbyricus.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Echsenhaube",
+    "gewicht": "1 Stn",
+    "strukturpunkte": "20 StP",
+    "preis": "55 S",
+    "komplexitaet": "einf",
+    "regeltechnik": "",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Achaz - Schuppenkleid & Lange Zungen",
+        "seite": 43
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 138
+      }
+    ],
+    "_source_file": "Ausruestung_Echsenhaube.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Edle Kleidung",
+    "gewicht": "2 Stn",
+    "strukturpunkte": "3 StP",
+    "preis": "100 S",
+    "komplexitaet": "einf",
+    "regeltechnik": "Nach Meisterentscheid kann die edle Kleidung dazu dienen, bei einer Probe auf Verkleiden (Kostümierung oder Person imitieren) einen Helden mit sozialem Stand Stufe 1 oder 2 wie jemanden der Stufe 3 aussehen zu lassen. Der Held kann dann bei einer gelungenen Probe auf Verkleiden (Kostümierung oder Person imitieren) von den Vorteilen des höheren sozialen Standes profitieren.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 18
+      }
+    ],
+    "_source_file": "RK_Ausr_EdleKleidung.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Einhornstirnband",
+    "gewicht": "0,3 Stn",
+    "strukturpunkte": "3 Strukturpunkte",
+    "preis": "23 S",
+    "komplexitaet": "einf",
+    "regeltechnik": "Zeremonialgegenstand der Nandus-Kirche",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Götterwirken",
+        "seite": 232
+      }
+    ],
+    "_source_file": "RK_ZerG_Einhornstirnband.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Encyclopaedia Magica",
+    "gewicht": "2 Stn",
+    "strukturpunkte": "20 StruPu",
+    "preis": "800 S pro Band",
+    "komplexitaet": "komp (2 AP)",
+    "regeltechnik": "Bei einer gelungenen Probe auf Magiekunde steigen die FP um 1/2/3 (bis zu einem Maximum von 18), sofern dem Helden 1/3/7 brauchbare Bände der Encyclopaedia Magica vorliegen.",
+    "ap_wert": "komp (2 AP)",
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 20
+      }
+    ],
+    "_source_file": "RK_Ausr_EncyclopaediaMagica.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Fackel",
+    "gewicht": "0,5 Stn",
+    "strukturpunkte": "20 StruPu",
+    "preis": "0,5 S",
+    "komplexitaet": "prim",
+    "regeltechnik": "Die Brenndauer der Fackel beträgt 1,5 Stunden. Sichtmodifikatoren durch Dunkelheit werden im Fackelschein pro 2 Schritt Radius wie folgt reduziert: –4/–3/–2/–1 Stufe(n). Eine Fackel lässt sich als improvisierte Waffe verwenden.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 21
+      }
+    ],
+    "_source_file": "RK_Ausr_Fackel.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Falscher Bart",
+    "gewicht": "0,2 Stn",
+    "strukturpunkte": "2 StP",
+    "preis": "2 S",
+    "komplexitaet": "prim",
+    "regeltechnik": "Ein falscher Bart erleichtert Proben auf Verkleiden, wenn es darum geht, sich als Mann auszugeben (vorausgesetzt, die dargestellte Person würde auch einen Bart tragen). Sollte ein Zwerg herausfinden, dass sein Gegenüber einen falschen Bart benutzt, sind Gesellschaftstalente (außer Menschenkenntnis und Willenskraft) gegenüber diesem Zwerg für immer um 1 erschwert.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 19
+      }
+    ],
+    "_source_file": "RK_Ausr_FalscherBart.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Fass (Fluggerät)",
+    "gewicht": "20 Stein",
+    "strukturpunkte": "100 StP",
+    "preis": "30 S",
+    "komplexitaet": "einf",
+    "regeltechnik": "Verwendung als Fluggerät (minderes Traditionsartefakt)",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 234
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 130
+      }
+    ],
+    "_source_file": "fass-fluggeraet.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Federkiel & Tinte",
+    "gewicht": null,
+    "strukturpunkte": null,
+    "preis": null,
+    "komplexitaet": null,
+    "regeltechnik": "Durch die Kombination beider Gegenstände kann der Held Texte auf geeignetes Material wie Papier niederschreiben. Ansonsten hat der Gegenstand keine regeltechnische Funktion.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer 2",
+        "seite": 20
+      }
+    ],
+    "_source_file": "RK_Ausr_FederkielundTinte.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Federmesser",
+    "gewicht": "0,2 Stn",
+    "strukturpunkte": "3 StP",
+    "preis": "3 S",
+    "komplexitaet": "einf",
+    "regeltechnik": "Mit einem Federmesser kann man Federkiele zum Schreiben herrichten. Ein Federmesser lässt sich als improvisierte Waffe verwenden.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer 2",
+        "seite": 20
+      }
+    ],
+    "_source_file": "RK_Ausr_Federmesser.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Feinmechanikerwerkzeug",
+    "gewicht": "0,5 Stn",
+    "strukturpunkte": "10 StP",
+    "preis": "100 S",
+    "komplexitaet": "komp (3 AP)",
+    "regeltechnik": "Feinmechanikerwerkzeug erleichtert Proben auf Metallbearbeitung (Feinschmiedearbeiten) und Schlösserknacken (Kombinationsschlösser) um 1.",
+    "ap_wert": "komp (3 AP)",
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 21
+      }
+    ],
+    "_source_file": "RK_Ausr_Feinmechanikerwerkzeug.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Feldflasche",
+    "gewicht": "0,25 Stn",
+    "strukturpunkte": "12 StruPu",
+    "preis": "6 S",
+    "komplexitaet": "prim",
+    "regeltechnik": "Eine Feldflasche kann 1 Liter Flüssigkeit aufnehmen. Um eine Feldflasche zu entkorken und daraus zu trinken, ist eine 1 Aktion notwendig.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 21
+      }
+    ],
+    "_source_file": "RK_Ausr_Feldflasche.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Fernrohr",
+    "gewicht": "1,25 Stn",
+    "strukturpunkte": "25 StruPu",
+    "preis": "150 S",
+    "komplexitaet": "komp (2 AP)",
+    "regeltechnik": "Helden erhalten bei Proben auf Sinnesschärfe (Suchen), die sich auf die Sicht beziehen, Erschwernisse bei großen Distanzen: 100 bis 500 Schritt –1, 501 bis 1.000 Schritt –2, 1.001 bis 2.000 Schritt –3, 2.001 bis 3.000 Schritt –3 usw. Fernrohre können diese Erschwernis senken. Das kleine und das zusammenschiebbare Fernrohr senken die Erschwernisse um 1, das normale Fernrohr senkt die Erschwernisse um 2 und das große Fernrohr sogar um 3 (jeweils bis zu einem Minimum von +/–0).",
+    "ap_wert": "komp (2 AP)",
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 22
+      }
+    ],
+    "_source_file": "RK_Ausr_Fernrohr.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Fesselseil",
+    "gewicht": null,
+    "strukturpunkte": null,
+    "preis": null,
+    "komplexitaet": null,
+    "regeltechnik": [
+      {
+        "type": "Hanf",
+        "effect": "Bei einer gelungenen Probe auf Fesseln (Fesselungen) steigen die FP um 1 (bis zu einem Maximum von 18)."
+      },
+      {
+        "type": "Leder",
+        "effect": "Bei einer gelungenen Probe auf Fesseln (Fesselungen) steigen die FP um 2 (bis zu einem Maximum von 18) und das Seil fügt bei Befeuchtung dem Opfer nach der Fesselung einmalig 1W3 SP zu."
+      }
+    ],
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 23
+      }
+    ],
+    "_source_file": "RK_Ausr_Fesselseil.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Feuerstein und Stahl",
+    "gewicht": "0,25 Stn",
+    "strukturpunkte": "4 und 12 StruPu",
+    "preis": "3 S",
+    "komplexitaet": "prim",
+    "regeltechnik": "Proben auf Wildnisleben (Feuermachen) werden durch Feuerstein und Stahl um 2 erleichtert.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 23
+      }
+    ],
+    "_source_file": "RK_Ausr_FeuersteinundStahl.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Fleischerbeil",
+    "gewicht": "1 Stn",
+    "strukturpunkte": "25 StP",
+    "preis": "25 S",
+    "komplexitaet": "prim",
+    "regeltechnik": "Fingerfertigkeit erhält bei der zweiten Teilprobe auf Lebensmittelbearbeitung (Ausnehmen) bei Verwendung eines Fleischerbeils einen Bonus von +1, wenn es darum geht, Fleisch zu verarbeiten. Ein Fleischerbeil lässt sich als improvisierte Waffe verwenden.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 22
+      }
+    ],
+    "_source_file": "RK_Ausr_Fleischerbeil.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Flöte",
+    "gewicht": "0,25 Stn",
+    "strukturpunkte": "7",
+    "preis": "2 S",
+    "komplexitaet": "einf",
+    "regeltechnik": "",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Kodex der Magie",
+        "seite": 70
+      }
+    ],
+    "_source_file": "RK_Ausr_Floete.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Gänsebeutel",
+    "gewicht": "0,25 Stn",
+    "strukturpunkte": "4 Strukturpunkte",
+    "preis": "25 S",
+    "komplexitaet": "einf",
+    "regeltechnik": "Zeremonialgegenstand der Travia-Kirche",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Götterwirken",
+        "seite": 232
+      }
+    ],
+    "_source_file": "RK_ZerG_Gaensebeutel.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Garethi/Kusliker Zeichen",
+    "gewicht": null,
+    "strukturpunkte": null,
+    "preis": "150 S",
+    "komplexitaet": null,
+    "regeltechnik": "Sprache/Schrift",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Götterwirken",
+        "seite": 232
+      }
+    ],
+    "_source_file": "RK_Buch_Vademecum.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Götterfigürchen",
+    "gewicht": "0,2 Stn",
+    "strukturpunkte": "3 StruPu",
+    "preis": "3 S",
+    "komplexitaet": "prim",
+    "regeltechnik": "Wer ein Götterfigürchen (oder ein vergleichbares Amulett, etc.) seiner angebeteten Gottheit mit sich führt und es täglich beim Gebet aufstellt, der kann einmal während eines Abenteuers den Zustand Furcht für 2 KR ignorieren. Danach muss der Held der Gottheit des Figürchens eine größere Spende zukommen lassen (etwa 10 Dukaten), damit das Götterfigürchen erneut diese Wirkung entfalten kann.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 25
+      },
+      {
+        "buch": "Aventurisches Götterwirken II",
+        "seite": 178
+      }
+    ],
+    "_source_file": "RK_Ausr_Goetterfiguerchen.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Großer Aventurischer Atlas",
+    "gewicht": "3 Stn",
+    "strukturpunkte": "20 StP",
+    "preis": "1.200 S",
+    "komplexitaet": "komp (2 AP)",
+    "regeltechnik": "Proben auf Geographie sind um 1 Punkt erleichtert.",
+    "ap_wert": "komp (2 AP)",
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer II",
+        "seite": 23
+      },
+      {
+        "buch": "Aventurisches Götterwirken",
+        "seite": 232
+      }
+    ],
+    "_source_file": "RK_Ausr_GroßerAventurischerAtlas.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Grüne Handschuhe",
+    "gewicht": "1 Stn",
+    "strukturpunkte": "12 Strukturpunkte",
+    "preis": "10 S",
+    "komplexitaet": "einf",
+    "regeltechnik": "Zeremonialgegenstand der Peraine-Kirche",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Götterwirken",
+        "seite": 232
+      }
+    ],
+    "_source_file": "RK_ZerG_GrueneHandschuhe.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Gürteltasche",
+    "gewicht": "0,25 Stn",
+    "strukturpunkte": "3 StruPu",
+    "preis": "4 S",
+    "komplexitaet": "prim",
+    "regeltechnik": "Wer einen Gegenstand aus einer Gürteltasche ziehen möchte, benötigt dafür lediglich 1 Aktion.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 25
+      }
+    ],
+    "_source_file": "RK_Ausr_Gürteltasche.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Hängematte",
+    "gewicht": "2 Stn",
+    "strukturpunkte": "3 StP",
+    "preis": "2 S",
+    "komplexitaet": "prim",
+    "regeltechnik": "Konstitution erhält bei der dritten Teilprobe auf Wildnisleben (Lageraufbau) bei Verwendung einer Hängematte einen Bonus von +1 bei folgenden Geländetypen: Dschungel, Kulturland, Sumpf und Wald. \nAußerdem senkt die Hängematte bei der Verwendung auf Wasserfahrzeugen die Gefahr, an der Seekrankheit zu erkranken um 5 %.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 24
+      }
+    ],
+    "_source_file": "RK_Ausr_Haengematte.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Handharfe",
+    "gewicht": "1 Stn",
+    "strukturpunkte": "3",
+    "preis": "100 S",
+    "komplexitaet": "einf",
+    "regeltechnik": "",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Kodex der Magie",
+        "seite": 70
+      }
+    ],
+    "_source_file": "RK_Ausr_Handharfe.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Handpuppe (Schelmenspielzeug)",
+    "gewicht": "0,2 Stein",
+    "strukturpunkte": "3 StP",
+    "preis": "0,5 S",
+    "komplexitaet": "prim",
+    "regeltechnik": "Verwendung als Schelmenspielzeug (Traditionsartefakt)",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 234
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 163
+      }
+    ],
+    "_source_file": "handpuppe-schelmenspielzeug.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Handspiegel",
+    "gewicht": "0,5 Stn",
+    "strukturpunkte": "2 StP",
+    "preis": "60 S",
+    "komplexitaet": "einf",
+    "regeltechnik": "Charisma erhält bei der zweiten Teilprobe auf Betören (Aufhübschen) bei Verwendung eines Handspiegels einen Bonus von +1. Ein Handspiegel lässt sich als improvisierte Waffe verwenden.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 24
+      }
+    ],
+    "_source_file": "RK_Ausr_Handspiegel.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Hauerkette",
+    "gewicht": "0,2 Stn",
+    "strukturpunkte": "4 StP",
+    "preis": "10 S",
+    "komplexitaet": "einf",
+    "regeltechnik": null,
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Kodex der Magie",
+        "seite": 119
+      }
+    ],
+    "_source_file": "RK_Ausr_Hauerkette.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Herbarium Kuslikum",
+    "gewicht": "1 Stn",
+    "strukturpunkte": "15 StruPu",
+    "preis": "250 S",
+    "komplexitaet": "komp (2 AP)",
+    "regeltechnik": "Bei einer gelungenen Probe auf Pflanzenkunde (Heilpflanzen, Giftpflanzen und Nutzpflanzen) erhält der Held einen Bonus von +1 FP, wenn es darum geht, eine Pflanze zu bestimmen.",
+    "ap_wert": "komp (2 AP)",
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 27
+      }
+    ],
+    "_source_file": "RK_Ausr_HerbariumKuslikum.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Hexenbesen (Fluggerät)",
+    "gewicht": "0,75 Stein",
+    "strukturpunkte": "8 StP",
+    "preis": "0,5 S",
+    "komplexitaet": "prim",
+    "regeltechnik": "Verwendung als Fluggerät (minderes Traditionsartefakt)\nIm Kampf werden die Werte eines\nKnüppels\nverwendet.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Archiv der Kräuter",
+        "seite": 307
+      },
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 234
+      },
+      {
+        "buch": "Aventurisches Herbarium II",
+        "seite": 152
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 130
+      }
+    ],
+    "_source_file": "hexenbesen-fluggeraet.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Hexenkessel",
+    "gewicht": "4 Stein",
+    "strukturpunkte": "200 StP",
+    "preis": "24 S",
+    "komplexitaet": "einf",
+    "regeltechnik": null,
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 234
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 126
+      }
+    ],
+    "_source_file": "hexenkessel.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Hilffreycher Leytfaden des wandernden Adepten",
+    "gewicht": "2 Stn",
+    "strukturpunkte": "20 StruPu",
+    "preis": "150 S",
+    "komplexitaet": "komp (2 AP)",
+    "regeltechnik": "Bei folgenden Talenten wird mit 1W6 gewürfelt, wenn der Leytfaden zur Hilfe genommen wird: Etikette, Handel, Rechtskunde, Singen. . Bei einer gewürfelten 6 bekommt der Held folgenden Vorteil: Eine beliebige Eigenschaft erhält bei einer einzigen Teilprobe des Talents einen Bonus von +1.",
+    "ap_wert": "komp (2 AP)",
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 28
+      }
+    ],
+    "_source_file": "RK_Ausr_HilffreycherLeytfadendeswanderndenAdepten.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Holzschale",
+    "gewicht": "0,2 Stein",
+    "strukturpunkte": null,
+    "preis": "0,8 Silbertaler",
+    "komplexitaet": null,
+    "regeltechnik": null,
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 375
+      }
+    ],
+    "_source_file": "Ausr_Holzschale.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Holzschild (Fluggerät)",
+    "gewicht": "3,5 Stein",
+    "strukturpunkte": "20 StP",
+    "preis": "50 S",
+    "komplexitaet": "prim",
+    "regeltechnik": "Verwendung als Fluggerät (minderes Traditionsartefakt)",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 234
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 130
+      }
+    ],
+    "_source_file": "holzschild-fluggeraet.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Ifirnsfunke",
+    "gewicht": "0,75 Stn",
+    "strukturpunkte": "80 StP",
+    "preis": "1.000 S",
+    "komplexitaet": null,
+    "regeltechnik": null,
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Dryadenhain & Dschinnenzauber",
+        "seite": 100
+      }
+    ],
+    "_source_file": "RK_aus_Ifirnsfunke.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Jonglierball mit Gewichten",
+    "gewicht": "0,3 Stn",
+    "strukturpunkte": "2 StP",
+    "preis": "0,8 S",
+    "komplexitaet": "einf",
+    "regeltechnik": "Fingerfertigkeit erhält bei der dritten Teilprobe auf Gaukeleien (Jonglieren) bei Verwendung von Jonglierbällen mit Gewichten einen Bonus von +1. Ein Jonglierball lässt sich als improvisierte Fernkampfwaffe einsetzen.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 25
+      }
+    ],
+    "_source_file": "RK_Ausr_Jonglierball.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Kapuzenumhang",
+    "gewicht": "2 Stn",
+    "strukturpunkte": "10 StP",
+    "preis": "6 S",
+    "komplexitaet": "prim",
+    "regeltechnik": "Durch das Tragen eines Kapuzenumhangs kann bei der Berechnung von Kälteschaden die Temperatur um 5 Grad erhöht werden (siehe Regelwerk Seite 346). Intuition erhält bei der zweiten Teilprobe auf Verbergen (sich Verstecken) bei Verwendung eines Kapuzenumhangs einen Bonus von +1. Außerdem sind Proben auf Gassenwissen (Beschatten) um 1 erleichtert.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 25
+      }
+    ],
+    "_source_file": "RK_Ausr_Kapuzenumhang.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Kartographiewerkzeug",
+    "gewicht": "0,25 Stn",
+    "strukturpunkte": "4 StruPu",
+    "preis": "50 S",
+    "komplexitaet": "prim",
+    "regeltechnik": "Fingerfertigkeit erhält bei Malen & Zeichen (Zeichnen) einen Bonus von +1, wenn es darum geht, eine Karte anzufertigen.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 29
+      }
+    ],
+    "_source_file": "RK_Ausr_Kartographiewerkzeug.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Keil",
+    "gewicht": null,
+    "strukturpunkte": null,
+    "preis": null,
+    "komplexitaet": null,
+    "regeltechnik": "Keile dienen als Werkzeug, um bestimmte Fallen auszuschalten.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Katakomben und Ruinen",
+        "seite": 23
+      }
+    ],
+    "_source_file": "Keil.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Kette",
+    "gewicht": "0,25 Stn",
+    "strukturpunkte": "500 StP",
+    "preis": "0,3 S",
+    "komplexitaet": "einf",
+    "regeltechnik": "Fingerfertigkeit erhält bei der zweiten Teilprobe auf Fesseln (Fesselungen) bei Verwendung einer Kette einen Bonus von +1, wenn sie mit einem Vorhängeschloss kombiniert wird. Eine Kette lässt sich als improvisierte Waffe verwenden.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 26
+      }
+    ],
+    "_source_file": "RK_Ausr_Kette.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Kette aus verhärteten Eierschalen",
+    "gewicht": "0,1 Stn",
+    "strukturpunkte": null,
+    "preis": "0,1 S",
+    "komplexitaet": null,
+    "regeltechnik": null,
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Achaz - Schuppenkleid & Lange Zungen",
+        "seite": 59
+      }
+    ],
+    "_source_file": "Ausr_KetteEierschalen.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Kletterhaken, 10 Stück",
+    "gewicht": "1 Stn",
+    "strukturpunkte": "10 StruPu",
+    "preis": "27 S",
+    "komplexitaet": "prim",
+    "regeltechnik": "In Kombination mit einem Kletterseil erhält der Held durch Kletterhaken eine Erleichterung von 1 bei Proben auf Klettern.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 30
+      }
+    ],
+    "_source_file": "RK_Ausr_Kletterhaken.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Kletterseil",
+    "gewicht": "0,5 Stn",
+    "strukturpunkte": "5 StruPu",
+    "preis": "0,3 S",
+    "komplexitaet": "einf",
+    "regeltechnik": "In Kombination mit Kletterhaken erhält der Held durch ein Kletterseil eine Erleichterung von 1 bei Proben auf Klettern.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 30
+      }
+    ],
+    "_source_file": "RK_Ausr_Kletterseil.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Kohlestift",
+    "gewicht": "0,05 Stn",
+    "strukturpunkte": "2 StP",
+    "preis": "0,2 S",
+    "komplexitaet": "prim",
+    "regeltechnik": "Durch einen Kohlestift kann der Held Texte auf geeignetes Material wie Papier niederschreiben. Ansonsten hat der Gegenstand keine regeltechnische Funktion.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 26
+      }
+    ],
+    "_source_file": "RK_Ausr_Kohlestift.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Kopftuch",
+    "gewicht": "0,25 Stn",
+    "strukturpunkte": "3 StP",
+    "preis": "0,5 S",
+    "komplexitaet": "prim",
+    "regeltechnik": "Durch das Tragen eines Kopftuchs kann bei der Berechnung von Hitzeschaden die Temperatur um 5 Grad gesenkt werden (siehe Regelwerk Seite 348).",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer 2",
+        "seite": 27
+      }
+    ],
+    "_source_file": "RK_Ausr_Kopftuch.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Koschbasalt",
+    "gewicht": null,
+    "strukturpunkte": null,
+    "preis": "in den Flusslanden etwa zwischen 1 und 3 Dukaten",
+    "komplexitaet": null,
+    "regeltechnik": "Pro vollen 2 cm Koschbasalt, durch die ein Zauber gewirkt werden soll, verliert dieser 1 FP. Bei 0 oder weniger FP gilt der Zauber als misslungen, verbraucht aber die vollen AsP-Kosten.\nIn einen Raum, der mindestens durch eine Schicht von 2 cm mit Koschbasalt verkleidet ist, kann ein Zauberer keine AsP durch seine Regenerationsphase regenerieren.\nBefindet sich eine Anwenderin der Tradition (Hexen) auf Koschbasalt, gilt dies für sie nicht als Bodenkontakt. Sie erleidet eine Erschwernis von 3 für alle Zauber, solange sie mit dem Basalt Kontakt hält. Ist sie in einem Raum, der mit Koschbasalt verkleidet ist, steigt die Erschwernis auf 7.\nKörperlose Wesen, etwa Geister und einige Dämonen, können nicht durch Koschbasalt hindurchschweben, also z. B. auch nicht in mit Koschbasalt verkleidete Räume eindringen.\nMan kann sich nicht im Limbus durch den Basalt bewegen. Er stellt dort ein undurchdringliches Hindernis dar.\nBei all diesen Anmerkungen gilt, dass der Basalt bzw. mit ihm verkleidete Räume oder Behältnisse, nicht hermetisch abgeriegelt sein müssen, damit seine Kräfte sich entfalten können. Kleine Luftlöcher oder Öffnungen wie Schlüssellöcher usw. schränken die Wirkung des Basalts nicht ein. Es reicht aus, wenn ca. 75 % des Raumes damit verkleidet sind. Zauberer erhalten darin eine Erschwernis von 3, wenn sie Zauber wirken.\nKoschbasalt kann nicht verzaubert werden. Jeglicher Versuch, ihn als Ziel eines Zaubers zu nutzen scheitert automatisch.\nEs zählt immer die höchste Erschwernis, wenn man in, aus oder durch die Zone Zauber wirkt.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": null,
+        "seite": null
+      }
+    ],
+    "_source_file": "koschbasalt.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Krallenkette",
+    "gewicht": "0,3 Stn",
+    "strukturpunkte": "12",
+    "preis": "25 S",
+    "komplexitaet": "prim",
+    "regeltechnik": null,
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Kodex der Magie",
+        "seite": 48
+      },
+      {
+        "buch": "Orks - Hauer & Schwarzer Pelz",
+        "seite": 41
+      }
+    ],
+    "_source_file": "Ausruestung_Krallenkette.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Kreide und Zauberkreide",
+    "gewicht": {
+      "kreide": "0,05 Stn",
+      "zauberkreide": "0,1 Stn"
+    },
+    "strukturpunkte": {
+      "kreide": "2 StruPu",
+      "zauberkreide": "3 StruPu"
+    },
+    "preis": {
+      "kreide": "0,2 S",
+      "zauberkreide": "10 S"
+    },
+    "komplexitaet": {
+      "kreide": "prim",
+      "zauberkreide": "komp (2 AP)"
+    },
+    "regeltechnik": {
+      "kreide": "Ein Stück Kreide reicht für 20 Bilder oder größere Zeichnungen wie Pentagramme o.Ä.",
+      "zauberkreide": "wie Kreide, dazu zusätzlich: Die jeweilige Eigenschaft erhält bei der ersten Teilprobe auf das jeweilige Ritual zum Be- oder Entschwören eines Dämons, Elementars oder Geistes einen Bonus von +1, wenn entsprechende Ritualsymbole mit Zauberkreide gezeichnet werden (verbraucht bei Dämonen/Elementaren/Geistern ein Stück Kreide je 7/6/5 Bildern, die gezeichnet werden)."
+    },
+    "ap_wert": {
+      "kreide": null,
+      "zauberkreide": "2 AP"
+    },
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 32
+      }
+    ],
+    "_source_file": "RK_Ausr_KreideundZauberkreide.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Kupferkessel",
+    "gewicht": "4 Stn",
+    "strukturpunkte": "60 StruPu",
+    "preis": "24 S",
+    "komplexitaet": "prim",
+    "regeltechnik": "Fingerfertigkeit erhält bei Alchimie (Elixiere) einen Bonus von +1, wenn der Held zur Herstellung den Kupferkessel verwendet.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 32
+      }
+    ],
+    "_source_file": "RK_Ausr_Kupferkessel.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Laterne",
+    "gewicht": "0,5 Stn",
+    "strukturpunkte": "8 StruPu",
+    "preis": "8 S",
+    "komplexitaet": "prim",
+    "regeltechnik": "Die Brenndauer der Laterne beträgt 12 Stunden. Sichtmodifikatoren durch Dunkelheit werden im Schein der Laterne pro 3 Schritt Radius wie folgt reduziert: –4/–3/–2/–1 Stufe(n).",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 33
+      }
+    ],
+    "_source_file": "RK_Ausr_Laterne.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Laute",
+    "gewicht": "2 Stn",
+    "strukturpunkte": "4",
+    "preis": "150 S",
+    "komplexitaet": "einf",
+    "regeltechnik": "",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Kodex der Magie",
+        "seite": 70
+      }
+    ],
+    "_source_file": "RK_Ausr_Laute.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Lebensring",
+    "gewicht": "0,2 Stn",
+    "strukturpunkte": "15 StP",
+    "preis": "20 S",
+    "komplexitaet": "einf",
+    "regeltechnik": null,
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Kodex der Magie",
+        "seite": 73
+      }
+    ],
+    "_source_file": "RK_Ausr_Lebensring.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Lederranzen",
+    "gewicht": "1 Stn",
+    "strukturpunkte": "10 StP",
+    "preis": "17 S",
+    "komplexitaet": "einf",
+    "regeltechnik": "Ein Lederranzen kann bis zu 25 Stein Gewicht an Gegenständen aufnehmen.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 27
+      }
+    ],
+    "_source_file": "RK_Ausr_Lederranzen.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Lederrucksack",
+    "gewicht": "2 Stn",
+    "strukturpunkte": "8 StruPu",
+    "preis": "34 S",
+    "komplexitaet": "einf",
+    "regeltechnik": "Ein Lederrucksack kann bis zu 50 Stein Gewicht an Gegenständen aufnehmen.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 33
+      }
+    ],
+    "_source_file": "RK_Ausr_Lederrucksack.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Magierrobe",
+    "gewicht": "3 Stn",
+    "strukturpunkte": "6 StruPu",
+    "preis": "120 S",
+    "komplexitaet": "komp (3 AP)",
+    "regeltechnik": "#\nLeichtes Gewand:\nDie entsprechende Eigenschaft erhält bei der ersten Teilprobe auf Zaubern mit dem Merkmal\nEinfluss\noder\nHeilung\neinen Bonus von +1. Alle anderen Zauber erleiden eine Erschwernis von –1.\n#\nGroßes Gewand:\nDie entsprechende Eigenschaft erhält bei der ersten Teilprobe auf Zaubern mit dem Merkmal\nObjekt\noder\nVerwandlung\neinen Bonus von +1. Alle anderen Zauber erleiden eine Erschwernis von –1.\n#\nBeschwörungsgewand:\nDie folgenden Erleichterungen gelten jeweils nur für die Wesenheiten, denen das Beschwörungsgewand entspricht. So erleichtert eine weiße Elementarbeschwörungsrobe die Proben bei Elementarwesen, eine schwarze Dämonenbeschwörungsrobe erleichtert die Proben bei Dämonen und eine rote Geisterbeschwörungsrobe erleichtert die Proben bei Geistern. Die entsprechende Eigenschaft erhält bei der ersten Teilprobe auf Zauber mit dem Merkmal\nAntimagie, Dämonisch, Elementar\noder\nSphären\neinen Bonus von +1 (sofern es um Be- oder Entschwörungen von Wesenheiten geht, z. B. DSCHINNENRUF, GEISTERRUF, INVOCATIO, HEPTA-, HEXA- oder PENTAGRAMMA), oder die entsprechende Eigenschaft erhält bei der ersten Teilprobe auf Merkmalsbann (z. B. EINFLUSSoder VERWANDLUNGSBANN) einen Bonus von +1. Unabhängig davon, welche Variante gewählt wird, erleiden alle anderen Zauber eine Erschwernis von –1.\n#\nKonventsgewand:\nEin Konventsgewand hat weder Vor- noch Nachteile.\n#\nReisegewand:\nEin Reisegewand hat weder Vor- noch Nachteile.\n#\nNormale Robe:\nEine gewöhnliche Magierrobe hat weder Vor- noch Nachteile.",
+    "ap_wert": "komp (3 AP)",
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 33
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 81
+      }
+    ],
+    "_source_file": "RK_Ausr_Magierrobe.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Mantel",
+    "gewicht": "1,5 Stn",
+    "strukturpunkte": "6 StruPu",
+    "preis": "7 S",
+    "komplexitaet": "prim",
+    "regeltechnik": "Intuition erhält bei Verbergen (Gegenstände verbergen) einen Bonus von +1, wenn der Gegenstand unter dem Mantel oder in einer Tasche des Mantels verborgen werden kann.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 36
+      }
+    ],
+    "_source_file": "RK_Ausr_Mantel.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Maraskanische Hartholzrüstung (Fluggerät)",
+    "gewicht": "10 Stein",
+    "strukturpunkte": "200 StP",
+    "preis": "300 S",
+    "komplexitaet": "einf",
+    "regeltechnik": "Verwendung als Fluggerät (minderes Traditionsartefakt)",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 234
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 130
+      }
+    ],
+    "_source_file": "holzruestung-fluggeraet.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Matrosenhut (Narrenkappe)",
+    "gewicht": "1 Stein",
+    "strukturpunkte": "5 StP",
+    "preis": "4 S",
+    "komplexitaet": "einf",
+    "regeltechnik": "Verwendung als Narrenkappe (Traditionsartefakt)",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 234
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 160
+      }
+    ],
+    "_source_file": "matrosenhut-narrenkappe.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Mondamulett",
+    "gewicht": "0,1 Stn",
+    "strukturpunkte": "10 Strukturpunkte",
+    "preis": "80 S",
+    "komplexitaet": "einf",
+    "regeltechnik": "Zeremonialgegenstand der Phex-Kirche",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Götterwirken",
+        "seite": 232
+      }
+    ],
+    "_source_file": "RK_ZerG_Mondamulett.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Nadel-& Zwirnset",
+    "gewicht": "0,1 Stn",
+    "strukturpunkte": "1 StP",
+    "preis": "4,5 S",
+    "komplexitaet": "einf",
+    "regeltechnik": "Fingerfertigkeit erhält bei der zweiten Teilprobe auf Stoffbearbeitung (Schneidern) bei Verwendung eines Nadel- & Zwirnsets einen Bonus von +1.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 28
+      }
+    ],
+    "_source_file": "RK_Ausr_Nadel-undZwirnset.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Narrenkappe",
+    "gewicht": "1,25 Stein",
+    "strukturpunkte": "5 StP",
+    "preis": "5 S",
+    "komplexitaet": "einf",
+    "regeltechnik": "Verwendung als Narrenkappe (Traditionsartefakt)",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 234
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 160
+      }
+    ],
+    "_source_file": "narrenkappe-narrenkappe.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Nudel-/Teigholz",
+    "gewicht": "0,5 Stn",
+    "strukturpunkte": "10 StruPu",
+    "preis": "10 S",
+    "komplexitaet": "prim",
+    "regeltechnik": "Fingerfertigkeit erhält bei der dritten Teilprobe auf Lebensmittelbearbeitung (Backen) bei Verwendung eines Nudel-/Teigholz einen Bonus von +1.\nEin Nudel-/Teigholz lässt sich als improvisierte Waffe verwenden (siehe Seite 138).",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 36
+      }
+    ],
+    "_source_file": "RK_Ausr_Nudel-Teigholz.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Öllampe",
+    "gewicht": "0,25 Stn",
+    "strukturpunkte": "4 StruPu",
+    "preis": "0,5 S",
+    "komplexitaet": "prim",
+    "regeltechnik": "Die Brenndauer der Öllampe beträgt 8 Stunden. Sichtmodifikatoren durch Dunkelheit werden im Schein der Öllampe pro 1 Schritt Radius wie folgt reduziert: –4/–3/–2/–1 Stufe(n).",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 37
+      }
+    ],
+    "_source_file": "RK_Ausr_Oellampe.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Papier & Pergament",
+    "gewicht": null,
+    "strukturpunkte": null,
+    "preis": null,
+    "komplexitaet": null,
+    "regeltechnik": "Bei einer gelungenen Probe auf Malen & Zeichnen (Malen oder Zeichnen) steigen die FP um 1 (bis zu einem Maximum von 18).",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 38
+      }
+    ],
+    "_source_file": "RK_Ausr_PapierundPergament.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Parfüm",
+    "gewicht": "0,1 Stn",
+    "strukturpunkte": "1 StruPu",
+    "preis": "120 S",
+    "komplexitaet": "einf",
+    "regeltechnik": "Charisma erhält bei Betören einen Bonus von +1, wenn sich der Held bis zu einer Stunde vorher einparfümiert hat und sein Gegenüber den Parfümgeruch mag (mag es das nicht, kann die Probe auch um 1 erschwert sein).",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 38
+      }
+    ],
+    "_source_file": "RK_Ausr_Parfuem.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Phiole",
+    "gewicht": "0,1 Stn",
+    "strukturpunkte": "2 StruPu",
+    "preis": "2 S",
+    "komplexitaet": "komp (2 AP)",
+    "regeltechnik": "Eine Phiole kann 0,1 Liter Flüssigkeit aufnehmen. Um eine Phiole zu entkorken und daraus zu trinken, ist lediglich eine 1 Aktion notwendig.",
+    "ap_wert": "komp (2 AP)",
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 39
+      }
+    ],
+    "_source_file": "RK_Ausr_Phiole.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Prems Tierleben",
+    "gewicht": "1 Stn",
+    "strukturpunkte": "15 StruPu",
+    "preis": "250 S",
+    "komplexitaet": "komp (2 AP)",
+    "regeltechnik": "Bei einer gelungenen Probe auf Tierkunde erhält der Held einen Bonus von +1 FP, wenn es um Wesen aus folgenden Regionen geht: Albernia, Andergast, Gjalskerland, Horasreich, Nordaventurien, Nostria, Orkland, Thorwal, Zyklopeninseln.",
+    "ap_wert": "komp (2 AP)",
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 39
+      }
+    ],
+    "_source_file": "RK_Ausr_PremsTierleben.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Prisma",
+    "gewicht": "0,1 Stn",
+    "strukturpunkte": "25 Strukturpunkte",
+    "preis": "50 S",
+    "komplexitaet": "einf",
+    "regeltechnik": "Zeremonialgegenstand der Tsa-Kirche",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Götterwirken",
+        "seite": 232
+      }
+    ],
+    "_source_file": "RK_ZerG_Prisma.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Proviant für 1 Tag",
+    "gewicht": "1,5 Stn",
+    "strukturpunkte": "2 StruPu",
+    "preis": "0,5 S",
+    "komplexitaet": "keine",
+    "regeltechnik": "Proviant sättigt pro Ration einen Menschen für einen Tag.",
+    "ap_wert": "keine",
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 375
+      },
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 40
+      },
+      {
+        "buch": "Kodex der Helden",
+        "seite": 470
+      }
+    ],
+    "_source_file": "RK_Ausr_Proviant.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Quadrant",
+    "gewicht": "0,75 Stn",
+    "strukturpunkte": "10 StruPu",
+    "preis": "70 S",
+    "komplexitaet": "komp (3 AP)",
+    "regeltechnik": "Klugheit erhält bei Sternkunde (Himmelskartographie oder Kalendarium) oder Orientierung (Sternenhimmel) bei Verwendung eines Quadranten einen Bonus von +1.",
+    "ap_wert": 3,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 41
+      }
+    ],
+    "_source_file": "RK_Ausr_Quadrant.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Rahjasutra, Elrem-al’Moran-Ausgabe",
+    "gewicht": null,
+    "strukturpunkte": null,
+    "preis": "200 S",
+    "komplexitaet": null,
+    "regeltechnik": {
+      "sprache_schrift": "Garethi/Kusliker Zeichen"
+    },
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Götterwirken",
+        "seite": 232
+      }
+    ],
+    "_source_file": "RK_Buch_Rahjasutra-ElemaMoran.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Rahjasutra, Zweitkopie",
+    "gewicht": null,
+    "strukturpunkte": null,
+    "preis": "200-1.200 S",
+    "komplexitaet": null,
+    "regeltechnik": "Sprache/Schrift: meist Tulamidya/Tulamidya-Zeichen",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Götterwirken",
+        "seite": 232
+      }
+    ],
+    "_source_file": "RK_Buch_Rahjasutra-Zweitkopie.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Rahkatza-Statuette",
+    "gewicht": "1 Stn",
+    "strukturpunkte": "25 Strukturpunkte",
+    "preis": "20 S",
+    "komplexitaet": "einf",
+    "regeltechnik": "Wer eine Rahkatza-Statuette mit sich führt und sie für mindestens 5 Minuten streichelt, auf dem liegt für 24 Stunden ein Harmoniesegen. Danach muss der Held Rahkatza eine größere Spende zukommen lassen (mindestens 10 Dukaten), damit die Statuette erneut diese Wirkung entfalten kann.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Rüstkammer des Dornenreiches",
+        "seite": 21
+      }
+    ],
+    "_source_file": "RahkatzaStatuette.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Roter Schleier",
+    "gewicht": "0,05 Stn",
+    "strukturpunkte": "1 Strukturpunkt",
+    "preis": "100 S",
+    "komplexitaet": "komp (1 AP)",
+    "regeltechnik": "Zeremonialgegenstand der Rahja-Kirche",
+    "ap_wert": 1,
+    "publikationen": [
+      {
+        "buch": "Aventurisches Götterwirken",
+        "seite": 232
+      }
+    ],
+    "_source_file": "RK_ZerG_RoterSchleier.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Schlafsack",
+    "gewicht": "2 Stn",
+    "strukturpunkte": "7 StruPu",
+    "preis": "7 S",
+    "komplexitaet": "prim",
+    "regeltechnik": "Ein Schlafsack senkt die Kältestufe um 1 und kann mit dem Kälteschutz eines Zelts kombiniert werden.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 43
+      }
+    ],
+    "_source_file": "RK_Ausr_Schlafsack.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Schmiedehammer",
+    "gewicht": "1,25 Stn",
+    "strukturpunkte": "30 StruPu",
+    "preis": "100 S",
+    "komplexitaet": "einf",
+    "regeltechnik": "Körperkraft erhält bei der dritten Teilprobe auf Metallbearbeitung (Grobschmiedearbeiten) bei Verwendung eines Schmiedehammers einen Bonus von +1. Ein Schmiedehammer lässt sich als improvisierte Waffe verwenden.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 43
+      }
+    ],
+    "_source_file": "RK_Ausr_Schmiedehammer.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Schneeschuhe",
+    "gewicht": "2 Stn",
+    "strukturpunkte": "7 StruPu",
+    "preis": "7 S",
+    "komplexitaet": "prim",
+    "regeltechnik": "Ohne Schneeschuhe kann ein Held sich nur mit halbierter GS durch hohen Schnee bewegen. Mit Schneeschuhen kann er im Schnee 75 % seiner GS nutzen.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 44
+      }
+    ],
+    "_source_file": "RK_Ausr_Schneeschuhe.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Schuppenbeutel",
+    "gewicht": "0,3 Stn",
+    "strukturpunkte": "10 StP",
+    "preis": "25 S",
+    "komplexitaet": "prim",
+    "regeltechnik": "",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Achaz - Schuppenkleid & Lange Zungen",
+        "seite": 43
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 132
+      }
+    ],
+    "_source_file": "Ausruestung_Schuppenbeutel.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Schweinetrommel",
+    "gewicht": "0,5 Stn",
+    "strukturpunkte": "5 StP",
+    "preis": "15 S",
+    "komplexitaet": "einf",
+    "regeltechnik": null,
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Kodex der Magie",
+        "seite": 116
+      }
+    ],
+    "_source_file": "RK_Ausr_Schweinetrommel.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Sense",
+    "gewicht": "3,5 Stn",
+    "strukturpunkte": "30 StP",
+    "preis": "40 S",
+    "komplexitaet": "prim",
+    "regeltechnik": "Eine Sense lässt sich als improvisierte Waffe verwenden.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer 2",
+        "seite": 29
+      }
+    ],
+    "_source_file": "RK_Ausr_Sense.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Sichel",
+    "gewicht": "0,5 Stn",
+    "strukturpunkte": "12 StruPu",
+    "preis": "10 S",
+    "komplexitaet": "einf",
+    "regeltechnik": "Fingerfertigkeit erhält bei der zweiten Teilprobe auf Pflanzenkunde (Nutzpflanzen) bei Verwendung einer Sichel einen Bonus von +1, wenn es um Ackerbau geht. Die Sichel lässt sich als improvisierte Waffe verwenden.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 45
+      }
+    ],
+    "_source_file": "RK_Ausr_Sichel.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Sippenchronik",
+    "gewicht": "1,5 Stn",
+    "strukturpunkte": "20 StP",
+    "preis": "100 S",
+    "komplexitaet": "einf",
+    "regeltechnik": "Verwendung als Sippenchronik (Traditionsartefakt)",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Kodex der Magie",
+        "seite": 205
+      }
+    ],
+    "_source_file": "RK_Ausr_Sippenchronik.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Spaten & Spitzhacke",
+    "gewicht_spaten": "2 Stn",
+    "strukturpunkte_spaten": "15 StruPu",
+    "preis_spaten": "8,5 S",
+    "komplexitaet_spaten": "prim",
+    "gewicht_spitzhacke": "2,75 Stn",
+    "strukturpunkte_spitzhacke": "15 StruPu",
+    "preis_spitzhacke": "20 S",
+    "komplexitaet_spitzhacke": "prim",
+    "regeltechnik": "Körperkraft erhält bei der dritten Teilprobe auf Steinbearbeitung (Steine brechen) bei Verwendung einer Spitzhacke einen Bonus von +1. Eine Spitzhacke wie auch ein Spaten lassen sich als improvisierte Waffe verwenden.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 46
+      }
+    ],
+    "_source_file": "RK_Ausr_SpatenundSpitzhacke.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Steckenpferd & Stoffpuppe",
+    "gewicht": null,
+    "strukturpunkte": null,
+    "preis": null,
+    "komplexitaet": null,
+    "regeltechnik": "Wer sein Spielzeug liebt und es beim Schlafenggehen dabeihat, der kann bei der beginnenden Regenerationsphase eine gewürfelte 1 als eine 2 werten. Dies gilt sowohl für die Regeneration von LeP, AsP und KaP.\nNach Meisterentscheid können aber Proben auf Gesellschaftstalente (außer Willenskraft) um 1 erschwert werden, wenn die Liebe zu dem Spielzeug dem Gegenüber des Helden seltsam anmutet. Tsageweihte, Schelme und Kinder sind davon selten betroffen, ihnen gestehen die meisten Kulturschaffenden den Besitz dieser Spielzeuge zu.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 29
+      }
+    ],
+    "_source_file": "RK_Ausr_SteckenpferdundStoffpuppe.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Stoffpuppe (Schelmenspielzeug)",
+    "gewicht": "0,25 Stein",
+    "strukturpunkte": "3 StP",
+    "preis": "1 S",
+    "komplexitaet": "prim",
+    "regeltechnik": "Verwendung als Schelmenspielzeug (Traditionsartefakt)",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 381
+      },
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 234
+      },
+      {
+        "buch": "Aventurische Rüstkammer II",
+        "seite": 29
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 163
+      }
+    ],
+    "_source_file": "stoffpuppe-schelmenspielzeug.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Storchenmaske",
+    "gewicht": "0,5 Stn",
+    "strukturpunkte": "5 StP",
+    "preis": "8 S",
+    "komplexitaet": "prim",
+    "regeltechnik": "Storchenmaske – Bei der Pflege und dem Kontakt mit einem Kranken sinkt die Ansteckungswahrscheinlichkeit für den Träger der Storchenmaske um 5 % (bis zu einem Minimum von 5 %).",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer II",
+        "seite": 30
+      },
+      {
+        "buch": "Aventurisches Götterwirken II",
+        "seite": 178
+      }
+    ],
+    "_source_file": "RK_Ausr_Storchenmaske.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Strickleiter",
+    "gewicht": null,
+    "strukturpunkte": "5 StruPu",
+    "preis": "2,5 S",
+    "komplexitaet": "prim",
+    "regeltechnik": "Mit einer Strickleiter erhält ein Held eine Erleichterung von 3 bei Proben auf Klettern, sofern die Strickleiter richtig angebracht ist.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 47
+      }
+    ],
+    "_source_file": "RK_Ausr_Strickleiter.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Stundenglas",
+    "gewicht": "0,5 Stn",
+    "strukturpunkte": "5 StruPu",
+    "preis": "40 S",
+    "komplexitaet": "einf",
+    "regeltechnik": "Der Held kann mit einem Stundenglas eine Zeitdauer bis auf 5 Minuten genau bestimmen.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 47
+      }
+    ],
+    "_source_file": "RK_Ausr_Stundenglas.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Tabak & Zubehör",
+    "gewicht": null,
+    "strukturpunkte": null,
+    "preis": null,
+    "komplexitaet": null,
+    "regeltechnik": "Eine Pfeife und Tabak haben keine regeltechnische Funktion.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer 2",
+        "seite": 31
+      }
+    ],
+    "_source_file": "RK_Ausr_TabakundZubehör.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Tagebuch",
+    "gewicht": "1,5 Stn",
+    "strukturpunkte": "15 StP",
+    "preis": "11 S",
+    "komplexitaet": "komp (2 AP)",
+    "regeltechnik": "Ein Tagebuch hat keine regeltechnische Funktion.",
+    "ap_wert": 2,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer 2",
+        "seite": 32
+      }
+    ],
+    "_source_file": "RK_Ausr_Tagebuch.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Tanzgewand",
+    "gewicht": "1 Stn",
+    "strukturpunkte": "5 StP",
+    "preis": "100 S",
+    "komplexitaet": "einf",
+    "regeltechnik": "Verwendung als Zauberkleidung (Traditionsartefakt)",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie",
+        "seite": 66
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 196
+      }
+    ],
+    "_source_file": "RK_Ausr_Tanzgewand.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Taschenuhr (Vinsalter Ei)",
+    "gewicht": "0,25 Stn",
+    "strukturpunkte": "6 Stru Pu",
+    "preis": "800 S",
+    "komplexitaet": "komp (3 AP)",
+    "regeltechnik": "Der Held kann mit einem Vinsalter Ei die Zeit bis auf die Minute genau bestimmen.",
+    "ap_wert": 3,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 48
+      }
+    ],
+    "_source_file": "RK_Ausr_Taschenuhr.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Tiegel",
+    "gewicht": "0,25 Stn",
+    "strukturpunkte": "6 StP",
+    "preis": "0,5 S",
+    "komplexitaet": "einf",
+    "regeltechnik": "Ein Tiegel kann 5 Anwendungen einer Salbe aufnehmen. Um die Salbe anzuwenden, ist lediglich eine 1 Aktion notwendig.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 32
+      }
+    ],
+    "_source_file": "RK_Ausr_Tiegel.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Trinkhorn",
+    "gewicht": "0,25 Stein",
+    "strukturpunkte": "8 StP",
+    "preis": "0,5 S",
+    "komplexitaet": "prim",
+    "regeltechnik": "Verwendung als Thin (Trinkhorn) (Traditionsartefakt)",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 376
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 185
+      }
+    ],
+    "_source_file": "RK_Ausr_Trinkhorn.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Truhe",
+    "gewicht": null,
+    "strukturpunkte": null,
+    "preis": null,
+    "komplexitaet": null,
+    "regeltechnik": "Eine Reisetruhe/Schatztruhe/Seekiste/Truhe kann bis zu 120/150/100/80 Stein Gewicht an Gegenständen aufnehmen.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer 2",
+        "seite": 33
+      }
+    ],
+    "_source_file": "RK_Ausr_Truhe.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Umhängetasche",
+    "gewicht": "0,5 Stn",
+    "strukturpunkte": "6 StruPu",
+    "preis": "8,5 S",
+    "komplexitaet": "prim",
+    "regeltechnik": "Eine Umhängetasche kann bis zu 20 Stein Gewicht an Gegenständen aufnehmen.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 49
+      }
+    ],
+    "_source_file": "RK_Ausr_Umhaengetasche.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Unterhosen",
+    "gewicht": "0,5 Stn",
+    "strukturpunkte": "3 StruPu",
+    "preis": "1 S",
+    "komplexitaet": "einf",
+    "regeltechnik": "Eine Unterhose hat keine regeltechnische Funktion.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 49
+      }
+    ],
+    "_source_file": "RK_Ausr_Unterhosen.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Vademecum für das Waffenhandwerk",
+    "gewicht": "1 Stn",
+    "strukturpunkte": "15 StruPu",
+    "preis": "150 S",
+    "komplexitaet": "komp (2 AP)",
+    "regeltechnik": "Wer das Buch gelesen hat, der kann den Krona-Adersin-Stil erlenen.",
+    "ap_wert": 2,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 50
+      }
+    ],
+    "_source_file": "RK_Ausr_VademecumfuerdasWaffenhandwerk.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Verband, 10 Stück",
+    "gewicht": "0,05 Stn",
+    "strukturpunkte": "3 StruPu",
+    "preis": "12,5 S",
+    "komplexitaet": "prim",
+    "regeltechnik": "Fingerfertigkeit erhält bei Heilkunde Wunden einen Bonus von +1, sofern ein Verband verwendet werden kann (Stofffetzen bringen keinen Bonus!).",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 50
+      }
+    ],
+    "_source_file": "RK_Ausr_Verband.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Vorhängeschloss",
+    "gewicht": "3 Stn",
+    "strukturpunkte": "100 StruPu",
+    "preis": "10 S",
+    "komplexitaet": "einf",
+    "regeltechnik": "Um ein Vorhängeschloss zu öffnen, ist eine Probe auf Schlösserknacken (Bartschlösser) notwendig.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 51
+      }
+    ],
+    "_source_file": "RK_Ausr_Vorhaengeschloss.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Vorschlaghammer",
+    "gewicht": "5 Stn",
+    "strukturpunkte": "100 StP",
+    "preis": "30 S",
+    "komplexitaet": "einf",
+    "regeltechnik": "Körperkraft erhält bei der dritten Teilprobe auf Steinbearbeitung (Maurerarbeiten oder Steine brechen) bei Verwendung eines Vorschlaghammers einen Bonus von +1. Ein Vorschlaghammer lässt sich als improvisierte Waffe verwenden.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer 2",
+        "seite": 33
+      }
+    ],
+    "_source_file": "RK_Ausr_Vorschlaghammer.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Wanderstab (Fluggerät)",
+    "gewicht": "0,75 Stein",
+    "strukturpunkte": "10 StP",
+    "preis": "10 S",
+    "komplexitaet": "prim",
+    "regeltechnik": "Verwendung als Fluggerät (minderes Traditionsartefakt)",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Archiv der Kräuter",
+        "seite": 307
+      },
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 234
+      },
+      {
+        "buch": "Aventurisches Herbarium II",
+        "seite": 152
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 130
+      }
+    ],
+    "_source_file": "wanderstab-fluggeraet.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Wasserpfeife",
+    "gewicht": "1 Stn",
+    "strukturpunkte": "6 StruPu",
+    "preis": "30 S",
+    "komplexitaet": "prim",
+    "regeltechnik": "Charisma erhält bei Etikette (Klatsch & Tratsch) einen Bonus von +1, wenn der Held als Gastgeber eines Festes die Wasserpfeife mit seinen Gästen teilt und das gemeinsame Rauchen als zuvorkommende Geste auf dem Fest geschätzt wird.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 51
+      }
+    ],
+    "_source_file": "RK_Ausr_Wasserpfeife.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Wasserschlauch",
+    "gewicht": "0,25 Stn",
+    "strukturpunkte": "5 StruPu",
+    "preis": "5,5 S",
+    "komplexitaet": "prim",
+    "regeltechnik": "Ein Wasserschlauch kann 1,5 Liter Flüssigkeit aufnehmen. Um einen Wasserschlauch zu entkorken und daraus zu trinken, ist lediglich eine 1 Aktion notwendig.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 52
+      }
+    ],
+    "_source_file": "RK_Ausr_Wasserschlauch.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Wie man kämpft, reitet und Bier trinkt",
+    "gewicht": "0,75 Stn",
+    "strukturpunkte": "17 StP",
+    "preis": "30 bis 70 S",
+    "komplexitaet": "komp (2 AP)",
+    "regeltechnik": "Bei folgenden Talenten wird mit 1W6 gewürfelt, wenn das Buch zur Hilfe genommen wird: Reiten und Zechen. Bei einer gewürfelten 6 bekommt der Held folgenden Vorteil: Eine beliebige Eigenschaft erhält bei einer einzigen Teilprobe des Talents einen Bonus von +1. Wurde das Buch höchstens 1 Stunde vor einem Kampf gelesen, kann bei einem Kritischen Treffer bei Raufen 1 vom Bestätigungswurf abgezogen werden.",
+    "ap_wert": "komp (2 AP)",
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer 2",
+        "seite": 35
+      }
+    ],
+    "_source_file": "RK_Ausr_Wiemankaempft.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Wolfsfell",
+    "gewicht": "2 Stn",
+    "strukturpunkte": "7 StP",
+    "preis": "5 S",
+    "komplexitaet": "prim",
+    "regeltechnik": "Ein Wolfsfell verfügt über einen Kälteschutz von 1.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 34
+      }
+    ],
+    "_source_file": "RK_Ausr_Wolfsfell.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Wolldecke",
+    "gewicht": "1,5 Stn",
+    "strukturpunkte": "7 StruPu",
+    "preis": "2 S",
+    "komplexitaet": "prim",
+    "regeltechnik": "Eine Wolldecke/Phraischafwolldecke senkt die Kältestufe um 1/2 und kann mit dem Kälteschutz eines Zelts kombiniert werden.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 52
+      }
+    ],
+    "_source_file": "RK_Ausr_Wolldecke.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Wundnähzeug",
+    "gewicht": "0,1 Stn",
+    "strukturpunkte": "2 StP",
+    "preis": "4,5 S",
+    "komplexitaet": "einf",
+    "regeltechnik": "Proben auf Heilkunde Wunden sind um 1 erleichtert, vorausgesetzt, die Verletzung muss genäht werden.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer 2",
+        "seite": 36
+      }
+    ],
+    "_source_file": "RK_Ausr_Wundnaehzeug.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Wurfhaken",
+    "gewicht": "1 Stn",
+    "strukturpunkte": "20 StruPu",
+    "preis": "7 S",
+    "komplexitaet": "prim",
+    "regeltechnik": "Kombiniert mit einem Kletterseil, lässt sich der Wurfhaken werfen und verhakt sich, falls das Gelände (z. B. ein Ast oder eine Gesteinsformation) das zulässt. Dazu ist eine Probe auf FK von Wurfwaffen nötig. Der Wurf dauert 2 Aktionen und die Probe ist pro 5 Schritt um 1 erschwert.\nEin Wurfhaken mit Kletterseil (mindestens 1 Schritt) lässt sich als improvisierte Waffe verwenden.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 53
+      }
+    ],
+    "_source_file": "RK_Ausr_Wurfhaken.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Zaunpfahl (Fluggerät)",
+    "gewicht": "2 Stein",
+    "strukturpunkte": "9 StP",
+    "preis": "3 S",
+    "komplexitaet": "prim",
+    "regeltechnik": "Verwendung als Fluggerät (minderes Traditionsartefakt)\nIm Kampf werden die Werte eines\nKnüppels\nverwendet.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 234
+      },
+      {
+        "buch": "Kodex der Magie",
+        "seite": 130
+      }
+    ],
+    "_source_file": "zaunpfahl-fluggeraet.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Zelt",
+    "gewicht": null,
+    "strukturpunkte": null,
+    "preis": null,
+    "komplexitaet": "prim",
+    "regeltechnik": "Gelingt eine Probe auf Wildnisleben (Lagerbau) mit QS 5+ beim Aufbau des Zelts, so gilt es für Regenerationsphasen als gute Unterkunft und bringt einen Bonus von +1 LeP/AsP/KaP (siehe Regelwerk Seite 339). Ein Zelt verfügt über Kälteschutz und senkt die Kältestufe um 1. Es kann mit Kleidung und einer Wolldecke oder einem Schlafsack kombiniert werden. Der Auf- und Abbau von Zelten dauert 20 Minuten, bei einem Großzelt 1 Stunde.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 54
+      }
+    ],
+    "_source_file": "RK_Ausr_Zelt.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Zimmermannskasten",
+    "gewicht": "5 Stn",
+    "strukturpunkte": "15 StP",
+    "preis": "50 S",
+    "komplexitaet": "einf",
+    "regeltechnik": "Ein Zimmermannskasten erleichtert Proben auf Holzbearbeitung (Tischlerarbeiten oder Zimmermannsarbeiten) um 1.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 36
+      }
+    ],
+    "_source_file": "RK_Ausr_Zimmermannskasten.txt",
+    "_category": "Ausruestung"
+  },
+  {
+    "name": "Zunder",
+    "gewicht": null,
+    "strukturpunkte": null,
+    "preis": null,
+    "komplexitaet": null,
+    "regeltechnik": "Zunder – Bei einer gelungenen Probe auf Wildnisleben (Feuermachen) steigt die QS um 1 (bis zu einem Maximum von 6). Zunderdose – Die Zunderdose ist wasserdicht, sodass ihr Inhalt auch beim Schwimmen oder Tauchen nicht unbrauchbar wird. Ein Held benötigt 1 freie Aktion, um die Zunderdose zu öffnen oder zu schließen.",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Rüstkammer",
+        "seite": 54
+      }
+    ],
+    "_source_file": "RK_Ausr_Zunder.txt",
+    "_category": "Ausruestung"
+  }
+]

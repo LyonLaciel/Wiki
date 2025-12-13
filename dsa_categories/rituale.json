@@ -1,0 +1,4944 @@
+[
+  {
+    "name": "Accuratum",
+    "probe": "KL/CH/FF",
+    "wirkung": "Ein Satz Kleidung wird nach Wünschen des Zauberers abgeändert. Dies betrifft Schnitt und Farbe, nicht jedoch Menge und Art des Materials. Auf diesem Wege sind sowohl das simple Flicken zerrissener Hosen wie auch die Umwandlung eines Stoffballens oder einer schlichten Kutte in eine deutlich prächtigere Robe möglich.",
+    "ritualdauer": "5 Minuten",
+    "asp_kosten": "4 AsP",
+    "reichweite": "Berührung",
+    "wirkungsdauer": "QS x 3 Stunden",
+    "zielkategorie": "Objekte",
+    "merkmal": "Objekt",
+    "verbreitung": "Scharlatane",
+    "steigerungsfaktor": "A",
+    "ap_wert": null,
+    "zaubererweiterungen": [
+      {
+        "name": "Gaukelei-Vorteil",
+        "fw": 8,
+        "ap": 1,
+        "beschreibung": "Der Zauberer bekommt durch zum Anlass passende Kleidung eine Erleichterung von 1 auf Gaukeleien.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Schneidermeister",
+        "fw": 10,
+        "ap": 1,
+        "beschreibung": "Das Ritual kann verwendet werden, um ein Kleidungsstück herzustellen. Die Herstellungszeit darf nicht länger als die Wirkungsdauer betragen. Die Herstellungsproben auf Stoffbearbeitung sind um +QS/2 erleichtert.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Etikette-Vorteil",
+        "fw": 12,
+        "ap": 2,
+        "beschreibung": "Der Zauberer bekommt durch zum Anlass passende Kleidung eine Erleichterung von 1 auf Etikette.",
+        "voraussetzung": "Zaubererweiterung Gaukelei-Vorteil"
+      },
+      {
+        "name": "Chamäleonrobe",
+        "fw": 14,
+        "ap": 2,
+        "beschreibung": "Während der Wirkungsdauer kann einmalig die Farbgebung der Kleidung geändert werden.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Gassenwissen-Vorteil",
+        "fw": 16,
+        "ap": 3,
+        "beschreibung": "Der Zauberer bekommt durch zum Anlass passende Kleidung eine Erleichterung von 1 auf Gassenwissen.",
+        "voraussetzung": "Zaubererweiterung Etikette-Vorteil"
+      }
+    ],
+    "reversalis": "Nach der Entscheidung des Zauberers sieht die ausgewählte Kleidung entweder zerschlissen aus und erschwert nach Meisterentscheid Proben um –1, die unter der Wirkung aufgeführt sind, oder die Kleidung verwandelt sich in Stoffbahnen oder -ballen und Einzelteile.",
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie",
+        "seite": 149
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 340
+      }
+    ],
+    "_source_file": "Accuratum.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Adamantium",
+    "probe": "KL/IN/KO",
+    "wirkung": "Der Ritual ADAMANTIUM verschafft einem Objekt bis zur Größe einer Truhe QS x 25 % zusätzliche Strukturpunkte. Sollte das Objekt während der Wirkungsdauer Strukturpunkte verlieren, werden zunächst die dazugewonnenen abgezogen. Waffen und Rüstungen können von dem Ritual nicht betroffen sein.",
+    "ritualdauer": "5 Minuten",
+    "asp_kosten": "4 AsP",
+    "reichweite": "Berührung",
+    "wirkungsdauer": "QS Stunden",
+    "zielkategorie": "Objekte (profane Objekte bis zur Größe einer Truhe)",
+    "merkmal": "Elementar",
+    "verbreitung": "Druiden, Gildenmagier, Kristallomanten",
+    "steigerungsfaktor": "A",
+    "ap_wert": null,
+    "zaubererweiterungen": [
+      {
+        "name": "Größere Objekte",
+        "fw": 8,
+        "ap": 1,
+        "beschreibung": "Das Ritual kann auf Gegenstände von der Größe einer Tür gewirkt werden.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Strukturstärkung",
+        "fw": 10,
+        "ap": 1,
+        "beschreibung": "Das Objekt erhält QS x 50 % mehr Strukturpunkte.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Längere Wirkungsdauer",
+        "fw": 12,
+        "ap": 2,
+        "beschreibung": "Die Wirkungsdauer beträgt QS Tage.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Rüstungsschutz",
+        "fw": 14,
+        "ap": 2,
+        "beschreibung": "Das Objekt erhält gegen Angriffe einen RS in Höhe von QS. Die Kosten steigen um 4 AsP.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Noch größere Objekte",
+        "fw": 16,
+        "ap": 3,
+        "beschreibung": "Das Ritual kann auf Gegenstände von der Größe eines Burgtors gewirkt werden. Voraussetzung: Zaubererweiterung Größere Objekte.",
+        "voraussetzung": "Zaubererweiterung Größere Objekte"
+      }
+    ],
+    "reversalis": "Die reversalisierte Version des Rituals beschädigt das Ziel: Es verliert pro QS 15 % seiner Strukturpunkte. Waffen und Rüstungen können davon, wie beim ursprünglichen Ritual, nicht betroffen sein.",
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 126
+      },
+      {
+        "buch": "Aventurische Magie III Bonusmaterial und Errata",
+        "seite": 10
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 341
+      }
+    ],
+    "_source_file": "Adamantium.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Animatio",
+    "probe": "KL/IN/GE",
+    "wirkung": "Das verzauberte Objekt wiederholt auf einen bestimmten Auslöser hin eine festgelegte Bewegung für maximal 5 Minuten. Möglich ist dadurch beispielsweise eine Schatulle, die sich auf ein Fingerschnippen hin öffnet, oder ein Rad, das mit einem Klatschen der Hände zum Drehen gebracht werden kann. Die gewünschte Bewegung muss dabei während der Verzauberung festgelegt werden, eine nachträgliche Modifizierung ist nicht möglich. Soll etwa eine Karaffe auf einen Befehl hin die vorhandenen Krüge mit Wein füllen, müssen diese stets am gleichen Ort stehen, da der Inhalt ansonsten vergossen wird. Außerdem sind nur solche Bewegungen möglich, die der Zauberer mit seinem eigenen Geschick und seiner eigenen Kraft vollziehen kann. Bei dem Auslöser muss es sich um ein akustisches Signal oder eine einfache Bewegung handeln. Das Objekt darf maximal 5 Stein wiegen. Wird das Objekt von einer Person festgehalten oder von einem anderen Objekt blockiert, wirkt der ANIMATIO nur, wenn sein Gewicht sowie die Kraft, die gegen ihn wirkt, 5 Stein nicht überschreiten. Der ANIMATIO endet auch, wenn die Strukturpunkte eines Objekts unter die Hälfte sinken. Der ANIMATIO kann nicht dazu eingesetzt werden, Sammelproben abzulegen.",
+    "ritualdauer": "30 Minuten",
+    "asp_kosten": "8 AsP",
+    "reichweite": "Berührung",
+    "wirkungsdauer": "QS x 3 Tage",
+    "zielkategorie": "Objekte",
+    "merkmal": "Telekinese",
+    "verbreitung": "Gildenmagier",
+    "steigerungsfaktor": "B",
+    "ap_wert": 8,
+    "zaubererweiterungen": [
+      {
+        "name": "Wiederholung",
+        "fw": 8,
+        "ap": 2,
+        "beschreibung": "Der Gegenstand wiederholt eine Bewegung immer wieder innerhalb der 5 Minuten (z. B. kann so ein Besen kehren).",
+        "voraussetzung": null
+      },
+      {
+        "name": "Mehrere Gegenstände",
+        "fw": 10,
+        "ap": 2,
+        "beschreibung": "Bis zu 4 Gegenstände gleichzeitig können verzaubert werden, deren Gesamtgewicht nicht das Maximalgewicht überschreiten darf. Die Ritualdauer erhöht sich je zusätzlichem Gegenstand um 5 Minuten.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Schlauer Gegenstand",
+        "fw": 12,
+        "ap": 4,
+        "beschreibung": "Der Gegenstand kann eine einfache Probe durchführen (Eigenschaften: 10 + QS/2; FW ist die QS). Die Art der Probe hängt vom Gegenstand ab.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Komplexe Bewegungen",
+        "fw": 14,
+        "ap": 4,
+        "beschreibung": "Ein Gegenstand kann bis zu QS + 1 Bewegungen speichern, die beliebig hintereinander kombiniert werden könnten.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Längere Bewegung",
+        "fw": 16,
+        "ap": 6,
+        "beschreibung": "Die Bewegung wird für 1 Stunde statt für 5 Minuten durchgeführt.",
+        "voraussetzung": null
+      }
+    ],
+    "reversalis": "Ein bestehendes ANIMATIO-Ritual wird aufgehoben. (Merkmal: Antimagie)",
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 126
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 342
+      }
+    ],
+    "_source_file": "Animatio.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Applicatus",
+    "probe": "KL/IN/FF",
+    "wirkung": "Mithilfe dieses Rituals kann man einen Zauberspruch (kein Ritual) an ein Objekt binden, sodass er einmalig ausgelöst werden kann. Der Zauberer muss das Objekt berühren und ein vorher festgelegtes Wort aussprechen, um den Zauber zu aktivieren. Ansonsten gelten die Regeln zum Auslösen von Zauberspeichern: Bei der Aktivierung des Zaubers wird auf 14/14/14 gewürfelt und es kann ein FW in Höhe der FP des gespeicherten Zaubers zum Ausgleich genutzt werden.",
+    "ritualdauer": "5 Minuten",
+    "asp_kosten": "8 AsP + Kosten des fixierten Zaubers",
+    "reichweite": "Berührung",
+    "wirkungsdauer": "maximal QS x 5 Stunden",
+    "zielkategorie": "Objekte (profane Objekte)",
+    "merkmal": "Objekt",
+    "verbreitung": "Allgemein",
+    "steigerungsfaktor": "B",
+    "ap_wert": null,
+    "zaubererweiterungen": [
+      {
+        "name": "Zwei Zauber",
+        "fw": 8,
+        "ap": 2,
+        "beschreibung": "Es können zwei Zauber fixiert werden, die nacheinander ausgelöst werden können. Die Zauber müssen in der Reihenfolge, in der sie auf das Objekt gesprochen worden sind, ausgelöst werden. Der Zauberer kann sich die Reihenfolge nicht beliebig aussuchen.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Längere Wirkungsdauer 1",
+        "fw": 10,
+        "ap": 2,
+        "beschreibung": "Die Wirkungsdauer erhöht sich auf QS x 10 Stunden.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Drei Zauber",
+        "fw": 12,
+        "ap": 4,
+        "beschreibung": "Es können drei Zauber fixiert werden, die nacheinander ausgelöst werden können. Die Zauber müssen in der Reihenfolge, in der sie auf das Objekt gesprochen worden sind, ausgelöst werden. Der Zauberer kann sich die Reihenfolge nicht beliebig aussuchen.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Fremdauslöser",
+        "fw": 14,
+        "ap": 4,
+        "beschreibung": "Auch andere Personen können den gebundenen Zauber auslösen, sofern sie das vorher festgelegte Wort kennen.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Längere Wirkungsdauer 2",
+        "fw": 16,
+        "ap": 6,
+        "beschreibung": "Die Wirkungsdauer erhöht sich auf QS x 15 Stunden.",
+        "voraussetzung": "Längere Wirkungsdauer 1"
+      }
+    ],
+    "reversalis": "Ein bestehendes APPLICATUS-Ritual wird aufgehoben. (Merkmal: Antimagie)",
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie III",
+        "seite": 139
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 343
+      }
+    ],
+    "_source_file": "Applicatus.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Arcanovi",
+    "probe": "KL/IN/FF",
+    "wirkung": "Details zur Verzauberung stehen im Abschnitt Die Artefakte im Detail im Regelwerk.",
+    "ritualdauer": "8 Stunden",
+    "asp_kosten": "16 AsP",
+    "reichweite": "8 Schritt",
+    "wirkungsdauer": "sofort",
+    "zielkategorie": "Geweihte Objekte, Profane Objekte",
+    "merkmal": "Objekt",
+    "verbreitung": "Allgemein",
+    "steigerungsfaktor": "D",
+    "ap_wert": null,
+    "zaubererweiterungen": [
+      {
+        "name": "Geringere Ritualdauer",
+        "fw": 8,
+        "ap": 4,
+        "beschreibung": "Die Ritualdauer beträgt 4 Stunden.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Noch geringere Ritualdauer",
+        "fw": 10,
+        "ap": 4,
+        "beschreibung": "Die Ritualdauer beträgt 2 Stunden. Voraussetzung: Zaubererweiterung Geringere Ritualdauer.",
+        "voraussetzung": "Zaubererweiterung Geringere Ritualdauer"
+      },
+      {
+        "name": "Weniger Erschwernis 1",
+        "fw": 12,
+        "ap": 8,
+        "beschreibung": "Die Erschwernisse bei zusätzlichen Aufladungen bei Zauberspeicher-Artfakten sinken beim ARCANOVI um -1 (bis zu einem Minimum von 0).",
+        "voraussetzung": null
+      },
+      {
+        "name": "Artefaktkontrolle",
+        "fw": 14,
+        "ap": 8,
+        "beschreibung": "Erschwernisse zum Erschaffen des Artefakts sinken um 1 Punkt.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Weniger Erschwernis 2",
+        "fw": 16,
+        "ap": 12,
+        "beschreibung": "Die Erschwernisse bei zusätzlichen Aufladungen bei Zauberspeicher-Artfakten sinken beim ARCANOVI und den auf dem Artefakt gespeicherten Zauber um -1 (bis zu einem Minimum von 0). Voraussetzung: Zaubererweiterung Weniger Erschwernis 1.",
+        "voraussetzung": "Zaubererweiterung Weniger Erschwernis 1"
+      }
+    ],
+    "reversalis": "Die Wirkung des reversalisierten ARCANOVI entspricht dem DESTRUCTIBO. Die permanenten AsP-Kosten sind ebenfalls identisch mit jenen, die beim DESTRUCTIBO anfallen. (Merkmal: Antimagie)",
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 300
+      },
+      {
+        "buch": "Aventurische Magie",
+        "seite": 162
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 345
+      }
+    ],
+    "_source_file": "Arcanovi.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Aurum Argentor",
+    "probe": "KL/IN/KO",
+    "wirkung": "Das Ritual kann ein Objekt bis zur Größe einer Tasse in pures Gold verwandeln. Der Wert variiert nach Gewicht des Objekts, das letzte Wort darüber hat die Meisterin. Als Anhaltspunkt kann die Formel QS/2 x AsP-Kosten = Dukaten dienen.",
+    "ritualdauer": "30 Minuten",
+    "asp_kosten": "8 AsP, davon 1 AsP permanent (Kosten sind nicht modifizierbar)",
+    "reichweite": "Berührung",
+    "wirkungsdauer": "sofort",
+    "zielkategorie": "Objekte",
+    "merkmal": "Objekt",
+    "verbreitung": "Gildenmagier",
+    "steigerungsfaktor": "C",
+    "ap_wert": 8,
+    "zaubererweiterungen": [
+      {
+        "name": "Verkürzte Ritualdauer",
+        "fw": 8,
+        "ap": 3,
+        "beschreibung": "Die Ritualdauer beträgt 5 Minuten.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Zwei Objekte",
+        "fw": 10,
+        "ap": 3,
+        "beschreibung": "Der Zauberer kann zwei Objekte gleichzeitig verzaubern.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Größere Goldmenge 1",
+        "fw": 12,
+        "ap": 6,
+        "beschreibung": "Der Zauberer kann auch Objekte bis zur Größe einer Truhe verzaubern. Die Kosten steigen auf 16 AsP, davon 2 AsP permanent.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Größere Goldmenge 2",
+        "fw": 14,
+        "ap": 6,
+        "beschreibung": "Der Zauberer kann auch Objekte bis zur Größe einer Tür verzaubern. Die Kosten steigen auf 32 AsP, davon 4 AsP permanent.",
+        "voraussetzung": "Zaubererweiterung Größere Goldmenge 1"
+      },
+      {
+        "name": "Größere Goldmenge 3",
+        "fw": 16,
+        "ap": 9,
+        "beschreibung": "Der Zauberer kann auch Objekte bis zur Größe eines Burgtores verzaubern. Die Kosten steigen auf 64 AsP, davon 8 AsP permanent.",
+        "voraussetzung": "Zaubererweiterung Größere Goldmenge 2"
+      }
+    ],
+    "reversalis": "Ein bestehendes AURUM ARGENTOR-Ritual wird aufgehoben. (Merkmal: Antimagie)\nAlternativ wird das Gold in Eisen verwandelt. (Merkmal: Objekt)",
+    "publikationen": [
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 347
+      }
+    ],
+    "_source_file": "Aurum+Argentor.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Bärenruhe",
+    "probe": "MU/IN/KO",
+    "wirkung": "Das Ritual versetzt einen freiwilligen Kulturschaffenden in einen tiefen Schlaf, aus dem er erst am Ende der Wirkungsdauer erwacht oder durch grobes Wecken gerissen werden kann. (Ein Ziel, ob bewusstlos oder nicht, kann immer entscheiden, ob es freiwillig in Bezug auf übernatürliche Wirkungen wie Zauber und Liturgien ist oder nicht.) Während der Wirkungsdauer werden die Auswirkungen aller Zustände, Status, Gifte und Krankheiten unterbrochen, ebenso kommt es zu keiner Alterung.",
+    "ritualdauer": "5 Minuten",
+    "asp_kosten": "8 AsP (Kosten sind nicht modifizierbar)",
+    "reichweite": "selbst",
+    "wirkungsdauer": "QS Tage",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Verwandlung",
+    "verbreitung": "Elfen, Geoden, Goblinzauberinnen, Kristallomanten",
+    "steigerungsfaktor": "B",
+    "ap_wert": null,
+    "zaubererweiterungen": [
+      {
+        "name": "Zielkategorie Lebewesen",
+        "fw": 8,
+        "ap": 2,
+        "beschreibung": "Das Ritual umfasst die Zielkategorie Lebewesen. Dadurch ändert sich ggf. die Reichweite von selbst auf Berührung.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Heilsamer Schlaf",
+        "fw": 10,
+        "ap": 2,
+        "beschreibung": "Sollte die Wirkung von Giften oder Krankheiten kürzer sein als die Wirkungsdauer des Rituals, so enden diese, wenn das Zeil aus dem Schlaf erwacht.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Längere Wirkungsdauer",
+        "fw": 12,
+        "ap": 4,
+        "beschreibung": "Die Wirkungsdauer beträgt QS Wochen, das Ritual kostet dafür 16 AsP (Kosten nicht modifizierbar).",
+        "voraussetzung": null
+      },
+      {
+        "name": "Steinschlaf",
+        "fw": 14,
+        "ap": 4,
+        "beschreibung": "Der Schlafende wird hart wie Stein (3.000 Strukturpunkte) und kann nur durch magische oder geweihte Einflüsse/Waffen verletzt werden.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Halbschlaf",
+        "fw": 16,
+        "ap": 6,
+        "beschreibung": "Der Zauberer kann zu Beginn des Rituals einen Auslöser bestimmen, durch den er automatisch aufwacht (Frühling, Schmerzen, Ohrfeigen, Schlüsselworte).",
+        "voraussetzung": null
+      }
+    ],
+    "reversalis": "Während der Wirkungsdauer kann das Ziel nicht schlafen. Regeneration ist in diesem Zustand nicht möglich. Es reagiert genauso wie andere Wesen, die lange Zeit wach gehalten werden, also fahrig, reizbar und erleidet nach einigen Tagen Sinnestäuschungen. Pro 2 Tagen ohne Schlaf erhält das Ziel 1 Stufe Verwirrung, die erst abklingt, wenn es wieder schlafen kann.",
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 127
+      },
+      {
+        "buch": "Aventurische Magie III Bonusmaterial und Errata",
+        "seite": 10
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 350
+      }
+    ],
+    "_source_file": "Bärenruhe.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Band der Freundschaft",
+    "probe": "IN/CH/CH (modifiziert durch SK)",
+    "wirkung": "Dieses ursprünglich elfische Freundschaftsritual weckt in seinem Ziel Sympathien und Freundschaft für den Zaubernden. Die genaue Wirkung ist davon abhängig, wie das Ziel anfangs zum Zaubernden steht. Pro QS verbessert sich die Verbindung zwischen den beiden um 1 Stufe. Ist der Zaubernde dem Ziel vorher unbekannt, bewegt sich die Einstellung des Ziels meist zwischen Stufe 4 (Abneigung) und Stufe 6 (Zuneigung). Vorteile wie Gutaussehend oder Nachteile wie Vorurteile gegenüber dem Zaubernden können diesen ersten Eindruck je nach Situation um eine oder mehrere Stufen modifizieren.",
+    "ritualdauer": "30 Minuten",
+    "asp_kosten": "8 AsP",
+    "reichweite": "8 Schritt",
+    "wirkungsdauer": "QS Tage",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Einfluss",
+    "verbreitung": "Elfen",
+    "steigerungsfaktor": "C",
+    "ap_wert": null,
+    "zaubererweiterungen": [
+      {
+        "name": "Gelungene Beeinflussung 1",
+        "fw": 8,
+        "ap": 3,
+        "beschreibung": "Der Verzauberte kann nach dem Ende der Wirkungsdauer eine Probe auf Willenskraft erleichtert um +2 ablegen. Bei Misslingen ist ihm nicht bewusst, dass er verzaubert wurde.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Mehr Ziele",
+        "fw": 10,
+        "ap": 3,
+        "beschreibung": "Es kann mit bis zu 6 Personen ein BAND DER FREUNDSCHAFT geknüpft werden. Es entstehen zusätzliche Kosten in Höhe von 2 AsP je zusätzlichem Ziel.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Gelungene Beeinflussung 2",
+        "fw": 12,
+        "ap": 6,
+        "beschreibung": "Der Verzauberte kann nach dem Ende der Wirkungsdauer eine Probe auf Willenskraft ablegen. Bei Misslingen ist ihm nicht bewusst, dass er verzaubert wurde.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Längere Wirkungsdauer",
+        "fw": 14,
+        "ap": 6,
+        "beschreibung": "Die Wirkungsdauer beträgt QS Wochen. Es entstehen zusätzliche Kosten in Höhe von 4 AsP.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Gelungene Beeinflussung 3",
+        "fw": 16,
+        "ap": 9,
+        "beschreibung": "Der Verzauberte kann nach dem Ende der Wirkungsdauer eine Probe auf Willenskraft erschwert um -2 ablegen. Bei Misslingen ist ihm nicht bewusst, dass er verzaubert wurde.",
+        "voraussetzung": null
+      }
+    ],
+    "reversalis": "Pro QS verschlechtert sich die Verbindung zwischen dem Ziel und dem Zauberer um 1 Stufe. (Merkmal: Einfluss)",
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 127
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 348
+      }
+    ],
+    "_source_file": "Band+der+Freundschaft.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Blick durch fremde Augen",
+    "probe": "MU/IN/CH (modifiziert durch SK)",
+    "wirkung": "Der Zauberer ersetzt seine eigene Sicht durch jene des Ziels und sieht dadurch alles, was sich in dessen Blickfeld befindet. Ist es währenddessen notwendig, Proben auf Sinnesschärfe abzulegen, verwendet der Zauberer seine eigenen Werte. Erleidet das Ziel Abzüge auf seine Sinnesschärfe, sei es aufgrund von äußeren Einflüssen wie Sichtmodifikatoren und Zustandsstufen, oder einer eigenen Sehschwäche, gelten diese aber auch für den Zauberer. Dementsprechend vermag der Anwender des Rituals nichts zu sehen, wenn das Ziel blind ist oder die Augen schließt. Dem Ziel bleibt die Anwesenheit des Zauberers in seinem Geist verborgen. Während der Wirkungsdauer ist der Zauberer blind für seine eigene Umgebung. Bei freiwilligen Zielen kommt keine Erschwernis durch die SK zum Tragen.",
+    "ritualdauer": "5 Minuten",
+    "asp_kosten": "16 AsP",
+    "reichweite": "16 Schritt",
+    "wirkungsdauer": "QS x 10 Minuten",
+    "zielkategorie": "Lebewesen",
+    "merkmal": "Hellsicht",
+    "verbreitung": "Druiden, Hexen",
+    "steigerungsfaktor": "C",
+    "ap_wert": 16,
+    "zaubererweiterungen": [
+      {
+        "name": "Längere Wirkungsdauer 1",
+        "fw": 8,
+        "ap": 3,
+        "beschreibung": "Die Wirkungsdauer beträgt QS x 20 Minuten.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Wechselsicht",
+        "fw": 10,
+        "ap": 3,
+        "beschreibung": "Während der Wirkungsdauer kann der Zauberer die Wirkung innerhalb von 1 Aktion abbrechen. Er kann durch 1 weitere Aktion wieder den Sinn seines Ziels wahrnehmen. Die Wirkungsdauer läuft auch ab, wenn er den Sinn des Ziels nicht nutzt.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Andere Sinne",
+        "fw": 12,
+        "ap": 6,
+        "beschreibung": "Auch andere Sinne können übertragen werden.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Gleichzeitige Sinne",
+        "fw": 14,
+        "ap": 6,
+        "beschreibung": "Der Zauberer ist nicht blind während der Wirkungsdauer, sondern er nimmt sowohl seinen eigenen Sinn als auch den des Ziels wahr. Dies führt zwar zu einer Erschwernis von –1 auf alle Proben, ansonsten stört es ihn aber nicht weiter.",
+        "voraussetzung": "Zaubererweiterung Wechselsicht"
+      },
+      {
+        "name": "Längere Wirkungsdauer 2",
+        "fw": 16,
+        "ap": 9,
+        "beschreibung": "Die Wirkungsdauer beträgt QS x 30 Minuten.",
+        "voraussetzung": "Zaubererweiterung Längere Wirkungsdauer 1"
+      }
+    ],
+    "reversalis": "Das Ziel des Rituals sieht während der Wirkungsdauer alles, was der Zauberer sieht. Die eigene Sicht ist während der Zeit inaktiv, was zu großen Orientierungsproblemen führen kann.",
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie III",
+        "seite": 140
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 351
+      }
+    ],
+    "_source_file": "Blick+durch+fremde+Augen.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Blick in die Vergangenheit",
+    "probe": "MU/KL/IN",
+    "wirkung": "Die Sicht des Zauberers wird in die Vergangenheit seines derzeitigen Aufenthaltsorts versetzt. Dabei handelt es sich um einen kontinuierlichen, mit einer Geschwindigkeit von einem Jahr pro Minute rückwärts laufenden Fluss. Im Laufe einer Stunde sieht er also die Ereignisse der vergangenen sechs Jahrzehnte an sich vorbeiziehen. Aufgrund der Schnelligkeit der wahrgenommenen Bilder ist es nicht möglich, Gesichter wahrzunehmen, wohl aber andere Details. Im Zweifelsfall entscheidet eine Probe auf Sinnesschärfe (Wahrnehmen) erschwert um -3, ob der Zauberer das sieht, was er sucht.",
+    "ritualdauer": "30 Minuten",
+    "asp_kosten": "32 AsP",
+    "reichweite": "selbst",
+    "wirkungsdauer": "QS x 30 Minuten",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Hellsicht",
+    "verbreitung": "Druiden, Geoden, Gildenmagier, Goblinzauberinnen, Kristallomanten",
+    "steigerungsfaktor": "C",
+    "ap_wert": null,
+    "zaubererweiterungen": [
+      {
+        "name": "Reichweite Berührung",
+        "fw": 8,
+        "ap": 3,
+        "beschreibung": "Als Reichweite gilt Berührung. Das Ritual kann nur auf Kulturschaffende übertragen werden. Es entstehen zusätzliche Kosten in Höhe von 8 AsP.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Ferner Ort 1",
+        "fw": 10,
+        "ap": 3,
+        "beschreibung": "Der Ort, den der Zauberer in der Vergangenheit sehen will, kann QS Meilen entfernt sein.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Längere Wirkungsdauer",
+        "fw": 12,
+        "ap": 6,
+        "beschreibung": "Die Wirkungsdauer beträgt QS Stunden.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Ferner Ort 2",
+        "fw": 14,
+        "ap": 6,
+        "beschreibung": "Der Ort, den der Zauberer in der Vergangenheit sehen will, kann QS x 10 Meilen entfernt sein. Voraussetzung: Zaubererweiterung Ferne Ort 1.",
+        "voraussetzung": "Ferner Ort 1"
+      },
+      {
+        "name": "Verlangsamung",
+        "fw": 16,
+        "ap": 9,
+        "beschreibung": "Die Probe auf Sinnesschärfe (Wahrnehmen) ist nur um -1 erschwert.",
+        "voraussetzung": null
+      }
+    ],
+    "reversalis": "Üblicherweise hat die reversalisierte Version des Rituals keine Wirkung, der Zauberer erleidet jedoch für 24 Stunden 4 Stufen Verwirrung, weil selbst der Versuch, in die Zukunft zu blicken, den Geist eines Sterblichen verwirrt. (Merkmal: Temporal)",
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 127
+      },
+      {
+        "buch": "Aventurische Magie III Bonusmaterial und Errata",
+        "seite": 10
+      },
+      {
+        "buch": "Das Dornenreich",
+        "seite": 157
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 352
+      }
+    ],
+    "_source_file": "Blick+in+die+Vergangenheit.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Brandform",
+    "probe": "KL/FF/KK",
+    "wirkung": "Innerhalb eines Radius von QS Schritt vermag der Zauberer, das Element Feuer zu verformen, solange es nicht Teil eines Wesens ist (etwa bei einem Feuerdschinn). Auf diesem Wege können beispielsweise feurige Monumente erschaffen oder Säulen aus glühenden Kohlen errichtet werden. Der Prozess geht dabei nur langsam vonstatten. Soll das Feuer in eine bestimmte Richtung geformt werden, dauert dies 1 KR pro Schritt Fortbewegung. Am Ende der Wirkungsdauer ist das Verformte wieder den normalen Gesetzen der Natur ausgeliefert.",
+    "ritualdauer": "5 Minuten",
+    "asp_kosten": "16 AsP",
+    "reichweite": "selbst",
+    "wirkungsdauer": "QS x 10 Minuten",
+    "zielkategorie": "Zone",
+    "merkmal": "Elementar",
+    "verbreitung": "Elfen",
+    "steigerungsfaktor": "B",
+    "ap_wert": null,
+    "zaubererweiterungen": [
+      {
+        "name": "Längere Wirkungsdauer 1",
+        "fw": 8,
+        "ap": 2,
+        "beschreibung": "Die Wirkungsdauer beträgt QS x 30 Minuten.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Reichweite Berührung",
+        "fw": 10,
+        "ap": 2,
+        "beschreibung": "Als Reichweite gilt Berührung. Das Ritual kann nur auf Kulturschaffende übertragen werden. Die Kosten steigen dabei um eine Kategorie.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Größerer Radius",
+        "fw": 12,
+        "ap": 4,
+        "beschreibung": "Der Radius beträgt QS x 2 Schritt.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Kurzritual",
+        "fw": 14,
+        "ap": 4,
+        "beschreibung": "Die Ritualdauer beträgt nur 8 Aktionen (auch, wenn dies keine übliche Zeitkategorie für Rituale ist).",
+        "voraussetzung": null
+      },
+      {
+        "name": "Längere Wirkungsdauer 2",
+        "fw": 16,
+        "ap": 6,
+        "beschreibung": "Die Wirkungsdauer beträgt QS Stunden. Voraussetzung: Zaubererweiterung Längere Wirkungsdauer 1.",
+        "voraussetzung": "Zaubererweiterung Längere Wirkungsdauer 1"
+      }
+    ],
+    "reversalis": "Wird das Ziel der reversalisierten Version des Rituals während der Wirkungsdauer durch Feuer (z. B. auch durch einen IGNIFAXIUS oder -SPHAERO) angegriffen, verdoppeln sich die TP.",
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 128
+      },
+      {
+        "buch": "Aventurisches Elementarium",
+        "seite": 154
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 353
+      }
+    ],
+    "_source_file": "Brandform.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Caldofrigo",
+    "probe": "IN/CH/KO",
+    "wirkung": "Mittels Caldofrigo kann die Temperatur eines maximal truhengroßen Objekts verändert werden. Es kann abgekühlt oder erwärmt werden, und zwar in einem Spielraum von +/–100 Grad Celsius der Ausgangstemperatur. Der Zauberer muss hierzu die gewünschte Gradzahl festlegen und kann nicht beliebig während der Wirkungsdauer die Temperatur ändern. Der Zauber kann ebenso Wasser mit entsprechendem Volumen gefrieren lassen, jedoch weder Brücken noch Dämme oder stabile Kletterhilfen erschaffen.",
+    "ritualdauer": "5 Minuten",
+    "asp_kosten": "4 AsP",
+    "reichweite": "4 Schritt",
+    "wirkungsdauer": "QS x 2 Minuten",
+    "zielkategorie": "Objekte (profane Objekte bis zur Größe einer Truhe)",
+    "merkmal": "Elementar",
+    "verbreitung": "Druiden, Gildenmagier, Kristallomanten",
+    "steigerungsfaktor": "B",
+    "ap_wert": null,
+    "zaubererweiterungen": [
+      {
+        "name": "Höhere/Niedrigere Temperatur 1",
+        "fw": 8,
+        "ap": 2,
+        "beschreibung": "Die Temperatur kann um bis zu 200 Grad Celsius verändert werden. Der Schaden für Gegenstände steigt auf 2W6 Strukturpunkte.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Längere Wirkungsdauer 1",
+        "fw": 10,
+        "ap": 2,
+        "beschreibung": "Die Wirkungsdauer beträgt QS x 5 Minuten.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Höhere/Niedrigere Temperatur 2",
+        "fw": 12,
+        "ap": 4,
+        "beschreibung": "Die Temperatur kann um bis zu 500 Grad Celsius verändert werden. Der Schaden für Gegenstände steigt auf 3W6 Strukturpunkte.",
+        "voraussetzung": "Zaubererweiterung Höhere/Niedrigere Temperatur 1"
+      },
+      {
+        "name": "Längere Wirkungsdauer 2",
+        "fw": 14,
+        "ap": 4,
+        "beschreibung": "Die Wirkungsdauer beträgt QS x 10 Minuten.",
+        "voraussetzung": "Zaubererweiterung Längere Wirkungsdauer 1"
+      },
+      {
+        "name": "Höhere/Niedrigere Temperatur 3",
+        "fw": 16,
+        "ap": 6,
+        "beschreibung": "Die Temperatur kann um bis zu 1.000 Grad Celsius geändert werden. Der Schaden für Gegenstände steigt auf 4W6 Strukturpunkte.",
+        "voraussetzung": "Zaubererweiterung Höhere/Niedrigere Temperatur"
+      }
+    ],
+    "reversalis": "Ein bestehendes CALDOFRIGO-Ritual wird aufgehoben. (Merkmal: Antimagie)",
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie",
+        "seite": 149
+      },
+      {
+        "buch": "Die Streitenden Königreiche - Nostria und Andergast",
+        "seite": 168
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 355
+      }
+    ],
+    "_source_file": "Caldofrigo.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Chimaeroform",
+    "probe": "KL/IN/KO",
+    "wirkung": "Der Zauberer fügt mehrere Wesen zu einer Chimäre zusammen. Die Ritualprobe ist um die Erschaffungsschwierigkeit der Chimäre erschwert. Details zu diesem Prozess finden sich in Aventurische Magie III und in aller Ausführlichkeit mit Fokusregeln in Aventurisches Transmutarium.",
+    "ritualdauer": "8 Stunden",
+    "asp_kosten": "4/8/16/32/64 AsP für die Größenkategorie winzig/klein/mittel/groß/riesig, davon 1/2/4/8/16 AsP permanent (Kosten sind nicht modifizierbar)",
+    "reichweite": "4 Schritt",
+    "wirkungsdauer": "QS Wochen",
+    "zielkategorie": "Pflanzen, Tiere",
+    "merkmal": "Dämonisch",
+    "verbreitung": "Gildenmagier, Hexen",
+    "steigerungsfaktor": "C",
+    "ap_wert": 4,
+    "zaubererweiterungen": [
+      {
+        "name": "Längere Wirkungsdauer 1",
+        "fw": 8,
+        "ap": 3,
+        "beschreibung": "Die Wirkungsdauer beträgt QS Monate.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Verkürzte Ritualdauer",
+        "fw": 10,
+        "ap": 3,
+        "beschreibung": "Die Ritualdauer beträgt nur 4 Stunden.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Längere Wirkungsdauer 2",
+        "fw": 12,
+        "ap": 6,
+        "beschreibung": "Die Wirkungsdauer beträgt QS Jahre. Voraussetzung: Zaubererweiterung Längere Wirkungsdauer 1.",
+        "voraussetzung": "Zaubererweiterung Längere Wirkungsdauer 1"
+      },
+      {
+        "name": "Einfache Herstellung",
+        "fw": 14,
+        "ap": 6,
+        "beschreibung": "Die Erschaffungsschwierigkeit wird um 1 Punkt leichter.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Mächtiges Wesen",
+        "fw": 16,
+        "ap": 9,
+        "beschreibung": "Dem Wesen können zweimal die gleichen Verbesserungen beim Beschwören gegeben werden.",
+        "voraussetzung": null
+      }
+    ],
+    "reversalis": "Das Ritual CHIMAEROFORM wird aufgelöst, eine Chimäre wird in ihre Ursprungskreaturen zerlegt, wobei diese die Trennung selten überleben. Es sind die gleichen permanenten AsP zu bezahlen, die die Chimäre gekostet hat, und der Modifikator entspricht der Erschaffungsschwierigkeit. (Merkmal: Antimagie)",
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie III",
+        "seite": 140
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 356
+      }
+    ],
+    "_source_file": "Chimaeroform.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Chronoklassis",
+    "probe": "KL/IN/KO",
+    "wirkung": "Der Zauberer legt einen Punkt innerhalb der Reichweite fest, der den Mittelpunkt einer Zone mit einem Radius von 4 Schritt bildet. Zudem bestimmt er einen Zeitpunkt, der maximal QS x 100 Jahre in der Vergangenheit liegen darf. Ist das Ritual erfolgreich, werden alle Wesen und unbefestigte Objekte, die zu dem gewählten Zeitpunkt innerhalb der Zone verweilten, in die Gegenwart transportiert. Am Ende der Wirkungsdauer werden sie an ihren Ursprungsort und in ihre Ursprungszeit zurückgeschleudert und nehmen dabei ihren ursprünglichen Zustand wieder an, können sich also an nichts erinnern und leben im Falle eines zwischenzeitlichen Todes wieder. Eine Veränderung der Vergangenheit ist auf diesem Wege also nicht möglich.",
+    "ritualdauer": "8 Stunden",
+    "asp_kosten": "64 AsP, 8 davon permanent (Kosten sind nicht modifizierbar)",
+    "reichweite": "16 Schritt",
+    "wirkungsdauer": "12 Stunden",
+    "zielkategorie": "Zone",
+    "merkmal": "Temporal",
+    "verbreitung": "Druiden, Elfen, Gildenmagier, Hexen, Kristallomanten",
+    "steigerungsfaktor": "D",
+    "ap_wert": null,
+    "zaubererweiterungen": [
+      {
+        "name": "Größerer Radius",
+        "fw": 8,
+        "ap": 4,
+        "beschreibung": "Der Radius beträgt 8 Schritt.",
+        "voraussetzung": ""
+      },
+      {
+        "name": "Verkürzte Ritualdauer",
+        "fw": 10,
+        "ap": 4,
+        "beschreibung": "Die Ritualdauer beträgt 4 Stunden.",
+        "voraussetzung": ""
+      },
+      {
+        "name": "Längere Wirkungsdauer",
+        "fw": 12,
+        "ap": 8,
+        "beschreibung": "Die Wirkungsdauer beträgt 24 Stunden.",
+        "voraussetzung": ""
+      },
+      {
+        "name": "Länger, weiter",
+        "fw": 14,
+        "ap": 8,
+        "beschreibung": "Die Wirkungsdauer vergrößert sich auf 13 Tage, der Radius auf 13 Schritt.",
+        "voraussetzung": "Zaubererweiterungen Größerer Radius und Längere Wirkungsdauer."
+      },
+      {
+        "name": "Länger zurückreichender Zeitpunkt",
+        "fw": 16,
+        "ap": 12,
+        "beschreibung": "Der Zeitpunkt, bis zu dem das Ritual zurückreicht, liegt bis zu QS x 250 Jahre in der Vergangenheit.",
+        "voraussetzung": ""
+      }
+    ],
+    "reversalis": "Ein bestehendes CHRONOKLASSIS-Ritual wird aufgehoben. (Merkmal: Antimagie)",
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie III",
+        "seite": 140
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 358
+      }
+    ],
+    "_source_file": "Chronoklassis.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Chrononautos",
+    "probe": "MU/CH/KO",
+    "wirkung": "Der Zauberer legt einen Punkt innerhalb der Reichweite fest, der den Mittelpunkt einer Zone mit einem Radius von 4 Schritt bildet. Zudem bestimmt er einen Zeitpunkt, der maximal QS x 100 Jahre in der Vergangenheit liegen darf. Ist das Ritual erfolgreich, werden alle Wesen und unbefestigten Objekte, die innerhalb der Zone verweilen, an den gewählten Zeitpunkt transportiert, ohne jedoch den Ort zu wechseln. Am Ende der Wirkungsdauer werden sie an ihren Ursprungsort und in ihre Ursprungszeit zurückgeschleudert.",
+    "ritualdauer": "8 Stunden",
+    "asp_kosten": "64 AsP, 16 davon permanent (Kosten sind nicht modifizierbar)",
+    "reichweite": "16 Schritt",
+    "wirkungsdauer": "12 Stunden",
+    "zielkategorie": "Zone",
+    "merkmal": "Temporal",
+    "verbreitung": "Druiden, Elfen, Gildenmagier, Hexen, Kristallomanten",
+    "steigerungsfaktor": "D",
+    "ap_wert": null,
+    "zaubererweiterungen": [
+      {
+        "name": "Größerer Radius",
+        "fw": 8,
+        "ap": 4,
+        "beschreibung": "Der Radius beträgt 8 Schritt.",
+        "voraussetzung": ""
+      },
+      {
+        "name": "Verkürzte Ritualdauer",
+        "fw": 10,
+        "ap": 4,
+        "beschreibung": "Die Ritualdauer beträgt 4 Stunden.",
+        "voraussetzung": ""
+      },
+      {
+        "name": "Längere Wirkungsdauer",
+        "fw": 12,
+        "ap": 8,
+        "beschreibung": "Die Wirkungsdauer beträgt 24 Stunden.",
+        "voraussetzung": ""
+      },
+      {
+        "name": "Länger, weiter",
+        "fw": 14,
+        "ap": 8,
+        "beschreibung": "Die Wirkungsdauer vergrößert sich auf 13 Tage, der Radius auf 13 Schritt.",
+        "voraussetzung": "Zaubererweiterungen Größerer Radius und Längere Wirkungsdauer."
+      },
+      {
+        "name": "Länger zurückreichender Zeitpunkt",
+        "fw": 16,
+        "ap": 12,
+        "beschreibung": "Der Zeitpunkt, bis zu dem das Ritual zurückreicht, liegt bis zu QS x 250 Jahre in der Vergangenheit.",
+        "voraussetzung": ""
+      }
+    ],
+    "reversalis": "Ein bestehendes CHRONONAUTOS-Ritual wird aufgehoben. (Merkmal: Antimagie)",
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie III",
+        "seite": 141
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 360
+      }
+    ],
+    "_source_file": "Chrononautos.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Custodosigil",
+    "probe": "MU/KL/FF",
+    "wirkung": "Ein maximal truhengroßes Behältnis, das über ein Schloss verfügt, wird mit einem magischen Schutz ausgestattet. Versucht jemand anderes als der Zauberer, es zu öffnen, wird er von einem Flammenstoß getroffen. Dieser verursacht (QS + 2) x 2 TP und entzündet bei 1-3 auf 1W6 eventuell vorhandene brennbare Kleidung des Öffnenden, wodurch dieser den Status Brennend auf kleiner Fläche erhält. Nach der ersten Auslösung endet die Wirkungsdauer vorzeitig.",
+    "ritualdauer": "5 Minuten",
+    "asp_kosten": "8 AsP (Kosten sind nicht modifizierbar)",
+    "reichweite": "Berührung",
+    "wirkungsdauer": "QS Monate",
+    "zielkategorie": "Objekte",
+    "merkmal": "Objekt",
+    "verbreitung": "Gildenmagier",
+    "steigerungsfaktor": "A",
+    "ap_wert": null,
+    "zaubererweiterungen": [
+      {
+        "name": "Vertrauenswürdige Personen",
+        "fw": 8,
+        "ap": 1,
+        "beschreibung": "Es können auch andere, während der Ritualdauer berührte Personen, benannt werden, die das Behältnis gefahrlos öffnen können.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Knall",
+        "fw": 10,
+        "ap": 1,
+        "beschreibung": "Der Flammenstoß erzeugt einen lauten Knall, der in einem Radius von 20 Schritt deutlich zu hören ist und bei allen Lebewesen im Radius von 3 Schritt 1 Stufe Verwirrung verursacht.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Internes Feuer",
+        "fw": 12,
+        "ap": 2,
+        "beschreibung": "Zusätzlich zum externen Flammenstoß gibt es auch einen internen, wodurch der Inhalt in Flammen aufgeht.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Heiße Flammen",
+        "fw": 14,
+        "ap": 2,
+        "beschreibung": "Der Schaden steigt auf (QS + 2) x 3 TP.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Größere Gegenstände",
+        "fw": 16,
+        "ap": 3,
+        "beschreibung": "Auch bis zu türgroße Gegenstände können verzaubert werden.",
+        "voraussetzung": null
+      }
+    ],
+    "reversalis": "Ein bestehendes CUSTODOSIGIL-Ritual wird aufgehoben. (Merkmal: Antimagie) Alternativ ist das Behältnis verblüffend einfach zu öffnen und verspritzt Wasser, was zwar keinen Schaden, aber 1 Stufe Verwirrung verursacht. (Merkmal: Objekt)",
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 129
+      },
+      {
+        "buch": "Die Sonnenküste - Der wilde Süden & die Zyklopeninseln",
+        "seite": 154
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 361
+      },
+      {
+        "buch": "Mondsilberne Mysterien",
+        "seite": 19
+      }
+    ],
+    "_source_file": "Custodosigil.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Dämonenpakt beenden",
+    "probe": "MU/IN/CH (modifiziert durch SK modifiziert die Probe nur bei einem unfreiwilligen Ziel)",
+    "wirkung": "Der Zauberer kann mit diesem Ritual versuchen, den Dämonenpakt eines Paktierers zu brechen. Die Probe ist dabei um verschiedene Modifikatoren, beispielsweise durch die Kreise der Verdammnis des Paktierers, modifiziert. Zum genauen Verfahren siehe Aventurische Magie III [Anmerkung: Paktbruch]. Die Berührung muss nicht über die gesamte Dauer des Rituals erfolgen. Die Meisterin hat hierbei das letzte Wort.",
+    "ritualdauer": "8 Stunden",
+    "asp_kosten": "32 AsP, davon 8 permanent",
+    "reichweite": "Berührung",
+    "wirkungsdauer": "sofort",
+    "zielkategorie": "Kulturschaffende (Paktierer)",
+    "merkmal": "Antimagie",
+    "verbreitung": "Druiden, Geoden, Gildenmagier, Hexen",
+    "steigerungsfaktor": "C",
+    "ap_wert": null,
+    "zaubererweiterungen": [
+      {
+        "name": "Größere Reichweite",
+        "fw": 8,
+        "ap": 3,
+        "beschreibung": "Die Reichweite beträgt 4 Schritt.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Erfahrener Paktbrecher 1",
+        "fw": 10,
+        "ap": 3,
+        "beschreibung": "Bei unfreiwilligen Zielen sinkt bei diesem Ritual die SK um 1.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Große Reue",
+        "fw": 12,
+        "ap": 6,
+        "beschreibung": "War der Paktierer ein Minderpaktierer und unterzog er sich dem Ritual freiwillig, verschwindet das Mal des Frevlers.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Erfahrener Paktbrecher 2",
+        "fw": 14,
+        "ap": 6,
+        "beschreibung": "Bei unfreiwilligen Zielen sinkt bei diesem Ritual die SK um 1 (mit Erfahrener Paktbrecher 1 um insgesamt 2 Punkte). Voraussetzung: Zaubererweiterung Erfahrener Paktbrecher 1.",
+        "voraussetzung": "Zaubererweiterung Erfahrener Paktbrecher 1"
+      },
+      {
+        "name": "Verkürzte Ritualdauer",
+        "fw": 16,
+        "ap": 9,
+        "beschreibung": "Das Ritual weist eine Ritualdauer von 30 Minuten auf, allerdings ist die Probe zusätzlich um -5 erschwert.",
+        "voraussetzung": null
+      }
+    ],
+    "reversalis": "Wird die reversalisierte Version des Rituals auf einen Paktierer gesprochen, sind alle Proben, um den Pakt zu brechen zukünftig um –QS/2 erschwert. Die Wirkung ist nicht kumulativ. (Merkmal: Dämonisch)",
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie III",
+        "seite": 79
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 362
+      }
+    ],
+    "_source_file": "Dämonenpakt+beenden.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Destructibo",
+    "probe": "KL/KL/FF",
+    "wirkung": "Mit diesem Ritual ist es möglich, Zauberspeicher-Artefakte zu entzaubern. Die Zauberkräfte des Artefakts verflüchtigen sich, wodurch es wieder zu einem rein profanen Gegenstand wird. Pro 30 Minuten Ritualdauer können QS permanente AsP von einem Gegenstand genommen werden. Der Gegenstand ist erst dann von Magie befreit, wenn alle permanenten AsP gelöscht sind. Dies erfordert ggf. mehrere, direkt aufeinander folgende DESTRUCTIBO-Sitzungen. Sollte der Zauberer unterbrochen werden oder nicht alle permanenten AsP zerstört werden, misslingt das Ritual insgesamt und der Gegenstand behält alle seine permanenten AsP.",
+    "ritualdauer": "30 Minuten",
+    "asp_kosten": "16 AsP + so viele permanente AsP, wie im Zielobjekt gespeichert sind (Kosten sind nicht modifizierbar)",
+    "reichweite": "Berührung",
+    "wirkungsdauer": "permanent",
+    "zielkategorie": "Objekte (magische Objekte)",
+    "merkmal": "Objekt",
+    "verbreitung": "Allgemein",
+    "steigerungsfaktor": "C",
+    "ap_wert": null,
+    "zaubererweiterungen": [
+      {
+        "name": "Entzauberung von selbst aufladenden Artefakten",
+        "fw": 8,
+        "ap": 3,
+        "beschreibung": "Auch selbst aufladende Artefakte sind von dem Ritual betroffen.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Größere Reichweite",
+        "fw": 10,
+        "ap": 3,
+        "beschreibung": "Die Reichweite beträgt 4 Schritt.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Aufheben von Bindungsritualen",
+        "fw": 12,
+        "ap": 6,
+        "beschreibung": "Auch Artefakte, die mit einem Bindungsritual hergestellt wurden, sind von dem Ritual betroffen (also z. B. Magierstäbe, Bannschwerter usw.). Voraussetzung: Zaubererweiterung Aufheben von selbst aufladenden Artefakten",
+        "voraussetzung": "Zaubererweiterung Entzauberung von selbst aufladenden Artefakten"
+      },
+      {
+        "name": "Kürzere Ritualdauer",
+        "fw": 14,
+        "ap": 6,
+        "beschreibung": "Die Ritualdauer beträgt 5 Minuten.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Aufheben von dauerhaft wirkenden Artefakten",
+        "fw": 16,
+        "ap": 9,
+        "beschreibung": "Auch dauerhaft wirkende Artefakte sind von dem Ritual betroffen. Voraussetzung: Zaubererweiterung Entzauberung von selbst aufladenden Artefakten",
+        "voraussetzung": "Zaubererweiterung Entzauberung von selbst aufladenden Artefakten"
+      }
+    ],
+    "reversalis": "Die Wirkung des reversalisierten DESTRUCTIBO entspricht dem ARCANOVI. Die permanenten AsP-Kosten sind ebenfalls identisch mit jenen, die beim ARCANOVI anfallen.",
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 129
+      },
+      {
+        "buch": "Die Sonnenküste - Der wilde Süden & die Zyklopeninseln",
+        "seite": 154
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 363
+      }
+    ],
+    "_source_file": "Destructibo.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Dschinnenruf",
+    "probe": "MU/CH/KO",
+    "wirkung": "Ein Dschinn des gewünschten Elements erscheint. Details zur Herbeirufung und dem Umgang mit Dschinnen finden sich im Abschnitt \"Die Kunst der Elementarherbeirufung\" im Regelwerk und in aller Ausführlichkeit mit Fokusregeln in Aventurisches Elementarium.",
+    "ritualdauer": "8 Stunden",
+    "asp_kosten": "32 AsP",
+    "reichweite": "8 Schritt",
+    "wirkungsdauer": "sofort",
+    "zielkategorie": "Elementare",
+    "merkmal": "Sphären",
+    "verbreitung": "Druiden, Geoden, Gildenmagier",
+    "steigerungsfaktor": "C",
+    "ap_wert": null,
+    "zaubererweiterungen": [
+      {
+        "name": "Mehr Dienste",
+        "fw": 8,
+        "ap": 3,
+        "beschreibung": "Der Zauberer kann QS +2 Dienste von dem Wesen verlangen.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Verkürzte Ritualdauer",
+        "fw": 10,
+        "ap": 3,
+        "beschreibung": "Die Ritualdauer beträgt nur 4 Stunden.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Längerer Dienst",
+        "fw": 12,
+        "ap": 6,
+        "beschreibung": "Das Wesen verliert erst am Ende einer Woche (statt am ende eines tages) automatisch einen dienst.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Ausgedehnter Dienst",
+        "fw": 14,
+        "ap": 6,
+        "beschreibung": "Das Wesen verliert erst am ende eines monats (statt am ende eines tages) automatisch einen dienst. Voraussetzung: Zaubererweiterung Längerer Dienst.",
+        "voraussetzung": "Zaubererweiterung Längerer Dienst"
+      },
+      {
+        "name": "Mächtiges Wesen",
+        "fw": 16,
+        "ap": 9,
+        "beschreibung": "Dem Wesen können zweimal die gleichen Verbesserungen beim Beschwören gegeben werden.",
+        "voraussetzung": null
+      }
+    ],
+    "reversalis": "Der reversalisierte DSCHINNENRUF wirkt gegen Dschinne wie ein HEXAGRAMMA. Damit ist es möglich, einen Dschinn auszutreiben. (Merkmal: Antimagie)",
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 300
+      },
+      {
+        "buch": "Aventurische Magie",
+        "seite": 163
+      },
+      {
+        "buch": "Aventurische Magie III Bonusmaterial und Errata",
+        "seite": 10
+      },
+      {
+        "buch": "Aventurisches Elementarium",
+        "seite": 155
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 365
+      }
+    ],
+    "_source_file": "Dschinnenruf.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Eins mit der Natur",
+    "probe": "MU/IN/KO",
+    "wirkung": "Der Zauberer erhält während der Wirkungsdauer die SF Geländekunde für ein beliebiges Gelände. Besitzt er die SF bereits, so verdoppelt sich der Bonus, den er auf die Fertigkeiten erhält.",
+    "ritualdauer": "5 Minuten",
+    "asp_kosten": "16 AsP",
+    "reichweite": "selbst",
+    "wirkungsdauer": "QS Stunden",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Heilung",
+    "verbreitung": "Druiden, Elfen, Geoden, Goblinzauberinnen",
+    "steigerungsfaktor": "B",
+    "ap_wert": null,
+    "zaubererweiterungen": [
+      {
+        "name": "Kälte und Wärme",
+        "fw": 8,
+        "ap": 2,
+        "beschreibung": "Hitze- und Kältestufen wirken mit einer Stufe weniger auf den Zauberer.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Geländesinn",
+        "fw": 10,
+        "ap": 2,
+        "beschreibung": "Die Erleichterungen durch die SF Geländekunde gilt auch für die Fertigkeit Sinnesschärfe.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Längere Wirkungsdauer",
+        "fw": 12,
+        "ap": 4,
+        "beschreibung": "Die Wirkungsdauer beträgt QS x 2 Stunden.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Zwei Umgebungen",
+        "fw": 14,
+        "ap": 4,
+        "beschreibung": "Der Zauberer erhält während der Wirkungsdauer die SF Geländekunde für zwei beliebige Gelände.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Reichweite Berührung",
+        "fw": 16,
+        "ap": 6,
+        "beschreibung": "Als Reichweite gilt Berührung. Das Ritual kann nur auf Kulturschaffende übertragen werden.",
+        "voraussetzung": null
+      }
+    ],
+    "reversalis": "Das Ziel verliert bis zum Ende der Wirkungsdauer alle Geländekunde-SF. Für Umgebungen, in denen es keine Geländekunde aufweist (also üblicherweise für die meisten Umgebungen), erleidet es eine Erschwernis von –1 auf Fährtensuchen, Orientierung, Pflanzenkunde, Tierkunde und Wildnisleben.",
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 129
+      },
+      {
+        "buch": "Aventurische Magie III Bonusmaterial und Errata",
+        "seite": 10
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 367
+      }
+    ],
+    "_source_file": "Eins+mit+der+Natur.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Elementarer Diener",
+    "probe": "MU/CH/KO",
+    "wirkung": "Ein Elementargeist des gewünschten Elements erscheint. Details zur Herbeirufung und dem Umgang mit Elementargeistern finden sich im Abschnitt Die Kunst der Elementarherbeirufung im Regelwerk und in aller Ausführlichkeit mit Fokusregeln in Aventurisches Elementarium.",
+    "ritualdauer": "30 Minuten",
+    "asp_kosten": "16 AsP",
+    "reichweite": "8 Schritt",
+    "wirkungsdauer": "sofort",
+    "zielkategorie": "Elementare",
+    "merkmal": "Sphären",
+    "verbreitung": "Druiden, Geoden, Gildenmagier",
+    "steigerungsfaktor": "B",
+    "ap_wert": null,
+    "zaubererweiterungen": [
+      {
+        "name": "Mehr Dienste",
+        "fw": 8,
+        "ap": 2,
+        "beschreibung": "Der Zauberer kann QS + 2 Dienste von dem Wesen verlangen.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Verkürzte Ritualdauer",
+        "fw": 10,
+        "ap": 2,
+        "beschreibung": "Die Ritualdauer beträgt nur 5 Minuten.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Längerer Dienst",
+        "fw": 12,
+        "ap": 4,
+        "beschreibung": "Das Wesen verliert erst am Ende einer Woche (statt am ende eines tages) automatisch einen dienst.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Ausgedehnter Dienst",
+        "fw": 14,
+        "ap": 4,
+        "beschreibung": "Das Wesen verliert erst am ende eines monats (statt am ende eines tages) automatisch einen dienst. Voraussetzung: Zaubererweiterung Längerer Dienst.",
+        "voraussetzung": "Zaubererweiterung Längerer Dienst"
+      },
+      {
+        "name": "Mächtiges Wesen",
+        "fw": 16,
+        "ap": 6,
+        "beschreibung": "Dem wesen können zweimal die gleichen Verbesserungen beim Beschwören gegeben werden.",
+        "voraussetzung": null
+      }
+    ],
+    "reversalis": "Der reversalisierte ELEMENTARER DIENER wirkt gegen Elementargeister wie ein HEXAGRAMMA. Damit ist es möglich, einen Elementargeist auszutreiben. (Merkmal: Antimagie)",
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 300
+      },
+      {
+        "buch": "Aventurische Magie",
+        "seite": 163
+      },
+      {
+        "buch": "Aventurische Magie III Bonusmaterial und Errata",
+        "seite": 10
+      },
+      {
+        "buch": "Aventurisches Elementarium",
+        "seite": 155
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 368
+      }
+    ],
+    "_source_file": "Elementarer+Diener.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Ergebenheit der Wogen",
+    "probe": "MU/IN/KO",
+    "wirkung": "Der Zauberer verwandelt sich in Wasser. Während der Wirkungsdauer ist er zu keinen körperlichen oder geistigen Handlungen fähig und behält keine Erinnerung an die Zeit der Verwandlung zurück. Dafür sind sämtliche körperlichen Prozesse ausgesetzt, er benötigt also weder Nahrung noch Atemluft, unterliegt nicht der Wirkung von Giften und Krankheiten und ist keinerlei Alterung ausgesetzt. Der verwandelte Körper ist nicht zu zerstören, da er sich auf eine unzusammenhängende Masse verteilt. Liegt eine solche Trennung jedoch zum Zeitpunkt der Rückverwandlung vor, fehlt dem Zauberer ein entsprechend großer Teil seines Körpers. Nach Meisterentscheid kann dies zum sofortigen Tod des Zauberers führen.",
+    "ritualdauer": "30 Minuten",
+    "asp_kosten": "32 AsP",
+    "reichweite": "selbst",
+    "wirkungsdauer": "QS x 3 Wochen",
+    "zielkategorie": "Lebewesen",
+    "merkmal": "Elementar",
+    "verbreitung": "Elfen",
+    "steigerungsfaktor": "C",
+    "ap_wert": null,
+    "zaubererweiterungen": [
+      {
+        "name": "Reichweite Berührung",
+        "fw": 8,
+        "ap": 3,
+        "beschreibung": "Als Reichweite gilt Berührung. Es entstehen zusätzliche Kosten in Höhe von 8 AsP. Gegen unfreiwillige Ziele gilt die SK als Erschwernis.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Elementare Erkenntnisse",
+        "fw": 10,
+        "ap": 3,
+        "beschreibung": "Elementare Zauber des Elements sind nach dem Ende der Wirkungsdauer um +1 erleichtert. Dieser Effekt hält für 1 Tag je kompletter Woche in Form des jeweiligen Elements an.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Bewusstsein",
+        "fw": 12,
+        "ap": 6,
+        "beschreibung": "Der Verwandelte behält sein Bewusstsein und kann sogar mit allen Sinnen wahrnehmen.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Sprachfähigkeit",
+        "fw": 14,
+        "ap": 6,
+        "beschreibung": "Das Ziel des Rituals ist in der Lage, mit seiner Umwelt zu sprechen und zu kommunizieren. Voraussetzung: Zaubererweiterung Bewusstsein.",
+        "voraussetzung": "Bewusstsein"
+      },
+      {
+        "name": "Längere Wirkungsdauer",
+        "fw": 16,
+        "ap": 9,
+        "beschreibung": "Die Wirkungsdauer beträgt QS x 3 Monate.",
+        "voraussetzung": null
+      }
+    ],
+    "reversalis": "Ein bestehendes ERGEBENHEIT DER WOGEN-Ritual wird aufgehoben. (Merkmal: Antimagie)",
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 130
+      },
+      {
+        "buch": "Aventurisches Elementarium",
+        "seite": 154
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 369
+      }
+    ],
+    "_source_file": "Ergebenheit+der+Wogen.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Erhabenheit des Marmors",
+    "probe": "MU/IN/KO",
+    "wirkung": "Der Zauberer verwandelt sich in eine steinerne Statue. Während der Wirkungsdauer ist er zu keinen körperlichen oder geistigen Handlungen fähig und behält keine Erinnerung an die Zeit der Verwandlung zurück. Dafür sind sämtliche körperlichen Prozesse ausgesetzt, er benötigt also weder Nahrung noch Atemluft, unterliegt nicht der Wirkung von Giften und Krankheiten und ist keinerlei Alterung ausgesetzt. Wird er angegriffen, kann er wie eine normale Statue aus Stein zerstört werden. Bei einer Rückverwandlung wird der Schaden auf den fleischlichen Körper übertragen. Die Höhe des Schadens ist von der Meisterin zu bemessen.",
+    "ritualdauer": "30 Minuten",
+    "asp_kosten": "32 AsP",
+    "reichweite": "selbst",
+    "wirkungsdauer": "QS x 3 Wochen",
+    "zielkategorie": "Lebewesen",
+    "merkmal": "Elementar",
+    "verbreitung": "Geoden, Gildenmagier, Hexen",
+    "steigerungsfaktor": "C",
+    "ap_wert": null,
+    "zaubererweiterungen": [
+      {
+        "name": "Reichweite Berührung",
+        "fw": 8,
+        "ap": 3,
+        "beschreibung": "Als Reichweite gilt Berührung. Es entstehen zusätzliche Kosten in Höhe von 8 AsP. Gegen unfreiwillige Ziele gilt die SK als Erschwernis.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Elementare Erkenntnisse",
+        "fw": 10,
+        "ap": 3,
+        "beschreibung": "Elementare Zauber des Elements sind nach dem Ende der Wirkungsdauer um +1 erleichtert. Dieser Effekt hält für 1 Tag je kompletter Woche in Form des jeweiligen Elements an.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Bewusstsein",
+        "fw": 12,
+        "ap": 6,
+        "beschreibung": "Der Verwandelte behält sein Bewusstsein und kann sogar mit allen Sinnen wahrnehmen.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Sprachfähigkeit",
+        "fw": 14,
+        "ap": 6,
+        "beschreibung": "Das Ziel des Zaubers ist in der Lage, mit seiner Umwelt zu sprechen und zu kommunizieren. Voraussetzung: Zaubererweiterung Bewusstsein.",
+        "voraussetzung": "Bewusstsein"
+      },
+      {
+        "name": "Längere Wirkungsdauer",
+        "fw": 16,
+        "ap": 9,
+        "beschreibung": "Die Wirkungsdauer beträgt QS x 3 Monate.",
+        "voraussetzung": null
+      }
+    ],
+    "reversalis": "Ein bestehendes ERHABENHEIT DES MARMORS-Ritual wird aufgehoben. (Merkmal: Antimagie)",
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 130
+      },
+      {
+        "buch": "Aventurisches Elementarium",
+        "seite": 154
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 371
+      }
+    ],
+    "_source_file": "Erhabenheit+des+Marmors.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Felsenform",
+    "probe": "KL/FF/KK",
+    "wirkung": "Innerhalb eines Radius von QS Schritt vermag der Zauberer, alle Materie des Elements Erz zu verformen, solange sie nicht Teil eines Wesens ist (etwa eines Erzdschinns). Auf diesem Wege können beispielsweise Steine zu einer Wand zusammengefügt oder die Pfeiler einer Brücke zum Einsturz gebracht werden. Der Prozess geht dabei nur langsam vonstatten. Soll der Fels in eine bestimmte Richtung geformt werden, dauert dies 1 KR pro Schritt Fortbewegung. Am Ende der Wirkungsdauer ist das Verformte wieder den normalen Gesetzen der Natur ausgeliefert.",
+    "ritualdauer": "5 Minuten",
+    "asp_kosten": "32 AsP",
+    "reichweite": "selbst",
+    "wirkungsdauer": "QS x 10 Minuten",
+    "zielkategorie": "Zone",
+    "merkmal": "Elementar",
+    "verbreitung": "Elfen, Kristallomanten",
+    "steigerungsfaktor": "D",
+    "ap_wert": null,
+    "zaubererweiterungen": [
+      {
+        "name": "Längere Wirkungsdauer 1",
+        "fw": 8,
+        "ap": 4,
+        "beschreibung": "Die Wirkungsdauer beträgt QS x 30 Minuten.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Reichweite Berührung",
+        "fw": 10,
+        "ap": 4,
+        "beschreibung": "Als Reichweite gilt Berührung. Das Ritual kann nur auf Kulturschaffende übertragen werden. Die Kosten steigen dabei um eine Kategorie.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Größerer Radius",
+        "fw": 12,
+        "ap": 8,
+        "beschreibung": "Der Radius beträgt QS x 2 Schritt.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Kurzritual",
+        "fw": 14,
+        "ap": 8,
+        "beschreibung": "Die Ritualdauer beträgt nur 8 Aktionen (auch, wenn dies keine übliche Zeitkategorie für Rituale ist).",
+        "voraussetzung": null
+      },
+      {
+        "name": "Längere Wirkungsdauer 2",
+        "fw": 16,
+        "ap": 12,
+        "beschreibung": "Die Wirkungsdauer beträgt QS Stunden. Voraussetzung: Zaubererweiterung Längere Wirkungsdauer 1.",
+        "voraussetzung": "Zaubererweiterung Längere Wirkungsdauer 1"
+      }
+    ],
+    "reversalis": "Wird das Ziel des reversalisierten Rituals während der Wirkungsdauer durch Erz (z. B. auch durch einen ARCHOFAXIUS oder -SPHAERO) angegriffen, verdoppeln sich die TP.",
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 130
+      },
+      {
+        "buch": "Aventurisches Elementarium",
+        "seite": 154
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 372
+      }
+    ],
+    "_source_file": "Felsenform.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Freiheit der Wolken",
+    "probe": "MU/IN/KO",
+    "wirkung": "Während der Wirkungsdauer hat das Ziel den Status Gasförmig. Der Zauberer verwandelt sich in Dampf oder Rauch. Während der Wirkungsdauer ist er zu keinen körperlichen oder geistigen Handlungen fähig und behält keine Erinnerung an die Zeit der Verwandlung zurück. Dafür sind sämtliche körperlichen Prozesse ausgesetzt, er benötigt also weder Nahrung noch Atemluft, unterliegt nicht der Wirkung von Giften und Krankheiten und ist keinerlei Alterung ausgesetzt. Der verwandelte Körper ist nicht zu zerstören, da er sich auf eine unzusammenhängende Masse verteilt. Liegt eine solche Trennung jedoch zum Zeitpunkt der Rückverwandlung vor, fehlt dem Zauberer ein entsprechend großer Teil seines Körpers.",
+    "ritualdauer": "30 Minuten",
+    "asp_kosten": "32 AsP",
+    "reichweite": "selbst",
+    "wirkungsdauer": "QS x 3 Wochen",
+    "zielkategorie": "Lebewesen",
+    "merkmal": "Elementar",
+    "verbreitung": "Elfen",
+    "steigerungsfaktor": "C",
+    "ap_wert": 32,
+    "zaubererweiterungen": [
+      {
+        "name": "Reichweite Berührung",
+        "fw": 8,
+        "ap": 3,
+        "beschreibung": "Als Reichweite gilt Berührung. Es entstehen zusätzliche Kosten in Höhe von 8 AsP. Gegen unfreiwillige Ziele gilt die SK als Erschwernis.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Elementare Erkenntnisse",
+        "fw": 10,
+        "ap": 3,
+        "beschreibung": "Elementare Zauber des Elements sind nach dem Ende der Wirkungsdauer um +1 erleichtert. Dieser Effekt hält für 1 Tag je kompletter Woche in Form des jeweiligen Elements an.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Bewusstsein",
+        "fw": 12,
+        "ap": 6,
+        "beschreibung": "Der Verwandelte behält sein Bewusstsein und kann sogar mit allen Sinnen wahrnehmen.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Sprachfähigkeit",
+        "fw": 14,
+        "ap": 6,
+        "beschreibung": "Das Ziel des Zaubers ist in der Lage, mit seiner Umwelt zu sprechen und zu kommunizieren. Voraussetzung: Zaubererweiterung Bewusstsein.",
+        "voraussetzung": "Bewusstsein"
+      },
+      {
+        "name": "Längere Wirkungsdauer",
+        "fw": 16,
+        "ap": 9,
+        "beschreibung": "Die Wirkungsdauer beträgt QS x 3 Monate.",
+        "voraussetzung": null
+      }
+    ],
+    "reversalis": "Ein bestehendes FREIHEIT DER WOLKEN-Ritual wird aufgehoben. (Merkmal: Antimagie)",
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 131
+      },
+      {
+        "buch": "Aventurisches Elementarium",
+        "seite": 154
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 373
+      }
+    ],
+    "_source_file": "Freiheit+der+Wolken.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Gefäß der Jahre",
+    "probe": "MU/KL/KO",
+    "wirkung": "Der Zauberer bannt seine Alterungserscheinungen in ein Abbild seiner selbst, sei es ein Gemälde oder eine Statue. Dadurch wirkt er selbst wie eine Person in ihren besten Jahren, während das Abbild Züge seines wahren Alters annimmt. Betroffen ist nicht nur die äußere Erscheinung, sondern auch das körperliche Befinden. Am Ende der Wirkungsdauer fallen sämtliche Alterungserscheinungen auf den Zauberer zurück. Wird das Bildnis zerstört, endet die Wirkungsdauer vorzeitig. Gleiches geschieht, wenn sich der Zauberer weiter als QS x 3 Meilen von dem Abbild entfernt.",
+    "ritualdauer": "8 Stunden",
+    "asp_kosten": "64 AsP",
+    "reichweite": "Berührung",
+    "wirkungsdauer": "1 Jahr",
+    "zielkategorie": "Objekte",
+    "merkmal": "Temporal",
+    "verbreitung": "Gildenmagier",
+    "steigerungsfaktor": "D",
+    "ap_wert": null,
+    "zaubererweiterungen": [
+      {
+        "name": "Längere Wirkungsdauer 1",
+        "fw": 8,
+        "ap": 4,
+        "beschreibung": "Die Wirkungsdauer beträgt 5 Jahre.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Verkürzte Ritualdauer",
+        "fw": 10,
+        "ap": 4,
+        "beschreibung": "Die Ritualdauer beträgt 4 Stunden.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Andere Personen",
+        "fw": 12,
+        "ap": 8,
+        "beschreibung": "Das Ritual lässt sich auch auf andere Personen anwenden.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Tödliches Abbild",
+        "fw": 14,
+        "ap": 8,
+        "beschreibung": "Einmal pro Tag kann der Zauberer mit 1 freien Aktion sein Abbild dazu zwingen, sich in Bewegung zu setzen (z. B. kommt die Gestalt aus dem Bild hervor, oder die Statue erwacht zum Leben). Es verfügt über die Werte eines ECLIPTIFACTUS-Schattens und kann nur einen Befehl empfangen: jemanden in der Nähe des Zauberers anzugreifen und zu töten. Stirbt das Abbild, endet das Ritual.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Längere Wirkungsdauer 2",
+        "fw": 16,
+        "ap": 12,
+        "beschreibung": "Die Wirkungsdauer beträgt 10 Jahre Voraussetzung: Zaubererweiterung Längere Wirkungsdauer 1.",
+        "voraussetzung": "Zaubererweiterung Längere Wirkungsdauer 1"
+      }
+    ],
+    "reversalis": "Ein bestehendes GEFÄSS DER JAHRE-Ritual wird aufgehoben. (Merkmal: Antimagie)",
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie III",
+        "seite": 141
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 374
+      }
+    ],
+    "_source_file": "Gefäß+der+Jahre.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Geisterbeschwörung",
+    "probe": "MU/CH/KO",
+    "wirkung": "Der Zauberer ruft einen mittleren Geist einer verstorbenen Person innerhalb eines Radius von 49 Schritt herbei. Details zur Kunst der Geisterbeschwörung finden sich in Aventurische Magie II.",
+    "ritualdauer": "2 Stunden",
+    "asp_kosten": "16 AsP",
+    "reichweite": "8 Schritt",
+    "wirkungsdauer": "sofort",
+    "zielkategorie": "Geister",
+    "merkmal": "Sphären",
+    "verbreitung": "Druiden, Geoden, Gildenmagier, Goblinzauberinnen, Hexen",
+    "steigerungsfaktor": "C",
+    "ap_wert": null,
+    "zaubererweiterungen": [
+      {
+        "name": "Mehr Bitten",
+        "fw": 8,
+        "ap": 3,
+        "beschreibung": "Der Zauberer kann QS/2 + 2 Bitten von dem Wesen verlangen.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Längerer Dienst",
+        "fw": 10,
+        "ap": 3,
+        "beschreibung": "Das Wesen verliert erst am Ende einer Woche (statt am ende eines tages) automatisch eine bitte.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Ausgedehnter Dienst",
+        "fw": 12,
+        "ap": 6,
+        "beschreibung": "Das Wesen verliert erst am ende eines monats (statt am ende eines tages) automatisch eine bitte.",
+        "voraussetzung": "Zaubererweiterung Längerer Dienst"
+      },
+      {
+        "name": "Einfaches Herbeirufen",
+        "fw": 14,
+        "ap": 6,
+        "beschreibung": "Die herbeirufungsschwierigkeit wird um 1 punkt leichter.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Freundliche Einstellung",
+        "fw": 16,
+        "ap": 9,
+        "beschreibung": "Bittproben sind gegenüber dem wesen um +1 erleichtert.",
+        "voraussetzung": null
+      }
+    ],
+    "reversalis": "Die reversalisierte GEISTERBESCHWÖRUNG wirkt gegen einen mittleren Geist wie ein HEPTAGRAMMA. Damit ist es möglich, einen mittleren Geist auszutreiben.",
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 132
+      },
+      {
+        "buch": "Aventurische Magie III Bonusmaterial und Errata",
+        "seite": 10
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 375
+      }
+    ],
+    "_source_file": "Geisterbeschwörung.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Geisterruf",
+    "probe": "MU/CH/KO",
+    "wirkung": "Der Zauberer ruft einen niederen Geist einer verstorbenen Person innerhalb eines Radius von 49 Schritt herbei.",
+    "ritualdauer": "5 Minuten",
+    "asp_kosten": "8 AsP",
+    "reichweite": "8 Schritt",
+    "wirkungsdauer": "sofort",
+    "zielkategorie": "Geister",
+    "merkmal": "Sphären",
+    "verbreitung": "Druiden, Geoden, Gildenmagier, Goblinzauberinnen, Hexen",
+    "steigerungsfaktor": "B",
+    "ap_wert": null,
+    "zaubererweiterungen": [
+      {
+        "name": "Mehr Bitten",
+        "fw": 8,
+        "ap": 2,
+        "beschreibung": "Der Zauberer kann QS/2 + 2 Bitten von dem Wesen verlangen.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Längerer Dienst",
+        "fw": 10,
+        "ap": 2,
+        "beschreibung": "Das Wesen verliert erst am Ende einer Woche (statt am ende eines tages) automatisch eine bitte.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Ausgedehnter Dienst",
+        "fw": 12,
+        "ap": 4,
+        "beschreibung": "Das Wesen verliert erst am ende eines monats (statt am ende eines tages) automatisch eine bitte.",
+        "voraussetzung": "Zaubererweiterung Längerer Dienst"
+      },
+      {
+        "name": "Einfaches Herbeirufen",
+        "fw": 14,
+        "ap": 4,
+        "beschreibung": "Die herbeirufungsschwierigkeit wird um 1 punkt leichter.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Freundliche Einstellung",
+        "fw": 16,
+        "ap": 6,
+        "beschreibung": "Bittproben sind gegenüber dem wesen um +1 erleichtert.",
+        "voraussetzung": null
+      }
+    ],
+    "reversalis": "Der reversalisierte GEISTERRUF wirkt gegen einen niederen Geist wie ein HEPTAGRAMMA. Damit ist es möglich, einen niederen Geist auszutreiben.",
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 131
+      },
+      {
+        "buch": "Aventurische Magie III Bonusmaterial und Errata",
+        "seite": 10
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 376
+      }
+    ],
+    "_source_file": "Geisterruf.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Gletscherform",
+    "probe": "KL/FF/KK",
+    "wirkung": "Innerhalb eines Radius von QS Schritt vermag der Zauberer alle Materie des Elements Eis zu verformen, solange sie nicht Teil eines Wesens ist (etwa eines Eisdschinns). Auf diesem Wege können beispielsweise Eisbrocken zu einer Wand zusammengefügt oder eine Behausung aus gepresstem Schnee errichtet werden. Der Prozess geht dabei nur langsam vonstatten. Soll das Eis in eine bestimmte Richtung geformt werden, dauert dies 1 KR pro Schritt Fortbewegung. Am Ende der Wirkungsdauer ist das Verformte wieder den normalen Gesetzen der Natur ausgeliefert.",
+    "ritualdauer": "5 Minuten",
+    "asp_kosten": "16 AsP",
+    "reichweite": "selbst",
+    "wirkungsdauer": "QS x 10 Minuten",
+    "zielkategorie": "Zone",
+    "merkmal": "Elementar",
+    "verbreitung": "Elfen, Nachtalben",
+    "steigerungsfaktor": "C",
+    "ap_wert": null,
+    "zaubererweiterungen": [
+      {
+        "name": "Längere Wirkungsdauer 1",
+        "fw": 8,
+        "ap": 3,
+        "beschreibung": "Die Wirkungsdauer beträgt QS x 30 Minuten.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Reichweite Berührung",
+        "fw": 10,
+        "ap": 3,
+        "beschreibung": "Als Reichweite gilt Berührung. Das Ritual kann nur auf Kulturschaffende übertragen werden. Die Kosten steigen dabei um eine Kategorie.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Größerer Radius",
+        "fw": 12,
+        "ap": 6,
+        "beschreibung": "Der Radius beträgt QS x 2 Schritt.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Kurzritual",
+        "fw": 14,
+        "ap": 6,
+        "beschreibung": "Die Ritualdauer beträgt nur 8 Aktionen (auch, wenn dies keine übliche Zeitkategorie für Rituale ist).",
+        "voraussetzung": null
+      },
+      {
+        "name": "Längere Wirkungsdauer 2",
+        "fw": 16,
+        "ap": 9,
+        "beschreibung": "Die Wirkungsdauer beträgt QS Stunden. Voraussetzung: Zaubererweiterung Längere Wirkungsdauer 1.",
+        "voraussetzung": "Zaubererweiterung Längere Wirkungsdauer 1"
+      }
+    ],
+    "reversalis": "Wird das Ziel des reversalisierten Rituals während der Wirkungsdauer durch Eis (z. B. auch durch einen FRIGIFAXIUS oder -SPHAERO) angegriffen, verdoppeln sich die TP.",
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 132
+      },
+      {
+        "buch": "Aventurisches Elementarium",
+        "seite": 154
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 377
+      },
+      {
+        "buch": "Klingen der Nacht",
+        "seite": 109
+      }
+    ],
+    "_source_file": "Gletscherform.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Hagelschlag und Sturmgebrüll",
+    "probe": "MU/CH/KO",
+    "wirkung": "Der Zauberer erschafft um sich herum eine Zone von QS x 200 Schritt Radius, innerhalb der er Bewölkung, Niederschlag und Windgeschwindigkeit um insgesamt QS Stufen senken oder anheben kann. Mit einer QS von 5 ist es beispielsweise möglich, die Windgeschwindigkeit um 2 Stufen zu verändern und den Niederschlag um 3. Bei Temperaturen unter dem Gefrierpunkt fällt der Niederschlag als Schnee oder Hagel zu Boden. Die Stufe des Niederschlags darf die Stufe der Bewölkung nicht überschreiten.",
+    "ritualdauer": "5 Minuten",
+    "asp_kosten": "32 AsP",
+    "reichweite": "selbst",
+    "wirkungsdauer": "QS Stunden",
+    "zielkategorie": "Zone",
+    "merkmal": "Elementar",
+    "verbreitung": "Druiden, Geoden, Goblinzauberinnen",
+    "steigerungsfaktor": "D",
+    "ap_wert": null,
+    "zaubererweiterungen": [
+      {
+        "name": "Längere Wirkungsdauer",
+        "fw": 8,
+        "ap": 4,
+        "beschreibung": "Die Wirkungsdauer beträgt QS x 2 Stunden.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Hagelkörner",
+        "fw": 10,
+        "ap": 4,
+        "beschreibung": "Ungeschützte Tiere und Personen erleiden 1W6 TP Schaden pro angefangenen 30 Minuten Wirkungsdauer.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Größerer Radius",
+        "fw": 12,
+        "ap": 8,
+        "beschreibung": "Der Wirkungsradius beträgt QS x 500 Schritt.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Harte Hagelkörner",
+        "fw": 14,
+        "ap": 8,
+        "beschreibung": "Ungeschützte Tiere und Personen erleiden 2W6 TP Schaden pro angefangenen 30 Minuten Wirkungsdauer. Voraussetzung: Zaubererweiterung Hagelkörner.",
+        "voraussetzung": "Hagelkörner"
+      },
+      {
+        "name": "Höhere Reichweite",
+        "fw": 16,
+        "ap": 12,
+        "beschreibung": "Die Reichweite beträgt 512 Schritt, ist aber nicht mehr modifizierbar.",
+        "voraussetzung": null
+      }
+    ],
+    "reversalis": "Ein bestehendes HAGELSCHLAG UND STURMGEBRÜLL-Ritual wird aufgehoben. (Merkmal: Antimagie)",
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie",
+        "seite": 149
+      },
+      {
+        "buch": "Aventurische Magie III Bonusmaterial und Errata",
+        "seite": 10
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 378
+      }
+    ],
+    "_source_file": "Hagelschlag+und+Sturmgebrüll.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Hartes schmelze",
+    "probe": "MU/IN/KO",
+    "wirkung": "Das Ritual raubt einem Objekt mit maximal der Größe einer Truhe seine Festigkeit und macht einen harten Gegenstand weich und formbar. Dies erlaubt sowohl künstlerische Gestaltungen, ermöglicht aber auch das Erschaffen von Löchern oder das Abtrennen einzelner Teile. Der Zauberer kann z. B. Türen wie Knetmasse zusammenrollen oder ein Schloss aus der Tür entfernen. Dabei ist zu beachten, dass die Meisterin entscheidet, welche Gegenstände miteinander verbunden sind. Ein Schloss gehört zu einer Tür, eine Tür aber nicht zu einer Wand. Das Ritual ist kein Ersatz für Handwerkstalente, man kann damit beispielsweise nicht Metall verformen, um eine scharfe Schwertklinge zu erhalten. Am Ende der Wirkungsdauer wird der Gegenstand augenblicklich wieder hart.",
+    "ritualdauer": "30 Minuten",
+    "asp_kosten": "2/4 AsP für einen Gegenstand von der Größe einer Tasse/Truhe (Kosten sind nicht modifizierbar)",
+    "reichweite": "4 Schritt",
+    "wirkungsdauer": "QS x 2 Minuten",
+    "zielkategorie": "Objekte (profane Objekte bis zur Größe einer Truhe)",
+    "merkmal": "Elementar",
+    "verbreitung": "Borbaradianer, Gildenmagier",
+    "steigerungsfaktor": "B",
+    "ap_wert": 2,
+    "zaubererweiterungen": [
+      {
+        "name": "Größere Objekte 1",
+        "fw": 8,
+        "ap": 2,
+        "beschreibung": "Objekte bis zur Größe einer Tür können verformt werden. Die Kosten erhöhen sich auf 8 AsP.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Sehr schnelles Schmelzen",
+        "fw": 10,
+        "ap": 2,
+        "beschreibung": "Die Ritualdauer beträgt nur 8 Aktionen (auch, wenn dies keine übliche Zeitkategorie für Rituale ist).",
+        "voraussetzung": null
+      },
+      {
+        "name": "Längere Wirkungsdauer",
+        "fw": 12,
+        "ap": 4,
+        "beschreibung": "Die Wirkungsdauer beträgt QS x 5 Minuten.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Verflüssigung",
+        "fw": 14,
+        "ap": 4,
+        "beschreibung": "Der Gegenstand wird so weich, dass er einen flüssigen Zustand annimmt und wie Wasser zerfließt.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Größere Objekte 2",
+        "fw": 16,
+        "ap": 6,
+        "beschreibung": "Objekte bis zur Größe eines Burgtors können verformt werden. Die Kosten erhöhen sich auf 16 AsP.",
+        "voraussetzung": "Zaubererweiterung Größere Objekte 1"
+      }
+    ],
+    "reversalis": "Das Ritual wirkt in seiner reversalisierten Version wie ein WEICHES ERSTARRE. (Merkmal: Objekt)",
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie",
+        "seite": 150
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 380
+      }
+    ],
+    "_source_file": "Hartes+schmelze.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Immortalis Lebenszeit",
+    "probe": "MU/CH/KO",
+    "wirkung": "Während der Wirkungsdauer wird die Alterung des Zauberers ausgesetzt.",
+    "ritualdauer": "32 Stunden",
+    "asp_kosten": "64 AsP, davon 16 AsP permanent (Kosten sind nicht modifizierbar)",
+    "reichweite": "selbst",
+    "wirkungsdauer": "QS Jahre",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Temporal",
+    "verbreitung": "Gildenmagier, Hexen",
+    "steigerungsfaktor": "D",
+    "ap_wert": null,
+    "zaubererweiterungen": [
+      {
+        "name": "Längere Wirkungsdauer 1",
+        "fw": 8,
+        "ap": 4,
+        "beschreibung": "Die Wirkungsdauer beträgt QS x 2 Jahre.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Verkürzte Ritualdauer",
+        "fw": 10,
+        "ap": 4,
+        "beschreibung": "Die Ritualdauer beträgt 16 Stunden.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Längere Wirkungsdauer 2",
+        "fw": 12,
+        "ap": 8,
+        "beschreibung": "Die Wirkungsdauer beträgt QS x 5 Jahre.",
+        "voraussetzung": "Zaubererweiterung Längere Wirkungsdauer 1"
+      },
+      {
+        "name": "Verjüngung",
+        "fw": 14,
+        "ap": 8,
+        "beschreibung": "Der Zauberer kann nicht nur die Alterung anhalten, sondern sich auch um QS x 2 Jahre verjüngen.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Längere Wirkungsdauer 3",
+        "fw": 16,
+        "ap": 12,
+        "beschreibung": "Die Wirkungsdauer beträgt QS x 10 Jahre.",
+        "voraussetzung": "Zaubererweiterung Längere Wirkungsdauer 2"
+      }
+    ],
+    "reversalis": "Ein bestehendes IMMORTALIS-Ritual wird aufgehoben. (Merkmal: Antimagie)",
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie III",
+        "seite": 141
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 382
+      }
+    ],
+    "_source_file": "Immortalis+Lebenszeit.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Infinitum Immerdar",
+    "probe": "KL/CH/KO",
+    "wirkung": "Mithilfe des INFINITUM IMMERDAR kann ein Zauberer sich darauf vorbereiten, ein dauerhaft wirkendes Artefakt herzustellen. Er muss dabei vorher den INFINITUM IMMERDAR auf sich wirken und das Artefakt nach den üblichen Regeln für Zauberspeicher herstellen (siehe Regelwerk). Die Probe des ARCANOVI ist zusätzlich um 10 – QS des Infinitums erschwert. Es kann so nur ein Zauber permanent in dem Artefakt verankert werden.",
+    "ritualdauer": "16 Stunden",
+    "asp_kosten": "64 AsP, davon 8 permanent + Kosten des Zaubers, der in dem Objekt wirken soll",
+    "reichweite": "selbst",
+    "wirkungsdauer": "bis zur Erschaffung des nächsten Artefakts, maximal 24 Stunden",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Temporal",
+    "verbreitung": "Druiden, Elfen, Geoden, Gildenmagier, Hexen, Kristallomanten",
+    "steigerungsfaktor": "D",
+    "ap_wert": null,
+    "zaubererweiterungen": [
+      {
+        "name": "Kürzere Ritualdauer",
+        "fw": 8,
+        "ap": 4,
+        "beschreibung": "Die Ritualdauer beträgt 8 Stunden.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Noch kürzere Ritualdauer",
+        "fw": 10,
+        "ap": 4,
+        "beschreibung": "Die Ritualdauer beträgt 4 Stunden. Voraussetzung: Zaubererweiterung Kürzere Ritualdauer.",
+        "voraussetzung": "Kürzere Ritualdauer"
+      },
+      {
+        "name": "Zwei Zauber",
+        "fw": 12,
+        "ap": 8,
+        "beschreibung": "Es können 2 Zauber permanent auf ein Artefakt gewirkt werden.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Artefaktmeisterschaft",
+        "fw": 14,
+        "ap": 8,
+        "beschreibung": "Die Probe des ARCANOVI ist zusätzlich nur um 6 – QS des INFINITUM IMMERDAR erschwert.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Drei Zauber",
+        "fw": 16,
+        "ap": 12,
+        "beschreibung": "Es können 3 Zauber permanent auf ein Artefakt gewirkt werden. Voraussetzung Zaubererweiterung: Zwei Zauber.",
+        "voraussetzung": "Zwei Zauber"
+      }
+    ],
+    "reversalis": "Ein bestehendes INFINITUM IMMERDAR-Ritual wird aufgehoben. (Merkmal: Antimagie)",
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie III",
+        "seite": 142
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 383
+      }
+    ],
+    "_source_file": "Infinitum+Immerdar.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Invocatio Maior",
+    "probe": "MU/CH/KO",
+    "wirkung": "Ein zuvor ausgewählter gehörnter Dämon mit maximal 5 Hörnern erscheint. Die Ritualprobe ist um die Beschwörungsschwierigkeit des Dämons erschwert.",
+    "ritualdauer": "8 Stunden",
+    "asp_kosten": "32 AsP",
+    "reichweite": "8 Schritt",
+    "wirkungsdauer": "sofort",
+    "zielkategorie": "Dämonen",
+    "merkmal": "Sphären",
+    "verbreitung": "Borbaradianer, Gildenmagier, Hexen",
+    "steigerungsfaktor": "C",
+    "ap_wert": "INVOCATIO MINOR auf FW 12",
+    "zaubererweiterungen": [
+      {
+        "name": "Mehr Dienste",
+        "fw": 8,
+        "ap": 3,
+        "beschreibung": "Der Zauberer kann QS +2 Dienste von dem Wesen verlangen.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Verkürzte Ritualdauer",
+        "fw": 10,
+        "ap": 3,
+        "beschreibung": "Die Ritualdauer beträgt nur 4 Stunden.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Längerer Dienst",
+        "fw": 12,
+        "ap": 6,
+        "beschreibung": "Das Wesen verliert erst am Ende einer Woche (statt am Ende eines Tages) automatisch einen Dienst.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Ausgedehnter Dienst",
+        "fw": 14,
+        "ap": 6,
+        "beschreibung": "Das Wesen verliert erst am Ende eines Monats (statt am Ende eines Tages) automatisch einen Dienst.",
+        "voraussetzung": "Zaubererweiterung Längerer Dienst"
+      },
+      {
+        "name": "Mächtiges Wesen",
+        "fw": 16,
+        "ap": 9,
+        "beschreibung": "Dem Wesen können zweimal die gleichen Verbesserungen beim Beschwören gegeben werden.",
+        "voraussetzung": null
+      }
+    ],
+    "reversalis": "Der reversalisierte INVOCATIO MAIOR wirkt gegen Dämonen mit bis zu 5 Hörnern wie ein PENTAGRAMMA. Damit ist es möglich, einen Dämon mit bis zu 5 Hörnern auszutreiben.",
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 300
+      },
+      {
+        "buch": "Aventurische Magie",
+        "seite": 163
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 385
+      }
+    ],
+    "_source_file": "Invocatio+Maior.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Invocatio Maxima",
+    "probe": "MU/CH/KO",
+    "wirkung": "Ein zuvor ausgewählter gehörnter Dämon mit über fünf Hörnern erscheint. Die Ritualprobe ist um die Beschwörungsschwierigkeit des Dämons erschwert.",
+    "ritualdauer": "16 Stunden",
+    "asp_kosten": "64 AsP",
+    "reichweite": "8 Schritt",
+    "wirkungsdauer": "sofort",
+    "zielkategorie": "Dämonen",
+    "merkmal": "Sphären",
+    "verbreitung": "Borbaradianer, Gildenmagier, Hexen",
+    "steigerungsfaktor": "D",
+    "ap_wert": null,
+    "zaubererweiterungen": [
+      {
+        "name": "Mehr Dienste",
+        "fw": 8,
+        "ap": 4,
+        "beschreibung": "Der Zauberer kann QS +2 Dienste von dem Wesen verlangen.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Verkürzte Ritualdauer",
+        "fw": 10,
+        "ap": 4,
+        "beschreibung": "Die Ritualdauer beträgt nur 8 Stunden.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Längerer Dienst",
+        "fw": 12,
+        "ap": 8,
+        "beschreibung": "Das Wesen verliert erst am Ende einer Woche (statt am ende eines tages) automatisch einen dienst.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Ausgedehnter Dienst",
+        "fw": 14,
+        "ap": 8,
+        "beschreibung": "Das Wesen verliert erst am ende eines monats (statt am ende eines tages) automatisch einen dienst.",
+        "voraussetzung": "Zaubererweiterung Längerer Dienst"
+      },
+      {
+        "name": "Mächtiges Wesen",
+        "fw": 16,
+        "ap": 12,
+        "beschreibung": "Dem wesen können zweimal die gleichen verbesserungen beim beschwören gegeben werden.",
+        "voraussetzung": null
+      }
+    ],
+    "reversalis": "Der reversalisierte INVOCATIO MAXIMA wirkt gegen Dämonen mit 6 und mehr Hörnern wie ein PENTAGRAMMA. Damit ist es möglich, einen Dämonen mit 6 und mehr Hörnern auszutreiben.",
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie III",
+        "seite": 142
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 386
+      }
+    ],
+    "_source_file": "Invocatio+Maxima.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Invocatio Minor",
+    "probe": "MU/CH/KO",
+    "wirkung": "Ein zuvor ausgewählter niederer Dämon erscheint. Die Ritualprobe ist um die Anrufungsschwierigkeit des Dämons erschwert.",
+    "ritualdauer": "30 Minuten",
+    "asp_kosten": "16 AsP",
+    "reichweite": "8 Schritt",
+    "wirkungsdauer": "sofort",
+    "zielkategorie": "Dämonen",
+    "merkmal": "Sphären",
+    "verbreitung": "Borbaradianer, Gildenmagier, Hexen",
+    "steigerungsfaktor": "B",
+    "ap_wert": 10,
+    "zaubererweiterungen": [
+      {
+        "name": "Mehr Dienste",
+        "fw": 8,
+        "ap": 2,
+        "beschreibung": "Der Zauberer kann QS +2 Dienste von dem Wesen verlangen.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Verkürzte Ritualdauer",
+        "fw": 10,
+        "ap": 2,
+        "beschreibung": "Die Ritualdauer beträgt nur 5 Minuten.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Längerer Dienst",
+        "fw": 12,
+        "ap": 4,
+        "beschreibung": "Das Wesen verliert erst am Ende einer Woche (statt am Ende eines Tages) automatisch einen Dienst.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Ausgedehnter Dienst",
+        "fw": 14,
+        "ap": 4,
+        "beschreibung": "Das Wesen verliert erst am Ende eines Monats (statt am Ende eines Tages) automatisch einen Dienst.",
+        "voraussetzung": "Zaubererweiterung Längerer Dienst"
+      },
+      {
+        "name": "Mächtiges Wesen",
+        "fw": 16,
+        "ap": 6,
+        "beschreibung": "Dem Wesen können zweimal die gleichen Verbesserungen beim Beschwören gegeben werden.",
+        "voraussetzung": null
+      }
+    ],
+    "reversalis": "Der reversalisierte INVOCATIO MINOR wirkt gegen niedere Dämonen wie ein PENTAGRAMMA. Damit ist es möglich, einen niederen Dämonen auszutreiben.",
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 300
+      },
+      {
+        "buch": "Aventurische Magie",
+        "seite": 163
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 388
+      }
+    ],
+    "_source_file": "Invocatio+Minor.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Klarheit des Eises",
+    "probe": "MU/IN/KO",
+    "wirkung": "Während der Wirkungsdauer hat das Ziel den Status Vereist. Der Zauberer verwandelt sich in eine Statue aus purem Eis und ist zu keinen körperlichen oder geistigen Handlungen fähig, behält keine Erinnerung an die Zeit der Verwandlung zurück. Sämtliche körperlichen Prozesse sind ausgesetzt.",
+    "ritualdauer": "30 Minuten",
+    "asp_kosten": "32 AsP",
+    "reichweite": "selbst",
+    "wirkungsdauer": "QS x 3 Wochen",
+    "zielkategorie": "Lebewesen",
+    "merkmal": "Elementar",
+    "verbreitung": "Elfen",
+    "steigerungsfaktor": "C",
+    "ap_wert": null,
+    "zaubererweiterungen": [
+      {
+        "name": "Reichweite Berührung",
+        "fw": 8,
+        "ap": 3,
+        "beschreibung": "Als Reichweite gilt Berührung. Es entstehen zusätzliche Kosten in Höhe von 8 AsP. Gegen unfreiwillige Ziele gilt die SK als Erschwernis.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Elementare Erkenntnisse",
+        "fw": 10,
+        "ap": 3,
+        "beschreibung": "Elementare Zauber des Elements sind nach dem Ende der Wirkungsdauer um +1 erleichtert. Dieser Effekt hält für 1 Tag je kompletter Woche in Form des jeweiligen Elements an.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Bewusstsein",
+        "fw": 12,
+        "ap": 6,
+        "beschreibung": "Der Verwandelte behält sein Bewusstsein und kann sogar mit allen Sinnen wahrnehmen.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Sprachfähigkeit",
+        "fw": 14,
+        "ap": 6,
+        "beschreibung": "Das Ziel des Zaubers ist in der Lage, mit seiner Umwelt zu sprechen und zu kommunizieren. Voraussetzung: Zaubererweiterung Bewusstsein.",
+        "voraussetzung": "Bewusstsein"
+      },
+      {
+        "name": "Längere Wirkungsdauer",
+        "fw": 16,
+        "ap": 9,
+        "beschreibung": "Die Wirkungsdauer beträgt QS x 3 Monate.",
+        "voraussetzung": null
+      }
+    ],
+    "reversalis": "Ein bestehendes KLARHEIT DES EISES-Ritual wird aufgehoben. (Merkmal: Antimagie)",
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 132
+      },
+      {
+        "buch": "Aventurisches Elementarium",
+        "seite": 154
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 389
+      }
+    ],
+    "_source_file": "Klarheit+des+Eises.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Körperlose Reise",
+    "probe": "MU/KL/IN",
+    "wirkung": "Der Zauberer trennt seinen Geist von seinem Körper und kann sich auf diesem Wege mit einer GS von QS x 3 fortbewegen, feste Objekte halten den Geisterkörper jedoch auf. Er behält dabei Sicht, Gehör und Geruch, vermag jedoch nicht, mit seiner Umgebung zu interagieren, was auch das Wirken von Magie ausschließt. Ein Eindringen in Bereiche, in denen Magie im Allgemeinen sowie Zauber des Merkmals Sphären im Speziellen unterbunden oder zumindest erschwert werden, ist nur möglich, wenn die erreichte QS die QS der zu überwindenden Wirkung übersteigen. Während der Wirkungsdauer bemerkt der Zauberer nicht, was mit seinem bewusstlosen Körper geschieht, selbst wenn dieser Schaden erleidet. Stirbt der Köper, wird der Geist zu einer Gefesselten Seele. Gleiches geschieht, wenn der Geist nicht vor Ende der Wirkungsdauer in den Körper zurückkehrt, der daraufhin als leere Hülle verendet.",
+    "ritualdauer": "30 Minuten",
+    "asp_kosten": "8 AsP (Aktivierung des Zaubers) + 4 AsP pro 10 Minuten",
+    "reichweite": "selbst",
+    "wirkungsdauer": "aufrechterhaltend",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Sphären",
+    "verbreitung": "Druiden, Gildenmagier",
+    "steigerungsfaktor": "C",
+    "ap_wert": null,
+    "zaubererweiterungen": [
+      {
+        "name": "Körpergefühl",
+        "fw": 8,
+        "ap": 3,
+        "beschreibung": "Der Zauberer nimmt wahr, was mit seinem Körper geschieht, z.B., ob dieser Schaden erleidet.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Größeres Intervall",
+        "fw": 10,
+        "ap": 3,
+        "beschreibung": "Die AsP-Kosten entstehen alle 30 Minuten.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Durch Objekte",
+        "fw": 12,
+        "ap": 6,
+        "beschreibung": "Der Geisterkörper kann sich auch durch feste Objekte bewegen.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Zaubermacht",
+        "fw": 14,
+        "ap": 6,
+        "beschreibung": "Der Zauberer kann während der Reise Zaubersprüche (keine Rituale) anwenden, allerdings sind die Zauber um 4 – QS/2 erschwert. Es können keine Zauber der Merkmale Dämonisch, Sphären und Temporal eingesetzt werden. Ob es weitere Ausnahmen gibt, ist Meisterentscheid.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Manifestation",
+        "fw": 16,
+        "ap": 9,
+        "beschreibung": "Der Zauberer kann seinen Geistkörper manifestieren, sodass in der Wirklichkeit eine geisterhafte Erscheinung von ihm zu sehen ist. In dieser Gestalt kann er zwar keine physischen Objekte berühren, sehr wohl aber sprechen.",
+        "voraussetzung": null
+      }
+    ],
+    "reversalis": "Ein bestehendes KÖRPERLOSE REISE-Ritual wird aufgehoben. Dies führt dazu, dass der Geist, der nicht mehr mit dem Körper verbunden ist, sofort in diesen zurückgeschleudert wird und 2W6 SP erleidet.",
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 132
+      },
+      {
+        "buch": "Aventurische Magie III Bonusmaterial und Errata",
+        "seite": 10
+      },
+      {
+        "buch": "Das Dornenreich",
+        "seite": 158
+      },
+      {
+        "buch": "Die Sonnenküste - Der wilde Süden & die Zyklopeninseln",
+        "seite": 154
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 390
+      }
+    ],
+    "_source_file": "Körperlose+Reise.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Lawinenfall und Trümmerfeld",
+    "probe": "MU/CH/KO",
+    "wirkung": "Der Zauberer erschafft um sich herum eine Zone von QS x 50 Schritt Radius, innerhalb derer die Erde erbebt. Alle darin befindlichen Wesen müssen jede KR 1 Aktion aufwenden und eine um die QS erschwerte Probe auf Körperbeherrschung (Balance) bestehen, um nicht zu Boden zu fallen und den Status Liegend zu erhalten. Feste Konstruktionen verlieren pro KR 20 Strukturpunkte. Befindet sich im Wirkungsbereich ein mit Geröll, Schnee oder Schlamm bedeckter Abhang, wird eine Lawine ausgelöst.",
+    "ritualdauer": "5 Minuten",
+    "asp_kosten": "32 AsP",
+    "reichweite": "selbst",
+    "wirkungsdauer": "QS x 2 KR",
+    "zielkategorie": "Zone",
+    "merkmal": "Elementar",
+    "verbreitung": "Geoden",
+    "steigerungsfaktor": "D",
+    "ap_wert": null,
+    "zaubererweiterungen": [
+      {
+        "name": "Längere Wirkungsdauer",
+        "fw": 8,
+        "ap": 4,
+        "beschreibung": "Die Wirkungsdauer beträgt QS x 3 KR.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Ausnahme",
+        "fw": 10,
+        "ap": 4,
+        "beschreibung": "Das Ritual kann bis zu QS Ziele ausnehmen. Jede Ausnahme verursacht zusätzliche Kosten in Höhe von 2 AsP.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Größerer Radius",
+        "fw": 12,
+        "ap": 8,
+        "beschreibung": "Der Radius beträgt QS x 100 Schritt.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Strukturelle Zerstörung",
+        "fw": 14,
+        "ap": 8,
+        "beschreibung": "Der Schaden für Objekte steigt auf 50 Strukturpunkte pro KR.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Starke Erschütterung",
+        "fw": 16,
+        "ap": 12,
+        "beschreibung": "Die Probe auf Körperbeherrschung (Balance) ist zusätzlich um -2 erschwert und beim Hinfallen erleidet das Opfer 1W3 SP.",
+        "voraussetzung": null
+      }
+    ],
+    "reversalis": "Ein bestehendes LAWINENFALL UND TRÜMMERFELD-Ritual wird aufgehoben. (Merkmal: Antimagie)",
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie III",
+        "seite": 143
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 391
+      }
+    ],
+    "_source_file": "Lawinenfall+und+Trümmerfeld.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Leidensbund",
+    "probe": "MU/IN/KO",
+    "wirkung": "Der Zauberer kann den erlittenen LeP-Verlust von einer anderen Person auf sich selbst übertragen. Dadurch werden die Wunden des Ziels geheilt und entstehen dafür beim Zaubernden. Maximal können auf diesem Wege QS x 3 verlorene LeP übertragen werden, wobei sich der Zauberer auch für weniger entscheiden kann. Auch ist keine Übertragung möglich, die beim Zauberer zu einem LeP-Stand führen würde, der bei 0 oder darunter liegt.",
+    "ritualdauer": "5 Minuten",
+    "asp_kosten": "4 AsP",
+    "reichweite": "Berührung",
+    "wirkungsdauer": "sofort",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Heilung",
+    "verbreitung": "Gildenmagier, Goblinzauberinnen, Kristallomanten",
+    "steigerungsfaktor": "A",
+    "ap_wert": null,
+    "zaubererweiterungen": [
+      {
+        "name": "Krankheitsübertragung",
+        "fw": 8,
+        "ap": 1,
+        "beschreibung": "Anstelle der verlorenen LeP kann eine Krankheit auf den Zauberer übertragen werden. Die Krankheitsstufe darf maximal QS Punkte betragen.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Krankheit trotzen",
+        "fw": 10,
+        "ap": 1,
+        "beschreibung": "Trotz Status\nKrank\ncan a regeneration occur in the next regeneration phase. Additional costs arise in the amount of the disease level in AsP.",
+        "voraussetzung": "Zaubererweiterung Krankheitsübertragung"
+      },
+      {
+        "name": "Giftübertragung",
+        "fw": 12,
+        "ap": 2,
+        "beschreibung": "Anstelle der verlorenen LeP kann ein Gift auf den Zauberer übertragen werden. Die Giftstufe darf maximal QS Punkte betragen.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Gift trotzen",
+        "fw": 14,
+        "ap": 2,
+        "beschreibung": "Trotz Status\nVergiftet\ncan a regeneration occur in the next regeneration phase. Additional costs arise in the amount of the poison level in AsP.",
+        "voraussetzung": "Zaubererweiterung Giftübertragung"
+      },
+      {
+        "name": "Freiwilliger",
+        "fw": 16,
+        "ap": 3,
+        "beschreibung": "Die verlorenen LeP können statt auf den Zauberer auf einen Freiwilligen übertragen werden.",
+        "voraussetzung": null
+      }
+    ],
+    "reversalis": "Der Zauberer kann SP, die ihm zugefügt wurden, auf das Ziel des Zaubers übertragen. (Merkmal: Heilung)",
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie",
+        "seite": 150
+      },
+      {
+        "buch": "Das Dornenreich",
+        "seite": 158
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 392
+      },
+      {
+        "buch": "Nachtschwarze See",
+        "seite": 5
+      }
+    ],
+    "_source_file": "Leidensbund.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Madas Spiegel",
+    "probe": "MU/KL/IN",
+    "wirkung": "Blickt die Hexe auf eine Wasserfläche, vermag sie darin eine mit ihr befreundete Person ihrer Wahl zu erkennen. Als befreundet zählen Familienmitglieder, andere Helden und weitere gute Freunde, nicht aber der nette Tavernenwirt, den man erst seit ein paar Tagen kennt. Die Hexe sieht dabei lediglich den Körper der Person in Frontalsicht und kann daher nur dessen derzeitige Bewegungen, die getragene Kleidung und den körperlichen Zustand bestimmen. Den Hintergrund der Person sieht sie nicht. Ist die Person verstorben, sieht sie stattdessen ihre Leiche oder ihr Grab. Ist die Person weiter als QS x 50 Meilen von der Hexe entfernt, scheitert das Ritual automatisch. Gleiches geschieht, wenn die Person vor Magie im Allgemeinen oder Zaubern des Merkmals Hellsicht im Speziellen geschützt ist und die erreichten QS die QS der Schutzwirkung nicht übersteigen.",
+    "ritualdauer": "5 Minuten",
+    "asp_kosten": "8 AsP",
+    "reichweite": "selbst",
+    "wirkungsdauer": "QS x 3 KR",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Hellsicht",
+    "verbreitung": "Hexen",
+    "steigerungsfaktor": "B",
+    "ap_wert": null,
+    "zaubererweiterungen": [
+      {
+        "name": "Größerer Radius",
+        "fw": 8,
+        "ap": 2,
+        "beschreibung": "Der Radius beträgt QS x 100 Meilen.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Fremde Freunde",
+        "fw": 10,
+        "ap": 2,
+        "beschreibung": "Die Hexe kann auch die Verbindung zu einem Freund von einer anderen Person herstellen. Dazu muss während des Rituals die Hexe die Person berühren. Es entstehen zusätzliche Kosten in Höhe von 4 AsP.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Längere Wirkungsdauer",
+        "fw": 12,
+        "ap": 4,
+        "beschreibung": "Die Wirkungsdauer beträgt QS Minuten.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Noch größerer Radius",
+        "fw": 14,
+        "ap": 4,
+        "beschreibung": "Der Radius beträgt QS x 200 Meilen. Voraussetzung: Zaubererweiterung Größerer Radius.",
+        "voraussetzung": "Zaubererweiterung Größerer Radius"
+      },
+      {
+        "name": "Umgebungsansicht",
+        "fw": 16,
+        "ap": 6,
+        "beschreibung": "Auch die Umgebung in einem Radius von 3 Schritt ist zu sehen.",
+        "voraussetzung": null
+      }
+    ],
+    "reversalis": "Das Ziel des Rituals kann die Hexe sehen, statt dass die Hexe das Ziel sehen kann. (Merkmal: Hellsicht)",
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 133
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 394
+      }
+    ],
+    "_source_file": "Madas+Spiegel.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Magischer Raub",
+    "probe": "MU/KL/KO (modifiziert durch SK)",
+    "wirkung": "Während der Wirkungsdauer kann der Zauberer auf die AsP des Ziels zugreifen. Das Opfer kann sich nach Ende der Ritualdauer beliebig weit vom Zauberer entfernt haben. Die Verbindung endet nur dann automatisch, wenn das Opfer sich nicht mehr in der gleichen Sphäre wie der Zauberer aufhält. Wirkt der Zauberer Magie, während die Verbindung besteht, werden die benötigten AsP auf seinen Wunsch hin aus dem Vorrat des Opfers verbraucht. Sind alle AsP des Opfers aufgebraucht, muss der Zauberer alle weiteren Kosten selbst aufbringen. Der Verbrauch von permanenten AsP kann jedoch nicht auf das Ziel übertragen werden. Maximal kann durch das Ritual ein einzelnes Ziel beraubt werden.",
+    "ritualdauer": "30 Minuten",
+    "asp_kosten": "4 AsP (Kosten sind nicht modifizierbar)",
+    "reichweite": "Berührung",
+    "wirkungsdauer": "QS x 30 Minuten",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Einfluss",
+    "verbreitung": "Druiden, Geoden, Gildenmagier, Kristallomanten",
+    "steigerungsfaktor": "B",
+    "ap_wert": null,
+    "zaubererweiterungen": [
+      {
+        "name": "Sofortraub",
+        "fw": 8,
+        "ap": 2,
+        "beschreibung": "Der Zauberer entzieht dem Opfer zum Ende der Ritualdauer sofort AsP und fügt sie seinem eigenen Vorrat hinzu. Er kann bis zu QS x 4 AsP rauben, dabei jedoch seinen eigenen Maximalwert nicht überschreiten.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Verwirrtes Raubopfer",
+        "fw": 10,
+        "ap": 2,
+        "beschreibung": "Das Opfer erleidet 2 Stufen Verwirrung.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Längere Wirkungsdauer",
+        "fw": 12,
+        "ap": 4,
+        "beschreibung": "Die Wirkungsdauer beträgt QS Stunden.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Zwischenspeicher",
+        "fw": 14,
+        "ap": 4,
+        "beschreibung": "Der Zauberer kann die AsP auch auf ein anderes magisches Lebewesen übertragen. Dieses Lebewesen muss er nach dem Sofortraub beim Opfer innerhalb der Wirkungszeit berühren. Er kann dann pro Aktion 1 AsP übertragen. Es ist nur möglich, die AsP des Sofortraubs zu übertragen. Die übertragenen AsP dürfen das Maximum der AsP des Lebewesens nicht übersteigen.",
+        "voraussetzung": "Zaubererweiterung Sofortraub"
+      },
+      {
+        "name": "Zwei Opfer",
+        "fw": 16,
+        "ap": 6,
+        "beschreibung": "Der Zauberer kann bis zu zwei Opfer gleichzeitig mit dem Ritual belegen.",
+        "voraussetzung": null
+      }
+    ],
+    "reversalis": "Der Zauberer kann seine AsP an einen anderen magischen Kulturschaffenden übertragen (maximal so viele AsP, wie dessen Höchstwert beträgt, der Rest der AsP verflüchtigt sich). (Merkmal: Heilung)",
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie",
+        "seite": 151
+      },
+      {
+        "buch": "Aventurische Magie III Bonusmaterial und Errata",
+        "seite": 10
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 395
+      }
+    ],
+    "_source_file": "Magischer+Raub.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Meister der Elemente",
+    "probe": "MU/CH/KO",
+    "wirkung": "Ein Elementarer Meister des gewünschten Elements erscheint. Details zur Herbeirufung und dem Umgang mit Elementaren finden sich im Regelwerk. Fokusregeln zum Thema finden sich in Aventurisches Elementarium.",
+    "ritualdauer": "16 Stunden",
+    "asp_kosten": "64 AsP",
+    "reichweite": "8 Schritt",
+    "wirkungsdauer": "sofort",
+    "zielkategorie": "Elementare",
+    "merkmal": "Sphären",
+    "verbreitung": "Druiden, Geoden, Gildenmagier",
+    "steigerungsfaktor": "D",
+    "ap_wert": null,
+    "zaubererweiterungen": [
+      {
+        "name": "Mehr Dienste",
+        "fw": 8,
+        "ap": 4,
+        "beschreibung": "Der Zauberer kann QS +2 Dienste von dem Wesen verlangen.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Verkürzte Ritualdauer",
+        "fw": 10,
+        "ap": 4,
+        "beschreibung": "Die Ritualdauer beträgt nur 8 Stunden.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Längerer Dienst",
+        "fw": 12,
+        "ap": 8,
+        "beschreibung": "Das Wesen verliert erst am Ende einer Woche (statt am ende eines tages) automatisch einen dienst.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Ausgedehnter Dienst",
+        "fw": 14,
+        "ap": 8,
+        "beschreibung": "Das Wesen verliert erst am ende eines monats (statt am ende eines tages) automatisch einen dienst.",
+        "voraussetzung": "Zaubererweiterung Längerer Dienst"
+      },
+      {
+        "name": "Mächtiges Wesen",
+        "fw": 16,
+        "ap": 12,
+        "beschreibung": "Dem wesen können zweimal die gleichen verbesserungen beim beschwören gegeben werden.",
+        "voraussetzung": null
+      }
+    ],
+    "reversalis": "Der reversalisierte MEISTER DER ELEMENTE wirkt gegen Elementare Meister wie ein HEXAGRAMMA. Damit ist es möglich, einen Elementaren Meister auszutreiben. (Merkmal: Antimagie)",
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie III",
+        "seite": 143
+      },
+      {
+        "buch": "Aventurische Magie III Bonusmaterial und Errata",
+        "seite": 10
+      },
+      {
+        "buch": "Aventurisches Elementarium",
+        "seite": 155
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 396
+      }
+    ],
+    "_source_file": "Meister+der+Elemente.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Memorabia Falsifir",
+    "probe": "KL/IN/CH (modifiziert durch SK)",
+    "wirkung": "Der Zauberer entfernt Erinnerungen aus dem Gedächtnis des Ziels. Dabei kann er jedoch keine bestimmte Erinnerung festlegen, sondern lediglich einen Zeitraum von maximal QS x 3 Tagen ab einem von ihm gewünschten Anfangszeitpunkt.",
+    "ritualdauer": "2 Stunden",
+    "asp_kosten": "8 AsP",
+    "reichweite": "Berührung",
+    "wirkungsdauer": "1 Jahr",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Einfluss",
+    "verbreitung": "Druiden, Gildenmagier",
+    "steigerungsfaktor": "C",
+    "ap_wert": null,
+    "zaubererweiterungen": [
+      {
+        "name": "Ohne Erinnerung",
+        "fw": 8,
+        "ap": 3,
+        "beschreibung": "Das Opfer kann sich an den Moment der Verzauberung nicht erinnern.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Längere Wirkungsdauer",
+        "fw": 10,
+        "ap": 3,
+        "beschreibung": "Die Wirkungsdauer beträgt QS + 1 Jahre.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Phasen",
+        "fw": 12,
+        "ap": 6,
+        "beschreibung": "Der gelöschte Zeitraum muss nicht zusammenhängend sein, sondern darf auf bis zu drei Phasen aufgeteilt werden.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Größere Lücke",
+        "fw": 14,
+        "ap": 6,
+        "beschreibung": "Der Zeitraum der Erinnerungslücke reicht maximal QS x 10 Tage zurück.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Andere Erinnerung",
+        "fw": 16,
+        "ap": 9,
+        "beschreibung": "Das Opfer erhält eine andere Erinnerung an den gelöschten Zeitraum, deren Qualität abhängig von den QS ist.",
+        "voraussetzung": null
+      }
+    ],
+    "reversalis": "Ein bestehendes MEMORABIA FALSIFIR-Ritual wird aufgehoben. (Merkmal: Antimagie)",
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie",
+        "seite": 151
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 398
+      }
+    ],
+    "_source_file": "Memorabia+Falsifir.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Movimento",
+    "probe": "MU/IN/KO",
+    "wirkung": "Während der Wirkungsdauer kann sich der Elf beliebig lange im Dauerlauf fortbewegen, ohne dass ihn dies erschöpft. Die Reisestrecke erhöht sich um QS x 10 % für eine Tagesleistung Fußmarsch (siehe Strategische Bewegung im Regelwerk).",
+    "ritualdauer": "5 Minuten",
+    "asp_kosten": "4 AsP",
+    "reichweite": "selbst",
+    "wirkungsdauer": "8 Stunden",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Heilung",
+    "verbreitung": "Elfen",
+    "steigerungsfaktor": "A",
+    "ap_wert": null,
+    "zaubererweiterungen": [
+      {
+        "name": "Mehr Ziele",
+        "fw": 8,
+        "ap": 1,
+        "beschreibung": "Durch eine Berührung können bis zu QS weitere Ziele von der Wirkung des Rituals profitieren. Jedes weitere Ziel kostet zusätzlich 2 AsP.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Langer Lauf",
+        "fw": 10,
+        "ap": 1,
+        "beschreibung": "Die Reisestrecke erhöht sich um QS x 20 % für eine Tagesleistung Fußmarsch.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Geänderte Zielkategorie 1",
+        "fw": 12,
+        "ap": 2,
+        "beschreibung": "Als Ziel des Rituals dürfen Lebewesen der Größenkategorie winzig, klein und mittel (z. B. ein Tierbegleiter) gewählt werden.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Längere Wirkungsdauer",
+        "fw": 14,
+        "ap": 2,
+        "beschreibung": "Die Wirkungsdauer beträgt 24 Stunden, die sich über 3 Tage mit je 8 Reisestunden verteilen. Der Elf kann also 3 Tagesleistungen lang von der erhöhten Tagesleistung profitieren.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Geänderte Zielkategorie 2",
+        "fw": 16,
+        "ap": 3,
+        "beschreibung": "Als Ziel des Rituals dürfen Lebewesen der Größenkategorie winzig, klein, mittel und groß (z. B. ein Pferd) gewählt werden.",
+        "voraussetzung": "Zaubererweiterung Geänderte Zielkategorie 1"
+      }
+    ],
+    "reversalis": "Ein bestehendes MOVIMENTO-Ritual wird aufgehoben. (Merkmal: Antimagie)\nAlternativ wird das Ziel träge und leistungsschwach. Es kann während der Wirkungsdauer QS x 10 % Reisestrecke weniger pro Tag aus eigener Kraft bewältigen. (Merkmal: Heilung)",
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie",
+        "seite": 151
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 399
+      }
+    ],
+    "_source_file": "Movimento.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Nekropathia",
+    "probe": "MU/KL/CH",
+    "wirkung": "Der Zauberer trennt seinen Geist von seinem Körper und kann sich mit ihm in eines der Totenreiche begeben. Dadurch ist es ihm möglich, mit den dort weilenden Seelen zu kommunizieren. Es dauert 5 Minuten, eine Seele ausfindig zu machen oder ihre Abwesenheit festzustellen, während die Kommunikation in normaler Sprachgeschwindigkeit erfolgt. Der Zauberer muss zu Beginn festlegen, in welches der Totenreiche er reisen möchte, denn ein späterer Wechsel ist nicht möglich. Befindet sich die gesuchte Seele nicht in dem ausgewählten Totenreich, muss das Ritual also erneut gewirkt werden, um die Reise fortzusetzen. Eine Reise an Orte außerhalb der Totenreiche, beispielsweise in die zwölfgöttlichen Paradiese oder die Niederhöllen, ist nicht möglich. Während der Wirkungsdauer bemerkt der Zauberer nicht, was mit seinem bewusstlosen Körper geschieht, selbst wenn dieser Schaden erleidet. Stirbt der Köper, kehrt der Geist zwar in die 3. Sphäre zurück, wird jedoch zu einer Gefesselten Seele. Gleiches geschieht, wenn der Geist nicht vor Ende der Wirkungsdauer in den Körper zurückkehrt, der daraufhin als leere Hülle verendet. Sollte der Geist eines Toten nicht in einem der Totenreiche sein, so kann er mittels dieses Rituals nicht kontaktiert werden. Durch die Trennung von Körper und Seele und das Reisen in eine andere Sphäre erleidet der Zauberer 4 – QS Stufen Verwirrung (mindestens jedoch 1 Stufe).",
+    "ritualdauer": "30 Minuten",
+    "asp_kosten": "16 AsP (Kosten sind nicht modifizierbar)",
+    "reichweite": "selbst",
+    "wirkungsdauer": "QS x 10 Minuten",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Sphären",
+    "verbreitung": "Geoden, Gildenmagier, Hexen",
+    "steigerungsfaktor": "C",
+    "ap_wert": 16,
+    "zaubererweiterungen": [
+      {
+        "name": "Körpergefühl",
+        "fw": 8,
+        "ap": 3,
+        "beschreibung": "Der Zauberer nimmt wahr, was mit seinem Körper geschieht, z. B., ob dieser Schaden erleidet.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Kosten modifizierbar",
+        "fw": 10,
+        "ap": 3,
+        "beschreibung": "Die Kosten sind doch modifizierbar.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Mitnahme",
+        "fw": 12,
+        "ap": 6,
+        "beschreibung": "Ein anderer Kulturschaffender kann zusammen mit dem Zauberer in das Totenreich reisen. Der Zauberer muss dabei den anderen Kulturschaffenden während der Wirkungsdauer berühren.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Geister Dere",
+        "fw": 14,
+        "ap": 6,
+        "beschreibung": "Der Zauberer kann auch mit einem Geist, der sich in der Geisterwelt bzw. sich immer noch auf Dere befindet, kommunizieren.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Wechsel des Totenreichs",
+        "fw": 16,
+        "ap": 9,
+        "beschreibung": "Ein Wechsel in ein anderes Totenreich ist möglich, er nimmt etwa 5 Minuten in Anspruch.",
+        "voraussetzung": null
+      }
+    ],
+    "reversalis": "Ein Geist aus einem Totenreich kann in den Körper des Zauberers gerufen werden und ergreift während der Wirkungsdauer von ihm Besitz. Der Zauberer muss das Totenreich nennen, aus dem der Geist stammen soll, und er muss den Geist auch namentlich kennen. Die Meisterin hat das letzte Wort darüber, ob der Geist der Einladung folgt.",
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 133
+      },
+      {
+        "buch": "Aventurische Magie III Bonusmaterial und Errata",
+        "seite": 10
+      },
+      {
+        "buch": "Das Dornenreich",
+        "seite": 159
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 400
+      }
+    ],
+    "_source_file": "Nekropathia.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Nihilogravo",
+    "probe": "KL/IN/KO",
+    "wirkung": "Das Ritual sorgt für eine zylinderförmige Zone, in der die Schwerkraft aufgehoben ist. Der Zauberer muss einen Mittelpunkt innerhalb der Reichweite des Rituals benennen. Von dort aus wirkt die Zone mit einem Radius von QS in Schritt. Die Höhe der schwerelosen Zone beträgt QS x 5 Schritt. Durch die ungewohnte Umgebung sind alle Proben für Personen innerhalb dieser Zone um –1 erschwert. Um sich gezielt in der Schwerelosigkeit bewegen zu können, ist eine Probe auf Schwimmen (Tauchen) notwendig. Pro QS schafft man 1 Schritt. Unfälle, Patzer oder Einwirkungen nach Meisterentscheid können dazu führen, dass eine Person aus der Zone gelangt und stürzt. Sollten sich am Ende der Wirkungsdauer noch Wesen in der Zone der Schwerelosigkeit befinden, stürzen diese herunter und erleiden Sturzschaden (siehe Regelwerk). Über die Sturzhöhe entscheidet die Meisterin.",
+    "ritualdauer": "5 Minuten",
+    "asp_kosten": "16 AsP",
+    "reichweite": "8 Schritt",
+    "wirkungsdauer": "QS x 5 Minuten",
+    "zielkategorie": "Zone",
+    "merkmal": "Telekinese",
+    "verbreitung": "Gildenmagier",
+    "steigerungsfaktor": "B",
+    "ap_wert": null,
+    "zaubererweiterungen": [
+      {
+        "name": "Längere Wirkungsdauer",
+        "fw": 8,
+        "ap": 2,
+        "beschreibung": "Die Wirkungsdauer beträgt QS x 30 Minuten.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Levitation",
+        "fw": 10,
+        "ap": 2,
+        "beschreibung": "Das Ritual wirkt nicht mehr auf eine Zone, sondern auf den Zauberer selbst. Die Bewegung erfolgt immer noch über das Talent Schwimmen. Zudem sinken die Kosten auf 8 AsP, die Zielkategorie ändert sich auf Wesen und die Reichweite auf selbst.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Größerer Radius",
+        "fw": 12,
+        "ap": 4,
+        "beschreibung": "Der Radius beträgt QS x 2 Schritt.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Kontrolliertere Levitation",
+        "fw": 14,
+        "ap": 4,
+        "beschreibung": "Das Ritual wirkt nicht mehr auf eine Zone, sondern auf den Zauberer selbst. Die Bewegung erfolgt mühelos mit halber GS des Zauberers, er muss dazu keine Probe ablegen. Zudem sinken die Kosten auf 8 AsP, die Zielkategorie ändert sich auf Wesen und die Reichweite auf selbst.",
+        "voraussetzung": "Zaubererweiterung Levitation"
+      },
+      {
+        "name": "Bewegliche Zone",
+        "fw": 16,
+        "ap": 6,
+        "beschreibung": "Die Zone bewegt sich immer mit dem Zauberer als Mittelpunkt.",
+        "voraussetzung": null
+      }
+    ],
+    "reversalis": "Im Wirkungsbereich verdoppeln Gegenstände und Lebewesen ihr Gewicht. (Merkmal: Verwandlung)",
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 134
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 403
+      }
+    ],
+    "_source_file": "Nihilogravo.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Pflanzenform",
+    "probe": "KL/FF/KK",
+    "wirkung": "Innerhalb eines Radius von QS Schritt vermag der Zauberer alle Materie des Elements Humus zu verformen, solange sie nicht Teil eines Wesens ist (etwa eines Humusdschinns). Auf diesem Wege kann beispielsweise ein Graben gezogen oder ein Baum über einen Abgrund gebogen werden. Der Prozess geht dabei nur langsam vonstatten. Soll die Erde in eine bestimmte Richtung geformt werden, dauert dies 1 KR pro Schritt Fortbewegung. Am Ende der Wirkungsdauer ist das Verformte wieder den normalen Gesetzen der Natur ausgeliefert.",
+    "ritualdauer": "5 Minuten",
+    "asp_kosten": "16 AsP",
+    "reichweite": "selbst",
+    "wirkungsdauer": "QS x 10 Minuten",
+    "zielkategorie": "Zone",
+    "merkmal": "Elementar",
+    "verbreitung": "Elfen, Kristallomanten",
+    "steigerungsfaktor": "C",
+    "ap_wert": null,
+    "zaubererweiterungen": [
+      {
+        "name": "Längere Wirkungsdauer 1",
+        "fw": 8,
+        "ap": 3,
+        "beschreibung": "Die Wirkungsdauer beträgt QS x 30 Minuten.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Reichweite Berührung",
+        "fw": 10,
+        "ap": 3,
+        "beschreibung": "Als Reichweite gilt Berührung. Das Ritual kann nur auf Kulturschaffende übertragen werden. Die Kosten steigen dabei um eine Kategorie.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Größerer Radius",
+        "fw": 12,
+        "ap": 6,
+        "beschreibung": "Der Radius beträgt QS x 2 Schritt.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Kurzritual",
+        "fw": 14,
+        "ap": 6,
+        "beschreibung": "Die Ritualdauer beträgt nur 8 Aktionen (auch, wenn dies keine übliche Zeitkategorie für Rituale ist).",
+        "voraussetzung": null
+      },
+      {
+        "name": "Längere Wirkungsdauer 2",
+        "fw": 16,
+        "ap": 9,
+        "beschreibung": "Die Wirkungsdauer beträgt QS Stunden. Voraussetzung: Zaubererweiterung Längere Wirkungsdauer 1.",
+        "voraussetzung": "Zaubererweiterung Längere Wirkungsdauer 1"
+      }
+    ],
+    "reversalis": "Wird das Ziel des reversalisierten Rituals während der Wirkungsdauer durch Humus (z. B. auch durch einen HUMOFAXIUS oder -SPHAERO) angegriffen, verdoppeln sich die TP.",
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 134
+      },
+      {
+        "buch": "Aventurisches Elementarium",
+        "seite": 154
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 404
+      }
+    ],
+    "_source_file": "Pflanzenform.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Planastrale",
+    "probe": "MU/IN/KO",
+    "wirkung": "Das Ritual öffnet ein bis zu 3 Schritt durchmessendes Tor in den angrenzenden Limbus, das von beiden Seiten aus durchquert werden kann. Befindet sich der Zauberer im Limbus, wird stattdessen ein Tor in die angrenzende 3. Sphäre geöffnet.",
+    "ritualdauer": "5 Minuten",
+    "asp_kosten": "16 AsP",
+    "reichweite": "8 Schritt",
+    "wirkungsdauer": "QS x 3 KR",
+    "zielkategorie": "Zone",
+    "merkmal": "Sphären",
+    "verbreitung": "Gildenmagier",
+    "steigerungsfaktor": "D",
+    "ap_wert": null,
+    "zaubererweiterungen": [
+      {
+        "name": "Längere Wirkungsdauer 1",
+        "fw": 8,
+        "ap": 4,
+        "beschreibung": "Die Wirkungsdauer beträgt QS x 5 Kampfrunden.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Ausgewählte Limbusreisende",
+        "fw": 10,
+        "ap": 4,
+        "beschreibung": "Der Zauberer kann Wesen bestimmen, die das Tor passieren können. Alle anderen können nicht hindurch.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Globulentore",
+        "fw": 12,
+        "ap": 8,
+        "beschreibung": "Statt in den Limbus, öffnet sich ein Tor in eine vom Zauberer benannte Globule. Nach Meisterentscheid kann es Globulen geben, zu denen sich kein Tor öffnen lässt.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Limbusrüstung",
+        "fw": 14,
+        "ap": 8,
+        "beschreibung": "Wer das Limbustor in Richtung Limbus durchschreitet, erhält im Limbus einen magischen RS von QS/2. Die Wirkung endet nach 1 Stunde, oder wenn man den Limbus verlässt (je nachdem, was früher eintritt).",
+        "voraussetzung": null
+      },
+      {
+        "name": "Längere Wirkungsdauer 2",
+        "fw": 16,
+        "ap": 12,
+        "beschreibung": "Die Wirkungsdauer beträgt QS x 10 KR. Voraussetzung: Zaubererweiterung Längere Wirkungsdauer 1.",
+        "voraussetzung": "Längere Wirkungsdauer 1"
+      }
+    ],
+    "reversalis": "Der Zauberer kann ein Tor in den Limbus, das durch einen PLANASTRALE, einen AUGE DES LIMBUS oder einen anderen Effekt entstanden ist, schließen. Nach Meisterentscheid ist die Probe modifiziert.",
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie III",
+        "seite": 144
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 405
+      }
+    ],
+    "_source_file": "Planastrale.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Reinheit der Lohe",
+    "probe": "MU/IN/KO",
+    "wirkung": "Während der Wirkungsdauer hat das Ziel den Status Feuerförmig. Der Zauberer verwandelt sich in reines Feuer und ist zu keinen körperlichen oder geistigen Handlungen fähig, behält keine Erinnerung an die Zeit der Verwandlung zurück. Sämtliche körperlichen Prozesse sind ausgesetzt.",
+    "ritualdauer": "30 Minuten",
+    "asp_kosten": "32 AsP",
+    "reichweite": "selbst",
+    "wirkungsdauer": "QS x 3 Wochen",
+    "zielkategorie": "Lebewesen",
+    "merkmal": "Elementar",
+    "verbreitung": "Elfen",
+    "steigerungsfaktor": "C",
+    "ap_wert": null,
+    "zaubererweiterungen": [
+      {
+        "name": "Reichweite Berührung",
+        "fw": 8,
+        "ap": 3,
+        "beschreibung": "Als Reichweite gilt Berührung. Es entstehen zusätzliche Kosten in Höhe von 8 AsP. Gegen unfreiwillige Ziele gilt die SK als Erschwernis.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Elementare Erkenntnisse",
+        "fw": 10,
+        "ap": 3,
+        "beschreibung": "Elementare Zauber des Elements sind nach dem Ende der Wirkungsdauer um +1 erleichtert. Dieser Effekt hält für 1 Tag je kompletter Woche in Form des jeweiligen Elements an.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Bewusstsein",
+        "fw": 12,
+        "ap": 6,
+        "beschreibung": "Der Verwandelte behält sein Bewusstsein und kann sogar mit allen Sinnen wahrnehmen.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Sprachfähigkeit",
+        "fw": 14,
+        "ap": 6,
+        "beschreibung": "Das Ziel des Rituals ist in der Lage, mit seiner Umwelt zu sprechen und zu kommunizieren. Voraussetzung: Zaubererweiterung Bewusstsein.",
+        "voraussetzung": "Bewusstsein"
+      },
+      {
+        "name": "Längere Wirkungsdauer",
+        "fw": 16,
+        "ap": 9,
+        "beschreibung": "Die Wirkungsdauer beträgt QS x 3 Monate.",
+        "voraussetzung": null
+      }
+    ],
+    "reversalis": "Ein bestehendes REINHEIT DER LOHE-Ritual wird aufgehoben. (Merkmal: Antimagie)",
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 135
+      },
+      {
+        "buch": "Aventurisches Elementarium",
+        "seite": 154
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 406
+      }
+    ],
+    "_source_file": "Reinheit+der+Lohe.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Riesengestalt",
+    "probe": "KL/FF/KO",
+    "wirkung": "Der Zauberer wird fast doppelt so groß wie bisher. Dies führt dazu, dass seine Größenkategorie um eine Stufe steigt. Seine KK erhöht sich um +4, sein FW in Kraftakt erhält einen Bonus von +4. Seine GS sinkt jedoch auf 5 und die Bewegungen des Zauberers wirken langsamer. FF und GE sinken um je 2 Punkte. Die Kleidung und die Ausrüstung des Zauberers verwandeln sich nicht mit.",
+    "ritualdauer": "30 Minuten",
+    "asp_kosten": "32 AsP (Kosten sind nicht modifizierbar)",
+    "reichweite": "selbst",
+    "wirkungsdauer": "QS x 5 Minuten",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Verwandlung",
+    "verbreitung": "Druiden, Gildenmagier",
+    "steigerungsfaktor": "D",
+    "ap_wert": null,
+    "zaubererweiterungen": [
+      {
+        "name": "Verkürzte Ritualdauer",
+        "fw": 8,
+        "ap": 4,
+        "beschreibung": "Die Ritualdauer beträgt 5 Minuten.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Noch stärker 1",
+        "fw": 10,
+        "ap": 4,
+        "beschreibung": "Die KK steigt um 1 zusätzlichen Punkt, der FW in Kraftakt steigt um weitere 2 Punkte.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Längere Wirkungsdauer",
+        "fw": 12,
+        "ap": 8,
+        "beschreibung": "Die Wirkungsdauer beträgt QS x 10 Minuten.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Noch stärker 2",
+        "fw": 14,
+        "ap": 8,
+        "beschreibung": "Die KK steigt um 1 zusätzlichen Punkt, der FW in Kraftakt steigt um weitere 2 Punkte (mit Noch stärker 1 insgesamt um +2 bzw. +4 Punkte). Voraussetzung: Zaubererweiterung Noch stärker 1.",
+        "voraussetzung": "Zaubererweiterung Noch stärker 1"
+      },
+      {
+        "name": "Riesig!",
+        "fw": 16,
+        "ap": 12,
+        "beschreibung": "Die Größenkategorie steigt um 2 Stufen, die KK steigt um 1 weiteren Punkt, der FW in Kraftakt um 2 weitere Punkte, die Senkungen von FF und GE verdoppeln sich. Voraussetzung: Zaubererweiterung Noch stärker 2.",
+        "voraussetzung": "Zaubererweiterung Noch stärker 2"
+      }
+    ],
+    "reversalis": "Ein bestehendes RIESENGESTALT-Ritual wird aufgehoben. (Merkmal: Antimagie)",
+    "publikationen": [
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 407
+      }
+    ],
+    "_source_file": "Riesengestalt.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Ruf der Feenwesen",
+    "probe": "MU/CH/KO",
+    "wirkung": "Ein zufällig ausgewähltes, mittleres Feenwesen aus einem Umkreis von 7 Meilen kommt zum Zauberer und ist in der Regel bereit, ihm zu Diensten zu sein.",
+    "ritualdauer": "2 Stunden",
+    "asp_kosten": "16 AsP",
+    "reichweite": "8 Schritt",
+    "wirkungsdauer": "sofort",
+    "zielkategorie": "Feenwesen",
+    "merkmal": "Sphären",
+    "verbreitung": "Elfen",
+    "steigerungsfaktor": "C",
+    "ap_wert": null,
+    "zaubererweiterungen": [
+      {
+        "name": "Mehr Bitten",
+        "fw": 8,
+        "ap": 3,
+        "beschreibung": "Der Zauberer kann QS/2 + 2 Bitten an das Wesen richten.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Längerer Dienst",
+        "fw": 10,
+        "ap": 3,
+        "beschreibung": "Das Wesen verliert erst am Ende einer Woche (statt am ende eines tages) automatisch eine bitte.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Ausgedehnter Dienst",
+        "fw": 12,
+        "ap": 6,
+        "beschreibung": "Das Wesen verliert erst am ende eines monats (statt am ende eines tages) automatisch eine bitte.",
+        "voraussetzung": "Zaubererweiterung Längerer Dienst"
+      },
+      {
+        "name": "Einfaches Herbeirufen",
+        "fw": 14,
+        "ap": 6,
+        "beschreibung": "Die herbeirufungsschwierigkeit wird um 1 punkt leichter.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Freundliche Einstellung",
+        "fw": 16,
+        "ap": 9,
+        "beschreibung": "Bittproben sind gegenüber dem wesen um +1 erleichtert.",
+        "voraussetzung": null
+      }
+    ],
+    "reversalis": "Der reversalisierte RUF DER FEENWESEN wirkt gegen mittlere Feen wie ein OKTAGRAMMA. Damit ist es möglich, eine mittlere Fee auszutreiben. (Merkmal: Antimagie)",
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 135
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 408
+      }
+    ],
+    "_source_file": "Ruf+der+Feenwesen.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Ruhe Körper",
+    "probe": "KL/CH/KO",
+    "wirkung": "Die während der nächsten Regenerationsphase zurückgewonnenen LeP erhöhen sich um die doppelte QS. Zudem verläuft der Schlaf ruhig und traumlos, solange äußere Einflüsse dem nicht entgegenwirken. Das Ritual kann nicht verhindern, dass Gifte und Krankheiten in der Regenerationsphase wirken.",
+    "ritualdauer": "5 Minuten",
+    "asp_kosten": "4 AsP (Kosten sind nicht modifizierbar)",
+    "reichweite": "Berührung",
+    "wirkungsdauer": "sofort",
+    "zielkategorie": "Lebewesen",
+    "merkmal": "Heilung",
+    "verbreitung": "Elfen, Gildenmagier, Goblinzauberinnen, Kristallomanten",
+    "steigerungsfaktor": "B",
+    "ap_wert": 4,
+    "zaubererweiterungen": [
+      {
+        "name": "Kosten modifizierbar",
+        "fw": 8,
+        "ap": 2,
+        "beschreibung": "Die Kosten sind doch modifizierbar.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Gift- und Krankheitstop",
+        "fw": 10,
+        "ap": 2,
+        "beschreibung": "Die Wirkung von Giften und Krankheiten wird bis zum Ende der nächsten Regenerationsphase ausgesetzt, danach wirken sie sofort weiter.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Kurze Regenerationsphase",
+        "fw": 12,
+        "ap": 4,
+        "beschreibung": "Unter der Wirkung des Rituals dauert eine Regenerationsphase nur 4 Stunden statt der üblichen 6.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Verstärkter Heilschlaf",
+        "fw": 14,
+        "ap": 4,
+        "beschreibung": "Die während der nächsten Regenerationsphase zurückgewonnenen LeP erhöhen sich um (QS + 2) x 2. Auch AsP und KaP können besser regeneriert werden (jeweils +QS/2).",
+        "voraussetzung": null
+      },
+      {
+        "name": "Längerfristige Wirkung",
+        "fw": 16,
+        "ap": 6,
+        "beschreibung": "Bei der übernächsten Regenerationsphase nach dem Ritual bekommt das Ziel QS LeP dazu. Die ursprüngliche Zauberwirkung kommt ebenfalls zum Tragen.",
+        "voraussetzung": null
+      }
+    ],
+    "reversalis": "Während der nächsten Regenerationsphase regeneriert das Ziel keine LeP und AsP und verliert stattdessen QS Punkte LeP und AsP. Zudem kann das Ziel während der Wirkungsdauer nicht schlafen.",
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie",
+        "seite": 152
+      },
+      {
+        "buch": "Das Dornenreich",
+        "seite": 159
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 409
+      }
+    ],
+    "_source_file": "Ruhe+Körper.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Seelenwanderung",
+    "probe": "MU/CH/KO (modifiziert durch SK oder ZK, je nachdem, welcher Wert höher ist)",
+    "wirkung": "Der Zauberer tauscht seine Seele mit der des Ziels. Dadurch übernimmt er dessen Körper, während das Ziel in den Körper des Zauberers einfährt. Beide Beteiligten behalten ihre eigenen geistigen Eigenschaften und Fertigkeiten. Nur die körperlichen Eigenschaften und daraus abgeleitete Werte entsprechen jenen des neuen Körpers. Stirbt einer der Körper, werden die beiden Seelen sofort zurückgetauscht. Eine dauerhafte Berührung ist während der Ritualdauer nicht notwendig, allerdings darf der Zauberer einen Radius von 8 Schritt um das Ziel nicht verlassen, solange das Ritual gewirkt wird. Außerdem muss am Ende der Ritualdauer eine Berührung stattfinden.",
+    "ritualdauer": "8 Stunden",
+    "asp_kosten": "64 AsP",
+    "reichweite": "Berührung",
+    "wirkungsdauer": "QS Tage",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Dämonisch",
+    "verbreitung": "Druiden, Gildenmagier, Hexen, Kristallomanten",
+    "steigerungsfaktor": "D",
+    "ap_wert": null,
+    "zaubererweiterungen": [
+      {
+        "name": "Längere Wirkungsdauer",
+        "fw": 8,
+        "ap": 4,
+        "beschreibung": "Die Wirkungsdauer beträgt QS Wochen.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Erstarrter Körper",
+        "fw": 10,
+        "ap": 4,
+        "beschreibung": "Das Ziel des Zaubers erleidet während der Wirkungsdauer den Status Bewegungsunfähig.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Fremder Tausch",
+        "fw": 12,
+        "ap": 8,
+        "beschreibung": "Nicht der Zauberer tauscht seine Seele, sondern zwei von ihm benannte Ziele in Reichweite. Es gilt hier die höchste SK oder ZK einer der beiden.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Vierfachtausch",
+        "fw": 14,
+        "ap": 8,
+        "beschreibung": "Der Zauberer kann die Seelen von bis zu 4 Personen miteinander vertauschen. Als Modifikator für das Ritual gilt die höchste SK oder ZK erhöht um 2.",
+        "voraussetzung": "Fremder Tausch"
+      },
+      {
+        "name": "Endgültiger Seelentausch",
+        "fw": 16,
+        "ap": 12,
+        "beschreibung": "Im Falle des Todes eines der beiden Körper bleiben die Seelen dort, wo sie gerade sind, und der Tausch wird permanent.",
+        "voraussetzung": null
+      }
+    ],
+    "reversalis": "Ein bestehendes SEELENWANDERUNG-Ritual wird aufgehoben. (Merkmal: Antimagie)",
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 135
+      },
+      {
+        "buch": "Aventurische Magie III Bonusmaterial und Errata",
+        "seite": 10
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 410
+      }
+    ],
+    "_source_file": "Seelenwanderung.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Standhafter Wächter",
+    "probe": "MU/IN/GE",
+    "wirkung": "Alle Verteidigungen des Ziels sind um +1 erleichtert, unabhängig davon, ob es Angriffe pariert oder ihnen ausweicht.",
+    "ritualdauer": "5 Minuten",
+    "asp_kosten": "8 AsP (Kosten sind nicht modifizierbar)",
+    "reichweite": "selbst",
+    "wirkungsdauer": "QS x 10 Minuten",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Heilung",
+    "verbreitung": "Elfen",
+    "steigerungsfaktor": "B",
+    "ap_wert": 8,
+    "zaubererweiterungen": [
+      {
+        "name": "Längere Wirkungsdauer",
+        "fw": 8,
+        "ap": 2,
+        "beschreibung": "Die Wirkungsdauer beträgt QS x 30 Minuten.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Elfischer Verteidiger",
+        "fw": 10,
+        "ap": 2,
+        "beschreibung": "Das Ritual kann gleichzeitig mit dem Ritual ÜBERLEGENER KRIEGER gewirkt werden, man spart also mehrfache Ritualdauer ein. Für beide Rituale wird eine Probe abgelegt, es gilt für beide die niedrigste QS beider Rituale.",
+        "voraussetzung": "Zauberer beherrscht ÜBERLEGENER KRIEGER."
+      },
+      {
+        "name": "Schmerzloser Wächter",
+        "fw": 12,
+        "ap": 4,
+        "beschreibung": "Das Ziel kann die Auswirkungen der höchsten Stufe Schmerz ignorieren. Verfügt es über weitere Fähigkeiten, um Auswirkungen von Schmerz zu ignorieren, dann addieren sich diese Wirkungen.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Starker Verteidiger",
+        "fw": 14,
+        "ap": 2,
+        "beschreibung": "Alle PA-/AW-Proben des Ziels sind um +2 erleichtert.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Reichweite Berührung",
+        "fw": 16,
+        "ap": 6,
+        "beschreibung": "Als Reichweite gilt Berührung. Das Ritual kann nur auf Kulturschaffende übertragen werden. Es entstehen zusätzliche Kosten in Höhe von 8 AsP.",
+        "voraussetzung": null
+      }
+    ],
+    "reversalis": "Alle Verteidigungen des Ziels sind um –1 erschwert, unabhängig davon, ob es Angriffe pariert oder ihnen ausweicht. (Merkmal: Heilung)",
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 136
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 412
+      }
+    ],
+    "_source_file": "Standhafter+Wächter.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Staub wandle",
+    "probe": "MU/KL/CH",
+    "wirkung": "Das Ritual erweckt einen Golemiden. Die Ritualprobe ist um die Erschaffungsschwierigkeit des Golemiden erschwert. Details zur Erschaffung von Golemiden finden sich in Aventurische Magie III und ausführlich in Aventurisches Elementarium.",
+    "ritualdauer": "8 Stunden",
+    "asp_kosten": "4/8/16/32/64 AsP für die Größenkategorie winzig/klein/mittel/groß/riesig, davon 1/2/4/8/16 AsP permanent (Kosten sind nicht modifizierbar)",
+    "reichweite": "4 Schritt",
+    "wirkungsdauer": "QS Wochen",
+    "zielkategorie": "Objekte",
+    "merkmal": "Elementar",
+    "verbreitung": "Gildenmagier",
+    "steigerungsfaktor": "C",
+    "ap_wert": null,
+    "zaubererweiterungen": [
+      {
+        "name": "Längere Wirkungsdauer 1",
+        "fw": 8,
+        "ap": 3,
+        "beschreibung": "Die Wirkungsdauer beträgt QS Monate.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Verkürzte Ritualdauer",
+        "fw": 10,
+        "ap": 3,
+        "beschreibung": "Die Ritualdauer beträgt nur 4 Stunden.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Längere Wirkungsdauer 2",
+        "fw": 12,
+        "ap": 6,
+        "beschreibung": "Die Wirkungsdauer beträgt QS Jahre. Voraussetzung: Zaubererweiterung Längere Wirkungsdauer 1.",
+        "voraussetzung": "Zaubererweiterung Längere Wirkungsdauer 1"
+      },
+      {
+        "name": "Einfache Herstellung",
+        "fw": 14,
+        "ap": 6,
+        "beschreibung": "Die Erschaffungsschwierigkeit wird um 1 Punkt leichter.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Mächtiges Wesen",
+        "fw": 16,
+        "ap": 9,
+        "beschreibung": "Dem Wesen können zweimal die gleichen Verbesserungen beim Erschaffen gegeben werden.",
+        "voraussetzung": null
+      }
+    ],
+    "reversalis": "Das Ritual STAUB WANDLE wird aufgelöst, ein Golemid wird in seine Bestandteile zerlegt. Es sind die gleichen permanenten AsP zu bezahlen, die der Golemid gekostet hat, und der Modifikator entspricht der Erschaffungsschwierigkeit. (Merkmal: Antimagie)",
+    "publikationen": [
+      {
+        "buch": "Aventurisches Elementarium",
+        "seite": 156
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 414
+      }
+    ],
+    "_source_file": "Staub+wandle.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Stein wandle",
+    "probe": "MU/KL/CH",
+    "wirkung": "Das Ritual erweckt einen Golem. Die Ritualprobe ist um die Erschaffungsschwierigkeit des Golems erschwert. Details zur Erschaffung von Golems finden sich in Aventurische Magie III und in aller Ausführlichkeit mit Fokusregeln in Aventurisches Animatorium.",
+    "ritualdauer": "8 Stunden",
+    "asp_kosten": "4/8/16/32/64 AsP für die Größenkategorie winzig/klein/mittel/groß/riesig, davon 1/2/4/8/16 AsP permanent (Kosten sind nicht modifizierbar)",
+    "reichweite": "4 Schritt",
+    "wirkungsdauer": "QS Wochen",
+    "zielkategorie": "Objekte",
+    "merkmal": "Dämonisch",
+    "verbreitung": "Borbaradianer, Gildenmagier",
+    "steigerungsfaktor": "C",
+    "ap_wert": 4,
+    "zaubererweiterungen": [
+      {
+        "name": "Längere Wirkungsdauer 1",
+        "fw": 8,
+        "ap": 3,
+        "beschreibung": "Die Wirkungsdauer beträgt QS Monate.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Verkürzte Ritualdauer",
+        "fw": 10,
+        "ap": 3,
+        "beschreibung": "Die Ritualdauer beträgt nur 4 Stunden.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Längere Wirkungsdauer 2",
+        "fw": 12,
+        "ap": 6,
+        "beschreibung": "Die Wirkungsdauer beträgt QS Jahre.",
+        "voraussetzung": "Zaubererweiterung Längere Wirkungsdauer 1"
+      },
+      {
+        "name": "Einfache Herstellung",
+        "fw": 14,
+        "ap": 6,
+        "beschreibung": "Die Erschaffungsschwierigkeit wird um 1 Punkt leichter.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Mächtiges Wesen",
+        "fw": 16,
+        "ap": 9,
+        "beschreibung": "Dem Wesen können zweimal die gleichen Verbesserungen beim Erschaffen gegeben werden.",
+        "voraussetzung": null
+      }
+    ],
+    "reversalis": "Das Ritual STEIN WANDLE wird aufgelöst, ein Golem wird in seine Bestandteile zerlegt. Es sind die gleichen permanenten AsP zu bezahlen, die der Golem gekostet hat, und der Modifikator entspricht der Erschaffungsschwierigkeit. (Merkmal: Antimagie)",
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie III",
+        "seite": 144
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 415
+      }
+    ],
+    "_source_file": "Stein+wandle.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Totes handle",
+    "probe": "MU/KL/CH",
+    "wirkung": "Der Zauberer erhebt die körperlichen Überreste eines verstorbenen Lebewesens langfristig zum Untoten. Die Ritualprobe ist um die Erschaffungsschwierigkeit des Untoten erschwert.",
+    "ritualdauer": "8 Stunden",
+    "asp_kosten": "4/8/16/32/64 AsP für die Größenkategorie winzig/klein/mittel/groß/riesig, davon 0/1/2/4/8 AsP permanent (Kosten sind nicht modifizierbar)",
+    "reichweite": "4 Schritt",
+    "wirkungsdauer": "QS Wochen",
+    "zielkategorie": "Lebewesen (Verstorbene)",
+    "merkmal": "Dämonisch",
+    "verbreitung": "Borbaradianer, Gildenmagier, Kristallomanten",
+    "steigerungsfaktor": "C",
+    "ap_wert": 4,
+    "zaubererweiterungen": [
+      {
+        "name": "Längere Wirkungsdauer 1",
+        "fw": 8,
+        "ap": 3,
+        "beschreibung": "Die Wirkungsdauer beträgt QS Monate.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Verkürzte Ritualdauer",
+        "fw": 10,
+        "ap": 3,
+        "beschreibung": "Die Ritualdauer beträgt nur 4 Stunden.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Längere Wirkungsdauer 2",
+        "fw": 12,
+        "ap": 6,
+        "beschreibung": "Die Wirkungsdauer beträgt QS Jahre. Voraussetzung: Zaubererweiterung Längere Wirkungsdauer 1.",
+        "voraussetzung": "Zaubererweiterung Längere Wirkungsdauer 1"
+      },
+      {
+        "name": "Einfache Herstellung",
+        "fw": 14,
+        "ap": 6,
+        "beschreibung": "Die Erschaffungsschwierigkeit wird um 1 Punkt leichter.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Mächtiges Wesen",
+        "fw": 16,
+        "ap": 9,
+        "beschreibung": "Dem Wesen können zweimal die gleichen Verbesserungen beim Beschwören gegeben werden.",
+        "voraussetzung": null
+      }
+    ],
+    "reversalis": "Das Ritual TOTES HANDLE wird aufgelöst, ein Untoter wird wieder zu einer gewöhnlichen Leiche. Es sind die gleichen permanenten AsP zu bezahlen, die der Untote gekostet hat, und der Modifikator entspricht der Erschaffungsschwierigkeit.",
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie III",
+        "seite": 144
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 416
+      }
+    ],
+    "_source_file": "Totes+handle.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Transformatio",
+    "probe": "KL/KO/FF",
+    "wirkung": "Durch den TRANSFORMATIO können Objekte in andere verwandelt werden. Je stärker die Änderung ist, desto schwieriger wird die Transformation (siehe Tabelle).",
+    "ritualdauer": "2 Stunden",
+    "asp_kosten": "8/16/32/64 AsP (Aktivierung des Zaubers) + 4/8/16/32 AsP pro 5 Minuten für einen Gegenstand von der Größe einer Tasse/Truhe/Tür/Burgtor",
+    "reichweite": "Berührung",
+    "wirkungsdauer": "aufrechterhaltend",
+    "zielkategorie": "Objekte (profane Objekte)",
+    "merkmal": "Objekt",
+    "verbreitung": "Geoden, Gildenmagier, Kristallomanten",
+    "steigerungsfaktor": "D",
+    "ap_wert": 8,
+    "zaubererweiterungen": [
+      {
+        "name": "Verkürzte Ritualdauer",
+        "fw": 8,
+        "ap": 4,
+        "beschreibung": "Die Ritualdauer beträgt 30 Minuten.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Zwei Objekte",
+        "fw": 10,
+        "ap": 4,
+        "beschreibung": "Der Zauberer kann 2 Objekte gleichzeitig verzaubern.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Keine Aufrechterhaltung",
+        "fw": 12,
+        "ap": 8,
+        "beschreibung": "Das Ritual gilt nicht als aufrechterhaltend. Die Wirkungsdauer und damit die AsP-Kosten müssen beim Wirken des Rituals festgelegt werden.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Transformationsexperte",
+        "fw": 14,
+        "ap": 8,
+        "beschreibung": "Der Zauberer kann 2 Punkte Erschwernis durch Material, Volumen und Gewicht sowie Form und Komplexität ignorieren.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Längeres Intervall",
+        "fw": 16,
+        "ap": 12,
+        "beschreibung": "Die Wirkungsdauer beträgt QS Tage. Ein Viertel der anfallenden AsP-Kosten sind permanent.",
+        "voraussetzung": "Zaubererweiterung Keine Aufrechterhaltung"
+      }
+    ],
+    "reversalis": "Ein bestehendes TRANSFORMATIO-Ritual wird aufgehoben. (Merkmal: Antimagie)",
+    "publikationen": [
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 417
+      },
+      {
+        "buch": "Rohals Erben - Aventurische Gildenmagie",
+        "seite": 138
+      }
+    ],
+    "_source_file": "Transformatio.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Transmutare",
+    "probe": "IN/CH/KO",
+    "wirkung": "Die Hexe kann das Äußere ihres Körpers beliebig umformen, solange es im möglichen Rahmen ihrer Spezies bleibt. Dies schließt Gesichtsform, Hautfarbe, Augenfarbe, Haarfarbe sowie Haarlänge ein, nicht jedoch Stimme, Geruch, Größe und Gewicht. Das Geschlecht bleibt gleich. Ihre Werte ändern sich dadurch allerdings nicht. Auch Vor- und Nachteile wie Gutaussehend und Hässlich lassen sich dadurch nicht verändern. Alterserscheinungen können allerdings vermieden werden, da die Haut gestrafft werden kann und selbst Altersflecken verschwinden.",
+    "ritualdauer": "2 Stunden",
+    "asp_kosten": "32 AsP",
+    "reichweite": "selbst",
+    "wirkungsdauer": "QS x 3 Wochen",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Verwandlung",
+    "verbreitung": "Hexen",
+    "steigerungsfaktor": "C",
+    "ap_wert": 32,
+    "zaubererweiterungen": [
+      {
+        "name": "Stimme und Geruch",
+        "fw": 8,
+        "ap": 3,
+        "beschreibung": "Auch die Stimme und der Geruch des Ziels lassen sich verändern. Dadurch sind keine Vorteile wie Angenehmer Geruch oder Wohlklang möglich.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Körperveränderung",
+        "fw": 10,
+        "ap": 3,
+        "beschreibung": "Die Hexe kann bis zu QS/2 Bonuspunkte auf FF, GE, KO und KK verteilen.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Reichweite Berührung",
+        "fw": 12,
+        "ap": 6,
+        "beschreibung": "Als Reichweite gilt Berührung. Das Ritual kann nur auf Kulturschaffende übertragen werden. Es entstehen zusätzliche Kosten in Höhe von 16 AsP. Bei nicht freiwilligen Zielen gilt die ZK als Erschwernis.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Geschlecht und Gewicht",
+        "fw": 14,
+        "ap": 6,
+        "beschreibung": "Geschlecht und Gewicht lassen sich doch beliebig ändern. Dadurch werden keine Vorteile oder Nachteile freigeschaltet. Man kann die Hexe durch eine Probe auf Sinnesschärfe (Suchen oder Wahrnehmen) –QS/2 dennoch identifizieren. Die Zeugung oder die Empfängnis von Nachkommen ist unter Einfluss dieses Zaubers nicht möglich.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Andere Spezies",
+        "fw": 16,
+        "ap": 9,
+        "beschreibung": "Die Hexe kann etwa die Hälfte ihres Körpers so verändern, dass er Merkmale einer anderen Spezies aufweist (Fell, Schuppen, veränderte Körperform usw.). Man kann die Hexe durch eine Probe auf Sinnesschärfe (Suchen oder Wahrnehmen) –QS enttarnen.",
+        "voraussetzung": null
+      }
+    ],
+    "reversalis": "Ein bestehendes TRANSMUTARE-Ritual wird aufgehoben. (Merkmal: Antimagie)",
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 136
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 419
+      }
+    ],
+    "_source_file": "Transmutare.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Traumgestalt",
+    "probe": "MU/IN/CH (modifiziert durch SK)",
+    "wirkung": "Der Zauberer dringt in die Träume des Ziels ein und kann diese manipulieren. Mehr zu Traumwelten findet sich in Aventurische Magie II.",
+    "ritualdauer": "5 Minuten",
+    "asp_kosten": "8 AsP",
+    "reichweite": "4 Schritt",
+    "wirkungsdauer": "QS x 10 Minuten",
+    "zielkategorie": "Lebewesen",
+    "merkmal": "Einfluss",
+    "verbreitung": "Druiden, Elfen, Geoden, Goblinzauberinnen, Hexen",
+    "steigerungsfaktor": "C",
+    "ap_wert": null,
+    "zaubererweiterungen": [
+      {
+        "name": "Längere Wirkungsdauer",
+        "fw": 8,
+        "ap": 3,
+        "beschreibung": "Die Wirkungsdauer beträgt QS x 30 Minuten.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Sehr lange Wirkungsdauer",
+        "fw": 10,
+        "ap": 3,
+        "beschreibung": "Die Wirkungsdauer beträgt QS Stunden. Voraussetzung: Zaubererweiterung Längere Wirkungsdauer.",
+        "voraussetzung": "Längere Wirkungsdauer"
+      },
+      {
+        "name": "Mitnahme",
+        "fw": 12,
+        "ap": 6,
+        "beschreibung": "Ein anderer Kulturschaffender kann zusammen mit dem Zauberer in den Traum eines Schlafenden reisen. Der Zauberer muss dabei den anderen Kulturschaffenden während der Wirkungsdauer berühren.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Traumkriegerin",
+        "fw": 14,
+        "ap": 6,
+        "beschreibung": "Im Traum steigen AT, VW und TP um +2.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Traummeister",
+        "fw": 16,
+        "ap": 9,
+        "beschreibung": "Im Traum hat der Zauberer einen zusätzlichen RS von 2.",
+        "voraussetzung": null
+      }
+    ],
+    "reversalis": "Ein bestehendes TRAUMGESTALT-Ritual wird aufgehoben. (Merkmal: Antimagie)",
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 136
+      },
+      {
+        "buch": "Aventurische Magie III Bonusmaterial und Errata",
+        "seite": 10
+      },
+      {
+        "buch": "Der schwarze Forst (Theaterritter III)",
+        "seite": 33
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 420
+      }
+    ],
+    "_source_file": "Traumgestalt.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Überlegener Krieger",
+    "probe": "MU/IN/GE",
+    "wirkung": "Alle Proben auf AT oder FK des Ziels sind um +1 erleichtert.",
+    "ritualdauer": "5 Minuten",
+    "asp_kosten": "8 AsP (Kosten sind nicht modifizierbar)",
+    "reichweite": "selbst",
+    "wirkungsdauer": "QS x 10 Minuten",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Heilung",
+    "verbreitung": "Elfen",
+    "steigerungsfaktor": "B",
+    "ap_wert": null,
+    "zaubererweiterungen": [
+      {
+        "name": "Längere Wirkungsdauer",
+        "fw": 8,
+        "ap": 2,
+        "beschreibung": "Die Wirkungsdauer beträgt QS x 30 Minuten.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Elfischer Kämpfer",
+        "fw": 10,
+        "ap": 2,
+        "beschreibung": "Das Ritual kann gleichzeitig mit dem Ritual STANDHAFTER WÄCHTER gewirkt werden, man spart also mehrfache Ritualdauer ein. Für beide Rituale wird eine Probe abgelegt, es gilt für beide die niedrigste QS beider Rituale.",
+        "voraussetzung": "Zauberer beherrscht STANDHAFTER WÄCHTER."
+      },
+      {
+        "name": "Schmerzloser Wächter",
+        "fw": 12,
+        "ap": 4,
+        "beschreibung": "Das Ziel kann die Auswirkungen der höchsten Stufe Schmerz ignorieren. Verfügt es über weitere Fähigkeiten, um Auswirkungen von Schmerz zu ignorieren, dann addieren sich diese Wirkungen.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Starker Angreifer",
+        "fw": 14,
+        "ap": 4,
+        "beschreibung": "Alle AT-/FK-Proben des Ziels sind um +2 erleichtert.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Reichweite Berührung",
+        "fw": 16,
+        "ap": 6,
+        "beschreibung": "Als Reichweite gilt Berührung. Das Ritual kann nur auf Kulturschaffende übertragen werden. Es entstehen zusätzliche Kosten in Höhe von 8 AsP.",
+        "voraussetzung": null
+      }
+    ],
+    "reversalis": "Alle Proben auf AT oder FK des Ziels sind um –1 erschwert. (Merkmal: Heilung)",
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 136
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 421
+      }
+    ],
+    "_source_file": "Überlegener+Krieger.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Unberührt von Satinav",
+    "probe": "KL/IN/FF",
+    "wirkung": "Ein maximal 5 Stein wiegendes Objekt ist während der Wirkungsdauer vor Verfall geschützt. Die Zeit kann ihm nichts anhaben, es wird also weder verrotten, verrosten noch verfallen. Dies gilt auch in widrigen Umgebungen, etwa überdurchschnittlich feuchten oder heißen Gegenden. Vor gewaltsamen Einflüssen wie Waffenschaden, Feuer oder Säure bietet die Verzauberung jedoch keinen Schutz.",
+    "ritualdauer": "30 Minuten",
+    "asp_kosten": "16 AsP",
+    "reichweite": "Berührung",
+    "wirkungsdauer": "QS x 3 Wochen",
+    "zielkategorie": "Objekte",
+    "merkmal": "Temporal",
+    "verbreitung": "Elfen, Kristallomanten",
+    "steigerungsfaktor": "B",
+    "ap_wert": null,
+    "zaubererweiterungen": [
+      {
+        "name": "Höheres Gewicht",
+        "fw": 8,
+        "ap": 2,
+        "beschreibung": "Das Gewicht darf bis zu 10 Stein betragen.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Verkürzte Ritualdauer",
+        "fw": 10,
+        "ap": 2,
+        "beschreibung": "Die Ritualdauer beträgt 5 Minuten.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Längere Wirkungsdauer 1",
+        "fw": 12,
+        "ap": 4,
+        "beschreibung": "Die Wirkungsdauer erhöht sich auf QS x 3 Monate.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Sehr hohes Gewicht",
+        "fw": 14,
+        "ap": 4,
+        "beschreibung": "Das Gewicht darf bis zu 20 Stein betragen. Voraussetzung: Zaubererweiterung Höheres Gewicht.",
+        "voraussetzung": "Zaubererweiterung Höheres Gewicht"
+      },
+      {
+        "name": "Längere Wirkungsdauer 2",
+        "fw": 16,
+        "ap": 6,
+        "beschreibung": "Die Wirkungsdauer erhöht sich auf QS x 3 Jahre. Voraussetzung: Zaubererweiterung Längere Wirkungsdauer 1.",
+        "voraussetzung": "Zaubererweiterung Längere Wirkungsdauer 1"
+      }
+    ],
+    "reversalis": "Der ausgewählte Gegenstand altert um QS x 10 Jahre, was dazu führen kann, dass er verfault oder verrostet. Nach Meisterentscheid kann der Gegenstand bis zu QS x 15 % seiner Strukturpunkte einbüßen.",
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie",
+        "seite": 152
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 423
+      }
+    ],
+    "_source_file": "Unberührt+von+Satinav.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Weiches erstarre",
+    "probe": "MU/KL/KK",
+    "wirkung": "Um einen Punkt innerhalb der Reichweite bildet sich eine Zone aus, in der sämtliche Flüssigkeit erstarrt. Dadurch ist es beispielsweise möglich, eine Wasserfläche zu überqueren. Lebewesen werden sofort aus der Flüssigkeit verdrängt und damit nicht Teil der erstarrten Flüssigkeit. Je nach QS kann das Ritual eine bestimmte Menge an Raumschritt verdicken.",
+    "ritualdauer": "5 Minuten",
+    "asp_kosten": "4 AsP + 1 AsP pro Rechtschritt",
+    "reichweite": "16 Schritt",
+    "wirkungsdauer": "QS x 2 Minuten",
+    "zielkategorie": "Zone",
+    "merkmal": "Objekt",
+    "verbreitung": "Borbaradianer, Gildenmagier",
+    "steigerungsfaktor": "B",
+    "ap_wert": null,
+    "zaubererweiterungen": [
+      {
+        "name": "Längere Wirkungsdauer 1",
+        "fw": 8,
+        "ap": 2,
+        "beschreibung": "Die Wirkungsdauer beträgt QS x 10 Minuten.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Sehr schnelles Härten",
+        "fw": 10,
+        "ap": 2,
+        "beschreibung": "Die Ritualdauer beträgt nur 8 Aktionen (auch, wenn dies keine übliche Zeitkategorie für Rituale ist).",
+        "voraussetzung": null
+      },
+      {
+        "name": "Harte Flüssigkeit",
+        "fw": 12,
+        "ap": 4,
+        "beschreibung": "Die Strukturpunkte betragen 80 pro Raumschritt.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Versteinerung",
+        "fw": 14,
+        "ap": 4,
+        "beschreibung": "Die Flüssigkeit wird so hart, dass sie einen extrem harten Zustand annimmt und 500 Strukturpunkte erhält.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Längere Wirkungsdauer 2",
+        "fw": 16,
+        "ap": 6,
+        "beschreibung": "Die Wirkungsdauer beträgt QS x 30 Minuten.",
+        "voraussetzung": "Zaubererweiterung Längere Wirkungsdauer 1"
+      }
+    ],
+    "reversalis": "Das Ritual wirkt in seiner reversalisierten Version wie ein HARTES SCHMELZE. (Merkmal: Objekt)",
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 123
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 424
+      }
+    ],
+    "_source_file": "Weiches+erstarre.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Weisheit der Bäume",
+    "probe": "MU/IN/KO",
+    "wirkung": "Während der Wirkungsdauer hat das Ziel den Status Baumartig. Der Zauberer verwandelt sich in einen beliebigen Baum und verwurzelt mit dem Untergrund, solange die Bodenbeschaffenheit dies erlaubt. Während der Wirkungsdauer ist er zu keinen körperlichen oder geistigen Handlungen fähig und behält keine Erinnerung an die Zeit der Verwandlung zurück. Dafür sind sämtliche körperlichen Prozesse ausgesetzt, er benötigt also keine Atemluft, unterliegt nicht der Wirkung von Giften und Krankheiten und ist keinerlei Alterung ausgesetzt. Wird er angegriffen, kann er wie ein normaler Baum zerstört werden. Dies schließt die Möglichkeit ein, dem Baum Wasser und Nährstoffe zu entziehen und ihn dadurch langsam absterben zu lassen. Bei einer Rückverwandlung wird der Schaden auf den fleischlichen Körper übertragen. Die Höhe des Schadens ist von der Meisterin zu bemessen.",
+    "ritualdauer": "30 Minuten",
+    "asp_kosten": "32 AsP",
+    "reichweite": "selbst",
+    "wirkungsdauer": "QS x 3 Wochen",
+    "zielkategorie": "Lebewesen",
+    "merkmal": "Elementar",
+    "verbreitung": "Druiden, Elfen, Geoden, Hexen",
+    "steigerungsfaktor": "C",
+    "ap_wert": null,
+    "zaubererweiterungen": [
+      {
+        "name": "Reichweite Berührung",
+        "fw": 8,
+        "ap": 3,
+        "beschreibung": "Als Reichweite gilt Berührung. Es entstehen zusätzliche Kosten in Höhe von 8 AsP. Gegen unfreiwillige Ziele gilt die SK als Erschwernis.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Elementare Erkenntnisse",
+        "fw": 10,
+        "ap": 3,
+        "beschreibung": "Elementare Zauber des Elements sind nach dem Ende der Wirkungsdauer um +1 erleichtert. Dieser Effekt hält für 1 Tag je kompletter Woche in Form des jeweiligen Elements an.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Bewusstsein",
+        "fw": 12,
+        "ap": 6,
+        "beschreibung": "Der Verwandelte behält sein Bewusstsein und kann sogar mit allen Sinnen wahrnehmen.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Sprachfähigkeit",
+        "fw": 14,
+        "ap": 6,
+        "beschreibung": "Das Ziel des Rituals ist in der Lage, mit seiner Umwelt zu sprechen und zu kommunizieren. Voraussetzung: Zaubererweiterung Bewusstsein.",
+        "voraussetzung": "Bewusstsein"
+      },
+      {
+        "name": "Längere Wirkungsdauer",
+        "fw": 16,
+        "ap": 9,
+        "beschreibung": "Die Wirkungsdauer beträgt QS x 3 Monate.",
+        "voraussetzung": null
+      }
+    ],
+    "reversalis": "Ein bestehendes WEISHEIT DER BÄUME-Ritual wird aufgehoben. (Merkmal: Antimagie)",
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 137
+      },
+      {
+        "buch": "Aventurische Magie III Bonusmaterial und Errata",
+        "seite": 10
+      },
+      {
+        "buch": "Aventurisches Elementarium",
+        "seite": 154
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 425
+      }
+    ],
+    "_source_file": "Weisheit+der+Bäume.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Widerwille",
+    "probe": "IN/CH/GE",
+    "wirkung": "Kulturschaffende mit SK 2 oder niedriger ignorieren ein vom Zauberer bestimmtes Objekt, selbst wenn es sich direkt vor ihnen befindet. Kulturschaffenden mit einer Seelenkraft ab 3 ist eine Probe auf Willenskraft zugestanden, die um QS/2 erschwert ist. Misslingt die Probe, tritt der Effekt des Zaubers auch für sie ein.",
+    "ritualdauer": "30 Minuten",
+    "asp_kosten": "8 AsP",
+    "reichweite": "16 Schritt",
+    "wirkungsdauer": "QS Stunden",
+    "zielkategorie": "Objekte",
+    "merkmal": "Einfluss",
+    "verbreitung": "Gildenmagier, Scharlatane",
+    "steigerungsfaktor": "B",
+    "ap_wert": null,
+    "zaubererweiterungen": [
+      {
+        "name": "Nicht alle",
+        "fw": 8,
+        "ap": 2,
+        "beschreibung": "Der Zauberer kann beliebig viele Kulturschaffende benennen, die nicht von der Wirkung betroffen sind.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Willensbrecher",
+        "fw": 10,
+        "ap": 2,
+        "beschreibung": "Die Wirkung des Rituals betrifft Kulturschaffende mit einer SK von 1 + QS/2.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Größere Objekte",
+        "fw": 12,
+        "ap": 4,
+        "beschreibung": "Der Zauberer kann auch Objekte bis zur Größe einer Tür verzaubern.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Noch größere Objekte",
+        "fw": 14,
+        "ap": 4,
+        "beschreibung": "Der Zauberer kann auch Objekte bis zur Größe eines Hauses verzaubern. Voraussetzung: Zaubererweiterung Größere Objekte.",
+        "voraussetzung": "Größere Objekte"
+      },
+      {
+        "name": "Längere Wirkungsdauer",
+        "fw": 16,
+        "ap": 6,
+        "beschreibung": "Die Wirkungsdauer beträgt QS Tage.",
+        "voraussetzung": null
+      }
+    ],
+    "reversalis": "Ein bestehendes WIDERWILLE-Ritual wird aufgehoben. (Merkmal: Antimagie)",
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie",
+        "seite": 153
+      },
+      {
+        "buch": "Das Dornenreich",
+        "seite": 160
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 427
+      }
+    ],
+    "_source_file": "Widerwille.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Wirbelform",
+    "probe": "KL/FF/KK",
+    "wirkung": "Innerhalb eines Radius von QS Schritt vermag der Elf, alle Materie des Elements Luft zu verformen, solange sie nicht Teil eines Wesens ist (etwa eines Luftdschinns). Auf diesem Weg können z. B. Wolkenformationen erschaffen werden. Der Prozess geht dabei nur langsam vonstatten. Soll die Luft in eine bestimmte Richtung geformt werden, dauert dies 1 KR pro Schritt Fortbewegung. Am Ende der Wirkungsdauer ist das Verformte wieder den normalen Gesetzen der Natur ausgeliefert.",
+    "ritualdauer": "5 Minuten",
+    "asp_kosten": "16 AsP",
+    "reichweite": "selbst",
+    "wirkungsdauer": "QS x 10 Minuten",
+    "zielkategorie": "Zone",
+    "merkmal": "Elementar",
+    "verbreitung": "Elfen",
+    "steigerungsfaktor": "B",
+    "ap_wert": null,
+    "zaubererweiterungen": [
+      {
+        "name": "Größerer Radius",
+        "fw": 8,
+        "ap": 2,
+        "beschreibung": "Der Radius beträgt QS x 2 Schritt.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Reichweite Berührung",
+        "fw": 10,
+        "ap": 2,
+        "beschreibung": "Als Reichweite gilt Berührung. Das Ritual kann nur auf Kulturschaffende übertragen werden. Die Kosten steigen dabei um eine Kategorie.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Längere Wirkungsdauer 1",
+        "fw": 12,
+        "ap": 4,
+        "beschreibung": "Die Wirkungsdauer beträgt QS x 30 Minuten.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Kurzritual",
+        "fw": 14,
+        "ap": 4,
+        "beschreibung": "Die Ritualdauer beträgt nur 8 Aktionen (auch, wenn dies keine übliche Zeitkategorie für Rituale ist).",
+        "voraussetzung": null
+      },
+      {
+        "name": "Längere Wirkungsdauer 2",
+        "fw": 16,
+        "ap": 6,
+        "beschreibung": "Die Wirkungsdauer beträgt QS Stunden. Voraussetzung: Zaubererweiterung Längere Wirkungsdauer 1.",
+        "voraussetzung": "Zaubererweiterung Längere Wirkungsdauer 1"
+      }
+    ],
+    "reversalis": "Wird das Ziel des reversalisierten Rituals während der Wirkungsdauer durch Luft (z. B. auch durch einen ORCANOFAXIUS oder -SPHAERO) angegriffen, verdoppeln sich die TP.",
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie",
+        "seite": 153
+      },
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 137
+      },
+      {
+        "buch": "Aventurisches Elementarium",
+        "seite": 154
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 428
+      }
+    ],
+    "_source_file": "Wirbelform.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Wogenform",
+    "probe": "KL/FF/KK",
+    "wirkung": "Innerhalb eines Radius von QS Schritt vermag der Zauberer, alle Materie des Elements Wasser zu verformen, solange sie nicht Teil eines Wesens ist (etwa eines Wasserdschinns). Auf diesem Weg können z. B. Fontänen oder trockene Passagen durch einen Bach erschaffen werden. Der Prozess geht dabei nur langsam vonstatten. Soll das Wasser in eine bestimmte Richtung geformt werden, dauert dies 1 KR pro Schritt Fortbewegung. Am Ende der Wirkungsdauer ist das Verformte wieder den normalen Gesetzen der Natur ausgeliefert.",
+    "ritualdauer": "5 Minuten",
+    "asp_kosten": "16 AsP",
+    "reichweite": "selbst",
+    "wirkungsdauer": "QS x 10 Minuten",
+    "zielkategorie": "Zone",
+    "merkmal": "Elementar",
+    "verbreitung": "Druiden, Elfen, Gildenmagier, Kristallomanten",
+    "steigerungsfaktor": "B",
+    "ap_wert": 16,
+    "zaubererweiterungen": [
+      {
+        "name": "Größerer Radius",
+        "fw": 8,
+        "ap": 2,
+        "beschreibung": "Der Radius beträgt QS x 2 Schritt.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Reichweite Berührung",
+        "fw": 10,
+        "ap": 2,
+        "beschreibung": "Als Reichweite gilt Berührung. Das Ritual kann nur auf Kulturschaffende übertragen werden. Die Kosten steigen dabei um eine Kategorie.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Längere Wirkungsdauer 1",
+        "fw": 12,
+        "ap": 4,
+        "beschreibung": "Die Wirkungsdauer beträgt QS x 30 Minuten.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Kurzritual",
+        "fw": 14,
+        "ap": 4,
+        "beschreibung": "Die Ritualdauer beträgt nur 8 Aktionen (auch, wenn dies keine übliche Zeitkategorie für Rituale ist).",
+        "voraussetzung": null
+      },
+      {
+        "name": "Längere Wirkungsdauer 2",
+        "fw": 16,
+        "ap": 6,
+        "beschreibung": "Die Wirkungsdauer beträgt QS Stunden. Voraussetzung: Zaubererweiterung Längere Wirkungsdauer 1.",
+        "voraussetzung": "Zaubererweiterung Längere Wirkungsdauer 1"
+      }
+    ],
+    "reversalis": "Wird das Ziel des reversalisierten Rituals während der Wirkungsdauer durch Wasser (z. B. auch durch einen AQUAFAXIUS oder -SPHAERO) angegriffen, verdoppeln sich die TP.",
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 137
+      },
+      {
+        "buch": "Aventurische Magie III Bonusmaterial und Errata",
+        "seite": 10
+      },
+      {
+        "buch": "Aventurisches Elementarium",
+        "seite": 154
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 429
+      }
+    ],
+    "_source_file": "Wogenform.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Xenographus",
+    "probe": "MU/KL/IN",
+    "wirkung": "Liest der Zauberer einen Text, erhält er ein Gefühl für die Bedeutung des Niedergeschriebenen, selbst wenn er die Schrift oder Sprache nicht beherrscht. Damit ist es ihm möglich, jeden Text zu verstehen, jedoch lediglich auf dem Niveau einer Person, die die entsprechende Sprache auf Stufe II beherrscht.",
+    "ritualdauer": "5 Minuten",
+    "asp_kosten": "8 AsP",
+    "reichweite": "selbst",
+    "wirkungsdauer": "QS x 5 Minuten",
+    "zielkategorie": "Lebewesen",
+    "merkmal": "Hellsicht",
+    "verbreitung": "Gildenmagier, Scharlatane",
+    "steigerungsfaktor": "A",
+    "ap_wert": null,
+    "zaubererweiterungen": [
+      {
+        "name": "Längere Wirkungsdauer 1",
+        "fw": 8,
+        "ap": 1,
+        "beschreibung": "Die Wirkungsdauer beträgt QS x 30 Minuten.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Reichweite Berührung",
+        "fw": 10,
+        "ap": 1,
+        "beschreibung": "Als Reichweite gilt Berührung. Das Ritual kann nur auf Kulturschaffende übertragen werden. Die Kosten steigen dabei um eine Kategorie.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Längere Wirkungsdauer 2",
+        "fw": 12,
+        "ap": 2,
+        "beschreibung": "Die Wirkungsdauer beträgt QS Stunden. Voraussetzung: Zaubererweiterung Längere Wirkungsdauer 1.",
+        "voraussetzung": "Zaubererweiterung Längere Wirkungsdauer 1"
+      },
+      {
+        "name": "Längere Wirkungsdauer 3",
+        "fw": 14,
+        "ap": 2,
+        "beschreibung": "Die Wirkungsdauer beträgt QS x 2 Stunden. Voraussetzung: Zaubererweiterung Längere Wirkungsdauer 2.",
+        "voraussetzung": "Zaubererweiterung Längere Wirkungsdauer 2"
+      },
+      {
+        "name": "Besseres Sprachverständnis",
+        "fw": 16,
+        "ap": 3,
+        "beschreibung": "Man kann den Text so verstehen wie eine Person, die die Sprache auf Stufe III beherrscht.",
+        "voraussetzung": null
+      }
+    ],
+    "reversalis": "Die reversalisierte Version des Zaubers entspricht dem CRYPTOGRAPHO. (Merkmal: Hellsicht)",
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie",
+        "seite": 153
+      },
+      {
+        "buch": "Das Dornenreich",
+        "seite": 160
+      },
+      {
+        "buch": "Die Sonnenküste - Der wilde Süden & die Zyklopeninseln",
+        "seite": 154
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 430
+      }
+    ],
+    "_source_file": "Xenographus.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Zauberklinge Geisterspeer",
+    "probe": "KL/IN/FF",
+    "wirkung": "Mit diesem Ritual lassen sich arkane Kräfte in eine Waffe binden. Diese gilt dann als magische Waffe. Die Kosten des Rituals sind abhängig von der Größe der Waffe.",
+    "ritualdauer": "8 Stunden",
+    "asp_kosten": "abhängig von der Waffe (Kosten sind nicht modifizierbar)",
+    "reichweite": "8 Schritt",
+    "wirkungsdauer": "QS x 3 Tage",
+    "zielkategorie": "Objekte (Waffen)",
+    "merkmal": "Objekt",
+    "verbreitung": "Allgemein",
+    "steigerungsfaktor": "C",
+    "ap_wert": null,
+    "zaubererweiterungen": [
+      {
+        "name": "Verkürzte Ritualdauer",
+        "fw": 8,
+        "ap": 3,
+        "beschreibung": "Die Ritualdauer beträgt 4 Stunden.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Noch kürzere Ritualdauer",
+        "fw": 10,
+        "ap": 3,
+        "beschreibung": "Die Ritualdauer beträgt 2 Stunden. Voraussetzung: Zaubererweiterung Verkürzte Ritualdauer.",
+        "voraussetzung": "Verkürzte Ritualdauer"
+      },
+      {
+        "name": "Trägerwahl",
+        "fw": 12,
+        "ap": 6,
+        "beschreibung": "Die Waffe gilt nur dann als magisch, wenn sie von Personen geführt wird, die der Zauberer bestimmt hat.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Zwei Waffen",
+        "fw": 14,
+        "ap": 6,
+        "beschreibung": "Es können 2 Waffen der gleichen Größe verzaubert werden. Die QS müssen auf beide aufgeteilt werden. Es entstehen zusätzliche Kosten in Höhe von 4 AsP.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Hass auf …",
+        "fw": 16,
+        "ap": 9,
+        "beschreibung": "Gegen eine bestimmte Art von Wesen richtet die Waffe +1 TP an. Der Typus des Wesens muss vor der Verzauberung ausgewählt werden (Dämonen, Untote, Menschen usw.). Die Kosten des Rituals steigen dadurch um 4 AsP. Die Zaubererweiterung kann nicht mehrfach oder für unterschiedliche Wesen auf ein Artefakt gelegt werden.",
+        "voraussetzung": null
+      }
+    ],
+    "reversalis": "Ein bestehendes ZAUBERKLINGE-Ritual wird aufgehoben. (Merkmal: Antimagie)",
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 301
+      },
+      {
+        "buch": "Aventurische Magie",
+        "seite": 163
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 431
+      }
+    ],
+    "_source_file": "Zauberklinge+Geisterspeer.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Zaubernahrung",
+    "probe": "MU/IN/KO",
+    "wirkung": "Der Elf erschafft ein sättigendes Elfenbrot aus dem Nichts, das seinen Hunger zu stillen vermag. Durch das Ritual kann er Nahrung für QS Tage erzeugen. Die Nahrung sättigt nur den Elfen selbst. Sie darf nicht eingelagert werden, sondern muss nach und nach als Reiseproviant verzehrt werden, sonst verliert sie ihre Wirkung. Während der Wirkungsdauer verdirbt die Nahrung nicht.",
+    "ritualdauer": "5 Minuten",
+    "asp_kosten": "8 AsP (Kosten sind nicht modifizierbar)",
+    "reichweite": "selbst",
+    "wirkungsdauer": "QS Tage",
+    "zielkategorie": "Objekte",
+    "merkmal": "Heilung",
+    "verbreitung": "Elfen",
+    "steigerungsfaktor": "B",
+    "ap_wert": 8,
+    "zaubererweiterungen": [
+      {
+        "name": "Kosten modifizierbar",
+        "fw": 8,
+        "ap": 2,
+        "beschreibung": "Die Kosten sind doch modifizierbar.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Leckeres Elfenbrot",
+        "fw": 10,
+        "ap": 2,
+        "beschreibung": "Sofern Elfenbrot in den letzten 12 Stunden gegessen wurde, erhält der Elf +1 LeP bei der nächsten Regenerationsphase.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Mehr Elfenbrot",
+        "fw": 12,
+        "ap": 4,
+        "beschreibung": "Die Nahrung reicht für QS x 2 Tage.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Noch viel mehr Elfenbrot!",
+        "fw": 14,
+        "ap": 4,
+        "beschreibung": "Die Nahrung reicht für QS x 3 Tage. Voraussetzung: Zaubererweiterung Mehr Elfenbrot.",
+        "voraussetzung": "Mehr Elfenbrot"
+      },
+      {
+        "name": "Geteiltes Elfenbrot",
+        "fw": 16,
+        "ap": 6,
+        "beschreibung": "Die Nahrung kann auch andere Lebewesen sättigen. Die Anzahl muss vor dem Wirken festgelegt werden, was zusätzlich 4 AsP pro Lebewesen kostet.",
+        "voraussetzung": null
+      }
+    ],
+    "reversalis": "Durch die reversalisierte Version des Rituals erleidet das Opfer ein starkes Hungergefühl und hat ständig Durst. Das Opfer erhält für die Wirkungsdauer die Schlechte Eigenschaft Gier nach Essen und Trinken und verhält sich ähnlich wie unter der Wirkung des Zaubers GROSSE GIER.",
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 138
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 434
+      }
+    ],
+    "_source_file": "Zaubernahrung.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Zauberschnurren",
+    "probe": "MU/IN/CH",
+    "wirkung": "Die Hexe beginnt, ein kaum wahrnehmbares Schnurren von sich zu geben, welches die meisten Kulturschaffenden als angenehm und beruhigend empfinden. Derjenige, den die Hexe während der Wirkungsdauer des Rituals zudem berührt, erhält Boni. Diese Boni sind kumulativ.",
+    "ritualdauer": "5 Minuten",
+    "asp_kosten": "8 AsP (Kosten sind nicht modifizierbar)",
+    "reichweite": "4 Schritt",
+    "wirkungsdauer": "sofort",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Heilung",
+    "verbreitung": "Goblinzauberinnen, Hexen",
+    "steigerungsfaktor": "C",
+    "ap_wert": 8,
+    "zaubererweiterungen": [
+      {
+        "name": "Überträger",
+        "fw": 8,
+        "ap": 3
+      },
+      {
+        "name": "Verführerisches Schnurren",
+        "fw": 10,
+        "ap": 3
+      },
+      {
+        "name": "Zwei Ziele",
+        "fw": 12,
+        "ap": 6
+      },
+      {
+        "name": "Streicheln",
+        "fw": 14,
+        "ap": 6
+      },
+      {
+        "name": "Heilsames Schnurren",
+        "fw": 16,
+        "ap": 9
+      }
+    ],
+    "reversalis": "Statt zu schnurren, faucht die Hexe. Je nach QS wird die Wirkung des Rituals umgedreht und das Ziel regeneriert weniger oder erleidet Zustandsstufen.",
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 138
+      },
+      {
+        "buch": "Das Dornenreich",
+        "seite": 160
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 435
+      }
+    ],
+    "_source_file": "Zauberschnurren.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Zauberwesen der Natur",
+    "probe": "MU/CH/KO",
+    "wirkung": "Ein zufällig ausgewähltes, niederes Feenwesen aus einem Umkreis von 7 Meilen kommt zum Elfen und ist in der Regel bereit, ihm zu Diensten zu sein.",
+    "ritualdauer": "5 Minuten",
+    "asp_kosten": "8 AsP",
+    "reichweite": "8 Schritt",
+    "wirkungsdauer": "sofort",
+    "zielkategorie": "Feenwesen",
+    "merkmal": "Sphären",
+    "verbreitung": "Elfen",
+    "steigerungsfaktor": "B",
+    "ap_wert": null,
+    "zaubererweiterungen": [
+      {
+        "name": "Mehr Bitten",
+        "fw": 8,
+        "ap": 2,
+        "beschreibung": "Der Zauberer kann QS/2 + 2 Bitten an das Wesen richten.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Längerer Dienst",
+        "fw": 10,
+        "ap": 2,
+        "beschreibung": "Das Wesen verliert erst am Ende einer Woche (statt am Ende eines Tages) automatisch eine Bitte.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Ausgedehnter Dienst",
+        "fw": 12,
+        "ap": 4,
+        "beschreibung": "Das Wesen verliert erst am Ende eines Monats (statt am Ende eines Tages) automatisch eine Bitte.",
+        "voraussetzung": "Zaubererweiterung Längerer Dienst"
+      },
+      {
+        "name": "Einfaches Herbeirufen",
+        "fw": 14,
+        "ap": 4,
+        "beschreibung": "Die Herbeirufungsschwierigkeit wird um 1 Punkt leichter.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Freundliche Einstellung",
+        "fw": 16,
+        "ap": 6,
+        "beschreibung": "Bittproben sind gegenüber dem Wesen um +1 erleichtert.",
+        "voraussetzung": null
+      }
+    ],
+    "reversalis": "Durch die reversalisierte Version des Rituals kann der Elf einen mit sich beweglichen Schutzkreis vor Feenwesen errichten, der einen Radius von 7 Schritt aufweist. Alle Feenwesen, deren SK kleiner als die QS des Rituals ist, können den Schutzkreis nicht betreten. Sollte ein solches Feenwesen dennoch den Schutzkreis betreten, erleidet es den Status Bewusstlos für 7 Stunden.",
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 139
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 436
+      }
+    ],
+    "_source_file": "Zauberwesen+der+Natur.txt",
+    "_category": "Ritual"
+  },
+  {
+    "name": "Zauberzwang",
+    "probe": "MU/KL/CH (modifiziert durch SK)",
+    "wirkung": "Dem Ziel kann ein einzelner Auftrag gegeben werden. Es steht dem Ziel frei, ob und wie es ihn befolgt. Handelt es ihm jedoch zuwider, erleidet es 2 Stufen des Zustands Schmerz, die erst verschwinden, wenn es sich wieder seiner Aufgabe widmet. Zudem verliert es in diesem Fall zu Beginn jeder Stunde 1 LeP. Notwendige Nebentätigkeiten wie Essen, Schlafen oder Ausruhen zählen nicht als Zuwiderhandlung, sehr wohl aber absichtliches Verzögern oder das Reisen in die falsche Richtung. Vollzieht das Ziel eine Handlung, die das Erfüllen des Auftrags unmöglich macht oder eine Erfüllung extrem unwahrscheinlich erscheinen lässt, wird der Zauberzwang dennoch nicht aufgehoben. Das Ziel leidet weiterhin unter den Auswirkungen. Dies gilt auch, wenn es indirekt, aber absichtlich eine Unmöglichkeit herbeiführt, nicht jedoch, wenn sie ohne Zutun des Ziels auftritt. Beispiele für eine Unmöglichkeit umfassen das Zerstören eines zu beschützenden Objekts oder Warnen einer zu tötenden Person, die sich daraufhin versteckt und nicht mehr auffindbar ist. Das Ziel wird sich durch das Ritual weder selbst schaden oder in eine tödliche Situation bringen noch seine Hände essen usw.",
+    "ritualdauer": "2 Stunden",
+    "asp_kosten": "16 AsP",
+    "reichweite": "Berührung",
+    "wirkungsdauer": "QS x 3 Tage",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Einfluss",
+    "verbreitung": "Hexen, Kristallomanten",
+    "steigerungsfaktor": "C",
+    "ap_wert": null,
+    "zaubererweiterungen": [
+      {
+        "name": "Mehrere Ziele",
+        "fw": 8,
+        "ap": 3,
+        "beschreibung": "Der Zauber kann auf mehrere Ziele gleichzeitig gewirkt werden. Die Kosten erhöhen sich dadurch um 16 AsP pro Ziel.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Schlimme Strafe",
+        "fw": 10,
+        "ap": 3,
+        "beschreibung": "Das Ziel erleidet 3 Stufen Schmerz (statt 2) und verliert 2 LeP pro Stunde (statt 1).",
+        "voraussetzung": null
+      },
+      {
+        "name": "Vergessen nach Erfüllung",
+        "fw": 12,
+        "ap": 6,
+        "beschreibung": "Nach der Erfüllung des Auftrags oder dem Ende der Wirkungsdauer erinnert sich das Ziel nicht an die Zeit, in der es unter der Wirkung des Rituals stand.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Kürzere Ritualdauer",
+        "fw": 14,
+        "ap": 6,
+        "beschreibung": "Die Ritualdauer beträgt 30 Minuten.",
+        "voraussetzung": null
+      },
+      {
+        "name": "Längere Wirkungsdauer",
+        "fw": 16,
+        "ap": 9,
+        "beschreibung": "Die Wirkungsdauer beträgt QS Wochen.",
+        "voraussetzung": null
+      }
+    ],
+    "reversalis": "Ein bestehendes ZAUBERZWANG-Ritual wird aufgehoben. (Merkmal: Antimagie)",
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 139
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 437
+      }
+    ],
+    "_source_file": "Zauberzwang.txt",
+    "_category": "Ritual"
+  }
+]

@@ -1,0 +1,2572 @@
+[
+  {
+    "name": "Abkühlung",
+    "wirkung": "Der Zauberer senkt die Temperatur einer kleinen Menge Flüssigkeit (maximal ein Becher voll) um bis zu 10 Grad.",
+    "reichweite": "Berührung",
+    "wirkungsdauer": "sofort",
+    "zielkategorie": "Objekte",
+    "merkmal": "Elementar",
+    "verbreitung": "Zauberalchimisten",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 286
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 14
+      }
+    ],
+    "_source_file": "Abkühlung.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Aranische Rasur",
+    "wirkung": "Körperhaare werden durch diesen Zaubertrick entfernt. Der Zauberer kann festlegen, dass bestimmte Körperstellen nicht enthaart werden (beispielsweise, damit Augenbrauen oder ein Bart nicht entfernt werden).",
+    "reichweite": "Berührung",
+    "wirkungsdauer": "sofort",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Verwandlung",
+    "verbreitung": "Gildenmagier (Sexualmagier, Khelbara ay Baburia), Hexen, Scharlatane",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie",
+        "seite": 112
+      },
+      {
+        "buch": "Das Dornenreich",
+        "seite": 154
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 14
+      },
+      {
+        "buch": "Wege der Vereinigungen",
+        "seite": 176
+      }
+    ],
+    "_source_file": "Aranische+Rasur.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Astrales Leuchten",
+    "wirkung": "Ein vom Zauberer durch eine Magische Analyse untersuchter magischer Gegenstand beginnt für alle Personen sichtbar rot zu schimmern.",
+    "reichweite": "Berührung",
+    "wirkungsdauer": "1 Minute",
+    "zielkategorie": "Objekte (magische Objekte)",
+    "merkmal": "Hellsicht",
+    "verbreitung": "Gildenmagier (Methumis), Kristallomanten, Zauberalchimisten",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 93
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 14
+      }
+    ],
+    "_source_file": "Astrales+Leuchten.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Astralmanifestation",
+    "wirkung": "Zwischen den Fingern einer oder beider Hände formen sich kleine Blitze, die den Anwender als Zauberer identifizieren. Die Meisterin kann festlegen, dass diese Machtdemonstration eine (Teil-)Erleichterung bei Proben auf Einschüchtern einbringt.",
+    "reichweite": "selbst",
+    "wirkungsdauer": "sofort",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Illusion",
+    "verbreitung": "Gildenmagier, Scharlatane",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 14
+      },
+      {
+        "buch": "Rohals Erben - Aventurische Gildenmagie",
+        "seite": 136
+      }
+    ],
+    "_source_file": "Astralmanifestation.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Auffälliger Stil",
+    "wirkung": "Die Bewegungen des Zauberers sind anmutig und strotzen vor Selbstbewusstsein. Alle Kulturschaffenden in Reichweite des Tricks werden auf ihn aufmerksam.",
+    "reichweite": "8 Schritt",
+    "wirkungsdauer": "sofort",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Einfluss",
+    "verbreitung": "Gildenmagier (Gareth Magische Rüstung), Scharlatane",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 93
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 14
+      }
+    ],
+    "_source_file": "Auffälliger+Stil.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Aura der Eitelkeit",
+    "wirkung": "Der Zauberer ist von einer Aura umgeben, die jedem Kulturschaffenden, der ihn sieht, sofort klarmacht, dass es sich bei ihm um einen Zauberer handelt.",
+    "reichweite": "selbst",
+    "wirkungsdauer": "1 Minute",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Einfluss",
+    "verbreitung": "Borbaradianer, Gildenmagier (Yol-Ghurmak)",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie III Bonusmaterial und Errata",
+        "seite": 7
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 14
+      }
+    ],
+    "_source_file": "Aura+der+Eitelkeit.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Bartwuchs",
+    "wirkung": "Der Druide kann seinen Bart augenblicklich auf bis zu 1 Schritt Länge wachsen lassen. Normales und magisches Haar unterscheiden sich optisch nicht voneinander. Schneidet der Druide den durch den Zaubertrick gewachsenen Bart ab, lösen sich die abgeschnittenen Haare sofort auf.",
+    "reichweite": "selbst",
+    "wirkungsdauer": "sofort",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Verwandlung",
+    "verbreitung": "Druiden, Geoden",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie III",
+        "seite": 159
+      },
+      {
+        "buch": "Die Streitenden Königreiche - Nostria und Andergast",
+        "seite": 159
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 14
+      }
+    ],
+    "_source_file": "Bartwuchs.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Bauchreden",
+    "wirkung": "Ein einzelnes Wort oder ein anderes kurzes, nicht allzu lautes Geräusch nach Wahl erklingt bis zu 8 Schritt entfernt vom Zaubernden.",
+    "reichweite": "8 Schritt",
+    "wirkungsdauer": "1 Aktion",
+    "zielkategorie": "Zone",
+    "merkmal": "Illusion",
+    "verbreitung": "Scharlatane, Schelme",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 286
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 15
+      }
+    ],
+    "_source_file": "Bauchreden.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Beeren & Nüsse",
+    "wirkung": "Mithilfe dieses Zaubertricks sendet der Druide einen Befehl an ein nahes, kleines Tier (z. B. Eichhörnchen, Amsel), das ihm eine Nuss oder einige Beeren bringt. Zum Sattwerden reicht dies jedoch nicht aus, erst 30 Anwendungen des Zaubertricks ergeben eine Ration Nahrung.",
+    "reichweite": "64 Schritt",
+    "wirkungsdauer": "sofort",
+    "zielkategorie": "Tiere (Größenkategorie winzig)",
+    "merkmal": "Einfluss",
+    "verbreitung": "Brobim-Geoden, Darna, Druiden, Geoden, Goblinzauberinnen",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie III",
+        "seite": 123
+      },
+      {
+        "buch": "Die Streitenden Königreiche - Nostria und Andergast",
+        "seite": 159
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 15
+      }
+    ],
+    "_source_file": "Beeren+&+Nüsse.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Bereit zum Aufbruch",
+    "wirkung": "Schuhe und Reisegewand des Magiers fliegen zu ihm und kleiden ihn wie von Geisterhand an.",
+    "reichweite": "8 Schritt",
+    "wirkungsdauer": "30 Sekunden",
+    "zielkategorie": "Objekte",
+    "merkmal": "Telekinese",
+    "verbreitung": "Gildenmagier (Belhanka)",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 93
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 15
+      }
+    ],
+    "_source_file": "Bereit+zum+Aufbruch.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Beruhigung",
+    "wirkung": "Ein schreiender Patient wird für kurze Zeit still, seine Angst verschwindet in dieser Zeit aber nicht. Das Ziel muss vorher den Status Fixiert erlitten haben, damit der Zaubertrick funktioniert.",
+    "reichweite": "Berührung",
+    "wirkungsdauer": "1 Stunde",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Heilung",
+    "verbreitung": "Gildenmagier (Perricum), Zauberalchimisten",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie",
+        "seite": 112
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 15
+      }
+    ],
+    "_source_file": "Beruhigung.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Blick in den Limbus",
+    "wirkung": "Der Zauberer kann ein Fenster in den Limbus öffnen. Jeder kann durch das bullaugengroße Fenster die wabernde graue Masse der Zwischenwelt sehen, sie aber nicht berühren.",
+    "reichweite": "1 Schritt",
+    "wirkungsdauer": "30 Sekunden",
+    "zielkategorie": "Zone",
+    "merkmal": "Hellsicht",
+    "verbreitung": "Borbaradianer, Gildenmagier (Kalliomathëa Dorikeikos von Sorabis), Kristallomanten",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 94
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 15
+      }
+    ],
+    "_source_file": "Blick+in+den+Limbus.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Blütenduft",
+    "wirkung": "In einem Radius von 16 Schritt um den Magier verströmt die Umgebung einen angenehmen Geruch nach Blüten und Waldesgrün.",
+    "reichweite": "selbst",
+    "wirkungsdauer": "1 Minute",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Illusion",
+    "verbreitung": "Darna, Druiden, Elfen, Gildenmagier (Gerasim)",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie",
+        "seite": 112
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 15
+      }
+    ],
+    "_source_file": "Blütenduft.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Buchschließer",
+    "wirkung": "Mit diesem Zaubertrick kann der Zauberer beliebig viele Bücher in Reichweite zuklappen lassen. Der Buchdeckel klappt zu und lässt sich auch von geringem Widerstand, beispielsweise den Händen eines Eleven, nicht davon abhalten. Wer das Buch offen halten will, dem muss eine Probe auf Kraftakt (Ziehen & Zerren) –3 gelingen.",
+    "reichweite": "8 Schritt",
+    "wirkungsdauer": "sofort",
+    "zielkategorie": "Objekte (Bücher)",
+    "merkmal": "Telekinese",
+    "verbreitung": "Gildenmagier, Zibiljas",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 15
+      },
+      {
+        "buch": "Rohals Erben - Aventurische Gildenmagie",
+        "seite": 136
+      }
+    ],
+    "_source_file": "Buchschließer.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Dämonling",
+    "wirkung": "Maximal einen Schritt vom Magier entfernt erscheint eine Dämonengestalt, die an einen 20 Halbfinger großen Gargyl erinnert. Dieser Dämonling verbleibt bis zum Ende der Wirkungsdauer beim Magier und macht nichts weiter, als andere Personen finster anzustarren und gelegentlich dämonisch zu lachen.",
+    "reichweite": "1 Schritt",
+    "wirkungsdauer": "1 Minute",
+    "zielkategorie": "Zone",
+    "merkmal": "Dämonisch",
+    "verbreitung": "Borbaradianer, Gildenmagier (Rafim Bey)",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 94
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 15
+      }
+    ],
+    "_source_file": "Dämonling.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Duft",
+    "wirkung": "Der Zauberer riecht für etwa 5 Minuten nach einem Parfüm oder einem anderen für ihn angenehmen Geruch.",
+    "reichweite": "selbst",
+    "wirkungsdauer": "5 Minuten",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Illusion",
+    "verbreitung": "Zauberalchimisten",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 286
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 17
+      }
+    ],
+    "_source_file": "Duft.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Ehrfürchtiges Verhalten",
+    "wirkung": "Ein Diener, Bauer oder eine andere, gegenüber dem Zauberer mit Ehrfurcht erfüllte Person weicht ihm sich verneigend aus. Personen, auf die die eingehende Beschreibung nicht zutrifft, sind von dem Zaubertrick nicht betroffen.",
+    "reichweite": "8 Schritt",
+    "wirkungsdauer": "30 Sekunden",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Einfluss",
+    "verbreitung": "Animisten, Gildenmagier (Fasar Beherrschung)",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie",
+        "seite": 112
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 17
+      }
+    ],
+    "_source_file": "Ehrfürchtiges+Verhalten.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Einfache Telekinese",
+    "wirkung": "Ein Gegenstand von maximal 0,25 Stein Gewicht kann bis zu 4 Schritt weit in jede Richtung bewegt werden. Schaden durch Würfe o.ä. lässt sich dadurch nicht verursachen.",
+    "reichweite": "4 Schritt",
+    "wirkungsdauer": "sofort",
+    "zielkategorie": "Objekte",
+    "merkmal": "Telekinese",
+    "verbreitung": "Animisten, Gildenmagier (Kuslik, Metamorphosen), Kristallomanten, Scharlatane, Zauberalchimisten",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie III Bonusmaterial und Errata",
+        "seite": 8
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 17
+      }
+    ],
+    "_source_file": "Einfache+Telekinese.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Eiskalter Blick",
+    "wirkung": "Der Zauberer kann einem Kulturschaffenden durch seinen Blick den Eindruck vermitteln, dass der Zauberer gefährlich und ihm weit überlegen sei. Dies führt dazu, dass die Person den Zauberer meidet, solange die Wirkung anhält. Dieser Trick funktioniert nur bei Kulturschaffenden mit einer SK von 2 oder niedriger.",
+    "reichweite": "1 Schritt",
+    "wirkungsdauer": "1 Stunde",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Einfluss",
+    "verbreitung": "Borbaradianer, Druiden, Gildenmagier (Lowangen: Halle der Macht), Nachtalben",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 94
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 17
+      },
+      {
+        "buch": "Helden des Wolfsfrosts",
+        "seite": 54
+      }
+    ],
+    "_source_file": "Eiskalter+Blick.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Elementarling",
+    "wirkung": "Maximal 1 Schritt vom Magier entfernt erscheint eine elementare Gestalt, die an ein 20 Halbfinger großes Wesen aus Feuer, Luft oder einem anderen Element erinnert. Dieser Elementarling verbleibt bis zum Ende der Wirkungsdauer beim Magier und macht nichts weiter, als andere Personen freundlich anzustarren und gelegentlich zu kichern. Der Elementarling kann keine Objekte beschädigen, ein Feuerelementarling z. B. nichts verbrennen.",
+    "reichweite": "1 Schritt",
+    "wirkungsdauer": "1 Minute",
+    "zielkategorie": "Zone",
+    "merkmal": "Elementar",
+    "verbreitung": "Druiden, Geoden, Gildenmagier (Rashdul)",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie III",
+        "seite": 124
+      },
+      {
+        "buch": "Aventurisches Elementarium",
+        "seite": 148
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 17
+      }
+    ],
+    "_source_file": "Elementarling.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Elfenhaar",
+    "wirkung": "Wenn das Haar des Elfen zerzaust ist, kann er mit diesem Zaubertrick dafür sorgen, dass es wieder glatt liegt und so aussieht, als ob Wind durch sein Haar weht.",
+    "reichweite": "selbst",
+    "wirkungsdauer": "sofort",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Verwandlung",
+    "verbreitung": "Elfen (ausschließlich), Nachtalben",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 94
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 17
+      },
+      {
+        "buch": "Helden des Wolfsfrosts",
+        "seite": 54
+      }
+    ],
+    "_source_file": "Elfenhaar.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Essenz der Niederhöllen",
+    "wirkung": "Der Zauberer kann eine winzige Essenz aus den Niederhöllen herbeirufen, die sich in einem Radius von 1 Schritt manifestiert. Dabei kann es sich nach Wahl des Zauberers um einen abstoßenden Geruch, ein dämonisches Kichern oder um eine sich schnell verflüchtigende, schleimige Substanz handeln (etwa von der Menge eines Teelöffels). Keine dieser dämonischen Essenzen hat regeltechnische Auswirkungen.",
+    "reichweite": "1 Schritt",
+    "wirkungsdauer": "1 Minute",
+    "zielkategorie": "Objekte",
+    "merkmal": "Sphären",
+    "verbreitung": "Borbaradianer, Gildenmagier (Rashduler Dämonologen)",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie III Bonusmaterial und Errata",
+        "seite": 8
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 17
+      }
+    ],
+    "_source_file": "Essenz+der+Niederhöllen.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Feenfüße",
+    "wirkung": "Einem maximal 1 Stein wiegenden Objekt wachsen ein oder mehrere Paar kurze Beine, die es auf Befehl des Zauberers umhertragen.",
+    "reichweite": "16 Schritt",
+    "wirkungsdauer": "5 Minuten",
+    "zielkategorie": "Objekte",
+    "merkmal": "Telekinese",
+    "verbreitung": "Kristallomanten, Runenschöpfer, Ysilische Bannzeichner, Zauberalchimisten",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 112
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 18
+      }
+    ],
+    "_source_file": "Feenfüße.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Feenzauber",
+    "wirkung": "Der Magier ist von einem Glimmen umgeben, das an leuchtenden Feenstaub erinnert und ihm etwas Mystisches verleiht. Weitere Auswirkungen hat das feenhafte Leuchten jedoch nicht.",
+    "reichweite": "selbst",
+    "wirkungsdauer": "10 Minuten",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Sphären",
+    "verbreitung": "Gildenmagier (Neersand), Scharlatane",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie III",
+        "seite": 124
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 18
+      }
+    ],
+    "_source_file": "Feenzauber.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Feuerfinger",
+    "wirkung": "Eine kleine Flamme entsteht etwa 1 Halbfinger über einem Finger des Zaubernden. Sie brennt bis zu 5 Minuten lang. Der Zaubertrick schützt die Hand nicht vor der Hitze der Flamme.",
+    "reichweite": "selbst",
+    "wirkungsdauer": "5 Minuten",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Elementar",
+    "verbreitung": "Allgemein",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 286
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 18
+      }
+    ],
+    "_source_file": "Feuerfinger.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Feuerspiel",
+    "wirkung": "Der Zauberer wird von einigen tanzenden Flämmchen umgeben, die um ihn herumkreisen. Sobald sie berührt werden oder auf feste Materie treffen, verschwinden sie, ohne etwas anzuzünden.",
+    "reichweite": "selbst",
+    "wirkungsdauer": "30 Sekunden",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Elementar",
+    "verbreitung": "Geoden, Gildenmagier (Halib abu’l Ketab)",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie III Bonusmaterial und Errata",
+        "seite": 8
+      },
+      {
+        "buch": "Aventurisches Elementarium",
+        "seite": 148
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 18
+      }
+    ],
+    "_source_file": "Feuerspiel.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Flammenhaar",
+    "wirkung": "Das Haar des Zauberers beginnt zu brennen. Die Flammen können weder etwas entzünden, noch sind sie heiß, und die Haare werden auch nicht verzehrt.",
+    "reichweite": "selbst",
+    "wirkungsdauer": "30 Sekunden",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Dämonisch",
+    "verbreitung": "Animisten, Gildenmagier (Agrimeton)",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie III Bonusmaterial und Errata",
+        "seite": 8
+      },
+      {
+        "buch": "Aventurisches Elementarium",
+        "seite": 148
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 18
+      }
+    ],
+    "_source_file": "Flammenhaar.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Geistergeräusche",
+    "wirkung": "Dieser Zaubertrick verursacht in einem Radius von 7 Schritt um den Magier unheimliche, geisterhafte Geräusche (etwa ein Wispern, leise Stimmen, klagendes Stöhnen).",
+    "reichweite": "7 Schritt Radius",
+    "wirkungsdauer": "1 Minute",
+    "zielkategorie": "Zone",
+    "merkmal": "Illusion",
+    "verbreitung": "Borbaradianer, Gildenmagier (Grangor)",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 94
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 18
+      }
+    ],
+    "_source_file": "Geistergeräusche.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Gelöscht",
+    "wirkung": "Mit diesem Zaubertrick ist es möglich, selbstgeschriebene Buchstaben auf einer durchschnittlichen Papierseite verschwinden zu lassen. Sollte die Schrift vor mehr als 5 Minuten auf dem Schriftstück aufgetragen worden sein, kann der Zaubertrick nicht angewendet werden.",
+    "reichweite": "Berührung",
+    "wirkungsdauer": "sofort",
+    "zielkategorie": "Objekte (Schriftstück)",
+    "merkmal": "Objekt",
+    "verbreitung": "Gildenmagier, Ysilische Bannzeichner",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 18
+      }
+    ],
+    "_source_file": "Gelöscht.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Geräuschhexerei",
+    "wirkung": "Ein Lachen, Rülpsen oder Furzen ist zu hören.",
+    "reichweite": "16 Schritt",
+    "wirkungsdauer": "sofort",
+    "zielkategorie": "Zone (innerhalb der Reichweite)",
+    "merkmal": "Illusion",
+    "verbreitung": "Goblinzauberinnen, Schelme",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 94
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 18
+      }
+    ],
+    "_source_file": "Geräuschhexerei.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Geräuschschutz",
+    "wirkung": "Der Zauberer kann diesen Zaubertrick auf sich selbst anwenden, sodass er den Status Taub erhält. Er kann den Zaubertrick jederzeit fallen lassen, um wieder normal zu hören. Dieser Zaubertrick wird häufig von Zauberlehrlingen erlernt, um den störenden Geräuschen in Gemeinschaftsschlafräumen zu entgehen.",
+    "reichweite": "selbst",
+    "wirkungsdauer": "2 Stunden",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Verwandlung",
+    "verbreitung": "Gildenmagier",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 19
+      },
+      {
+        "buch": "Rohals Erben - Aventurische Gildenmagie",
+        "seite": 136
+      }
+    ],
+    "_source_file": "Geräuschschutz.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Glücksgriff",
+    "wirkung": "Der Zaubernde kann aus einer überschaubaren Menge Objekte gezielt das gewünschte herausgreifen. Er kann aus einem Kartenstapel eine bestimmte Karte ziehen, aus einem Beutel eine gewünschte Münze oder von einem Schlüsselbund den richtigen Schlüssel. Er muss dazu das gewünschte Objekt kennen und dieses muss auch wirklich an dem Ort vorhanden sein.",
+    "reichweite": "selbst",
+    "wirkungsdauer": "sofort",
+    "zielkategorie": "Objekte",
+    "merkmal": "Hellsicht",
+    "verbreitung": "Kristallomanten, Scharlatane, Zauberalchimisten",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 286
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 19
+      }
+    ],
+    "_source_file": "Glücksgriff.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Grußworte",
+    "wirkung": "Mit diesem Zaubertrick kann der Zauberer telepathisch jemandem einige Grußworte übermitteln.",
+    "reichweite": "8 Schritt",
+    "wirkungsdauer": "sofort",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Einfluss",
+    "verbreitung": "Darna, Elfen, Gildenmagier (Donnerbach)",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie",
+        "seite": 112
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 19
+      }
+    ],
+    "_source_file": "Grußworte.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Guten Morgen",
+    "wirkung": "Das Ziel des Zaubertricks erwidert freundlich den Gruß des Zauberers. Der Trick funktioniert nur bei Personen, die dem Zauberer gegenüber zumindest neutral eingestellt sind.",
+    "reichweite": "4 Schritt",
+    "wirkungsdauer": "sofort",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Einfluss",
+    "verbreitung": "Gildenmagier (Hesindius Lichtblick)",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie",
+        "seite": 112
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 19
+      }
+    ],
+    "_source_file": "Guten+Morgen.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Gut behütet",
+    "wirkung": "Der Zauberer berührt seinen Hut, den er während des Zaubervorgangs auf dem Kopf tragen muss. Danach lässt sich der Hut während der Wirkungsdauer nicht mehr durch Wind und Sturm vom Kopf des Zauberers wehen. Selbst wenn der Zauberer kopfüber irgendwo hängt, bleibt der Hut auf seinem Kopf. Andere Lebewesen oder der Zauberer selbst können den Hut aber vom Kopf nehmen, wodurch der Zaubertrick sofort endet.",
+    "reichweite": "Berührung",
+    "wirkungsdauer": "1 Stunde",
+    "zielkategorie": "Objekte (Hüte)",
+    "merkmal": "Objekt",
+    "verbreitung": "Gildenmagier, Kristallomanten",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 19
+      },
+      {
+        "buch": "Rohals Erben - Aventurische Gildenmagie",
+        "seite": 137
+      }
+    ],
+    "_source_file": "Gut+behütet.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Haarpracht",
+    "wirkung": "Der Zauberer kann die Farbe seines Haupthaars nach Belieben bestimmen. Gleiches gilt für die Länge, solange sie 1 Schritt nicht überschreitet. Schneidet der Zauberer die durch den Zaubertrick gewachsenen Haare ab, lösen sich diese sofort auf. Nachwachsende Haare sind von der Veränderung nicht betroffen.",
+    "reichweite": "selbst",
+    "wirkungsdauer": "sofort",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Verwandlung",
+    "verbreitung": "Hexen, Scharlatane, Zaubertänzer",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie",
+        "seite": 112
+      },
+      {
+        "buch": "Das Dornenreich",
+        "seite": 154
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 19
+      }
+    ],
+    "_source_file": "Haarpracht.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Handwärmer",
+    "wirkung": "Dieser Zaubertrick hält die Temperatur eines maximal faustgroßen Objekts konstant, solange es in der Hand gehalten wird, maximal jedoch 5 Minuten lang. Theoretisch könnte ein Zauberer auch ein Stück Eis konstant kalt halten.",
+    "reichweite": "Berührung",
+    "wirkungsdauer": "5 Minuten",
+    "zielkategorie": "Objekte",
+    "merkmal": "Elementar",
+    "verbreitung": "Geoden, Kristallomanten",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 286
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 20
+      }
+    ],
+    "_source_file": "Handwärmer.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Hand der Antimagie",
+    "wirkung": "Durch eine bloße Berührung kann der Magier einen Zaubertrick mit QS 1 beenden.",
+    "reichweite": "Berührung",
+    "wirkungsdauer": "sofort",
+    "zielkategorie": "Zaubertricks",
+    "merkmal": "Antimagie",
+    "verbreitung": "Gildenmagier (Nachtwinde), Kristallomanten, Ysilische Bannzeichner",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie III",
+        "seite": 124
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 19
+      }
+    ],
+    "_source_file": "Hand+der+Antimagie.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Hautbild",
+    "wirkung": "Auf der Haut des Animisten erscheinen Hautbilder nach seinen eigenen Vorstellungen. Die aufgemalten Symbole und Bilder können sich sogar auf Wunsch während der Wirkungsdauer auf der Haut bewegen und auch wieder in ihrer Position verharren.",
+    "reichweite": "selbst",
+    "wirkungsdauer": "30 Minuten",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Illusion",
+    "verbreitung": "Animisten, Runenschöpfer",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 20
+      }
+    ],
+    "_source_file": "Hautbild.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Heilsame Berührung",
+    "wirkung": "Das Ziel des Zaubertricks erhält 1 Lebenspunkt zurück. Das Ziel kann nur einmal alle 24 Stunden von dem Trick profitieren.",
+    "reichweite": "Berührung",
+    "wirkungsdauer": "sofort",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Heilung",
+    "verbreitung": "Druiden, Gildenmagier (Norburg), Zibiljas",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 94
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 20
+      }
+    ],
+    "_source_file": "Heilsame+Berührung.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Heller Stern",
+    "wirkung": "Der Zauberer zeigt auf einen Stern oder ein Sternzeichen am Himmel, der oder das daraufhin kurz für den Zauberer und das Ziel aufleuchtet.",
+    "reichweite": "8 Schritt",
+    "wirkungsdauer": "5 Sekunden",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Hellsicht",
+    "verbreitung": "Gildenmagier (Töchter Niobaras)",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie",
+        "seite": 112
+      },
+      {
+        "buch": "Das Dornenreich",
+        "seite": 154
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 20
+      }
+    ],
+    "_source_file": "Heller+Stern.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Hexenblick",
+    "wirkung": "Mittels Hexenblick kann eine Hexe herausfinden, ob eine andere Person ebenfalls die hexische Tradition beherrscht. Sollte das ausgewählte Ziel die Tradition besitzen, so leuchten ihre Augen kurz purpurn auf, was aber nur für die zaubernde Hexe sichtbar ist.",
+    "reichweite": "8 Schritt",
+    "wirkungsdauer": "sofort",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Hellsicht",
+    "verbreitung": "Hexen (ausschließlich)",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 95
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 20
+      }
+    ],
+    "_source_file": "Hexenblick.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Hintergrundmusik",
+    "wirkung": "In einem Radius von 16 Schritt um den Zauberer ist eine angenehme, zum Ort passende Hintergrundmusik zu hören. Das Stück kann der Zauberer selbst bestimmten, es muss aber zum Ambiente passen.",
+    "reichweite": "selbst",
+    "wirkungsdauer": "5 Minuten",
+    "zielkategorie": "Zone",
+    "merkmal": "Illusion",
+    "verbreitung": "Gildenmagier (Zorgan), Scharlatane, Zauberbarden, Zaubertänzer",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie",
+        "seite": 112
+      },
+      {
+        "buch": "Das Dornenreich",
+        "seite": 154
+      },
+      {
+        "buch": "Die Gestade des Gottwals - Thorwal und das Gjalskerland",
+        "seite": 153
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 20
+      }
+    ],
+    "_source_file": "Hintergrundmusik.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Hundekeks",
+    "wirkung": "In der Hand des Geoden manifestiert sich ein Keks, den er seinem Vertrautentier oder einem anderen befreundeten Tier geben kann. Der Keks ist stets nach dem Geschmack des Hundes und wird gerne gegessen, sorgt aber für keine Sättigung.",
+    "reichweite": "selbst",
+    "wirkungsdauer": "sofort",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Verwandlung",
+    "verbreitung": "Geoden, Goblinzauberinnen",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie III",
+        "seite": 124
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 20
+      },
+      {
+        "buch": "Helden des Wolfsfrosts",
+        "seite": 54
+      }
+    ],
+    "_source_file": "Hundekeks.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Insektenbann",
+    "wirkung": "Der Zauberer wird nicht von einfachen Insekten wie Fliegen oder Mücken belästigt. Der Zaubertrick schützt nicht vor Moskitos oder anderen Insekten, die bei Helden Schaden verursachen, Krankheiten übertragen oder ihnen gefährlich werden können. Die Insekten müssen der Größenkategorie winzig angehören.",
+    "reichweite": "selbst",
+    "wirkungsdauer": "6 Stunden",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Verwandlung",
+    "verbreitung": "Animisten, Darna, Druiden, Gildenmagier (Sinoda), Goblinzauberinnen, Hexen",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie",
+        "seite": 113
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 20
+      }
+    ],
+    "_source_file": "Insektenbann.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Jagdtrommel",
+    "wirkung": "In einem Radius von 16 Schritt um den Animisten sind Jagdtrommeln zu hören. Die Illusion bewegt sich mit dem Animisten.",
+    "reichweite": "selbst",
+    "wirkungsdauer": "1 Minute",
+    "zielkategorie": "Zone",
+    "merkmal": "Illusion",
+    "verbreitung": "Animisten, Goblinzauberinnen",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 21
+      }
+    ],
+    "_source_file": "Jagdtrommel.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Kehrbesen",
+    "wirkung": "Die Hexe kann einem beliebigen Besen innerhalb der Reichweite befehlen, den Boden in einem Radius von 8 Schritt zu kehren. Der Besen weicht dabei Hindernissen aus und versucht, Lebewesen der Größenkategorie klein und größer aus dem Weg zu gehen. Wird der Besen berührt, endet der Zaubertrick augenblicklich.",
+    "reichweite": "8 Schritt",
+    "wirkungsdauer": "30 Minuten",
+    "zielkategorie": "Objekte (Besen)",
+    "merkmal": "Telekinese",
+    "verbreitung": "Hexen (ausschließlich)",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 95
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 21
+      }
+    ],
+    "_source_file": "Kehrbesen.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Keimling",
+    "wirkung": "Aus einem Samen in der Hand des Elfen sprießen kleine Triebe hervor und wachsen für die Wirkungsdauer zu winzigen Beinchen, auf denen das entstehende Samenmännchen wackelig herumstolziert. Es versucht möglichst viel Sonnenlicht abzubekommen und tänzelt vergnügt, wenn es bewässert wird. In trockener Dunkelheit schmollt es hingegen und runzelt vor sich hin.",
+    "reichweite": "Berührung",
+    "wirkungsdauer": "5 Minuten",
+    "zielkategorie": "Objekte (Samenkorn)",
+    "merkmal": "Elementar",
+    "verbreitung": "Druiden, Elfen",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 21
+      }
+    ],
+    "_source_file": "Keimling.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Kleiner fliegender Teppich",
+    "wirkung": "Durch die Berührung kann ein Teppich von bis zu 30 x 40 Halbfinger zum Leben erweckt werden. Der Teppich fliegt bis zum Ende der Wirkungsdauer um den Magier und macht nichts weiter, als andere Personen durch seine schiere Existenz zu beeindrucken. Weder greift er jemanden an, noch kann er etwas transportieren. Versucht jemand, etwas auf ihm abzustellen, endet der Trick augenblicklich. Der kleine fliegende Teppich folgt dem Magier mit einer GS von 4.",
+    "reichweite": "Berührung",
+    "wirkungsdauer": "5 Minuten",
+    "zielkategorie": "Zone",
+    "merkmal": "Elementar",
+    "verbreitung": "Gildenmagier (Mherwed), Scharlatane (Zorgan)",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie III",
+        "seite": 124
+      },
+      {
+        "buch": "Aventurisches Elementarium",
+        "seite": 148
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 21
+      }
+    ],
+    "_source_file": "Kleiner+fliegender+Teppich.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Kleingeld",
+    "wirkung": "Der Zauberer kann eine Münze aus seinem Geldbeutel in die Hand einer Person zaubern, ohne den Beutel öffnen zu müssen. Er kann nur eine Münze mit dem Trick teleportieren.",
+    "reichweite": "4 Schritt",
+    "wirkungsdauer": "sofort",
+    "zielkategorie": "Objekte (Münze)",
+    "merkmal": "Sphären",
+    "verbreitung": "Gildenmagier (Riva)",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 95
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 21
+      }
+    ],
+    "_source_file": "Kleingeld.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Kneifen",
+    "wirkung": "Der Zauberer kann einen anderen Kulturschaffenden in eine beliebige Körperstelle kneifen. Dadurch entsteht kein Schaden, es handelt sich mehr um eine neckende Geste.",
+    "reichweite": "8 Schritt",
+    "wirkungsdauer": "sofort",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Telekinese",
+    "verbreitung": "Goblinzauberinnen, Schelme",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 95
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 21
+      }
+    ],
+    "_source_file": "Kneifen.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Körperpflege",
+    "wirkung": "Durch eine Berührung können Hautverunreinigungen, Rötungen und kleine Kratzer beseitigt werden. Der Zaubertrick regeneriert keine LeP und kann auch keine entstellenden Narben oder Pusteln, die durch Krankheiten entstanden sind, beseitigen.",
+    "reichweite": "Berührung",
+    "wirkungsdauer": "sofort",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Heilung",
+    "verbreitung": "Animisten, Gildenmagier (Vinsalt)",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie III",
+        "seite": 124
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 22
+      }
+    ],
+    "_source_file": "Körperpflege.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Konstante Temperatur",
+    "wirkung": "Die Temperatur eines Objekts in einer Schale bleibt konstant, unabhängig davon, wie die Außentemperatur sich ändert.",
+    "reichweite": "1 Schritt",
+    "wirkungsdauer": "5 Minuten",
+    "zielkategorie": "Objekte (Schalen und Kochtöpfe)",
+    "merkmal": "Elementar",
+    "verbreitung": "Gildenmagier (Festum), Zauberalchimisten",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 95
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 21
+      }
+    ],
+    "_source_file": "Konstante+Temperatur.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Kreide",
+    "wirkung": "Der Zauberer kann innerhalb der Reichweite und der Wirkungsdauer auf einer Tafel Kreideschrift erscheinen lassen.",
+    "reichweite": "4 Schritt",
+    "wirkungsdauer": "1 Minute",
+    "zielkategorie": "Objekte (Tafeln)",
+    "merkmal": "Objekt",
+    "verbreitung": "Gildenmagier",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 22
+      },
+      {
+        "buch": "Rohals Erben - Aventurische Gildenmagie",
+        "seite": 137
+      }
+    ],
+    "_source_file": "Kreide.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Kriegsbemalung",
+    "wirkung": "Auf dem Körper des Zauberers erscheinen leuchtende Zauberzeichen, ähnlich einer Tätowierung. Die genaue Form der Bemalung ist dem Zauberer überlassen. Das Leuchten reicht nicht aus, um Licht zu spenden und Sichtmodifikatoren zu beheben.",
+    "reichweite": "selbst",
+    "wirkungsdauer": "10 Minuten",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Verwandlung",
+    "verbreitung": "Animisten, Gildenmagier (Shanada von Ben-Oni)",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie III",
+        "seite": 124
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 22
+      }
+    ],
+    "_source_file": "Kriegsbemalung.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Laufendes Händchen",
+    "wirkung": "Durch die Berührung einer abgeschlagenen Hand kann der Magier diese zum Untoten erwecken. Die Hand verbleibt bis zum Ende der Wirkungsdauer in der Nähe des Magiers und macht nichts weiter, als andere Personen durch krabbelnde Bewegungen und Zuckungen zu verunsichern. Weder greift sie jemanden an, noch kann sie etwas ergreifen. Dafür ist sie aber in der Lage, sich fortzubewegen (mit GS 4), um dem Magier zu folgen.",
+    "reichweite": "Berührung",
+    "wirkungsdauer": "10 Minuten",
+    "zielkategorie": "Objekte (abgetrennte Hand)",
+    "merkmal": "Dämonisch",
+    "verbreitung": "Gildenmagier (Brabak)",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie III",
+        "seite": 125
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 22
+      }
+    ],
+    "_source_file": "Laufendes+Händchen.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Leselampe",
+    "wirkung": "Aus dem rechten Zeigefinger des Magiers leuchtet ein schwaches Licht. Das Licht ist nicht hell genug, um Sichtmodifikatoren zu ändern, aber es reicht aus, um in der Dunkelheit ein Buch zu lesen.",
+    "reichweite": "1 Schritt",
+    "wirkungsdauer": "30 Minuten",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Elementar",
+    "verbreitung": "Gildenmagier, Kristallomanten, Ysilische Bannzeichner, Zibiljas",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Die Streitenden Königreiche - Nostria und Andergast",
+        "seite": 160
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 22
+      }
+    ],
+    "_source_file": "Leselampe.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Leuchtblume",
+    "wirkung": "Berührt der Elf eine Blume, so beginnen die Blütenblätter zu leuchten. Die Helligkeit, die sie ausstrahlen, entspricht einem FLIM FLAM mit QS 1. Wird die Blume gepflückt oder beschädigt, so endet das Leuchten augenblicklich.",
+    "reichweite": "Berührung",
+    "wirkungsdauer": "1 Stunde",
+    "zielkategorie": "Pflanzen (Blumen)",
+    "merkmal": "Verwandlung",
+    "verbreitung": "Darna, Elfen",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 95
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 22
+      }
+    ],
+    "_source_file": "Leuchtblume.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Lockruf",
+    "wirkung": "Ein kleines Tier (Eichhörnchen, Taube) kommt neugierig auf den Zaubernden zu. Die Wirkung hält 5 Minuten lang an.",
+    "reichweite": "4 Schritt",
+    "wirkungsdauer": "5 Minuten",
+    "zielkategorie": "Tiere (Größenkategorie winzig)",
+    "merkmal": "Einfluss",
+    "verbreitung": "Darna, Druiden, Goblinzauberinnen",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 287
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 22
+      }
+    ],
+    "_source_file": "Lockruf.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Luftstoß",
+    "wirkung": "Ein kleiner Lufthauch bläst Kerzen und ähnlich große Flammen innerhalb eines Radius von 8 Schritt um den Zauberer aus.",
+    "reichweite": "selbst",
+    "wirkungsdauer": "sofort",
+    "zielkategorie": "Objekte (kleine Flammen)",
+    "merkmal": "Telekinese",
+    "verbreitung": "Elfen, Gildenmagier, Nachtalben",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie",
+        "seite": 113
+      },
+      {
+        "buch": "Das Dornenreich",
+        "seite": 155
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 22
+      }
+    ],
+    "_source_file": "Luftstoß.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Nagellack",
+    "wirkung": "Durch diesen Trick kann der Zauberer beliebig viele seiner Finger- oder Fußnägel in einer beliebigen Farbe lackieren.",
+    "reichweite": "selbst",
+    "wirkungsdauer": "sofort",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Verwandlung",
+    "verbreitung": "Gildenmagier (Al’Anfa), Hexen, Zaubertänzer",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie",
+        "seite": 113
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 23
+      }
+    ],
+    "_source_file": "Nagellack.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Ordentlich",
+    "wirkung": "dieser Zaubertrick sorgt dafür, dass die Kleidung einer Person ordentlich sitzt.",
+    "reichweite": "selbst",
+    "wirkungsdauer": "6 Stunden",
+    "zielkategorie": "Objekte (Kleidung)",
+    "merkmal": "Telekinese",
+    "verbreitung": "Gildenmagier (Kuslik: Halle der Antimagie)",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie",
+        "seite": 113
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 23
+      }
+    ],
+    "_source_file": "Ordentlich.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Patron-Illusion",
+    "wirkung": "Der Zaubertrick lässt über dem Kopf und eventuell anderen Stellen des Körpers ein geisterhaftes Abbild des Patrons erscheinen. Dies kann nach Meisterentscheid dazu führen, dass Proben wie Einschüchtern eine Erleichterung von +1 erhalten.",
+    "reichweite": "selbst",
+    "wirkungsdauer": "5 Aktionen",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Illusion",
+    "verbreitung": "Animisten",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Die Gestade des Gottwals - Thorwal und das Gjalskerland",
+        "seite": 153
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 23
+      }
+    ],
+    "_source_file": "Patron-Illusion.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Pflanzenempathie",
+    "wirkung": "Berührt der Druide eine Pflanze, kann er sich ein Bild von ihrem Gesundheitszustand machen und herausfinden, ob sie von Schädlingen befallen ist, vergiftet wurde oder ähnliches.",
+    "reichweite": "Berührung",
+    "wirkungsdauer": "sofort",
+    "zielkategorie": "Pflanzen",
+    "merkmal": "Hellsicht",
+    "verbreitung": "Animisten, Darna, Druiden",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie III",
+        "seite": 125
+      },
+      {
+        "buch": "Die Streitenden Königreiche - Nostria und Andergast",
+        "seite": 161
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 23
+      }
+    ],
+    "_source_file": "Pflanzenempathie.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Platscher",
+    "wirkung": "Der Druide klatscht in die Hände und verspritzt so auf magische Weise ein wenig Wasser, das genügt, um eine beistehende Person ordentlich nass zu spritzen oder eine kleine Pflanze zu bewässern. Für 1 AsP kann der Druide insgesamt drei Mal Wasser verspritzen.",
+    "reichweite": "4 Schritt",
+    "wirkungsdauer": "sofort",
+    "zielkategorie": "Zone (innerhalb der Reichweite)",
+    "merkmal": "Elementar",
+    "verbreitung": "Druiden, Geoden",
+    "ap_wert": 1,
+    "publikationen": [
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 23
+      }
+    ],
+    "_source_file": "Platscher.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Putziges Tierchen",
+    "wirkung": "Ein zufällig von der Meisterin ausgewähltes kleines Tierchen (Singvogel, Eichhörnchen, Maus) der Größenkategorie winzig, das sich innerhalb der Reichweite befindet, nähert sich dem Elf und setzt sich auf seine Schulter, seine Hand oder seinen Kopf. Das Tierchen verbleibt dort in der Regel 1 Minute, aber nach eigenem Wunsch oder Verhalten des Elfen auch länger.",
+    "reichweite": "16 Schritt",
+    "wirkungsdauer": "sofort",
+    "zielkategorie": "Tiere (Größenkategorie winzig)",
+    "merkmal": "Einfluss",
+    "verbreitung": "Elfen",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 95
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 23
+      }
+    ],
+    "_source_file": "Putziges+Tierchen.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Regenbogenaugen",
+    "wirkung": "Die Augenfarbe des Zaubernden ändert sich für 5 Minuten. Es sind unnatürliche Farben möglich.",
+    "reichweite": "selbst",
+    "wirkungsdauer": "5 Minuten",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Illusion",
+    "verbreitung": "Kristallomanten, Scharlatane",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 287
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 23
+      }
+    ],
+    "_source_file": "Regenbogenaugen.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Regenschirm",
+    "wirkung": "Der Zauberer wird durch diesen Trick mit einem Schutzschirm überzogen, der etwa 3 Halbfinger über dem Rand seiner Kleidung liegt. Dieser Schutzschirm hält Regen und andere Niederschläge von der Kleidung und dem Zauberer ab. Der Zaubertrick schützt den Zauberer nicht davor, nass zu werden, wenn er sich freiwillig oder unfreiwillig in ein Gewässer begibt.",
+    "reichweite": "selbst",
+    "wirkungsdauer": "30 Minuten",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Telekinese",
+    "verbreitung": "Gildenmagier",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 23
+      },
+      {
+        "buch": "Rohals Erben - Aventurische Gildenmagie",
+        "seite": 137
+      }
+    ],
+    "_source_file": "Regenschirm.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Rohrstock",
+    "wirkung": "Dieser Zaubertrick sorgt dafür, dass jemand einen kleinen Schlag auf die Finger abbekommt, ganz so, als ob ihn jemand mit einem Rohrstock geschlagen hätte. Schaden erleidet das Ziel dadurch nicht.",
+    "reichweite": "4 Schritt",
+    "wirkungsdauer": "sofort",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Telekinese",
+    "verbreitung": "Gildenmagier (Gareth: Akademie Schwert & Stab)",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie",
+        "seite": 112
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 24
+      }
+    ],
+    "_source_file": "Rohrstock.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Rührlöffel",
+    "wirkung": "Die Hexe kann einem Löffel innerhalb der Reichweite befehlen, selbstständig in einer Tasse, einem Kessel oder einem anderen mit Flüssigkeit gefüllten Gefäß zu rühren, bis die Wirkungsdauer abgelaufen ist. Wird der Löffel während der Wirkungsdauer berührt, endet der Zaubertrick augenblicklich.",
+    "reichweite": "Berührung",
+    "wirkungsdauer": "30 Minuten",
+    "zielkategorie": "Objekte (Löffel)",
+    "merkmal": "Telekinese",
+    "verbreitung": "Hexen, Zauberalchimisten",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 95
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 24
+      }
+    ],
+    "_source_file": "Rührlöffel.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Ruhige Ausstrahlung",
+    "wirkung": "Von dem Magier geht eine ruhige Ausstrahlung aus, die sich auch auf Personen in einem Umkreis von 3 Schritt überträgt. Allerdings sind davon nur Personen mit einer SK von 1 oder weniger betroffen. Der Kreis der magischen Wirkung folgt dem Magier mit ihm als Mittelpunkt.",
+    "reichweite": "3 Schritt Radius",
+    "wirkungsdauer": "1 Minute",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Einfluss",
+    "verbreitung": "Animisten, Darna, Druiden, Geoden, Gildenmagier (Bethana), Zibiljas",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 95
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 24
+      }
+    ],
+    "_source_file": "Ruhige+Ausstrahlung.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Rutschiger Boden",
+    "wirkung": "Der Zauberer kann bis zu 5 Schritt auf dem Boden rutschen, so als wäre dieser extrem eingeseift.",
+    "reichweite": "selbst",
+    "wirkungsdauer": "maximal 1 Minute",
+    "zielkategorie": "Zone (5 Schritt)",
+    "merkmal": "Objekt",
+    "verbreitung": "Schelme",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 96
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 24
+      }
+    ],
+    "_source_file": "Rutschiger+Boden.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Sandfigur",
+    "wirkung": "Eine Handvoll Sand beginnt sich zu einer ca. 10 Halbfinger großen Figur zu formen, die nach dem Willen des Zauberers kleine Tricks zur Unterhaltung aufführt. Die Sandfigur muss in einem Radius von 10 Halbfingern verbleiben.",
+    "reichweite": "1 Schritt",
+    "wirkungsdauer": "1 Minute",
+    "zielkategorie": "Objekte (Sand)",
+    "merkmal": "Elementar",
+    "verbreitung": "Gildenmagier (Vadif)",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie",
+        "seite": 113
+      },
+      {
+        "buch": "Aventurisches Elementarium",
+        "seite": 148
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 24
+      }
+    ],
+    "_source_file": "Sandfigur.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Sauberes Werkzeug",
+    "wirkung": "Durch diesen Zaubertrick kann ein Werkzeug für die Herstellung von Runen von allem Schmutz gesäubert werden.",
+    "reichweite": "Berührung",
+    "wirkungsdauer": "sofort",
+    "zielkategorie": "Objekte (Werkzeuge)",
+    "merkmal": "Objekt",
+    "verbreitung": "Runenschöpfer",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Die Gestade des Gottwals - Thorwal und das Gjalskerland",
+        "seite": 153
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 24
+      }
+    ],
+    "_source_file": "Sauberes+Werkzeug.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Schattenspiel",
+    "wirkung": "Der Magier kann eine Illusion errichten, die in einer Zone von 2 Schritt Radius einen Schatten entstehen lässt, der ihn einhüllt. Der Schatten bringt keinen Sichtmodifikator ein, kann aber auch dort platziert werden, wo kein Schatten hinfällt. Er schützt nicht vor der Sonne, da er eine Illusion ist. Magier benutzen den Zaubertrick vor allem dazu, um spektakulär aus einem Schatten hervorzutreten und ihr Gegenüber zu beeindrucken.",
+    "reichweite": "8 Schritt",
+    "wirkungsdauer": "1 Minute",
+    "zielkategorie": "Zone",
+    "merkmal": "Illusion",
+    "verbreitung": "Gildenmagier (Fasar Bannakademie), Scharlatane",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie III",
+        "seite": 125
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 24
+      }
+    ],
+    "_source_file": "Schattenspiel.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Schlangenhände",
+    "wirkung": "Die Hand- und Fingerknochen des Zaubernden werden sehr flexibel, sodass sie durch enge Öffnungen gezwängt werden können. Die Wirkung hält 5 Minuten lang an.",
+    "reichweite": "selbst",
+    "wirkungsdauer": "5 Minuten",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Verwandlung",
+    "verbreitung": "Kristallomanten",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 287
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 26
+      }
+    ],
+    "_source_file": "Schlangenhände.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Schminken",
+    "wirkung": "Durch diesen Zaubertrick tragen Schminkutensilien die Schminke so wie gewünscht auf, ohne dass der Zauberer seine Hände benutzen muss. Das Ziel muss in einem ruhigen Zustand verharren, bis der Schminkvorgang vollendet ist.",
+    "reichweite": "selbst",
+    "wirkungsdauer": "bis zu 30 Minuten",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Telekinese",
+    "verbreitung": "Gildenmagier, Hexen, Scharlatane, Zaubertänzer",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie",
+        "seite": 113
+      },
+      {
+        "buch": "Das Dornenreich",
+        "seite": 155
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 26
+      }
+    ],
+    "_source_file": "Schminken.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Schmutzabweisend",
+    "wirkung": "An Haut und Haar des Elfen haften weder Staub noch Dreck.",
+    "reichweite": "selbst",
+    "wirkungsdauer": "24 Stunden",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Verwandlung",
+    "verbreitung": "Darna, Elfen",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 96
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 26
+      }
+    ],
+    "_source_file": "Schmutzabweisend.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Schnipsen",
+    "wirkung": "Es kommt zu einer kurzen telekinetischen Entladung mit einer Reichweite von 4 Schritt, die beispielsweise eine Münze von einem Tisch fegen kann. Sie ist nicht stark genug, um eine Glasflasche bersten zu lassen, genügt aber für eine Ohrfeige.",
+    "reichweite": "4 Schritt",
+    "wirkungsdauer": "sofort",
+    "zielkategorie": "Objekte, Wesen",
+    "merkmal": "Telekinese",
+    "verbreitung": "Allgemein",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 287
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 26
+      }
+    ],
+    "_source_file": "Schnipsen.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Schönschrift",
+    "wirkung": "Eine durchschnittliche Papierseite mit selbstgeschriebenen Buchstaben wird so verändert, dass selbst aus einer krakeligen Schrift eine gut lesbare Schönschrift wird.",
+    "reichweite": "Berührung",
+    "wirkungsdauer": "sofort",
+    "zielkategorie": "Objekte (Schriftstücke)",
+    "merkmal": "Objekt",
+    "verbreitung": "Gildenmagier, Zauberalchimisten",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 26
+      },
+      {
+        "buch": "Rohals Erben - Aventurische Gildenmagie",
+        "seite": 137
+      }
+    ],
+    "_source_file": "Schönschrift.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Schulgong",
+    "wirkung": "Der Zauberer berührt einen Punkt (an einem Gegenstand oder in der Luft), danach legt er einen Zeitraum von 30 Minuten, 1 oder 2 Stunden fest. Am Ende dieses Zeitraums ist mehrfach ein Gongschlag zu hören. Das Geräusch ist in einem Radius von 16 Schritt um den berührten Punkt zu hören und dauert 10 Sekunden lang an.",
+    "reichweite": "Berührung",
+    "wirkungsdauer": "10 Sekunden",
+    "zielkategorie": "Zone",
+    "merkmal": "Illusion",
+    "verbreitung": "Gildenmagier",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 26
+      },
+      {
+        "buch": "Rohals Erben - Aventurische Gildenmagie",
+        "seite": 137
+      }
+    ],
+    "_source_file": "Schulgong.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Schutz vor dem Tierpatron",
+    "wirkung": "Durch diesen Zaubertrick kann ein Animist mit Tierpatron als primärem Patron eben jene Tierart für einen Moment friedlich stimmen. Das Tier wird den Animisten nicht angreifen und seiner Wege gehen, solange es nicht angegriffen wird.",
+    "reichweite": "8 Schritt",
+    "wirkungsdauer": "3 KR",
+    "zielkategorie": "Tiere (Tierpatron)",
+    "merkmal": "Einfluss",
+    "verbreitung": "Animisten (ausschließlich)",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Geisterwald & Knochenklippen (Die Gestade des Gottwals)",
+        "seite": 5
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 26
+      }
+    ],
+    "_source_file": "Schutz+vor+dem+Tierpatron.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Selbstarchivierung",
+    "wirkung": "Ein aus einer Bibliothek geliehenes Buch fliegt wieder dorthin, woher es der Zauberer aus dem Regal entnommen hat. Dieser Zaubertrick funktioniert nur bei Büchern, die der Zauberer selbst ausgeliehen und aus der Bibliothek entnommen hat.",
+    "reichweite": "16 Schritt",
+    "wirkungsdauer": "sofort",
+    "zielkategorie": "Objekte (Bücher)",
+    "merkmal": "Telekinese",
+    "verbreitung": "Gildenmagier (Lowangen: Verwandlung)",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie",
+        "seite": 113
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 26
+      }
+    ],
+    "_source_file": "Selbstarchivierung.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Siegel der Elemente",
+    "wirkung": "Der Magier kann ein sichtbares Siegel der Elemente an einem Objekt anbringen. Das Siegel ist ein Hexagramm mit allen sechs Elementen, von maximal der Größe eines menschlichen Kopfes. Das Siegel leuchtet alle 10 Sekunden kurz auf. Das Leuchten des Siegels reicht nicht aus, um Sichtmodifikatoren zu beheben, aber es kann in der Ferne wahrgenommen werden. Eine besondere Funktion, außer beeindruckend auszusehen, hat das Siegel nicht.",
+    "reichweite": "Berührung",
+    "wirkungsdauer": "6 Stunden",
+    "zielkategorie": "Objekte",
+    "merkmal": "Elementar",
+    "verbreitung": "Druiden (Drakonia), Gildenmagier (Drakonia)",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie III",
+        "seite": 125
+      },
+      {
+        "buch": "Aventurisches Elementarium",
+        "seite": 148
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 27
+      }
+    ],
+    "_source_file": "Siegel+der+Elemente.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Signatur",
+    "wirkung": "Auf einem leblosen Objekt nach Wahl des Zaubernden erscheint eine Glyphe oder ein Symbol und verbleibt dauerhaft. Der Zaubernde muss das Objekt berühren. Das Symbol wirkt wie gemalt und kann weggeputzt werden. Mittels dieses Tricks kann man jeweils nur eine Art von Zeichen auftauchen lassen (z. B. ein Piktogramm).",
+    "reichweite": "Berührung",
+    "wirkungsdauer": "sofort",
+    "zielkategorie": "Objekte",
+    "merkmal": "Objekt",
+    "verbreitung": "Runenschöpfer, Ysilische Bannzeichner, Zibiljas",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 287
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 27
+      }
+    ],
+    "_source_file": "Signatur.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Sprechendes Kästchen",
+    "wirkung": "Der Zauberer kann ein kleines Schmuckkästchen verzaubern, das ihm mit einer angenehmen Stimme vom eigenen Inhalt berichtet, wenn er es wünscht.",
+    "reichweite": "4 Schritt",
+    "wirkungsdauer": "1 Stunde",
+    "zielkategorie": "Objekte",
+    "merkmal": "Objekt",
+    "verbreitung": "Gildenmagier (Khunchom), Kristallomanten",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie III Bonusmaterial und Errata",
+        "seite": 8
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 27
+      }
+    ],
+    "_source_file": "Sprechendes+Kästchen.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Stabhalter",
+    "wirkung": "Der Zauberer kann seinen Magierstab an einer Stelle stehen lassen, sodass der Stab eine (annähernd) vertikale Position einnimmt und nicht umfällt. Die Berührung eines Lebewesens gegen den Stab beendet den Zauber, ebenso starke Umwelteinflüsse, etwa ein Sturm. Leichter Wind oder ähnlich schwache Einflüsse lassen den Stab aber nicht umkippen.",
+    "reichweite": "Berührung",
+    "wirkungsdauer": "1 Stunde",
+    "zielkategorie": "Objekte (magische Objekte, Magierstäbe)",
+    "merkmal": "Objekt",
+    "verbreitung": "Gildenmagier",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 27
+      },
+      {
+        "buch": "Rohals Erben - Aventurische Gildenmagie",
+        "seite": 138
+      }
+    ],
+    "_source_file": "Stabhalter.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Steinempathie",
+    "wirkung": "Berührt der Geode einen Stein, kann er sich Eindrücke von diesem verschaffen. Er erfährt z. B., ob der Stein jemals Teil eines Bergwerks war, in einen See geworfen wurde und ob ihn ein Mensch von einem größeren Stein abgebrochen hat.",
+    "reichweite": "Berührung",
+    "wirkungsdauer": "sofort",
+    "zielkategorie": "Objekte (Steine)",
+    "merkmal": "Hellsicht",
+    "verbreitung": "Geoden",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie III",
+        "seite": 125
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 27
+      },
+      {
+        "buch": "Helden des Wolfsfrosts",
+        "seite": 54
+      }
+    ],
+    "_source_file": "Steinempathie.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Strahlendes Lächeln",
+    "wirkung": "Die Zähne des Zauberers strahlen extrem weiß, weshalb reflektiertes Licht sie kurz aufblitzen lässt. Eine ablenkende Wirkung hat das Strahlen allerdings nicht.",
+    "reichweite": "selbst",
+    "wirkungsdauer": "30 Sekunden",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Illusion",
+    "verbreitung": "Scharlatane, Schelme, Zauberbarden",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 96
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 27
+      }
+    ],
+    "_source_file": "Strahlendes+Lächeln.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Tätowierung",
+    "wirkung": "Auf dem Körper des Verzauberten entsteht eine maximal 10 Halbfinger auf 10 Halbfinger große Tätowierung nach Wunsch des Zauberers. Bei den Tätowierungen muss es sich um einfache Runen oder einfache Muster handeln.",
+    "reichweite": "Berührung",
+    "wirkungsdauer": "1 Stunde",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Verwandlung",
+    "verbreitung": "Gildenmagier, Runenschöpfer, Zaubertänzer",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie",
+        "seite": 113
+      },
+      {
+        "buch": "Das Dornenreich",
+        "seite": 155
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 28
+      }
+    ],
+    "_source_file": "Tätowierung.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Tafelschwamm",
+    "wirkung": "Der Zauberer kann mit diesem Zaubertrick die Kreideschrift auf einer Tafel wegwischen. Er kann dabei beliebige Teile der Kreide auslassen.",
+    "reichweite": "4 Schritt",
+    "wirkungsdauer": "sofort",
+    "zielkategorie": "Objekte (Tafeln)",
+    "merkmal": "Objekt",
+    "verbreitung": "Gildenmagier",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 27
+      },
+      {
+        "buch": "Rohals Erben - Aventurische Gildenmagie",
+        "seite": 138
+      }
+    ],
+    "_source_file": "Tafelschwamm.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Tentakelgriff",
+    "wirkung": "Aus der Hand des Magiers schnellt ein Tentakel hervor, der einen bis zu apfelgroßen und nicht mehr als 0,1 Stein schweren Gegenstand zu ihm ziehen kann. Sollte der Gegenstand von jemand anderem festgehalten werden, misslingt der Zaubertrick. Die Reichweite des Fangarms beträgt 1 Schritt.",
+    "reichweite": "selbst",
+    "wirkungsdauer": "5 Minuten",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Verwandlung",
+    "verbreitung": "Borbaradianer, Gildenmagier (Sevestana Gevendar)",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 96
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 28
+      }
+    ],
+    "_source_file": "Tentakelgriff.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Tierpflege",
+    "wirkung": "Gegenstände wie Bürsten, Lappen und andere für die Tierpflege geeignete Dinge bewegen sich telekinetisch zum Vertrauten der Hexe oder einem befreundeten Tier und beginnen, das Tier zu bürsten und zu säubern. Das Tier darf sich nicht weiter als 8 Schritt von der Hexe entfernt befinden.",
+    "reichweite": "8 Schritt",
+    "wirkungsdauer": "5 Minuten",
+    "zielkategorie": "Objekte",
+    "merkmal": "Telekinese",
+    "verbreitung": "Hexen",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 96
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 28
+      }
+    ],
+    "_source_file": "Tierpflege.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Tiertrick",
+    "wirkung": "Der Zauberer kann ein harmloses Tier der Größenkategorie winzig aus einem Hut oder hinter dem Ohr einer anderen Person herbeizaubern (z. B. eine Maus oder Küchenschabe). Das Tier löst sich am Ende der Wirkungsdauer auf, falls es nicht vorher getötet wird.",
+    "reichweite": "Berührung",
+    "wirkungsdauer": "1 Minute",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Sphären",
+    "verbreitung": "Goblinzauberinnen, Scharlatane, Schelme, Zibiljas",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 96
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 28
+      }
+    ],
+    "_source_file": "Tiertrick.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Totenmaske",
+    "wirkung": "Mit diesem Zaubertrick kann der Zauberer eine Maske in Form einer Totenmaske auf sein Gesicht projizieren. Diese Form der Maskierung ist vor allem bei geheimen Logen und Qabalyim gebräuchlich.",
+    "reichweite": "selbst",
+    "wirkungsdauer": "15 Minuten",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Illusion",
+    "verbreitung": "Gildenmagier (Erben der Gräber)",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Das Dornenreich",
+        "seite": 155
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 28
+      }
+    ],
+    "_source_file": "Totenmaske.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Trocken",
+    "wirkung": "Der Zaubernde und seine Kleidung sind etwa 5 Minuten lang vor Nässe, beispielsweise durch Regen oder Untertauchen, geschützt. Nasse Kleidung wird durch den Trick nicht wieder trocken.",
+    "reichweite": "selbst",
+    "wirkungsdauer": "5 Minuten",
+    "zielkategorie": "Kulturschaffende, Objekte",
+    "merkmal": "Elementar",
+    "verbreitung": "Allgemein",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Regelwerk",
+        "seite": 287
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 28
+      }
+    ],
+    "_source_file": "Trocken.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Türklinkenbetätiger",
+    "wirkung": "Durch diesen Zaubertrick kann ein Zauberer eine Tür in Reichweite öffnen oder schließen. Das Schloss der Tür kann dadurch nicht geöffnet oder geschlossen werden, es ist lediglich möglich, eine unverschlossene Tür zu bewegen.",
+    "reichweite": "8 Schritt",
+    "wirkungsdauer": "sofort",
+    "zielkategorie": "Objekte (Türen)",
+    "merkmal": "Telekinese",
+    "verbreitung": "Gildenmagier",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 28
+      },
+      {
+        "buch": "Rohals Erben - Aventurische Gildenmagie",
+        "seite": 138
+      }
+    ],
+    "_source_file": "Türklinkenbetätiger.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Türklopfer",
+    "wirkung": "Der Zauberer kann eine Tür verzaubern. Klopft man an die Tür, hört man ein Geräusch oder eine kurze, maximal 10 Sekunden andauernde Melodie nach Wahl des Zauberers. Das Geräusch oder die Melodie muss zu Beginn des Zauberns festgelegt werden.",
+    "reichweite": "Berührung",
+    "wirkungsdauer": "24 Stunden",
+    "zielkategorie": "Objekte",
+    "merkmal": "Objekt",
+    "verbreitung": "Gildenmagier (Mirham)",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie III Bonusmaterial und Errata",
+        "seite": 8
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 28
+      }
+    ],
+    "_source_file": "Türklopfer.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Übergangen",
+    "wirkung": "Diese scherzhafte Neuentwicklung eines Zaubertricks stammt aus Honingen. Da einige der dortigen Forscher bemerkten, dass der berühmte Magister Ilmenblick oft von Kollegen ignoriert wird, haben sie einen kleinen Zaubertrick-Fluch erschaffen, der bei der berührten Person ebenfalls kurz dafür sorgt, dass sie von anderen Menschen übergangen wird (z. B. von der Schankmagd in der Taverne). Der Trick verhindert keine negativen Auswirkungen. Ein angriffslustiger Ork wird den Verzauberten also nicht ignorieren.",
+    "reichweite": "Berührung",
+    "wirkungsdauer": "5 Minuten",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Einfluss",
+    "verbreitung": "Gildenmagier (Honingen)",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie III",
+        "seite": 125
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 29
+      }
+    ],
+    "_source_file": "Übergangen.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Unauffälliger Stab",
+    "wirkung": "Ein Traditionsartefakt des Zauberers wird für einen kurzen Moment unauffällig, sodass niemand darauf achtet. Dieser Zaubertrick funktioniert nur gegen Kulturschaffende mit einer SK von 2 oder niedriger in Wahrnehmungsreichweite.",
+    "reichweite": "Berührung",
+    "wirkungsdauer": "30 Sekunden",
+    "zielkategorie": "Objekte (Traditionsartefakte)",
+    "merkmal": "Einfluss",
+    "verbreitung": "Gildenmagier (Rommilys), Hexen",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie III Bonusmaterial und Errata",
+        "seite": 8
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 29
+      }
+    ],
+    "_source_file": "Unauffälliger+Stab.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Unheimliches Lachen",
+    "wirkung": "Das Lachen des Zauberers hört sich bedrohlich und unheimlich an. Weitere regeltechnische Auswirkungen hat das Lachen jedoch nicht.",
+    "reichweite": "selbst",
+    "wirkungsdauer": "sofort",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Einfluss",
+    "verbreitung": "Borbaradianer, Gildenmagier (Demirion Ophenos), Hexen",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie",
+        "seite": 114
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 29
+      }
+    ],
+    "_source_file": "Unheimliches+Lachen.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Verbundenheitsgefühl",
+    "wirkung": "Berührt der Magier einen Magier der gleichen Ausbildungsstätte, kann er dessen Gefühle spüren wie durch den Zauberspruch SENSIBAR. Nach Meisterentscheid gilt dies auch für Hexen- und Druidenzirkel oder eng befreundete Heldengruppen.",
+    "reichweite": "Berührung",
+    "wirkungsdauer": "1 Minute",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Hellsicht",
+    "verbreitung": "Gildenmagier (Kreis der Einfühlung)",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 96
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 29
+      }
+    ],
+    "_source_file": "Verbundenheitsgefühl.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Verneigung",
+    "wirkung": "Kulturschaffende in einem Radius von 3 Schritt um den Magier verneigen sich respektvoll vor ihm. Diese Wirkung kann der Trick aber nur gegen Personen mit SK 1 oder weniger erzielen. Der Kreis der magischen Wirkung folgt dem Magier mit ihm als Mittelpunkt.",
+    "reichweite": "3 Schritt Radius",
+    "wirkungsdauer": "1 Minute",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Einfluss",
+    "verbreitung": "Borbaradianer, Gildenmagier (Elenvina)",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 96
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 29
+      }
+    ],
+    "_source_file": "Verneigung.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Verrücktes Kichern",
+    "wirkung": "Mit diesem Zaubertrick kann die Hexe ein irres, verrücktes Kichern ausstoßen, das durch den gesamten Raum hallt. Regeltechnische Auswirkungen hat das verrückte Kichern nicht.",
+    "reichweite": "selbst",
+    "wirkungsdauer": "sofort",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Einfluss",
+    "verbreitung": "Hexen",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 97
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 29
+      }
+    ],
+    "_source_file": "Verrücktes+Kichern.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Waffensäuberung",
+    "wirkung": "Dieser Zaubertrick reinigt eine beliebige Waffe, die der Zauberer berührt, vollständig von Flugrost, Blut und anderen Verschmutzungen.",
+    "reichweite": "Berührung",
+    "wirkungsdauer": "sofort",
+    "zielkategorie": "Objekte (Waffen)",
+    "merkmal": "Objekt",
+    "verbreitung": "Animisten, Darna, Gildenmagier",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Die Streitenden Königreiche - Nostria und Andergast",
+        "seite": 161
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 29
+      },
+      {
+        "buch": "Helden des Wolfsfrosts",
+        "seite": 54
+      }
+    ],
+    "_source_file": "Waffensäuberung.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Warmes Blut",
+    "wirkung": "Dieser Zaubertrick ermöglicht Wärmeunterschiede zwischen Lebewesen und Objekten zu sehen. Warme Lebewesen nimmt der Zauberer in Rottönen wahr, kalte Wesen oder Objekte in Blautönen. Er wirkt nur, wenn der Zauberer grundsätzlich ungehindert sehen kann.",
+    "reichweite": "selbst",
+    "wirkungsdauer": "5 Minuten",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Hellsicht",
+    "verbreitung": "Kristallomanten, Nachtalben",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 30
+      },
+      {
+        "buch": "Helden des Wolfsfrosts",
+        "seite": 54
+      }
+    ],
+    "_source_file": "Warmes+Blut.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Wasserhöhe",
+    "wirkung": "Der Zauberer kann sagen, ob ein Gewässer vor ihm tiefer ist, als er selbst groß ist.",
+    "reichweite": "4 Schritt",
+    "wirkungsdauer": "sofort",
+    "zielkategorie": "Zone",
+    "merkmal": "Hellsicht",
+    "verbreitung": "Gildenmagier (Olport)",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie",
+        "seite": 114
+      },
+      {
+        "buch": "Die Gestade des Gottwals - Thorwal und das Gjalskerland",
+        "seite": 153
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 30
+      }
+    ],
+    "_source_file": "Wasserhöhe.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Wechselschein",
+    "wirkung": "Der Zauberer kann einen Wechselschein aus seinem Geldbeutel oder einer Tasche in die Hand einer Person zaubern, ohne den Beutel oder die Tasche öffnen zu müssen. Er kann nur einen Wechselschein mit dem Trick teleportieren.",
+    "reichweite": "4 Schritt",
+    "wirkungsdauer": "sofort",
+    "zielkategorie": "Objekte (Wechselscheine)",
+    "merkmal": "Sphären",
+    "verbreitung": "Gildenmagier (Wagenhalt)",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie III",
+        "seite": 125
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 30
+      }
+    ],
+    "_source_file": "Wechselschein.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Weisheit des Leytfadens",
+    "wirkung": "Die Hörer innerhalb einer Reichweite von 8 Schritt Radius um den Zauberer vernehmen eine Stimme, die ihnen eine Passage aus einem Zauberbuch vorliest. Der Text muss dem Zaubernden bekannt sein. Die Passage kann er selbst auswählen, sie muss aber innerhalb von 10 Sekunden vorlesbar sein. Nur die Personen, die die Passage hören sollen, hören sie auch, alle übrigen bekommen von der Belehrung nichts mit.",
+    "reichweite": "selbst",
+    "wirkungsdauer": "max. 10 Sekunden",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Illusion",
+    "verbreitung": "Gildenmagier (Alrik Dagabor)",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie",
+        "seite": 114
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 30
+      }
+    ],
+    "_source_file": "Weisheit+des+Leytfadens.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Wind im Haar",
+    "wirkung": "Der Zauberer wird von Wind umspielt, was dazu führt, dass seine Kleidung und sein Haar während der Wirkungsdauer ständig in Bewegung sind.",
+    "reichweite": "selbst",
+    "wirkungsdauer": "1 Stunde",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Elementar",
+    "verbreitung": "Darna, Druiden, Gildenmagier (Olport)",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie III Bonusmaterial und Errata",
+        "seite": 8
+      },
+      {
+        "buch": "Aventurisches Elementarium",
+        "seite": 149
+      },
+      {
+        "buch": "Die Gestade des Gottwals - Thorwal und das Gjalskerland",
+        "seite": 154
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 30
+      }
+    ],
+    "_source_file": "Wind+im+Haar.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Wohlgeruch",
+    "wirkung": "Der Elf riecht nach einer beliebigen Blumensorte. Dies verschafft ihm keinen regeltechnischen Vorteil wie Angenehmer Geruch, aber er kann z. B. den Status Übler Geruch während der Wirkungsdauer überdecken.",
+    "reichweite": "selbst",
+    "wirkungsdauer": "1 Stunde",
+    "zielkategorie": "Kulturschaffende",
+    "merkmal": "Verwandlung",
+    "verbreitung": "Elfen",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 97
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 30
+      }
+    ],
+    "_source_file": "Wohlgeruch.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Würze",
+    "wirkung": "Die Hexe kann mit diesem Zaubertrick eine einfache Speise, etwa eine Suppe, würzen, auch ohne über passende Gewürze wie Salz und Pfeffer zu verfügen. Ob die Speise gut gewürzt ist oder z. B. versalzen, hängt weiterhin von den Kochkünsten der Hexe ab. Die Hexe kann nur den Geschmack von Gewürzen erzeugen, die sie selbst schon einmal gekostet hat.",
+    "reichweite": "1 Schritt",
+    "wirkungsdauer": "sofort",
+    "zielkategorie": "Objekte (Essen)",
+    "merkmal": "Illusion",
+    "verbreitung": "Hexen, Zauberalchimisten",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie II",
+        "seite": 97
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 30
+      }
+    ],
+    "_source_file": "Würze.txt",
+    "_category": "Zaubertrick"
+  },
+  {
+    "name": "Zauberfeder",
+    "wirkung": "Dieser Trick verzaubert einen Federkiel, sodass dieser alles, was der Zauberer sagt, wortgetreu auf einem bereitgelegten Papier oder in ein Buch notiert. Der Federkiel kann die Seiten des Buches umschlagen und taucht sich selbst in ein Tintenfäßchen ein, solange es maximal 1 Schritt weit entfernt ist.",
+    "reichweite": "1 Schritt",
+    "wirkungsdauer": "10 Minuten",
+    "zielkategorie": "Objekte (Federkiele)",
+    "merkmal": "Telekinese",
+    "verbreitung": "Gildenmagier (Punin), Runenschöpfer, Ysilische Bannzeichner, Zauberalchimisten, Zibiljas",
+    "ap_wert": null,
+    "publikationen": [
+      {
+        "buch": "Aventurische Magie",
+        "seite": 114
+      },
+      {
+        "buch": "Grimorum Cantiones",
+        "seite": 30
+      }
+    ],
+    "_source_file": "Zauberfeder.txt",
+    "_category": "Zaubertrick"
+  }
+]
