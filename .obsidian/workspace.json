@@ -8,17 +8,59 @@
         "type": "tabs",
         "children": [
           {
-            "id": "027c2917e85c2e01",
+            "id": "59cec081d574a6c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Abenteuer Wiki/Charaktere/Ficus/Ficus.md",
+                "file": "Abenteuer Wiki/Helden/Aria Laubmelodie/Aria Laubmelodie.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Ficus"
+              "title": "Aria Laubmelodie"
+            }
+          },
+          {
+            "id": "d026e0be638ad7bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Abenteuer Wiki/Sonstiges/Lernprozesse und Zeitmanagement.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Lernprozesse und Zeitmanagement"
+            }
+          },
+          {
+            "id": "969dfd1ee347aa97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Abenteuer Wiki/Sonstiges/Magnum Opus.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Magnum Opus"
+            }
+          },
+          {
+            "id": "e7c0b4ac29991d40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Abenteuer Wiki/Helden/Tie'Ankh ibn Ta'Ankh/Tie'Ankhs Phiole.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Tie'Ankhs Phiole"
             }
           }
         ]
@@ -78,7 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 359.50694274902344
   },
   "right": {
     "id": "ebcf3b52411d842d",
@@ -154,12 +196,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Abenteuer Wiki/Abenteuer Wiki.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Abenteuer Wiki"
             }
           },
           {
@@ -228,43 +271,43 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "54d8c224cdde41ee",
+  "active": "0999adf7817cb946",
   "lastOpenFiles": [
-    "Abenteuer Wiki/Fraktionen/Aram und Meister/Arams Meister.md",
-    "Abenteuer Wiki/Charaktere/Aria Laubmelodie/Aria Laubmelodie.md",
     "Abenteuer Wiki/Abenteuer Wiki.md",
-    "Abenteuer Wiki/Fraktionen/Kalifat/Kalifat.md",
+    "Abenteuer Wiki/Charaktere/Aria Laubmelodie/Aria Laubmelodie.md",
+    "Abenteuer Wiki/Charaktere/Aria Laubmelodie",
+    "Abenteuer Wiki/Abenteuerverlauf/Abenteuerverlauf.md",
+    "Abenteuer Wiki/Charaktere",
+    "Abenteuer Wiki/Orte/Dritte Sphäre.md",
+    "Abenteuer Wiki/Sonstiges/Lernprozesse und Zeitmanagement.md",
+    "Abenteuer Wiki/Sonstiges",
+    "Abenteuer Wiki/Fraktionen/Kophtanim/Kophtanim.md",
+    "Abenteuer Wiki/Orte/Samra",
+    "Abenteuer Wiki/Fraktionen/Kophtanim",
+    "Abenteuer Wiki/Sonstiges/Magnum Opus.md",
+    "Abenteuer Wiki/Helden/Tie'Ankh ibn Ta'Ankh/Tie'Ankhs Phiole.md",
+    "Abenteuer Wiki/Orte/Samra/Zhamorrah.md",
+    "Abenteuer Wiki/Charaktere und Begegnungen/Riesenameise.md",
+    "Abenteuer Wiki/Charaktere und Begegnungen/Hexander.md",
+    "Abenteuer Wiki/Charaktere und Begegnungen/Jedrech.md",
+    "Abenteuer Wiki/Charaktere und Begegnungen/Halimyanis.md",
+    "Abenteuer Wiki/Charaktere und Begegnungen/Sarjabani.md",
+    "Abenteuer Wiki/Helden/Tie'Ankh ibn Ta'Ankh/Tie'Ankh ibn Ta'Ankh.md",
+    "Abenteuer Wiki/Sonstiges/Beeinflussung von Zaubern und Ritualen.md",
+    "Abenteuer Wiki/Sonstiges/Herstellung und Artefakte.md",
+    "README.md",
+    "Untitled.md",
+    "Abenteuer Wiki/Charaktere und Begegnungen/Nirib.md",
+    "Beeinflussung von Zaubern und Ritualen.md",
+    "Herstellung und Artefakte.md",
+    "Lernprozesse und Zeitmanagement.md",
+    "Abenteuer Wiki/Helden/Aria Laubmelodie/Aria Laubmelodie.md",
+    "Abenteuer Wiki/Charaktere und Begegnungen",
+    "Abenteuer Wiki/Orte/Borbra.md",
     "Abenteuer Wiki/Fraktionen/Kalifat",
-    "Abenteuer Wiki/Charaktere/Tie'Ankh ibn Ta'Ankh/Artefakt.md",
     "scripts/updateWiki.js",
     "scripts/updateValueEncounter.js",
     "scripts/updateValue.js",
-    "scripts/updateConditionEncounter.js",
-    "scripts/updateCondition.js",
-    "scripts/optimizeSpells.js",
-    "scripts/nextRound.js",
-    "scripts/newEncounter.js",
-    "scripts/defend.js",
-    "Abenteuer Wiki/Charaktere/Legoron Arrow/Artefakt.md",
-    "Abenteuer Wiki/Charaktere/Ficus/Artefakt.md",
-    "Abenteuer Wiki/Charaktere/Ficus/Ficus.md",
-    "Abenteuer Wiki/Kulturen/Novadis/Novadis.md",
-    "Abenteuer Wiki/Fraktionen/Maraskanische Diaspora in Khunchom/Maraskanische Diaspora in Khunchom.md",
-    "Abenteuer Wiki/Fraktionen/Ereshkigal/Ereshkigal.md",
-    "Abenteuer Wiki/Fraktionen/Der Draconiter Orden/Der Draconiter Orden.md",
-    "Abenteuer Wiki/Fraktionen/Aram und Meister/Aram.md",
-    "Abenteuer Wiki/Charaktere/Raymond/Artefakt.md",
-    "Abenteuer Wiki/Abenteuerverlauf/Abenteuerverlauf.md",
-    "README.md",
-    "Abenteuer Wiki/Kulturen/Tulamiden/Tulamiden.md",
-    "Abenteuer Wiki/Fraktionen/Kalifat.md",
-    "Abenteuer Wiki/Orte/Yalaiad.md",
-    "Abenteuer Wiki/Orte/Tulamidenlande.md",
-    "Abenteuer Wiki/Orte/Shadif.md",
-    "Abenteuer Wiki/Orte/Mherwed/Mherwed.md",
-    "Abenteuer Wiki/Orte/Mhanadistan.md",
-    "Abenteuer Wiki/Orte/Mhanadi.md",
-    "Abenteuer Wiki/Orte/Khunchom/Khunchom.md",
     "Abenteuer Wiki/images/Tiank.png",
     "Abenteuer Wiki/images/Raymond.png",
     "Abenteuer Wiki/images/Legoron2.png",
