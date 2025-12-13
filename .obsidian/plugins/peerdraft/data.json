@@ -16,8 +16,374 @@
   "debug": false,
   "version": "2.13.1",
   "serverShares": {
-    "files": [],
-    "folders": []
+    "files": [
+      [
+        "Abenteuer Wiki/Abenteuer Wiki.md",
+        {
+          "shareId": "c09db7cf-5699-4fe5-92a1-0c6ed0cf5659",
+          "persistenceId": "326ab201-7eb0-424a-aa7b-3fef34b9abf7"
+        }
+      ],
+      [
+        "Abenteuer Wiki/Abenteuerverlauf/Abenteuerverlauf.md",
+        {
+          "shareId": "2f92ccc8-9c5b-45c5-ab9e-b0fb34ab5489",
+          "persistenceId": "2d2e8e47-5045-4682-86e2-632a3539ab85"
+        }
+      ],
+      [
+        "Abenteuer Wiki/Charaktere und Begegnungen/Halimyanis.md",
+        {
+          "shareId": "1e392d93-efe3-40de-b66a-834066b5abef",
+          "persistenceId": "443cab1b-ac6b-42a0-b7a7-b80f8482e97b"
+        }
+      ],
+      [
+        "Abenteuer Wiki/Charaktere und Begegnungen/Hexander.md",
+        {
+          "shareId": "a3b0e727-d0f5-46fd-8ede-81aed4aa6e7d",
+          "persistenceId": "0376f886-ecbf-4e85-8bbb-4edd7ff75805"
+        }
+      ],
+      [
+        "Abenteuer Wiki/Charaktere und Begegnungen/Jedrech.md",
+        {
+          "shareId": "41e6c02b-d4d8-47db-aeca-435552295b66",
+          "persistenceId": "2b4ed165-be25-4514-bdd1-e4976fbaaf3f"
+        }
+      ],
+      [
+        "Abenteuer Wiki/Charaktere und Begegnungen/Nirib.md",
+        {
+          "shareId": "b952bef7-e1eb-4b88-aa6d-a0d672b401f4",
+          "persistenceId": "3f084481-de3c-482a-8d14-6c3d1e8c4d32"
+        }
+      ],
+      [
+        "Abenteuer Wiki/Charaktere und Begegnungen/Riesenameise.md",
+        {
+          "shareId": "51211236-f5c9-4bc3-80f8-acd206a91f0d",
+          "persistenceId": "a027c5b8-83d4-494e-94dd-0eeb85e5753d"
+        }
+      ],
+      [
+        "Abenteuer Wiki/Charaktere und Begegnungen/Sarjabani.md",
+        {
+          "shareId": "d9e71b9d-26f0-47bc-9b8e-0096bda2f61c",
+          "persistenceId": "6ca4f80b-fa97-4abf-a618-78b308ce57af"
+        }
+      ],
+      [
+        "Abenteuer Wiki/Fraktionen/Aram und Meister/Aram.md",
+        {
+          "shareId": "cc6a6495-c6e7-4418-a523-346726c2cca4",
+          "persistenceId": "d71acd01-3b7f-4c36-80d3-7891616ef52b"
+        }
+      ],
+      [
+        "Abenteuer Wiki/Fraktionen/Aram und Meister/Arams Meister.md",
+        {
+          "shareId": "bd9c69bc-b315-492d-8c4e-c3aca1f56e9b",
+          "persistenceId": "317a1943-2f10-4a53-a322-cf3f708dfe23"
+        }
+      ],
+      [
+        "Abenteuer Wiki/Fraktionen/Der Draconiter Orden/Der Draconiter Orden.md",
+        {
+          "shareId": "d7175aec-d475-4106-b9b6-f205c06db94d",
+          "persistenceId": "f2929ce0-addf-467c-92ba-6776ba9e5875"
+        }
+      ],
+      [
+        "Abenteuer Wiki/Fraktionen/Ereshkigal/Ereshkigal.md",
+        {
+          "shareId": "9e6bf839-c9ab-4917-8235-fb583ed16ea7",
+          "persistenceId": "5e82d0fc-603d-426c-9a26-01218f452fc8"
+        }
+      ],
+      [
+        "Abenteuer Wiki/Fraktionen/Kophtanim/Kophtanim.md",
+        {
+          "shareId": "3760e29b-3102-4fb3-bfbc-a0f34e412114",
+          "persistenceId": "a19720ad-c16b-475a-86d5-b569cab72b41"
+        }
+      ],
+      [
+        "Abenteuer Wiki/Fraktionen/Maraskanische Diaspora in Khunchom/Maraskanische Diaspora in Khunchom.md",
+        {
+          "shareId": "70148c94-d319-49ba-bbe6-aa8f4482fee9",
+          "persistenceId": "7278b6d2-ab8d-45dd-b59b-72bb3ffe1695"
+        }
+      ],
+      [
+        "Abenteuer Wiki/Helden/Ficus/Artefakt.md",
+        {
+          "shareId": "47df43e3-5b94-4624-a267-965528836f40",
+          "persistenceId": "441b5e57-d56f-484d-8edb-f689630d9013"
+        }
+      ],
+      [
+        "Abenteuer Wiki/Helden/Ficus/Ficus.md",
+        {
+          "shareId": "3efe0b10-98a1-494b-adb7-8014dcf6e097",
+          "persistenceId": "4a728581-8bee-4633-9d96-a11cccd7244d"
+        }
+      ],
+      [
+        "Abenteuer Wiki/Helden/Raymond/Artefakt.md",
+        {
+          "shareId": "7c1caacb-5187-4034-86af-e6f2968fab20",
+          "persistenceId": "d1fb7605-447b-4872-a85c-ce3c3a94bea2"
+        }
+      ],
+      [
+        "Abenteuer Wiki/Helden/Raymond/Raymond.md",
+        {
+          "shareId": "363b1dfd-b249-48f2-b4d9-e868eaf14788",
+          "persistenceId": "be6b5869-dc9e-4da9-95a3-d70074b6753d"
+        }
+      ],
+      [
+        "Abenteuer Wiki/Helden/Legoron Arrow/Artefakt.md",
+        {
+          "shareId": "aa481d58-4464-4943-83f8-3716bb5c796b",
+          "persistenceId": "891b8e7d-fd26-4058-896c-6224033596f0"
+        }
+      ],
+      [
+        "Abenteuer Wiki/Helden/Legoron Arrow/Legoron Arrow.md",
+        {
+          "shareId": "c6b10315-b2de-4b17-9188-e8a399497fa5",
+          "persistenceId": "c7b96da9-6c14-4ddc-88b1-4779c5a06a80"
+        }
+      ],
+      [
+        "Abenteuer Wiki/Helden/Tie'Ankh ibn Ta'Ankh/Artefakt.md",
+        {
+          "shareId": "94e53b66-042e-4b5a-ac4e-f41f05fac018",
+          "persistenceId": "c5198e6b-009e-4870-9b6f-812cdbf86563"
+        }
+      ],
+      [
+        "Abenteuer Wiki/Helden/Tie'Ankh ibn Ta'Ankh/Tie'Ankh ibn Ta'Ankh.md",
+        {
+          "shareId": "efea461c-3428-48df-8b74-c3e8b4e5bca8",
+          "persistenceId": "7fd4e363-ac49-4000-81a1-64077e409af6"
+        }
+      ],
+      [
+        "Abenteuer Wiki/Helden/Tie'Ankh ibn Ta'Ankh/Tie'Ankhs Phiole.md",
+        {
+          "shareId": "04170861-8834-4c63-884a-56bd24a6c27c",
+          "persistenceId": "318a055f-bd5f-4e2d-a290-1aa515756013"
+        }
+      ],
+      [
+        "Abenteuer Wiki/Helden/Aria Laubmelodie/Aria Laubmelodie.md",
+        {
+          "shareId": "9eaec650-9fbb-4c27-bc5e-1787c42fb943",
+          "persistenceId": "09606147-4a08-4014-a7eb-a611905970b4"
+        }
+      ],
+      [
+        "Abenteuer Wiki/Kulturen/Novadis/Novadis.md",
+        {
+          "shareId": "e8ce058a-c660-426e-81f1-4d1cdf3f3a9b",
+          "persistenceId": "7b854c72-995a-4d53-8082-eb3cdf8bf7ad"
+        }
+      ],
+      [
+        "Abenteuer Wiki/Kulturen/Tulamiden/Tulamiden.md",
+        {
+          "shareId": "3d5e5f3d-a862-4961-95ec-d74eede62eb9",
+          "persistenceId": "e124675b-c1c5-4739-bb97-8e9cd847247d"
+        }
+      ],
+      [
+        "Abenteuer Wiki/Orte/Anchopal/Anchopal.md",
+        {
+          "shareId": "a6ea7e73-f408-44cd-bd19-25e497f5f593",
+          "persistenceId": "15471bbd-2f0d-42c5-a70a-191d68b9a1ed"
+        }
+      ],
+      [
+        "Abenteuer Wiki/Orte/Aranien.md",
+        {
+          "shareId": "50113f95-2ffb-490b-8ee5-b5be638fa449",
+          "persistenceId": "76c03763-2fe1-4924-9dd5-1cc473b0363c"
+        }
+      ],
+      [
+        "Abenteuer Wiki/Orte/Aventurien.md",
+        {
+          "shareId": "3f0cc7c8-ffa0-4a21-8185-dae6f5005134",
+          "persistenceId": "feb03cde-02a0-4b7b-9d64-b5ed97bc2ce1"
+        }
+      ],
+      [
+        "Abenteuer Wiki/Orte/Balash.md",
+        {
+          "shareId": "6bfd17e6-a41d-43f6-aff7-af45780ff4d9",
+          "persistenceId": "e06735a5-d54b-4c83-b569-ff721bbf262f"
+        }
+      ],
+      [
+        "Abenteuer Wiki/Orte/Borbra.md",
+        {
+          "shareId": "72a2f731-c1d5-43e1-88d6-c2507c387e2e",
+          "persistenceId": "bb1c1b24-a6a7-48c4-92ef-9b126ba3ed17"
+        }
+      ],
+      [
+        "Abenteuer Wiki/Orte/Dritte Sphäre.md",
+        {
+          "shareId": "1ba53066-ce72-4e9e-9216-e76708520814",
+          "persistenceId": "b00103aa-f7f6-4ddb-a363-c7fd03a8521d"
+        }
+      ],
+      [
+        "Abenteuer Wiki/Orte/Gorien.md",
+        {
+          "shareId": "9261dfbd-2032-4180-9402-22195c4c0c6c",
+          "persistenceId": "4c7b3f79-7701-46b3-a3cf-a016b6078bc4"
+        }
+      ],
+      [
+        "Abenteuer Wiki/Orte/Gadang.md",
+        {
+          "shareId": "ef74b0c5-3095-443c-b8d6-41b3c07df3f0",
+          "persistenceId": "1bab3018-c563-4061-9956-8edd1288a61c"
+        }
+      ],
+      [
+        "Abenteuer Wiki/Orte/Khoramgebirge.md",
+        {
+          "shareId": "5d956d59-e4a4-4878-bba9-752d8d62d9e9",
+          "persistenceId": "fd77099e-6165-4d0a-b22a-66a115f6277e"
+        }
+      ],
+      [
+        "Abenteuer Wiki/Orte/Khunchom/Khunchom.md",
+        {
+          "shareId": "5b481844-a49b-4052-a8a0-f2e3d41da6d3",
+          "persistenceId": "1b8de435-fb90-4b20-bb11-7497a1436563"
+        }
+      ],
+      [
+        "Abenteuer Wiki/Orte/Khôm.md",
+        {
+          "shareId": "e1300146-97a1-438e-b98e-f524c924f0a6",
+          "persistenceId": "9b5f47a5-ae74-465c-911c-7c0209265aa0"
+        }
+      ],
+      [
+        "Abenteuer Wiki/Orte/Mhanadi.md",
+        {
+          "shareId": "ea0e0c83-64aa-49d1-b682-9abde660c748",
+          "persistenceId": "13c677f7-af22-402d-ad91-02045acf23ba"
+        }
+      ],
+      [
+        "Abenteuer Wiki/Orte/Mhanadistan.md",
+        {
+          "shareId": "d47f173e-3308-47e6-ac8a-fecbf21e9eab",
+          "persistenceId": "d7e7e5d8-9c14-4f16-96f2-5f36f5f47628"
+        }
+      ],
+      [
+        "Abenteuer Wiki/Orte/Mherwed/Mherwed.md",
+        {
+          "shareId": "3dc823bf-4e8f-4f42-b817-2a351e5132c5",
+          "persistenceId": "37c242d4-8fb2-4032-b47d-4f03b54bf1f4"
+        }
+      ],
+      [
+        "Abenteuer Wiki/Orte/Samra/Samra.md",
+        {
+          "shareId": "145969ee-e9c8-4354-919b-5eacbc42d970",
+          "persistenceId": "ad99710e-cc49-4ab3-8bcc-eecba71ba307"
+        }
+      ],
+      [
+        "Abenteuer Wiki/Orte/Samra/Zhamorrah.md",
+        {
+          "shareId": "bcdbbb21-fa39-403c-8621-6c1e9ee8f33c",
+          "persistenceId": "0593c1a9-93bd-4f26-acba-fcbb7c99464b"
+        }
+      ],
+      [
+        "Abenteuer Wiki/Orte/Shadif.md",
+        {
+          "shareId": "9ba6d784-fe38-4889-8536-0ad7f7b23d6e",
+          "persistenceId": "1db3fd5e-2817-4a3f-a535-5667d045f006"
+        }
+      ],
+      [
+        "Abenteuer Wiki/Orte/Tulamidenlande.md",
+        {
+          "shareId": "4bc39c10-c6ce-486c-8538-5004a4e7bea7",
+          "persistenceId": "f6991edc-c278-4cdf-9513-1a84a26a9007"
+        }
+      ],
+      [
+        "Abenteuer Wiki/Orte/Yalaiad.md",
+        {
+          "shareId": "23dc1f7e-dda2-47f3-8ee2-db78d5b8db24",
+          "persistenceId": "59843f72-f4c5-4b74-970a-2fd28dee1b1f"
+        }
+      ],
+      [
+        "Abenteuer Wiki/Orte/Zhandukistan.md",
+        {
+          "shareId": "e6e5aa75-9606-4e44-97f3-3fe9a754b676",
+          "persistenceId": "e5ef020b-ceb1-4c52-9ccb-ef31e654723e"
+        }
+      ],
+      [
+        "Abenteuer Wiki/Sonstiges/Beeinflussung von Zaubern und Ritualen.md",
+        {
+          "shareId": "6685e787-0a0e-4320-a2e6-482d260fcd0e",
+          "persistenceId": "be1b80cc-116d-4058-bc7a-bdeca3c7efc0"
+        }
+      ],
+      [
+        "Abenteuer Wiki/Sonstiges/Herstellung und Artefakte.md",
+        {
+          "shareId": "a5d6c607-d9d7-469e-aef8-99bb144d301e",
+          "persistenceId": "dd990eae-7990-455d-89a7-05fe5ab1193b"
+        }
+      ],
+      [
+        "Abenteuer Wiki/Sonstiges/Lernprozesse und Zeitmanagement.md",
+        {
+          "shareId": "27dc7509-329a-4a12-a9bf-6013a4ef4da3",
+          "persistenceId": "cdd267b5-06a2-43b7-905c-8d24682e3caf"
+        }
+      ],
+      [
+        "Abenteuer Wiki/Sonstiges/Magnum Opus.md",
+        {
+          "shareId": "43a8af9f-dda4-4665-83a1-42b97872b335",
+          "persistenceId": "2df7a3f6-7870-464e-8411-77faff4bfb9f"
+        }
+      ],
+      [
+        "Abenteuer Wiki/Sonstiges/Einkaufszettel.md",
+        {
+          "shareId": "f25b7b21-4ad4-4be2-bca4-7d82b4cbc026",
+          "persistenceId": "432bcce6-5c0a-4793-971a-220b584ac0f8"
+        }
+      ]
+    ],
+    "folders": [
+      [
+        "Abenteuer Wiki",
+        {
+          "shareId": "56f11800-9b3f-45a9-be5f-b6cc7eca9df6",
+          "persistenceId": "eb782747-a7ef-4a76-807d-fc98d4f1f13e"
+        }
+      ]
+    ]
   },
   "oid": "ffcbe6f34ce115fe"
 }

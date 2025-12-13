@@ -3,13 +3,13 @@
   "theme": "system",
   "baseFontSizeAction": true,
   "cssTheme": "Dracula Official",
-  "baseFontSize": 24,
+  "baseFontSize": 22,
   "enabledCssSnippets": [
-    "supercharged-links-gen",
-    "statblock-image",
-    "statblock-dracula",
-    "statblock-tables",
     "banner-space",
-    "heading-spaces"
+    "heading-spaces",
+    "statblock-dracula",
+    "statblock-image",
+    "statblock-tables",
+    "supercharged-links-gen"
   ]
 }

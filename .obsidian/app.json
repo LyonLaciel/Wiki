@@ -19,5 +19,6 @@
   "userIgnoreFilters": [
     "VsCode/",
     "Hilfsmittel/"
-  ]
+  ],
+  "showInlineTitle": true
 }

@@ -4,63 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "01df7b4fedd5a3f5",
+        "id": "966554c7858c1e1f",
         "type": "tabs",
         "children": [
           {
-            "id": "59cec081d574a6c6",
+            "id": "abf84f0e601238b4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Abenteuer Wiki/Helden/Aria Laubmelodie/Aria Laubmelodie.md",
-                "mode": "preview",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Aria Laubmelodie"
-            }
-          },
-          {
-            "id": "d026e0be638ad7bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Abenteuer Wiki/Sonstiges/Lernprozesse und Zeitmanagement.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Lernprozesse und Zeitmanagement"
-            }
-          },
-          {
-            "id": "969dfd1ee347aa97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Abenteuer Wiki/Sonstiges/Magnum Opus.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Magnum Opus"
-            }
-          },
-          {
-            "id": "e7c0b4ac29991d40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Abenteuer Wiki/Helden/Tie'Ankh ibn Ta'Ankh/Tie'Ankhs Phiole.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Tie'Ankhs Phiole"
+              "title": "New tab"
             }
           }
         ]
@@ -120,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.50694274902344
+    "width": 275.5046920776367
   },
   "right": {
     "id": "ebcf3b52411d842d",
@@ -129,6 +83,7 @@
       {
         "id": "657083cf76681c4d",
         "type": "tabs",
+        "dimension": 83.33333333333334,
         "children": [
           {
             "id": "0e1c3ef487fed53c",
@@ -196,33 +151,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Abenteuer Wiki/Abenteuer Wiki.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Abenteuer Wiki"
-            }
-          },
-          {
-            "id": "0a0ca7799787c9be",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
-            }
-          },
-          {
-            "id": "c18a91a50c646e78",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
+              "title": "Outline"
             }
           },
           {
@@ -246,68 +180,87 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
+      },
+      {
+        "id": "e44f6f19350ee2ae",
+        "type": "tabs",
+        "dimension": 16.666666666666664,
+        "children": [
+          {
+            "id": "468cf5b70c87da2c",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 376.5
+    "width": 369.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "quickadd:QuickAdd": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "bases:Create new base": true,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-5e-statblocks:Open Creature pane": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "peerdraft:Show my Peerdraft Shares": false,
-      "calendarium:Open Calendarium": false
+      "obsidian-5e-statblocks:Open Creature pane": true,
+      "initiative-tracker:Initiative Tracker Encounter Builder": true,
+      "quickadd:QuickAdd": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": true,
+      "calendarium:Open Calendarium": false,
+      "peerdraft:Show my Peerdraft Shares": false
     }
   },
-  "active": "0999adf7817cb946",
+  "active": "468cf5b70c87da2c",
   "lastOpenFiles": [
     "Abenteuer Wiki/Abenteuer Wiki.md",
-    "Abenteuer Wiki/Charaktere/Aria Laubmelodie/Aria Laubmelodie.md",
-    "Abenteuer Wiki/Charaktere/Aria Laubmelodie",
     "Abenteuer Wiki/Abenteuerverlauf/Abenteuerverlauf.md",
-    "Abenteuer Wiki/Charaktere",
-    "Abenteuer Wiki/Orte/Dritte Sphäre.md",
-    "Abenteuer Wiki/Sonstiges/Lernprozesse und Zeitmanagement.md",
-    "Abenteuer Wiki/Sonstiges",
-    "Abenteuer Wiki/Fraktionen/Kophtanim/Kophtanim.md",
-    "Abenteuer Wiki/Orte/Samra",
-    "Abenteuer Wiki/Fraktionen/Kophtanim",
-    "Abenteuer Wiki/Sonstiges/Magnum Opus.md",
-    "Abenteuer Wiki/Helden/Tie'Ankh ibn Ta'Ankh/Tie'Ankhs Phiole.md",
-    "Abenteuer Wiki/Orte/Samra/Zhamorrah.md",
-    "Abenteuer Wiki/Charaktere und Begegnungen/Riesenameise.md",
-    "Abenteuer Wiki/Charaktere und Begegnungen/Hexander.md",
-    "Abenteuer Wiki/Charaktere und Begegnungen/Jedrech.md",
     "Abenteuer Wiki/Charaktere und Begegnungen/Halimyanis.md",
-    "Abenteuer Wiki/Charaktere und Begegnungen/Sarjabani.md",
+    "Abenteuer Wiki/Sonstiges/Einkaufszettel.md",
+    "Abenteuer Wiki/Helden/Legoron Arrow/Legoron Arrow.md",
+    "Abenteuer Wiki/Helden/Raymond/Raymond.md",
     "Abenteuer Wiki/Helden/Tie'Ankh ibn Ta'Ankh/Tie'Ankh ibn Ta'Ankh.md",
-    "Abenteuer Wiki/Sonstiges/Beeinflussung von Zaubern und Ritualen.md",
-    "Abenteuer Wiki/Sonstiges/Herstellung und Artefakte.md",
-    "README.md",
-    "Untitled.md",
-    "Abenteuer Wiki/Charaktere und Begegnungen/Nirib.md",
-    "Beeinflussung von Zaubern und Ritualen.md",
-    "Herstellung und Artefakte.md",
-    "Lernprozesse und Zeitmanagement.md",
+    "Abenteuer Wiki/Helden/Ficus/Ficus.md",
     "Abenteuer Wiki/Helden/Aria Laubmelodie/Aria Laubmelodie.md",
-    "Abenteuer Wiki/Charaktere und Begegnungen",
-    "Abenteuer Wiki/Orte/Borbra.md",
-    "Abenteuer Wiki/Fraktionen/Kalifat",
-    "scripts/updateWiki.js",
-    "scripts/updateValueEncounter.js",
-    "scripts/updateValue.js",
+    "images/Aria.png",
+    "Abenteuer Wiki/Sonstiges/Lernprozesse und Zeitmanagement.md",
+    "Abenteuer Wiki/Sonstiges/Magnum Opus.md",
+    "Abenteuer Wiki/Sonstiges/Herstellung und Artefakte.md",
+    "Abenteuer Wiki/Sonstiges/Beeinflussung von Zaubern und Ritualen.md",
+    "Abenteuer Wiki/Sonstiges",
+    "Abenteuer Wiki/Orte/Zhandukistan.md",
+    "Abenteuer Wiki/Orte/Yalaiad.md",
+    "Abenteuer Wiki/Orte/Tulamidenlande.md",
+    "Abenteuer Wiki/Orte/Shadif.md",
+    "Abenteuer Wiki/Orte/Samra/Zhamorrah.md",
+    "Abenteuer Wiki/Orte/Samra/Samra.md",
+    "Abenteuer Wiki/Orte/Samra",
+    "Abenteuer Wiki/Orte/Mherwed/Mherwed.md",
+    "Abenteuer Wiki/Orte/Mherwed",
+    "Abenteuer Wiki/Orte/Mhanadistan.md",
+    "Abenteuer Wiki/Orte/Mhanadi.md",
+    "Abenteuer Wiki/Orte/Khôm.md",
+    "Abenteuer Wiki/Orte/Khunchom/Khunchom.md",
+    "Abenteuer Wiki/Orte/Khunchom",
+    "Abenteuer Wiki/Orte/Khoramgebirge.md",
+    "Abenteuer Wiki/Orte/Gadang.md",
+    "Abenteuer Wiki/Orte/Anchopal",
+    "Abenteuer Wiki/Orte",
+    "Abenteuer Wiki/Kulturen/Tulamiden",
+    "Abenteuer Wiki/Kulturen/Novadis",
+    "Abenteuer Wiki/Kulturen",
+    "Abenteuer Wiki/Helden/Aria Laubmelodie",
     "Abenteuer Wiki/images/Tiank.png",
     "Abenteuer Wiki/images/Raymond.png",
     "Abenteuer Wiki/images/Legoron2.png",
@@ -316,7 +269,6 @@
     "Abenteuer Wiki/images/Das_Wuestenreich_-Beileger_ganze_Karten-3.jpg",
     "Abenteuer Wiki/images/Das_Wuestenreich_-Beileger_ganze_Karten-2.jpg",
     "Abenteuer Wiki/images/Das_Wuestenreich_-Beileger_ganze_Karten-1.jpg",
-    "Abenteuer Wiki/images/Aria.png",
-    "Abenteuer Wiki/banners/01_Systemseite_DSA_Banner_1920x594v3.jpg"
+    "Abenteuer Wiki/images/Aria.png"
   ]
 }
