@@ -593,7 +593,6 @@ module.exports = async (params) => {
             ritualCost: 16,
             ritualDuration: "8 Stunden",
             chargesFormula: "QS + 4",
-            pAspMultiplier: 0,
             sfRequired: "Auxiliator",
             canBindSpells: true,
             canBindRituals: true,
@@ -630,7 +629,6 @@ module.exports = async (params) => {
         ritualDuration: "5 Minuten",
         durationFormula: "QS x 5 Stunden",
         maxDuration: 90, // hours
-        pAspMultiplier: 0, // No permanent AsP!
         extensions: {
             "Zwei Zauber": { fw: 8, effect: "2 Zauber nacheinander auslösbar" },
             "Längere Wirkungsdauer 1": { fw: 10, effect: "QS x 10 Stunden" },
