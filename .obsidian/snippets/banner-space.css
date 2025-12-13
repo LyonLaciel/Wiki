@@ -1,6 +1,5 @@
-.obsidian-banner-wrapper{ margin-top: 125px !important; } 
+.obsidian-banner-wrapper{ margin-bottom: 25px !important; } 
 
 .markdown-preview-view div[data-tag-name="h1"] {
-    text-align: center;
-    
+    text-align: center;    
   }
