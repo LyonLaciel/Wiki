@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "966554c7858c1e1f",
+        "id": "d16ed8568a6aa030",
         "type": "tabs",
         "children": [
           {
-            "id": "abf84f0e601238b4",
+            "id": "f177a05f8c7027de",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Abenteuer Wiki/Abenteuer Wiki.md",
+                "mode": "preview",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Abenteuer Wiki"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5046920776367
+    "width": 361.5046920776367
   },
   "right": {
     "id": "ebcf3b52411d842d",
@@ -83,7 +87,6 @@
       {
         "id": "657083cf76681c4d",
         "type": "tabs",
-        "dimension": 83.33333333333334,
         "children": [
           {
             "id": "0e1c3ef487fed53c",
@@ -91,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Abenteuer Wiki/Abenteuer Wiki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Abenteuer Wiki"
             }
           },
           {
@@ -109,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Abenteuer Wiki/Abenteuer Wiki.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Abenteuer Wiki"
             }
           },
           {
@@ -151,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Artefakte/Aufreißer.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Aufreißer"
             }
           },
           {
@@ -178,30 +184,33 @@
               "icon": "lucide-file",
               "title": "Your Peerdraft Shares"
             }
+          },
+          {
+            "id": "2c0d25d42a587746",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "9f1c3d87fe3214af",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
           }
         ],
         "currentTab": 5
-      },
-      {
-        "id": "e44f6f19350ee2ae",
-        "type": "tabs",
-        "dimension": 16.666666666666664,
-        "children": [
-          {
-            "id": "468cf5b70c87da2c",
-            "type": "leaf",
-            "state": {
-              "type": "fantasy-statblocks-creature-pane",
-              "state": {},
-              "icon": "skull",
-              "title": "Combatant"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 369.5
+    "width": 451.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,26 +227,30 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": true,
       "quickadd:QuickAdd": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": true,
-      "calendarium:Open Calendarium": false,
-      "peerdraft:Show my Peerdraft Shares": false
+      "peerdraft:Show my Peerdraft Shares": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "468cf5b70c87da2c",
+  "active": "54d8c224cdde41ee",
   "lastOpenFiles": [
-    "Abenteuer Wiki/Abenteuer Wiki.md",
     "Abenteuer Wiki/Abenteuerverlauf/Abenteuerverlauf.md",
-    "Abenteuer Wiki/Charaktere und Begegnungen/Halimyanis.md",
-    "Abenteuer Wiki/Sonstiges/Einkaufszettel.md",
-    "Abenteuer Wiki/Helden/Legoron Arrow/Legoron Arrow.md",
-    "Abenteuer Wiki/Helden/Raymond/Raymond.md",
-    "Abenteuer Wiki/Helden/Tie'Ankh ibn Ta'Ankh/Tie'Ankh ibn Ta'Ankh.md",
+    "Abenteuer Wiki/Helden/Tie'Ankh ibn Ta'Ankh/Schlangenphiole.md",
+    "Abenteuer Wiki/Helden/Ficus/Artefakt.md",
     "Abenteuer Wiki/Helden/Ficus/Ficus.md",
+    "Artefakte/Aufreißer.md",
     "Abenteuer Wiki/Helden/Aria Laubmelodie/Aria Laubmelodie.md",
+    "Abenteuer Wiki/Sonstiges/Beeinflussung von Zaubern und Ritualen.md",
+    "Abenteuer Wiki/Helden/Legoron Arrow/Legoron Arrow.md",
+    "Abenteuer Wiki/Helden/Tie'Ankh ibn Ta'Ankh/Tie'Ankh ibn Ta'Ankh.md",
+    "Abenteuer Wiki/Helden/Raymond/Raymond.md",
+    "Abenteuer Wiki/Abenteuer Wiki.md",
+    "Artefakte",
+    "Abenteuer Wiki/Sonstiges/Einkaufszettel.md",
+    "Abenteuer Wiki/Charaktere und Begegnungen/Halimyanis.md",
     "images/Aria.png",
     "Abenteuer Wiki/Sonstiges/Lernprozesse und Zeitmanagement.md",
     "Abenteuer Wiki/Sonstiges/Magnum Opus.md",
     "Abenteuer Wiki/Sonstiges/Herstellung und Artefakte.md",
-    "Abenteuer Wiki/Sonstiges/Beeinflussung von Zaubern und Ritualen.md",
     "Abenteuer Wiki/Sonstiges",
     "Abenteuer Wiki/Orte/Zhandukistan.md",
     "Abenteuer Wiki/Orte/Yalaiad.md",
@@ -251,16 +264,12 @@
     "Abenteuer Wiki/Orte/Mhanadistan.md",
     "Abenteuer Wiki/Orte/Mhanadi.md",
     "Abenteuer Wiki/Orte/Khôm.md",
-    "Abenteuer Wiki/Orte/Khunchom/Khunchom.md",
     "Abenteuer Wiki/Orte/Khunchom",
-    "Abenteuer Wiki/Orte/Khoramgebirge.md",
-    "Abenteuer Wiki/Orte/Gadang.md",
     "Abenteuer Wiki/Orte/Anchopal",
     "Abenteuer Wiki/Orte",
     "Abenteuer Wiki/Kulturen/Tulamiden",
     "Abenteuer Wiki/Kulturen/Novadis",
     "Abenteuer Wiki/Kulturen",
-    "Abenteuer Wiki/Helden/Aria Laubmelodie",
     "Abenteuer Wiki/images/Tiank.png",
     "Abenteuer Wiki/images/Raymond.png",
     "Abenteuer Wiki/images/Legoron2.png",

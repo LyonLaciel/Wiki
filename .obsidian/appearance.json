@@ -3,7 +3,7 @@
   "theme": "system",
   "baseFontSizeAction": true,
   "cssTheme": "Dracula Official",
-  "baseFontSize": 19,
+  "baseFontSize": 18,
   "enabledCssSnippets": [
     "banner-space",
     "supercharged-links-gen",

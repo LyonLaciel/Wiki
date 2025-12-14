@@ -1,7 +1,6 @@
 [
   "obsidian-git",
   "omnisearch",
-  "obsidian-5e-statblocks",
   "obsidian-dice-roller",
   "initiative-tracker",
   "numerals",
@@ -26,5 +25,6 @@
   "json-table",
   "autofit-tabs",
   "query-json",
-  "peerdraft"
+  "peerdraft",
+  "obsidian-5e-statblocks"
 ]
